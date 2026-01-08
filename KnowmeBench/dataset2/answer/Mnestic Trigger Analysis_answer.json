@@ -1,0 +1,1179 @@
+[
+  {
+    "id": 1,
+    "answer": "1. Identify Timelines: The 'current time' is 1954 (ID 53), while the 'memory time' being relived is exactly one year prior, May 15, 1953 (ID 43). 2. Locate Anchor: The primary anchor is the physical 'dark staircase' and the 'purple light in the courtyard' (ID 53, 56). 3. Synthesis: Standing on the stairs in 1954, the narrator's sensory experience of the darkness and the specific purple light instantly pulls her back to the day they decided to confront Don Achille. This displacement is not merely a memory but a re-validation of their bond; the anchor of the staircase serves as the physical proof of the day her and Lila's friendship truly began, transforming a simple physical location into a sacred monument of their shared bravery.",
+    "evidence_ids": [
+      43,
+      53,
+      56
+    ]
+  },
+  {
+    "id": 2,
+    "answer": "1. Identify Timelines: The narrator is physically in the courtyard in 1954 (ID 272) watching Melina throw household items. Her mind jumps back to a time 'before I had truly lost Tina' (pre-April 1953, ID 273). 2. Locate Anchor: The anchor is a dark iron (ironing board) falling from the window, which the narrator identifies as being 'exactly the same as my mother’s' (ID 274, 275). 3. Synthesis: The physical sight of the falling iron (an instrument of domestic violence in the present) anchors her to a past where that same object was a 'boat in a storm' used for play with her doll Tina. This displacement highlights the tragic transition of her world: the 'boat' that once symbolized childhood imagination has now literally and figuratively become a weapon capable of taking a life (ID 276).",
+    "evidence_ids": [
+      272,
+      273,
+      274,
+      275,
+      276
+    ]
+  },
+  {
+    "id": 3,
+    "answer": "1. Identify Timelines: The physical present is May 1954 in the classroom (ID 120). The memory time is October 20, 1950 (ID 4). 2. Locate Anchor: The specific anchor is the visual of 'Professor Oliviero fall off the podium... his cheekbone hitting the corner of the desk' (ID 120). 3. Synthesis: Seeing the teacher in the present classroom triggers a vivid sensory recall of the 1950 accident. The logic of this displacement is rooted in guilt and existential fear; the narrator still associates Lila's presence with the 'death' of the teacher (ID 122). By reliving the fall, the narrator processes the 'miraculous' return of the teacher in 1951 (ID 6, 124) as a temporal anomaly that she still struggles to reconcile with the dangerous world she perceives.",
+    "evidence_ids": [
+      4,
+      6,
+      120,
+      122,
+      124
+    ]
+  },
+  {
+    "id": 4,
+    "answer": "1. Identify Timelines: Lina is physically in an Amalfi hotel room in 1960 (ID 844). Her consciousness jumps back to 1952 (ID 27, 845). 2. Locate Anchor: The anchor is Stefano’s face, which suddenly reveals 'some features' and a 'gaze' that Lina identifies as the true essence of Don Achille (ID 846). 3. Synthesis: As Stefano becomes violent, Lina’s mind detaches from the present 'husband' and sees the 'ogre' of her childhood. The memory of Stefano threatening her with a needle in 1952 (ID 27, 845) resurfaces, anchoring his current physical presence to the hereditary violence of Don Achille. This jump logic concludes that her marriage is not a new beginning but a continuation of the same childhood nightmare, as she realizes Stefano has 'always been Don Achille’s eldest son.'",
+    "evidence_ids": [
+      27,
+      844,
+      845,
+      846
+    ]
+  },
+  {
+    "id": 5,
+    "answer": "1. Identify Timelines: The physical present is January 11, 1960 (ID 882). The memory timeline is the childhood visit to Don Achille in May 1954 (ID 365, 882). 2. Locate Anchor: The 'stairs' themselves serve as the spatial anchor—specifically the location where they once sought their dolls (ID 882). 3. Synthesis: The physical act of climbing the same stairs from their childhood (ID 882) allows Lila to bridge the gap created by her marriage. By referencing the 'money' Don Achille gave them (ID 889, 365), Lila anchors the current conversation in their shared history of 'making mistakes.' This chronological displacement resets their dynamic by stripping away Lila's status as 'Mrs. Carracci' and returning them to the 'we' of their childhood pact, allowing for a moment of vulnerability that would be impossible in the 1960 'present'.",
+    "evidence_ids": [
+      365,
+      882,
+      889
+    ]
+  },
+  {
+    "id": 6,
+    "answer": "1. Identify Timelines: The current physical time is Feb 16, 1951 (ID 11). The memory time is 1948, when Lila was three years old. 2. Locate Anchor: The 'old newspaper used to wrap shoes' (ID 11). 3. Synthesis: While contemplating Lila's sudden display of literacy in school, the narrator's mind jumps back to 1948 to solve the mystery of Lila's precocity. The newspaper anchor explains the 'mind-body separation': while Lila was physically a toddler in a shoe shop, her mind was maturing through the 'deadly words' of the adult world. The narrator uses this anchor to rationalize Lila's 'inhuman' superiority, concluding that Lila's maturity is a product of consuming the literal debris (newspapers) of her environment.",
+    "evidence_ids": [
+      11
+    ]
+  },
+  {
+    "id": 7,
+    "answer": "1. Identify Timelines: The physical present is April 15, 1953, in the basement (ID 39). The mental displacement is to the 'rumors' heard in 1948 (ID 1). 2. Locate Anchor: The imagery of Don Achille as 'half animal, half mineral' and the sound of 'crawling' (ID 1, 41, 187). 3. Synthesis: The damp, dark environment of the basement acts as a sensory conductor for the 1948 rumors. The narrator's consciousness detaches from the physical reality (looking for a doll) and relives the myth of Don Achille as a predator. The anchor is the 'black bag' mentioned by Lila (ID 41), which merges the rumor of Don Achille's evil nature with the physical darkness of the basement, causing the narrator to 'hear' him crawling like a snake even when he is not there.",
+    "evidence_ids": [
+      1,
+      39,
+      41,
+      187
+    ]
+  },
+  {
+    "id": 8,
+    "answer": "1. Identify Timelines: Physical present is Dec 31, 1958 (ID 591). Memory/Consciousness displacement: A realization that her known world is a 'monster' from a dark sky (ID 607). 2. Locate Anchor: The 'dialect' and the 'moist throats/words soaked in saliva' (ID 604). 3. Synthesis: The sensory experience of hearing the familiar dialect on the roof acts as a negative anchor. Instead of grounding her, the sounds trigger a displacement where the people she knows (like Rino) are stripped of their current identities and viewed as 'small, stocky animals' (ID 609). This 'mind-body separation' allows Lila to see the 'true face' of her world—a chaotic, boundary-less existence that she has always feared (ID 600, 616).",
+    "evidence_ids": [
+      591,
+      600,
+      604,
+      607,
+      609,
+      616
+    ]
+  },
+  {
+    "id": 9,
+    "answer": "1. Identify Timelines: Physical present is August 10, 1960 (ID 1124). Mental displacement: Observing the mothers as if they are a 'future version' of the narrator and Lila (ID 1132, 1135). 2. Locate Anchor: The physical 'limp' of her mother and the 'swollen ankles/sagging chests' of the neighborhood women (ID 1128, 1131). 3. Synthesis: The narrator's consciousness detaches from her 17-year-old self and projectively relives the life of the women around her. The anchor is the mother's 'limp body,' which serves as a terrifying bridge between the narrator's current youth and an inevitable, corrupted future. This jump explains the narrator's cognitive crisis: she realizes that the Mergellina environment physically 'consumes' women, turning them into versions of their fathers and brothers (ID 1133).",
+    "evidence_ids": [
+      1124,
+      1128,
+      1131,
+      1132,
+      1133,
+      1135
+    ]
+  },
+  {
+    "id": 10,
+    "answer": "1. Identify Timelines: Physical location is the wedding venue, Jan 1, 1960 (ID 691). Mental displacement: A fantasy of running away to 'unfamiliar cities' after total destruction (ID 699). 2. Locate Anchor: The sight of Lila 'excitedly whispering to Stefano' and the 'redness of Stefano's face' (ID 693). 3. Synthesis: The physical sight of the couple's interaction anchors the narrator to the realization that money and marriage have failed to save them. This triggers a spatiotemporal jump where she mentally 'shatters' every person and event in Mergellina (ID 698). The anchor of Lila's paleness and Stefano's embarrassment creates a 'mind-body separation' where the narrator physically sits at a table but mentally relives a desired future where she and Lila escape through the ruins of their neighborhood.",
+    "evidence_ids": [
+      691,
+      693,
+      698,
+      699
+    ]
+  },
+  {
+    "id": 11,
+    "answer": "1. **Identify Timelines:** The 'current time/place' is August 30, 1960, inside the Capodimonte shop in the neighborhood. The 'memory time/event' is their shared childhood in the neighborhood. 2. **Locate Anchor:** The specific medium is the cash register drawer. 3. **Synthesis:** When Lina opens the register with a carefree attitude, the narrator's mind jumps from the present commercial reality back to Lina's childhood imagination. The drawer becomes the physical manifestation of the 'safe' Lina had imagined as a child, allowing the narrator to interpret Lina’s current financial generosity as a continuation of a childhood fantasy rather than a professional act.",
+    "evidence_ids": [
+      1211,
+      1212
+    ]
+  },
+  {
+    "id": 12,
+    "answer": "1. **Identify Timelines:** The 'current time/place' is June 1, 1961, at the shoemaker's shop during a serious discussion about industrial production. The 'memory time/event' is an early childhood play session involving dolls. 2. **Locate Anchor:** The anchor is the sound of their shared, hearty laughter. 3. **Synthesis:** The narrator notes that as they laugh together at the factory idea, the consciousness of the group detaches from the 'pretense of maturity' and jumps back years. The laughter acts as a temporal bridge to the moment they 'put Tina and Nuo in the cellar vent,' effectively reducing their adult business aspirations to a mere extension of childhood play.",
+    "evidence_ids": [
+      1525,
+      1526,
+      1527
+    ]
+  },
+  {
+    "id": 13,
+    "answer": "1. **Identify Timelines:** The 'current time' is October 1, 1960, during the grand opening of the shoe store. The 'memory time' is a distant childhood moment of observing a social superior. 2. **Locate Anchor:** The anchor is the act of looking at luxury shop windows while being surrounded by new wealth. 3. **Synthesis:** Despite being physically wealthy and successful in 1960, the visual stimulus of the high-end 'Street of a Thousand' forces Lina’s mind back to a specific past trauma of social inferiority. The 'girl in the green dress' represents a class barrier that the narrator realizes they have not mentally crossed, showing that their consciousness remains anchored to a time of 'fear' and 'inequality' regardless of their current physical status.",
+    "evidence_ids": [
+      1348,
+      1349,
+      1351
+    ]
+  },
+  {
+    "id": 14,
+    "answer": "1. **Identify Timelines:** The 'current time' is May 16, 1962, during a violent domestic dispute. The 'memory time' is the period of Lina and Stefano’s engagement years prior. 2. **Locate Anchor:** The anchor is Stefano’s loss of composure and his state of 'excitement.' 3. **Synthesis:** As Stefano drives off in a fit of rage, Lina’s consciousness detaches from the immediate danger and returns to the image of him as 'composed and proper' during their engagement. This displacement causes her to burst into laughter, as the anchor of his current behavior highlights the absurdity of the change in their relationship over time, allowing her to mentally escape the physical aggression of the present.",
+    "evidence_ids": [
+      1631,
+      1632
+    ]
+  },
+  {
+    "id": 15,
+    "answer": "1. **Identify Timelines:** The 'current time' is late August 1962, in the narrator's bedroom at night. The 'memory time' is her past relationship with Antonio. 2. **Locate Anchor:** The sensory anchor is the 'scent of his skin' and the specific locations of their intimacy. 3. **Synthesis:** The narrator's consciousness is physically detached from her exhausted 'meaningless' reality of working at the bookstore. She mentally relocates to 'the pond' and the 'abandoned canning factory.' The olfactory memory of Antonio serves as the anchor that allows her to relive these specific past moments as a psychological refuge from her current feelings of isolation and academic pressure.",
+    "evidence_ids": [
+      2162,
+      2163
+    ]
+  },
+  {
+    "id": 16,
+    "answer": "1. **Identify Timelines:** The 'current time' is July 24, 1963, at Maronti Beach (ID 3479). The 'memory time' is Elena's early childhood (3-4 years old) when her mother used to take her to the sea (ID 3490). 2. **Locate Anchor:** The sensory experience of struggling in the water and then successfully floating (ID 3487-3489) acts as the anchor. Specifically, the visual of the 'white flowered dress' and her mother's 'faulty leg buried under the scorching sand' (ID 3493) cements the jump. 3. **Synthesis:** Although Elena is physically a teenager struggling to swim in 1963, the tactile sensation of the water triggers a deep psychological retrieval of her mother's past care. This displacement transforms her current fear into a vivid, internal visual of her mother as a younger, healthier woman, effectively merging her physical survival in the present with her cognitive reconciliation of her mother's legacy.",
+    "evidence_ids": [
+      3479,
+      3487,
+      3490,
+      3493
+    ]
+  },
+  {
+    "id": 17,
+    "answer": "1. **Identify Timelines:** The narrator is physically at the Vomero harbor in July 1963 (ID 2914). Mentally, she is instantly transported back to her stay 'a few years ago' during her childhood (ID 2919). 2. **Locate Anchor:** The displacement is triggered by the 'smell, sound, and color of Vomero' (ID 2919), which act as immediate sensory mediums for the jump. 3. **Synthesis:** The narrator's consciousness becomes detached from the physical labor of her present (carrying heavy luggage and dealing with her friends' arguments) and is replaced by a profound internal happiness rooted in past familiarity. This displacement makes her the 'only person who was truly happy' in the present group because her mind is anchored in a nostalgic, successful version of her past self associated with that location.",
+    "evidence_ids": [
+      2914,
+      2916,
+      2919
+    ]
+  },
+  {
+    "id": 18,
+    "answer": "1. **Identify Timelines:** The 'current time' is December 28, 1962, inside the Shoemaker's Shop where Lina is discussing the neighborhood's political and social history (ID 2401). The 'memory time' is the narrator's childhood, specifically the way they used to define their world as children (ID 2401). 2. **Locate Anchor:** The specific linguistic anchor is the word 'before' (ID 2401, 2406). 3. **Synthesis:** While physically listening to Lina's terrifying adult revelations about Fascism and murder, the narrator's mind jumps back to the innocent childhood usage of the same word. The displacement highlights the loss of innocence; the 'before' of the present (the carpenter shop, the Solara money) is a dark, historical reality that replaces the magical 'before' of their childhood memories.",
+    "evidence_ids": [
+      2401,
+      2406,
+      2413
+    ]
+  },
+  {
+    "id": 19,
+    "answer": "1. **Identify Timelines:** Physically, it is midnight on January 1, 1963, on a rooftop during a violent fireworks battle (ID 2594, 2658). Mentally, Lina is reliving the image of Rino from their childhood (ID 2657). 2. **Locate Anchor:** The physical distortion caused by the 'thick, acrid smell of sulfur' and the 'loud explosions' (ID 2658) acts as the anchor that breaks the present Rino's form. 3. **Synthesis:** The narrator notes that Lina is anchored to the 'face she had always remembered'—a generous, honest brother who provided security (ID 2657). However, the intensity of the present violence causes a displacement where that childhood image is 'broken apart' by the pressure of the present, leading to the 'disappearance of boundaries.' She is mentally mourning the childhood Rino while physically staring at his current, unrecognizable 'true face' in the smoke.",
+    "evidence_ids": [
+      2653,
+      2657,
+      2658,
+      2660
+    ]
+  },
+  {
+    "id": 20,
+    "answer": "1. **Identify Timelines:** Elena is physically on a balcony in Barano in July 1963, acting as a 'pilgrim' showing Lina the view (ID 3102, 3106). Her consciousness jumps to a specific night from her previous stay at that house (ID 3107). 2. **Locate Anchor:** The 'corner of the balcony' and the specific spots where she 'sat at the table' or 'slept in the kitchen' (ID 3106) serve as the physical anchors. 3. **Synthesis:** Despite the pleasant external activity of hosting her friends, the sight of the balcony and her former sleeping quarters triggers a visceral memory displacement of Donato's lewd touch ('putting his hand under my sheets'). This internal reliving of trauma makes her physically feel 'sick' (ID 3108), illustrating a complete separation between her polite external behavior and her traumatized internal consciousness.",
+    "evidence_ids": [
+      3106,
+      3107,
+      3108
+    ]
+  },
+  {
+    "id": 21,
+    "answer": "1. **Identify Timelines:** The narrative is set in late 1962, focusing on Rino's obsession with New Year's fireworks (ID 2490, 2494). The memory time is 1950, when Rino was twelve years old (ID 2490). 2. **Locate Anchor:** The 'scar on his hand' (ID 2493) is the physical medium that connects Rino's present body to his childhood habit of collecting unexploded firecrackers by the pond (ID 2492). 3. **Synthesis:** The narrator uses the scar to anchor the reader to Rino's 'poor childhood.' The displacement explains that his current fervor to match the Solara brothers (ID 2495) is not just a present whim, but a psychological drive to 'wash away the shame' of that twelve-year-old boy who risked his life for scrap fireworks.",
+    "evidence_ids": [
+      2490,
+      2492,
+      2493,
+      2494
+    ]
+  },
+  {
+    "id": 22,
+    "answer": "1. **Identify Timelines:** The physical present is a school day in early 1963, with Elena receiving praise for her essays (ID 2791). Her consciousness jumps to the month of September 1962 (ID 2804). 2. **Locate Anchor:** The 'library card' filled with records (ID 2782) and her specific essay topic 'Queen Dido' (ID 2789) act as anchors. 3. **Synthesis:** While physically standing in a 1963 hallway receiving praise, Elena is mentally reliving her discussions with Lina and Pasquale from September. She recognizes that the 'real school' (ID 2805) was that past interaction. This displacement causes her to view her present academic standing as a mere byproduct of a past intellectual fire that she shared with Lina, rather than her own current achievement.",
+    "evidence_ids": [
+      2782,
+      2789,
+      2804,
+      2805
+    ]
+  },
+  {
+    "id": 23,
+    "answer": "1. **Identify Timelines:** The physical present is New Year's Eve, December 31, 1962 (ID 2572). The memory time is the period shortly after Stefano's father was murdered (ID 2510). 2. **Locate Anchor:** Stefano's 'neatly combed hair' and 'white shirt' (ID 2574, 2575) serve as anchors to his former, simpler life. 3. **Synthesis:** While Stefano is physically pouring champagne in 1962, Elena's mind compares him to the 'back then' when the Carracci family lived in reclusive mourning (ID 2510). This displacement leads her to calculate his age difference (ID 2577) and conclude that her current boyfriend, Gino, is 'not worth anything' compared to the 'prince' Stefano has become. Her mind has jumped from the present celebration to a historical assessment of the Carracci family's transformation.",
+    "evidence_ids": [
+      2510,
+      2574,
+      2575,
+      2577,
+      2578
+    ]
+  },
+  {
+    "id": 24,
+    "answer": "1. **Identify Timelines:** The narrator is physically in a small room in Lina's house on January 15, 1963 (ID 2775). Mentally, she is reliving the time when the shoes were only 'a drawing in the notebook' (ID 2776). 2. **Locate Anchor:** The 'shoes' themselves, when looked at closely, serve as the physical anchor to the past design phase (ID 2776). 3. **Synthesis:** The physical presence of the finished product causes the narrator to mentally retreat to the effortful, theoretical past of the design drawings. This displacement allows her to appreciate the 'lot of effort' (ID 2776) involved, bridging the gap between the messy present conflict and the pure creative ambition of their childhood friendship.",
+    "evidence_ids": [
+      2775,
+      2776
+    ]
+  },
+  {
+    "id": 25,
+    "answer": "1. **Identify Timelines:** The physical present is a walk along the wine-red beach at dusk on July 14, 1963 (ID 3062). Elena's mind jumps back to her encounter at the bookstore on Via Mezzocannone (ID 3046). 2. **Locate Anchor:** The act of 'not holding hands' in the present (ID 3063) anchors her by contrast to the 'intimate act' (the kiss) at the bookstore. 3. **Synthesis:** Although she is physically walking with Nino in the present, her mind is preoccupied with analyzing a past event to determine if his present behavior is a 'new trend' or a sign of affection (ID 3046). This displacement causes her to feel 'embarrassed' and fall into silence (ID 3012), as her consciousness is more engaged with decoding the past than participating in the present walk.",
+    "evidence_ids": [
+      3012,
+      3046,
+      3062,
+      3063
+    ]
+  },
+  {
+    "id": 26,
+    "answer": "1. **Identify Timelines:** Physically, the narrator is in the rental house hallway on August 10, 1963, witnessing Stefano lock a door. Mentally, she is reliving the historical period of neighborhood terror associated with Stefano's father.\n2. **Locate Anchor:** The auditory 'sound of the key turning in the lock' serves as the specific medium for this spatiotemporal jump.\n3. **Synthesis:** The sound of the lock triggers a temporal bleed where Stefano’s physical body is psychologically replaced by the 'soul' and 'ghost of Don Achille.' This auditory anchor allows the narrator to mentally inhabit the past trauma of the neighborhood while physically present in 1963, explaining why she sees 'blue lines' of a dead man on the forehead of a living one.",
+    "evidence_ids": [
+      4434
+    ]
+  },
+  {
+    "id": 27,
+    "answer": "1. **Identify Timelines:** The narrator is physically at Vomero beach in 1963. Her consciousness is reliving the past moment when Lina 'suddenly done something to that wedding photo.'\n2. **Locate Anchor:** The anchor is Lina’s current psychological betrayal of her role as 'Mrs. Carracci' through her infidelity.\n3. **Synthesis:** The narrator connects the past physical act of defacing a wedding photo with Lina's current behavior. She perceives Lina’s 1963 affair not as a new event, but as a mental reliving of the same destructive impulse she showed in the past, effectively merging the two timelines through the continuity of Lina's rebellion against her marital identity.",
+    "evidence_ids": [
+      4204
+    ]
+  },
+  {
+    "id": 28,
+    "answer": "1. **Identify Timelines:** Physically, the narrator is on the street in 1963. Consciousness is Reliving the childhood timeline where she and Lina imagined wealth through books like 'Little Women.'\n2. **Locate Anchor:** The conceptual discussion of being 'very rich' and Stefano's actual financial negotiations (buying blueprints, hiring workers).\n3. **Synthesis:** The mention of Stefano's 'wealth' triggers a displacement to childhood memories of 'safes full of gold coins' and 'uniformed servants.' However, the displacement serves to highlight the 'mind-body separation'—while her mind remembers the 'radiant imaginations' of the past, her physical presence next to a man in an 'oily shirt' acts as the final anchor that terminates the childhood timeline, replacing those dreams with the concrete reality of 'business and negotiations.'",
+    "evidence_ids": [
+      4654,
+      4664,
+      4666
+    ]
+  },
+  {
+    "id": 29,
+    "answer": "1. **Identify Timelines:** The 'current' physical timeline is 1963 at the School where the narrator interacts with the younger Nino (ID 4801). The 'memory' timeline is her childhood and adolescence marked by interactions with Nino's father, Donato (ID 4809). 2. **Locate Anchor:** The primary anchor is the visual presence of Nino. Despite the narrator noting they look 'nothing alike' (ID 4809), the physical proximity to the son triggers a physiological and psychological merge where she 'felt Donato's mouth' (ID 4813). 3. **Synthesis:** The narrator's consciousness is detached from the boy in front of her and anchored to a past sensory experience. This displacement is so intense that her future fantasy of intimacy becomes a reliving of past revulsion, merging father and son into a single temporal entity in her mind.",
+    "evidence_ids": [
+      4801,
+      4809,
+      4813
+    ]
+  },
+  {
+    "id": 30,
+    "answer": "1. **Identify Timelines:** The narrator is physically near a train station pond in 1963 (ID 4819). Her consciousness shifts to a past event described in a letter from Lina regarding a 'copper pot' (ID 4823). 2. **Locate Anchor:** The bridge consists of a visual stimulus—a ticket inspector resembling Donato Nino (ID 4819)—and a physiological response: her heart pounding 'like a gunshot' (ID 4822). 3. **Synthesis:** The physical fear of seeing a man resembling her abuser causes a violent heartbeat, which functions as the anchor. This sensation triggers the memory of Lina's description of 'the moment the copper pot was torn apart,' displacing her from the train station to the abstract, violent imagery of Lina's written correspondence.",
+    "evidence_ids": [
+      4819,
+      4822,
+      4823
+    ]
+  },
+  {
+    "id": 31,
+    "answer": "1. **Identify Timelines:** The physics of the narrator are located on South Avenue in 1963, walking home with Alfonso (ID 4905). Her consciousness is anchored to an early childhood event involving climbing stairs to get back a doll (ID 4907). 2. **Locate Anchor:** The anchor is the physical presence of Alfonso Carracci, who she views as a 'loyal attendant' (ID 4905). The internal link between Alfonso and his brother Stefano (the 'Carachi family') prompts a mental jump to the original terror they felt when facing their father, Don Achille (ID 4907). 3. **Synthesis:** By associating the current 'protection' provided by Alfonso with the family's historical association with 'evil,' the narrator experiences mind-body separation, reliving the specific fear of the stairs and the stolen doll while physically walking down a modern avenue.",
+    "evidence_ids": [
+      4905,
+      4907
+    ]
+  },
+  {
+    "id": 32,
+    "answer": "1. **Identify Timelines:** Lina is physically in the high-end downtown shoe store in 1963, observing renovation stains (ID 4908). Her consciousness jumps to 'many years ago' and a clash on Thousand-Man Army Street (ID 4912). 2. **Locate Anchor:** The anchor is the 'downtown area' itself (ID 4912). Lina identifies this specific geographic location as the stage for every 'pivotal moment' of her life. 3. **Synthesis:** The physical space of the store acts as a temporal crossroad. By looking at the stone lions in the central square (ID 4914), she is mentally transported to the night she decided to escape poverty, effectively experiencing her current commercial success through the lens of her past desperation.",
+    "evidence_ids": [
+      4908,
+      4912,
+      4914
+    ]
+  },
+  {
+    "id": 33,
+    "answer": "1. **Identify Timelines:** Lina is in a dilapidated apartment in 1963, facing extreme poverty and pregnancy (ID 5049/5051). Her mind jumps back to a childhood competition organized by Teacher Oliviero (ID 5059). 2. **Locate Anchor:** The anchor is the physical appearance of Enzo at her door. His presence immediately evokes the specific memory of him bringing her fruit after being defeated in a competition (ID 5059). 3. **Synthesis:** Lina's current 'defeat' and isolation are so severe that the sight of Enzo provides a magical temporal jump. She stops seeing the pregnant, abandoned woman she is in the present and instead relives her childhood rivalry/bond with Enzo, using the past event to rationalize her current trust in him.",
+    "evidence_ids": [
+      5049,
+      5058,
+      5059
+    ]
+  },
+  {
+    "id": 34,
+    "answer": "1. **Identify Timelines:** Antonio is physically in a military guard booth at night (ID 5459). Mentally, he is in his early childhood, playing a finger game with his father (ID 5459). 2. **Locate Anchor:** The anchor is the solitude of the guard duty and his own hands. The memory of his father drawing eyes and mouths on his fingers (ID 5459) becomes so vivid that it manifests as a hallucination where he 'felt his father's hand entering his own' (ID 5461). 3. **Synthesis:** This displacement is a symptom of psychological trauma. The physical environment (the booth) is replaced by a mental landscape where his fingers 'laugh and sing' (ID 5462). The displacement is so complete that he physically attacks the booth to stop a childhood memory from occurring in his present reality.",
+    "evidence_ids": [
+      5459,
+      5461,
+      5462
+    ]
+  },
+  {
+    "id": 35,
+    "answer": "1. **Identify Timelines:** The narrator is physically by the pond with Antonio in 1964, engaging in sexual games (ID 5558). Her mind is anchored to a previous time when Lina used to visit 'Beihai Park' (ID 5559). 2. **Locate Anchor:** The anchor is the specific 'pond' location and the act of physical intimacy. This triggers a desire to communicate with Lina about her own experiences with Stefano (ID 5561). 3. **Synthesis:** Because Lina 'never came back' to the physical location, the narrator's current intimacy is performed in a state of mental displacement; she is physically with Antonio but mentally composing questions for a version of Lina that only exists in the park's past.",
+    "evidence_ids": [
+      5558,
+      5559,
+      5561
+    ]
+  },
+  {
+    "id": 36,
+    "answer": "1. **Identify Timelines:** The narrator is physically on Ferrangeri Road in 1964, feeling successful and 'changed' (ID 5618). Her mind relives the 'opening day' of Lina's shoe store (ID 5617). 2. **Locate Anchor:** The proximity to Piazza Martiri (ID 5616) serves as the spatial anchor. The physical act of walking toward the square triggers the contrast between her current confidence and Lina's past unease. 3. **Synthesis:** The narrator uses the memory of Lina's past 'extravagant but uneasy' appearance to validate her own internal transformation. She is physically in 1964, but her sense of self is defined by a jump to Lina's past timeline, where she compares her genuine change to Lina's perceived superficiality.",
+    "evidence_ids": [
+      5616,
+      5617,
+      5618
+    ]
+  },
+  {
+    "id": 37,
+    "answer": "1. **Identify Timelines:** The narrator is at the Mercato entrance in 1964 with Antonio and Nino (ID 5698). Her consciousness jumps to a previous summer in Balano on Maronti beach (ID 5720). 2. **Locate Anchor:** The anchor is Nino's 'soft, sticky tone' of voice (ID 5720). Hearing him speak with 'feigned emotion' (ID 5717) immediately transports her back to the auditory experience of the beach. 3. **Synthesis:** Nino's voice acts as a temporal portal. While he is physically being threatened by Antonio in the present, the narrator is mentally reliving his past persona as a 'man with depth' on the beach, allowing her to recognize his current behavior as a recurring performance.",
+    "evidence_ids": [
+      5717,
+      5720,
+      5721
+    ]
+  },
+  {
+    "id": 38,
+    "answer": "1. **Identify Timelines:** Lina is physically sitting on the edge of her bed in 1965, in her underwear, with a copper basin of water (ID 5984/5985). Her mind is anchored to a 'primary school' event (ID 5990). 2. **Locate Anchor:** The anchor is the presence of the narrator (Elena) and the recent rejection by Professor Oliviero (ID 5929). The act of the narrator helping her bathe (ID 5982) triggers the question: 'Why didn't she let me into her house?' (ID 5990). 3. **Synthesis:** Lina's consciousness is detached from the 'success' of her wedding day and instead relives a childhood sense of inadequacy. The physical intimacy of the bath with her only friend anchors her to the core childhood trauma of being excluded by an authority figure, proving that she is entering her marriage while mentally stuck in a past rejection.",
+    "evidence_ids": [
+      5982,
+      5984,
+      5990
+    ]
+  },
+  {
+    "id": 39,
+    "answer": "1. **Identify Timelines:** The 'physics' of the scene is the morning of March 12, 1965, in Lina's kitchen. However, the consciousness is located in the narrator's 'writing present' (a point much later in time). 2. **Locate Anchor:** The anchor is the physical act of writing the narrative itself ('as I wrote these words'). 3. **Synthesis:** The narrator jumps from the immersive memory of 1965 to a reflective, meta-narrative state. This permutation allows her to logically analyze the relative ages of the parents (Fernando and Nunzia) from an adult perspective, contrasting the 'lifeless' perception she held as a youth with the objective reality she recognizes while documenting the past.",
+    "evidence_ids": [
+      6031
+    ]
+  },
+  {
+    "id": 40,
+    "answer": "1. **Identify Timelines:** The narrator is physically in a park in 1965, witnessing an adult interaction. Mentally, she is reliving her childhood elementary school days. 2. **Locate Anchor:** The specific anchors are Professor Oliviero’s 'gaze' and her 'unkind tone.' 3. **Synthesis:** Despite the teacher's frail physical appearance as a thin old woman with a cane, her sensory 'signature' (tone and gaze) remains unchanged. This creates a temporal bridge, making the narrator feel 'as if she were still questioning us in class,' effectively displacing her current reality with the anxiety of her school-age self.",
+    "evidence_ids": [
+      6301,
+      6306
+    ]
+  },
+  {
+    "id": 41,
+    "answer": "1. **Identify Timelines:** Physically, Lina is in a hotel room in 1966. Mentally, she is back in her childhood, specifically recalling the primal fear of the neighborhood 'ogre,' Don Achille. 2. **Locate Anchor:** The conduit is the shifting 'facial contours' of Stefano as his rage surfaces. 3. **Synthesis:** As Stefano loses his 'polite facade' during the violence, his physical features morph in Lina's mind. The narrator explains this as 'Don Achille reviving from the muck' and 'bursting out from Stefano's body.' The physical aggression of the husband acts as a medium that resurrects the childhood trauma of the 'cellar' and the 'doll,' merging the current physical threat with the historical shadow of a neighborhood villain.",
+    "evidence_ids": [
+      6760,
+      6761
+    ]
+  },
+  {
+    "id": 42,
+    "answer": "1. **Identify Timelines:** The narrator is physically in her own present 'many years later.' The primary memory level is September 1, 1966 (Pinocchia at Lina's house). The deep past is a childhood event (Nino's family leaving Mergellina). 2. **Locate Anchor:** The anchor is the specific visual state of Pinocchia in Lina's house—a 'long, painful flame' of a distraught woman. 3. **Synthesis:** Seeing Pinocchia's distress in 1966 triggers an automatic mental jump for Lina back to the sight of Melina (Nino's mother) and the iron flying out the window. The narrator, reflecting on this years later, synthesizes these moments to show how the recurring trauma of 'abandoned lovers' in the neighborhood creates a loop where different women (Melina, then Pinocchia) become interchangeable anchors to the same historical suffering.",
+    "evidence_ids": [
+      6856,
+      6857
+    ]
+  },
+  {
+    "id": 43,
+    "answer": "1. **Identify Timelines:** The physics are located in Borgo (1966-11-15), where the narrator is a university student. The mental relief is the summer on the Maronti beach (Year B). 2. **Locate Anchor:** The geographic name 'Stazione Centrale' and its association with 'Bruno Socavo' (Nino’s friend). 3. **Synthesis:** Upon hearing that Lina has moved to Stazione Centrale, the narrator’s mind immediately bypasses the present news to relive the sensory and moral 'shame' of the past. The mention of Nino’s social circle (Socavo) acts as a trigger that unearths the suppressed memory of her sexual encounter with Donato Nino, transforming a piece of current news into a painful reliving of 'that summer,' illustrating how memory can be held hostage by specific names and places.",
+    "evidence_ids": [
+      7006,
+      7007,
+      7008
+    ]
+  },
+  {
+    "id": 44,
+    "answer": "1. **Identify Timelines:** Elena is physically in the kitchen of her parents' home in December 1967 (7539), but mentally reliving the creation of 'The Blue Fairy' 13-14 years earlier (7546). 2. **Locate Anchor:** The primary anchors are the 'crayon colors on the cover' and the 'rusted paperclip' that leaves a 'yellow stain' on the pages (7547, 7548), combined with the sight of her own childhood handwriting which the ink has turned white (7553). 3. **Synthesis:** This displacement forces a 'dissolution of boundaries' where Elena realizes that the secret 'heat' and 'core' of her mature, published novel is actually a parasitic extension of Lina's childhood imagination (7554, 7555). Her physical success in the 'present' is revealed to her consciousness as a product of a shared 'past' she thought she had outgrown, rendering her new professional identity into an act of psychological inheritance."
+  },
+  {
+    "id": 45,
+    "answer": "1. **Identify Timelines:** Lina is physically in her home in February 1968 (7738), but mentally reliving the murder of Don Achille and the arrest of Pasquale's father from her childhood (7746, 7747). 2. **Locate Anchor:** The trigger is Pasquale Peluso's 'resentment' and his verbal 'attacks' regarding his father's innocence and the party's betrayal (7741, 7746). 3. **Synthesis:** The narrative describes a state where 'real memories mixed with false ones' (7748), causing Lina to see 'violence and blood' as if she were physically there. She navigates this displacement by deliberately shifting the conversation to 'Christmas and Carnival' to 'calm herself down' and pull her consciousness back from the traumatic past into a more manageable present (7749)."
+  },
+  {
+    "id": 46,
+    "answer": "1. **Identify Timelines:** Elena is physically on a bus to Saint John in December 1967 (7565), but mentally operating within the 'dark period' of her early childhood before formal education (7569). 2. **Locate Anchor:** The anchor is the 'evil art of language'—specifically the filthy dialect and 'worst words' of Mergellina used to curse and threaten other passengers (7570, 7575). 3. **Synthesis:** To survive the physical 'oppression' of the crowd, Elena abandons the 'polite expressions' and 'refined appearance' of her university life (7572, 7573). She uses the vulgar language of her past as a psychological survival tool, effectively regressing her consciousness to a state of 'mind-body separation' where her refined 23-year-old self is replaced by the raw, aggressive persona of a neighborhood child."
+  },
+  {
+    "id": 47,
+    "answer": "1. **Identify Timelines:** Lina is physically at the Galiani residence in April 1968 (7981, 7983), but her mind is reliving a party she attended there years prior (7978, 7982). 2. **Locate Anchor:** The anchor is the sensory detail of 'the clothes and shoes' they were wearing at that time and the visual cues of the 'old, aristocratic furniture and chandeliers' visible through the door (7982, 7988). 3. **Synthesis:** This displacement causes Lina to view her current self as 'dirty' and reeking of 'raw meat' (7984) in contrast to the 'aristocratic' past. She becomes so mentally entangled in the memory of her previous 'humiliation' and Nino's world that she abruptly sighs in a 'frivolous tone,' dismissing the present visit as 'annoying' just like the party years ago, effectively exiting the current timeline (7993)."
+  },
+  {
+    "id": 48,
+    "answer": "1. **Identify Timelines:** Elena is physically in her dormitory in April 1967 (7234), but mentally reliving 'happy times' in Paris and on the banks of the Arno with Franco Mari (7241, 7242). 2. **Locate Anchor:** The act of 'lying in bed' and 'staring at the ceiling' triggers the jump (7235). 3. **Synthesis:** Her consciousness initially drifts into a idealized past (7240), but the narrative logic then 'shifts' to a deeper, more traumatic anchor: 'the darkness of Maronti Beach' (7246). This second memory layer destroys the first (the Franco Mari memory), revealing that even her happiest moments 'couldn't stand up to close scrutiny' and were likely an 'illusion,' forcing her consciousness back to a state of anxiety in her physical present (7243, 7245)."
+  },
+  {
+    "id": 49,
+    "answer": "1. **Identify Timelines:** The current physical timeline is April 10, 1969, at a bookstore in the Quartiere Spagnolo. The memory timeline is a night 'more than forty years ago' in a library.\n2. **Locate Anchor:** The anchor is the visual presence of 'the man with thick glasses,' a critic who is currently mocking her book.\n3. **Synthesis:** The narrator experiences a temporal jump because the physical appearance and hostile voice of the critic serve as a direct portal to her childhood fears. This chronological displacement illustrates how her current professional identity as a successful writer is fragile; the 'thick glasses' of the man function as a memory anchor that strips away her adult status and returns her consciousness to the vulnerable state of her past, causing her to tremble and answer incoherently as if she were still in that library decades ago.",
+    "evidence_ids": [
+      8594,
+      8595,
+      8607
+    ]
+  },
+  {
+    "id": 50,
+    "answer": "1. **Identify Timelines:** The physical location is a messy guest room at Mariarosa's house in Porto (1969). The memory time is her past summer at Maronti beach with Donato Sarratore.\n2. **Locate Anchor:** The anchor is the tactile sensation of an unwelcome physical touch and the 'scent' of a man (Tarantano/Juan) which mirrors the past trauma.\n3. **Synthesis:** The narrator jumps between spacetimes through a somatic trigger. The physical harassment she faces in the present (the elevator attempt and Juan's intrusion) creates a visceral bridge to the night at Ischia. Although she is safe in a house of intellectuals, her mind relives the 'pleasure that went against her will' on the beach. This displacement shows that her past trauma is not a distant memory but a latent state that overrides the present physical reality when triggered by similar bodily violations.",
+    "evidence_ids": [
+      9243,
+      9245,
+      9246,
+      9247
+    ]
+  },
+  {
+    "id": 51,
+    "answer": "1. **Identify Timelines:** The physical timeline is May 15, 1968, on a street near her parents' home. The memory timeline is her childhood, specifically a moment seeing a woman 'chewing on a piece of purchased soft soap.'\n2. **Locate Anchor:** The anchor is the figure of Melina, who is currently walking with her granddaughter Maria.\n3. **Synthesis:** The narrator is physically observing Melina in the present, but she is mentally 'shaken' as if she were a child again. The sight of Melina triggers a recursive loop where the narrator relives the childhood horror of Melina's madness. This chronological displacement is so powerful that it overrides the current conversation about grandchildren and paternity, forcing the narrator to view Melina not as the 'dressed well' grandmother of the present, but as the ghost-like, soap-chewing specter of the past neighborhood.",
+    "evidence_ids": [
+      8533,
+      8546
+    ]
+  },
+  {
+    "id": 52,
+    "answer": "1. **Identify Timelines:** The current physical location is her marital home in Vomero (1970), where she is struggling with motherhood. The memory timeline is her deep childhood, involving games and dolls.\n2. **Locate Anchor:** The medium of the jump is Lina’s voice on the telephone and the 'long echo' it leaves.\n3. **Synthesis:** Although the narrator is physically in a modern academic environment, Lina’s voice acts as an acoustic anchor that collapses the years. The 'images and words' of childhood—the lost doll, the cellar, and the dangerous games—overtake her present consciousness. This displacement explains her resentment; Lina’s voice forces her to relive the power dynamics of the past, making her academic schooling feel 'stupid' and highlighting her permanent psychological dependence on the childhood neighborhood she thought she had escaped.",
+    "evidence_ids": [
+      9588,
+      9589,
+      9591
+    ]
+  },
+  {
+    "id": 53,
+    "answer": "1. **Identify Timelines:** Physically, the narrator is in Vomero in 1971, watching a modern parade procession. Mentally, she is reliving her childhood in Mergellina as a young girl. \n2. **Locate Anchor:** The anchor is the visual presence of 'young men in the procession' who are 'fearless' and full of 'joyful energy.' \n3. **Synthesis:** Looking at the aggressive charm and heat of the marchers triggers a 'dream with eyes open.' Her consciousness detaches from her physical reality (a married woman with glasses) and uses the energetic young men as a medium to relive a specific childhood memory where Antonio or Pasquale would 'grab my arm and force me to dance,' effectively replacing her current physical constraints with the sensations of her past.",
+    "evidence_ids": [
+      9738,
+      9739,
+      9741
+    ]
+  },
+  {
+    "id": 54,
+    "answer": "1. **Identify Timelines:** The narrator is physically in 'Mario's Studio' on May 20, 1972. Mentally, she is experiencing an event that occurred 'many years ago' by a pond. \n2. **Locate Anchor:** The anchor is a specific tactile sensation—the physical act of Mario touching her nipple and between her legs. \n3. **Synthesis:** The narrator's consciousness jumps through a sensory parallel; the physiological sensation of Mario's touch is so identical to a past experience that it 'anchors' her to her history with Antonio. Her mind overrides the current setting of the studio, reliving the pond event as a singular continuous sensation that transcends the years between the two points.",
+    "evidence_ids": [
+      9801,
+      9802
+    ]
+  },
+  {
+    "id": 55,
+    "answer": "1. **Identify Timelines:** Physics is located in the narrator's home in Vomero in 1972. Consciousness is located in the Mergellina of over twenty years prior, during the time of Don Achille's murder. \n2. **Locate Anchor:** The anchor is Lina's voice over the telephone, specifically her 'vivid' and 'imaginative' description of the crime. \n3. **Synthesis:** The narrator jumps through an auditory and narrative portal. Lina’s description of Don Achille’s cut neck and blood splashing 'onto a copper pot' provides the sensory detail needed for the narrator to mentally relocate. This 'permutation' allows her to bypass the turbulent 1972 reality and join Lina in 'unraveling a mystery' from their shared childhood.",
+    "evidence_ids": [
+      9871,
+      9874,
+      9877,
+      9881
+    ]
+  },
+  {
+    "id": 56,
+    "answer": "1. **Identify Timelines:** The narrator is physically standing at her window in Vomero in June 1974. Mentally, she is experiencing the atmosphere of 'San Gregorio Armeno and our Mergellina.' \n2. **Locate Anchor:** The sight of Enzo driving his Fiat 500 and the sound of him speaking in his native dialect to a child. \n3. **Synthesis:** The sight of Enzo, who hasn't changed 'at all,' combined with the specific 'scent' of his dialect, acts as a psychological anchor. This sensory input causes her consciousness to detach from her current wealthy life in Vomero. She describes this jump as Enzo 'bringing the scent' of their old neighborhood, allowing her mind to bridge the physical distance between her current 'New Home' and her origins.",
+    "evidence_ids": [
+      10308,
+      10309
+    ]
+  },
+  {
+    "id": 57,
+    "answer": "1. **Identify Timelines:** Physics is in the narrator's living room in Vomero in 1971. Consciousness is reliving her childhood linguistic environment. \n2. **Locate Anchor:** Mariarosa's sudden use of vulgar, 'dirty' words and the 'fuck!' that starts her sentences. \n3. **Synthesis:** The linguistic shock of hearing a refined woman like Mariarosa use vulgarity acts as the anchor. It triggers a memory of how Lina 'always spoken like that' when they were 'little.' This causes the narrator to mentally 'return to the starting point' of her life, comparing her academic effort to learn elegant language against the raw, vulgar reality of her past that has suddenly re-emerged in the present.",
+    "evidence_ids": [
+      9766,
+      9768,
+      9769,
+      9772
+    ]
+  },
+  {
+    "id": 58,
+    "answer": "1. **Identify Timelines:** The 'current time' is October 1976 in a Vomero apartment, where Elena is on the phone with Lina. Her consciousness is displaced into multiple 'memory times,' spanning childhood, a specific wedding day, and a visit to Michele’s house. 2. **Locate Anchor:** The anchor is the news of the murder of the Solara brothers' mother, Manuela. 3. **Synthesis:** The news of the death acts as a catalyst for a 'collapsed' chronological state. Instead of reacting to the present tragedy, the narrator's mind immediately maps the name 'Manuela' to a sequence of visual snapshots: the ghost-like woman opening Michele's door, the knife-wielding woman from childhood folklore who killed Don Achille, and the old woman with the light blue fan. This displacement allows her to process the present violence through the lens of established myth, distancing her physical self from the immediate horror and instead anchoring her identity to the shared history of the neighborhood.",
+    "evidence_ids": [
+      11818,
+      11819,
+      11820
+    ]
+  },
+  {
+    "id": 59,
+    "answer": "1. **Identify Timelines:** The physical location is the city streets in December 2005. The memory timeline includes her childhood walks toward the sea and her return to the city after graduating from Borgo (late 1960s). 2. **Locate Anchor:** The specific anchor is the 'skyscraper at the train station.' 3. **Synthesis:** The architectural presence of the skyscraper creates a temporal bridge. In the physical present (2005), the building is just a backdrop, but it anchors the narrator's memory to two distinct pasts: a childhood state where the framework represented 'magical angels' and a limitless future, and a later adult state where it represented 'inefficiency.' The logical process involves a 'triangulation' of time, where the narrator uses the building as a fixed point to measure her own loss of innocence, jumping from the child's awe to the young adult's cynicism, and finally back to the elderly walker’s detached observation of the city's decay.",
+    "evidence_ids": [
+      11898,
+      11899,
+      11900,
+      11901
+    ]
+  },
+  {
+    "id": 60,
+    "answer": "1. **Identify Timelines:** The narrator is physically in her home in November 2010. Her consciousness is reliving a specific conversation with Lina from approximately 1980. 2. **Locate Anchor:** The linguistic anchor is the name 'Lina Lina' and the specific phrase 'disappear without leaving any trace.' 3. **Synthesis:** The mention of Lina’s disappearance by Rino in the present triggers a jump to a thirty-year-old confession where Lina explicitly stated her desire to vanish. This past memory provides the logic for the narrator's current physical detachment; she refuses to help Rino search for her because her consciousness is anchored to Lina's past intent. The narrator views the present event not as a sudden crisis, but as the long-delayed fulfillment of a past promise. This displacement allows her to remain calm and even 'satisfied' (ID 11958) while those around her panic, as she is physically reacting to a 2010 phone call based on the logic of a 1980 memory.",
+    "evidence_ids": [
+      11981,
+      11963,
+      11958
+    ]
+  },
+  {
+    "id": 61,
+    "answer": "1. **Identify Timelines:** The narrator is physically in her bedroom at 4:00 AM on May 17, 1976. Her consciousness relives childhood in Mergellina (parents moving away), a vacation on Ischia, and a book presentation in Porto. 2. **Locate Anchor:** The anchor is the lingering physical 'traces of his [Nino's] hands and lips' and the 'feverish ache' of her lips. 3. **Synthesis:** The narrator's body is physically in the present, but her sensory experience (the lingering touch of the previous night) forces a mental separation. She cannot reconcile her current 'mask' (as Pietro's wife and mother) with the woman who just engaged with Nino. To manage this dissonance, her mind anchors the present feeling of Nino’s touch to their long history (Ischia, Porto, Mergellina). This makes the recent event feel like part of a 'memory time' rather than a 'present choice.' By reliving these past fragments, she creates a sense of 'innocence' (ID 11470), logically framing her infidelity as an inevitable extension of a long-term memory rather than a contemporary moral failure.",
+    "evidence_ids": [
+      11468,
+      11469,
+      11470,
+      11516
+    ]
+  },
+  {
+    "id": 62,
+    "answer": "1. Locate Trigger: The visual trigger is the sight of the teacher's body on the floor, described as a 'black bundle' (ID 4). 2. Link to Memory: This image immediately leads to the narrator's mental list of specific neighborhood deaths, such as Aunt Assunta's daughter dying of tetanus and the grandfather dying in a building collapse (ID 5). 3. Synthesize: The sensory stimulus of the teacher lying motionless and reduced to a dark shape on the ground acts as a visual metaphor for sudden mortality, causing the narrator's memory to retrieve a catalog of local tragedies that reinforce her internal logic that the world is filled with 'deadly words and dangers.'",
+    "evidence_ids": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": 63,
+    "answer": "1. Locate Trigger: The trigger is the sensory observation of a 'gray, gloomy morning' (ID 12). 2. Link to Memory: This atmosphere leads directly to the 'feeling of weakness' she felt when realizing Lina could read better than her, and her internal thought that school was a safer refuge than home. 3. Synthesize: The gloomy weather acts as a mood-congruent trigger; the external 'grayness' mirrors the narrator's internal feeling of inadequacy and unnecessary existence in her mother's life, driving her mental retreat into the perceived safety of the school environment.",
+    "evidence_ids": [
+      12
+    ]
+  },
+  {
+    "id": 64,
+    "answer": "1. Locate Trigger: The trigger is the sight of Lina's legs being 'very thin and extremely flexible, kicking them back and forth' (ID 15). 2. Link to Memory: This observation evokes her 'fear of becoming lame' and her memory of her mother's specific way of walking. 3. Synthesize: The sensory contrast between Lina’s extreme agility and the mother’s physical defect acts as a catalyst; the narrator uses the sight of Lina's movement as a blueprint to mentally ward off the 'threat' of inherited lameness.",
+    "evidence_ids": [
+      15
+    ]
+  },
+  {
+    "id": 65,
+    "answer": "1. Locate Trigger: The triggers are the 'purple light in the courtyard' and the 'scent of a spring night' (ID 43). 2. Link to Memory: These sensory details anchor the narrator's realization that this specific day—climbing the stairs to Don Achille—was the true start of their bond. 3. Synthesize: The combination of the unique purple lighting and the seasonal smell of spring acts as a mnemonic anchor; when the narrator encounters these sensory conditions, it triggers the emotional memory of the mutual test of courage that solidified her relationship with Lina.",
+    "evidence_ids": [
+      43
+    ]
+  },
+  {
+    "id": 66,
+    "answer": "1. Locate Trigger: The trigger is the smell of 'old objects and DDT insecticide' combined with the adjustment of her eyes to the darkness (ID 47). 2. Link to Memory/Thought: These sensations lead to her thinking about her 'futile hope' that Lina might change her mind. 3. Synthesize: The chemical smell of DDT and the oppressive darkness of the corridor serve as sensory triggers for the narrator’s anxiety; the 'stagnant' smell of the building reinforces her feeling of being trapped by Lina’s stronger will, leading to the internal abandonment of hope.",
+    "evidence_ids": [
+      47
+    ]
+  },
+  {
+    "id": 67,
+    "answer": "1. Locate Trigger: The sensory trigger is the 'smell of oily stir-fried garlic scent' spreading through the hallway (ID 102). 2. Link to Memory/Thought: This scent leads directly to the narrator's terrifying thought that Don Achille's wife would throw her into a 'frying pan' and he would 'suck the thoughts out of my brain' (ID 103, 104). 3. Synthesize: The ordinary sensory stimulus of cooking garlic is transformed by fear into a macabre trigger; it bridges the gap between domestic life and childhood nightmare, where the smell of a meal becomes the imagined preparation of the narrator as food for the neighborhood 'monsters.'",
+    "evidence_ids": [
+      102,
+      103,
+      104
+    ]
+  },
+  {
+    "id": 68,
+    "answer": "1. Locate Trigger: The visual trigger is a 'dark figure' flying out of a window, identified specifically as an 'ironing board' or iron (ID 272). 2. Link to Memory: This sight triggers the memory of her playing with her mother's iron and 'pretending it was a boat in a storm' before she lost her doll (ID 273). 3. Synthesize: The falling household item acts as a sensory link to a lost era of play; the physical presence of the iron in a moment of neighborhood violence (Melina's breakdown) triggers the narrator to contrast her current fear with the time when that same object was a mere toy in her imagination.",
+    "evidence_ids": [
+      272,
+      273,
+      274
+    ]
+  },
+  {
+    "id": 69,
+    "answer": "1. Locate Trigger: The triggers are the smell of 'rotten mud of the pond,' the 'musty scent of moss,' and the 'sweet, syrupy fragrance of spring' (ID 780). 2. Link to Memory/Thought: These environmental smells trigger the narrator’s sensation of a 'fluff thread tugging' inside her and her 'urgent longing' for fulfillment (ID 784). 3. Synthesize: The clash between the scents of decay (mud/moss) and life (spring fragrance) acts as a sensory stimulant for the narrator's psychological state; the 'rotting' environment triggers her internal shift toward primal, self-destructive pleasure as an escape from the social failures of Lina's wedding day.",
+    "evidence_ids": [
+      780,
+      784
+    ]
+  },
+  {
+    "id": 70,
+    "answer": "1. Locate Trigger: The sensory triggers are the 'scent of asphalt' from the steam roller and the sight/scent of 'fresh wood and grass' from felled trees (ID 952, 954). 2. Link to Memory/Thought: These details cause the narrator to be 'distracted and looking at Pasquale' (ID 962), which leads her to confront Lina and discover she has been teaching herself Latin from library books (ID 963, 964). 3. Synthesize: The sensory markers of neighborhood modernization (asphalt and cut wood) trigger a moment of cognitive distraction that breaks the narrator’s focus on her own studies, leading to a direct confrontation that uncovers the non-linear way Lina has been acquiring knowledge behind her back.",
+    "evidence_ids": [
+      952,
+      954,
+      962,
+      963,
+      964
+    ]
+  },
+  {
+    "id": 71,
+    "answer": "1. Locate Trigger: The trigger is the sudden memory of Professor Oliviero falling from the podium and 'collapsing to the ground like a broken puppet' (ID 1140, 1125). 2. Link to Memory/Thought: This memory leads the narrator to observe the mother figures on the road and realize that their bodies have become 'destroyed' and 'worn down' like their husbands (ID 1132, 1133). 3. Synthesize: The visual recall of the teacher's physical breaking acts as a sensory gateway; it allows the narrator to connect a childhood trauma to her current adult fear—that all women in Mergellina are destined to have their physical selves 'shattered' or 'corrupted' by their environment until they lose their feminine identity entirely.",
+    "evidence_ids": [
+      1125,
+      1132,
+      1133,
+      1140
+    ]
+  },
+  {
+    "id": 72,
+    "answer": "1. **Locate Trigger:** The specific sensory object is the drawer of the checkout counter (the cash register). 2. **Link to Memory:** The sight of Lina opening this drawer leads the narrator to think about a 'safe' Lina had imagined as a child. 3. **Synthesize:** Observing Lina’s carefree interaction with the cash register drawer (Sensory stimulus) triggers the memory arousal of the childhood 'safe' Lina once envisioned (Memory arousal), allowing the narrator to interpret Lina's current material generosity through the lens of their shared past fantasies.",
+    "evidence_ids": [
+      1211,
+      1212
+    ]
+  },
+  {
+    "id": 73,
+    "answer": "1. **Locate Trigger:** The sensory trigger is the act of looking at the shop windows on the Street of a Thousand. 2. **Link to Memory:** This visual activity triggers the memory of the 'girl in the green dress' with the cylinder hat. 3. **Synthesize:** The visual stimulation of high-end commercial windows (Sensory stimulus) awakens a deep-seated memory of a specific person from their past who embodied class inequality (Memory arousal), leading the narrator to acknowledge that even their current wealth cannot erase the internal feeling of social malice and 'fear' associated with that past image.",
+    "evidence_ids": [
+      1348,
+      1349,
+      1351
+    ]
+  },
+  {
+    "id": 74,
+    "answer": "1. **Locate Trigger:** The sensory detail is Marcello’s physical handsomeness, specifically his dark, shiny hair and white teeth when he smiles. 2. **Link to Memory:** This visual object triggers the narrator’s memory of the character Ettore (Hector). 3. **Synthesize:** Marcello's visual appearance (Sensory stimulus) acts as an associative trigger for the narrator to recall the specific illustrations found in her Iliad textbook (Memory arousal), indicating how the narrator filters her perception of real-world people through the classical imagery of her studies.",
+    "evidence_ids": [
+      1428
+    ]
+  },
+  {
+    "id": 75,
+    "answer": "1. **Locate Trigger:** The sensory trigger is the 'scent of his [Antonio's] skin.' 2. **Link to Memory:** This olfactory detail leads directly to the narrator's recall of their meetings 'by the pond' and 'in the abandoned canning factory.' 3. **Synthesize:** The internal recollection of a specific smell (Sensory stimulus) triggers a vivid sequence of memories regarding the physical locations and whispered moments of her past relationship (Memory arousal), serving as a psychological escape from her current state of exhaustion.",
+    "evidence_ids": [
+      2163
+    ]
+  },
+  {
+    "id": 76,
+    "answer": "1. **Locate Trigger:** The sensory detail is the sight of a 'very worn book' popping out from a pile, specifically titled 'Greek Grammar.' 2. **Link to Memory:** This visual object triggers the narrator’s realization that Lina has been secretly studying the subject ahead of her. 3. **Synthesize:** The physical condition (worn state) and title of the book (Sensory stimulus) act as a trigger for the narrator to recall her history of following Lina (Memory arousal), leading to the painful thought that despite her efforts in high school, she is still intellectually lagging behind her friend's private studies.",
+    "evidence_ids": [
+      2173,
+      2180,
+      2181
+    ]
+  },
+  {
+    "id": 77,
+    "answer": "1. **Locate Trigger:** The sensory triggers are the 'smell, sound, and color of Vomero' (ID 2919). 2. **Link to Memory:** These environmental details directly cause the narrator to state that 'all the memories from a few years ago came rushing back' (ID 2919). 3. **Synthesize:** The specific combination of olfactory (smell), auditory (sound), and visual (color) stimuli unique to the location of Vomero acts as a cognitive bridge, bypassing the physical discomfort of the present arrival to instantly activate the narrative's 'memory bank' regarding her previous life-altering stay there.",
+    "evidence_ids": [
+      2919
+    ]
+  },
+  {
+    "id": 78,
+    "answer": "1. **Locate Trigger:** The environmental triggers include the auditory 'squeak' of large sand grains (ID 3481), the sea's 'strong odor,' the 'monotonous sound' of waves (ID 3482), and the visual intensity of the 'noon sun' (ID 3492). 2. **Link to Memory:** These details summon a mental image of her mother as a younger, healthier woman sitting in that exact spot (ID 3491, 3493). 3. **Synthesize:** The 'scorching sand' (ID 3493) serves as a tactile and thermal bridge. The current physical sensation of the sand against Elena's feet triggers a latent memory of her mother burying her 'faulty leg' in the same sand years earlier, creating a sensory-driven transition from her present struggle to swim to her cognitive reconciliation with her mother's history.",
+    "evidence_ids": [
+      3481,
+      3482,
+      3491,
+      3492,
+      3493
+    ]
+  },
+  {
+    "id": 79,
+    "answer": "1. **Locate Trigger:** The sensory triggers are the 'thick, acrid smell of sulfur' and the 'loud explosions' of firecrackers (ID 2658). 2. **Link to Memory:** This sensory overload leads Lina to recall the childhood face of her brother—the 'face she had always remembered' as a generous and honest protector (ID 2657). 3. **Synthesize:** The sulfur and noise create a high-stress environment that acts as a catalyst for 'the disappearance of the boundary' (ID 2653). The sensory distortion causes her to mentally map the safe, childhood image of Rino onto the current violent figure, only for that memory to 'break apart' under the pressure of the present stimulus.",
+    "evidence_ids": [
+      2653,
+      2657,
+      2658,
+      2660
+    ]
+  },
+  {
+    "id": 80,
+    "answer": "1. **Locate Trigger:** The triggers are specific spatial locations within the environment: a 'corner of the balcony,' the 'place where I sat at the table,' and the 'place where I slept in the kitchen' (ID 3106). 2. **Link to Memory:** These visual and spatial anchors immediately trigger the memory of Donato 'bending down, putting his hand under my sheets' (ID 3107). 3. **Synthesize:** The narrator's physical act of acting as a 'pilgrim' showing others the house is undermined by the sensory recognition of the 'crime scene.' The sight of her former sleeping quarters acts as a direct stimulus for the somatic memory of trauma, manifesting as a physical sensation of feeling 'sick' in the present (ID 3108).",
+    "evidence_ids": [
+      3106,
+      3107,
+      3108
+    ]
+  },
+  {
+    "id": 81,
+    "answer": "1. **Locate Trigger:** The visual trigger is the 'purple sky' at sunset (ID 3221). 2. **Link to Memory:** This visual stimulus transitions directly into a discussion and inner thought about how Donato 'ruined Melina' (ID 3224). 3. **Synthesize:** The narrator describes the purple sky as making her 'feel cold inside' (ID 3221), a somatic reaction that mirrors the emotional coldness associated with Melina's suffering. The transition from the aesthetic 'purple' of the environment to the dark 'desire' of the memory (ID 3227) demonstrates how a specific color can serve as an affective trigger for latent moral and historical grievances.",
+    "evidence_ids": [
+      3221,
+      3224,
+      3227
+    ]
+  },
+  {
+    "id": 82,
+    "answer": "1. **Locate Trigger:** The sensory trigger is a 'scar on his hand,' described as a 'wide mark' (ID 2493). 2. **Link to Memory:** This physical object triggers the narrator's memory of Rino's childhood habit (since age twelve) of collecting unexploded firecrackers (ID 2490, 2492). 3. **Synthesize:** The scar functions as a permanent 'tactile record' of the past. The sight of it in the present context of Rino's New Year's fervor acts as the cognitive anchor that bridges his current adult obsession with firecrackers back to his childhood attempts to 'wash away the shame' of poverty (ID 2494).",
+    "evidence_ids": [
+      2490,
+      2492,
+      2493,
+      2494
+    ]
+  },
+  {
+    "id": 83,
+    "answer": "1. **Locate Trigger:** The auditory sensory detail is identified as the 'sound of the key turning in the lock' on the night of August 10, 1963. 2. **Link to Memory:** This specific sound immediately causes the narrator to psychologically recall the past terror of the neighborhood. 3. **Synthesize:** The sound of the lock serves as the medium for a cognitive displacement where the physical presence of Stefano is replaced by the memory of his father's soul inhabiting his body, reviving the narrator's childhood fear of Don Achille's ghost.",
+    "evidence_ids": [
+      4434
+    ]
+  },
+  {
+    "id": 84,
+    "answer": "1. **Locate Trigger:** The triggers are tactile and olfactory: the 'wind blowing against my body' and the 'scent of grass and trees from the early morning' on the way to Barano. 2. **Link to Memory:** These fresh morning sensations directly contrast with and thus trigger a dark mental projection of Lina and Nino 'embracing each other in the empty house.' 3. **Synthesize:** The external stimulation of the narrator's senses by the island's morning air serves as the catalyst for her to cognitively visualize the secret, passionate emotions of the lovers, causing her significant internal unease.",
+    "evidence_ids": [
+      4305,
+      4306
+    ]
+  },
+  {
+    "id": 85,
+    "answer": "1. **Locate Trigger:** The triggers are multi-sensory details on the beach: the 'fragrant' night, the 'intoxicating sound of the waves,' the 'cold' tactile sensation of the sand, and the visual of the 'sea surface, shimmering with glints of blue-gray light.' 2. **Link to Memory:** This intense sensory input leads directly to the narrator's memory of Lina's words regarding the sky being a 'terrifying expanse' and beauty being deceptive. 3. **Synthesize:** The narrator's immersion in the physical beauty of the moonlit beach acts as a paradoxical trigger; the sensory richness of the moment forces her to recall Lina’s nihilistic theory, leading her to perceive the sea not as beautiful, but as a 'terrifying sight.'",
+    "evidence_ids": [
+      4368,
+      4369,
+      4370
+    ]
+  },
+  {
+    "id": 86,
+    "answer": "1. **Locate Trigger:** The visual trigger is the way the 'dark room seemed to be wrapped in red and blue lights' as Lina goes to sleep on July 29th. 2. **Link to Memory:** This specific visual atmosphere triggers the narrator's feeling of being 'lightheaded' and physically disconnected from the bed. 3. **Synthesize:** The distorted lighting in the room, combined with the physical fatigue of swimming and sun exposure, triggers a cognitive state of mind-body separation where the narrator feels as if she is 'floating on the bedsheet.'",
+    "evidence_ids": [
+      3770
+    ]
+  },
+  {
+    "id": 87,
+    "answer": "1. **Locate Trigger:** The tactile trigger is the 'cold finger touch' on the narrator's shoulder while she is alone on the dark beach at night. 2. **Link to Memory:** The shock of this cold physical contact immediately leads her to think of the mythological concept of a potion that can 'bring the dead back to life.' 3. **Synthesize:** The sensory stimulus of the cold touch from an unexpected person (Donato) breaks her state of depression and triggers a dramatic mental shift, where she likens the experience to a supernatural restoration of her will to live.",
+    "evidence_ids": [
+      4380,
+      4381
+    ]
+  },
+  {
+    "id": 88,
+    "answer": "1. **Locate Trigger:** The trigger is the visual change in the sea water as the narrator looks down: the 'sky-blue' turning into 'deep blue' and finally growing 'darker and darker, like night.' 2. **Link to Memory:** This darkening color triggers a psychological transition from a routine swim to a vision of a 'deep chasm' and a 'death trap.' 3. **Synthesize:** The visual descent into the darkness of the water acts as an associative trigger for the narrator's underlying existential fear, causing her to mentally re-categorize the physical ocean as a predatory force designed to 'drag her down into the depths.'",
+    "evidence_ids": [
+      3954,
+      3955
+    ]
+  },
+  {
+    "id": 89,
+    "answer": "1. **Locate Trigger:** The auditory triggers are the 'rustling of reeds outside the window' and the 'commotion in the chicken coop' heard just before sleep on July 27th. 2. **Link to Memory:** These night sounds establish a state of heightened awareness that allows the narrator to 'immediately wake up' when Lina enters the room. 3. **Synthesize:** The sensory commotion in the environment primes the narrator's psychological state, leading her to move from deep sleep directly into a cognitive engagement with the figure sitting on her bed.",
+    "evidence_ids": [
+      3642,
+      3644
+    ]
+  },
+  {
+    "id": 90,
+    "answer": "1. **Locate Trigger:** The olfactory trigger is the smell of 'old tires mixed with the odor of the chicken coop' coming through an open door at the bar. 2. **Link to Memory/Action:** This sensory detail draws the narrator toward the opening in the wall and the garden beyond. 3. **Synthesize:** The specific unpleasant odors of the courtyard act as a sensory path that triggers the narrator's investigation, leading her from the public bar into the private garden where she discovers the secret intimacy between Lina and Nino.",
+    "evidence_ids": [
+      3861,
+      3863
+    ]
+  },
+  {
+    "id": 91,
+    "answer": "1. **Locate Trigger:** The triggers are the 'wind' and the visual of 'wisps of clouds in the sky' and 'big waves' on the beach on August 8. 2. **Link to Memory/Thought:** The presence of these dynamic elements leads the narrator to reflect on how 'happy' and 'full of energy' Lina and Nino appear to be. 3. **Synthesize:** The kinetic energy of the natural environment (wind and waves) acts as an associative mirror for the narrator's perception of the lovers' passion, triggering her internal realization that they are 'lost in their own story' and willing to pay any price for their desires.",
+    "evidence_ids": [
+      4211,
+      4212
+    ]
+  },
+  {
+    "id": 92,
+    "answer": "1. **Locate Trigger:** The trigger is the sensory embodiment of wealth taking on a 'shape, a smell, and a sound' through the person of Stefano Carracci. 2. **Link to Memory/Thought:** This sensory perception leads to the narrator's internal feeling of 'excitement' and the realization that childhood fantasies are over. 3. **Synthesize:** By perceiving wealth through the specific, 'friendly and charming' sensory details of the 'eldest son of Don Achille,' the narrator undergoes a psychological shift where abstract dreams of gold are triggered to be replaced by the concrete, adult reality of 'business and negotiations.'",
+    "evidence_ids": [
+      4667,
+      4668
+    ]
+  },
+  {
+    "id": 93,
+    "answer": "1. **Locate Trigger:** In the Martiri Square store, the specific sensory detail is the 'yellowed stain left on the wall' after the wedding photo board was removed (ID 4908). 2. **Link to Memory:** This visual trace of destruction directly leads the narrator to recall 'pivotal moments' of Lina's life in that downtown area, specifically a night years ago when she clashed with young people on Thousand-Man Army Street (ID 4912). 3. **Synthesize:** The yellowed stain serves as a physical scar of the past, triggering a chronological jump from the present act of renovation to the foundational memory of Lina's struggle to escape her social class.",
+    "evidence_ids": [
+      4908,
+      4912
+    ]
+  },
+  {
+    "id": 94,
+    "answer": "1. **Locate Trigger:** After seeing a figure resembling Donato Nino, the narrator experiences her heart 'pounding wildly, like a gunshot' (ID 4822). 2. **Link to Memory:** This specific internal sound/sensation triggers the memory of a letter from Lina (ID 4823). 3. **Synthesize:** The acoustic metaphor of the heart as a 'gunshot' bridges the gap between physical fear and a literary memory, causing her to recall Lina's written description of a 'copper pot being torn apart,' linking physical trauma to linguistic imagery.",
+    "evidence_ids": [
+      4822,
+      4823
+    ]
+  },
+  {
+    "id": 95,
+    "answer": "1. **Locate Trigger:** The environmental triggers include the 'terrible odor,' the sight of 'cockroaches crawling under the door,' and 'mold spots forming on the ceiling' (ID 5049). 2. **Link to Memory:** These sensory inputs cause her to feel the 'experience of her childhood once again seizing her' (ID 5049). 3. **Synthesize:** The physical decay of the apartment (smell and sight) acts as a sensory mirror to her past, forcing a transition from her current adult crisis to the 'sorrowful, brutal' psychological reality of her early life.",
+    "evidence_ids": [
+      5049
+    ]
+  },
+  {
+    "id": 96,
+    "answer": "1. **Locate Trigger:** The trigger is the sound of her mother 'tapping the bowl with a spoon' (ID 5403). 2. **Link to Memory:** this sound alerts the narrator to her mother's presence and the preparation of 'egg pudding' (ID 5403). 3. **Synthesize:** The rhythmic sound of the spoon functions as an associative trigger for maternal care and domestic routine, shifting the narrator's focus from her sleep to the visceral, 'melt-in-your-mouth' tenderness of the pudding, which grounds her during her period of intense study discipline.",
+    "evidence_ids": [
+      5403
+    ]
+  },
+  {
+    "id": 97,
+    "answer": "1. **Locate Trigger:** The trigger is Nino’s 'soft, sticky tone' of voice (ID 5720). 2. **Link to Memory:** This tone immediately evokes the 'beach at Maronti' and the time in Balano (ID 5720). 3. **Synthesize:** The narrator identifies a specific vocal quality as a permanent marker of Nino’s persona; the 'soft, sticky' sound acts as a sensory portal that pulls her away from the current conflict at Mercato back to the psychological landscape of a previous summer.",
+    "evidence_ids": [
+      5720
+    ]
+  },
+  {
+    "id": 98,
+    "answer": "1. **Locate Trigger:** The sensory trigger is the sight of the 'blueprints hanging on the wall' (ID 5121). 2. **Link to Memory:** Seeing these drawings leads the narrator to think about how they represent Lina's 'fantasies' and Stefano's devotion (ID 5122). 3. **Synthesize:** The blueprints are more than technical documents; their visual presence in the workshop environment triggers an internal analysis of the project as the 'final result of her delirium,' transforming the physical shop into a space of psychological projection.",
+    "evidence_ids": [
+      5121,
+      5122
+    ]
+  },
+  {
+    "id": 99,
+    "answer": "1. **Locate Trigger:** The narrator sees the person 'crossing his fingers and holding them together, as if praying' (ID 4943). 2. **Link to Memory:** This visual gesture triggers the realization that his 'illness' has returned (ID 4943). 3. **Synthesize:** A specific physical habit (crossing fingers) acts as a visual symptom that moves the narrator's inner thought from general observation to the diagnostic certainty of a recurring pathological condition.",
+    "evidence_ids": [
+      4943
+    ]
+  },
+  {
+    "id": 100,
+    "answer": "1. **Locate Trigger:** The visual objects are the 'stone lions in the central square' (ID 4914). 2. **Link to Memory:** The sight of these statues leads directly to the thought of 'those lions that made her afraid' (ID 4914). 3. **Synthesize:** The environmental detail of the stone lions acts as a permanent sensory anchor for a childhood emotion, proving that her transition through the high-end district is constantly interrupted by deep-seated associative fears.",
+    "evidence_ids": [
+      4914
+    ]
+  },
+  {
+    "id": 101,
+    "answer": "1. **Locate Trigger:** The visual triggers are 'his books, his notes, and his razor and soap' left in the room (ID 5004). 2. **Link to Memory:** Seeing these personal effects leads Lina to the thought: 'He'll be back here in ten minutes' (ID 5004). 3. **Synthesize:** The presence of mundane sensory objects (razor, soap) acts as a catalyst for a protective delusion, where the permanence of the objects in the environment triggers a mental denial of his permanent abandonment.",
+    "evidence_ids": [
+      5004
+    ]
+  },
+  {
+    "id": 102,
+    "answer": "1. **Locate Trigger:** The trigger is the 'shiny water in the basin' at which Lina is staring (ID 5992). 2. **Link to Memory:** This visual focus transitions her thoughts to 'our primary school teacher' and the question of why she was excluded from the teacher's house (ID 5990). 3. **Synthesize:** The reflective, 'shiny' quality of the bathwater serves as a meditative focal point, triggering a regression from the immediate physical preparation for her wedding to a lingering childhood sense of unworthiness and social rejection.",
+    "evidence_ids": [
+      5990,
+      5992
+    ]
+  },
+  {
+    "id": 103,
+    "answer": "1. Locate Trigger: The auditory detail of the sound of dripping water (ID 6010). 2. Link to Memory: This sound directly elicits a recollection of the tactile similarity between a copper basin and Lina's skin. 3. Synthesize: The auditory stimulus (dripping water) acts as an anchor that bridges the present sensory experience with a refined memory of touch ('smooth, solid, and calm'), illustrating how auditory rhythms can trigger detailed tactile retrieval from past intimate actions.",
+    "evidence_ids": [
+      6010
+    ]
+  },
+  {
+    "id": 104,
+    "answer": "1. Locate Trigger: The visual observation of Alfonso's large eyes, thick lips, and hairless face (ID 6075). 2. Link to Memory: These specific facial features retrieve a memory of a Spanish ballet dancer the narrator had seen on television. 3. Synthesize: The sensory stimulus of Alfonso's maturing face—contrasted against his brother's—serves as a visual bridge that pulls a mediated image (the TV dancer) into the current social context, demonstrating the narrator's cognitive habit of filtering local reality through external artistic or media archetypes.",
+    "evidence_ids": [
+      6075
+    ]
+  },
+  {
+    "id": 105,
+    "answer": "1. Locate Trigger: The visual sight of Marcello Solara wearing a specific pair of 'Lina' men's shoes (ID 6287). 2. Link to Memory: This sighting triggers the memory of the grueling months Lina and Rino spent crafting those shoes, which physically 'wore their hands down' (ID 6290). 3. Synthesize: The sensory object (the shoes) acts as a traumatic trigger; seeing her labor of love on the feet of an enemy effectively collapses the present moment and pulls Lina back into the physical pain and dedication of her past work, exposing the depth of Stefano's betrayal.",
+    "evidence_ids": [
+      6287,
+      6289,
+      6290
+    ]
+  },
+  {
+    "id": 106,
+    "answer": "1. Locate Trigger: The visual and emotional state of Pinocchia as an 'abandoned lover' (ID 6856). 2. Link to Memory: This state triggers a flashback to the sight of Melina (Nino's mother) when she was abandoned, specifically the image of the 'iron flying out of the window' during their family's exodus. 3. Synthesize: The sensory trigger of Pinocchia’s current suffering is cognitively mapped onto the neighborhood's recurring historical cycle of female abandonment. This 'long, painful flame' connects two different temporal periods through the visual stimulus of a woman’s ruin.",
+    "evidence_ids": [
+      6856,
+      6857
+    ]
+  },
+  {
+    "id": 107,
+    "answer": "1. Locate Trigger: The linguistic mention of 'Stazione Centrale' associated with the name 'Bruno Socavo' (ID 7006). 2. Link to Memory: This information retrieves the sensory details of the summer at Maronti beach—specifically the 'clattering sound' of a train and the 'cold sand' during her encounter with Donato Nino (ID 7008, 7010). 3. Synthesize: The specific name 'Socavo' (Nino’s associate) and the location 'Stazione Centrale' act as an associative trigger that bypasses the narrator's current academic environment, dragging her back into the tactile and olfactory sensations of a past sexual trauma that had previously been suppressed.",
+    "evidence_ids": [
+      7006,
+      7008,
+      7010,
+      7011
+    ]
+  },
+  {
+    "id": 108,
+    "answer": "Locate Trigger: The smell of sausages hanging in the square room under yellow light (7386, 7396). Link to Memory: This olfactory stimulus directly evokes the memory of her husband Stefano's brutality (7396). Synthesize: While Bruno Soccavo attempts to frame the 'enticing aroma' of the meat as a sexual stimulant (7392, 7393), for Lina, the specific scent of the sausages acts as a traumatic sensory anchor. The smell bridges the current moment of harassment to her past experience of physical violence, awakening a visceral memory of Stefano's cruelty.",
+    "evidence_ids": [
+      7386,
+      7392,
+      7393,
+      7396
+    ]
+  },
+  {
+    "id": 109,
+    "answer": "Locate Trigger: A 'rusted paperclip' that left a 'yellow stain' on a dozen folded pages (7545, 7548). Link to Memory: The recognition of 'The Blue Fairy,' a story written by Lina when they were children (7546). Synthesize: The physical decay of the notebook (the rust and yellow staining) acts as a sensory trigger that collapses time. This visual detail immediately transports Elena back 'thirteen or fourteen years' (7546), awakening a flood of complex memories regarding her childhood jealousy and the 'secret core' of her own creative identity (7554).",
+    "evidence_ids": [
+      7545,
+      7546,
+      7548,
+      7554
+    ]
+  },
+  {
+    "id": 110,
+    "answer": "Locate Trigger: The sight of 'old, aristocratic furniture and chandeliers' and 'bookshelves... piled high with books' (7988). Link to Memory: The specific environment that Nino was part of before their shared past became a struggle (7989). Synthesize: The visual stimulus of the refined, wealthy interior acts as a sensory trigger. It contrasts sharply with Lina's current 'dirty' physical state reeking of 'raw meat' (7984), awakening the memory of the social world Nino inhabited and her own sense of exclusion and eventual descent into 'the mud' of her current life.",
+    "evidence_ids": [
+      7984,
+      7988,
+      7989
+    ]
+  },
+  {
+    "id": 111,
+    "answer": "Locate Trigger: The smell of the courtyard fire mixed with 'animal fat, meat, and tendons,' and the greasy scent of Lina’s blue overall (7668). Link to Memory: A vision of Enzo and Lina in a humble room, performing 'chart exercises' in 'blinding light' (7671, 7674). Synthesize: The intense, industrial odors of slaughterhouse waste act as an associative trigger. This sensory stimulus awaken's Elena’s memory of the psychological resilience of her friends, specifically how they reduced their 'tragic world' to the 'abstract simplicity' of 0s and 1s in their dilapidated home (7674, 7675).",
+    "evidence_ids": [
+      7668,
+      7671,
+      7674,
+      7675
+    ]
+  },
+  {
+    "id": 112,
+    "answer": "Locate Trigger: The sight of Michele's fingers pressing a cigarette into an ashtray with enough force that his 'nails were slightly white' (8127). Link to Memory/Thought: The realization that Michele's pursuit of her is based on a 'superstition' that she possesses a power he needs (8129, 8130). Synthesize: The visual intensity of the pressure in Michele's fingers acts as a sensory trigger. It reveals his internal desperation and psychological 'pain' (8130), awakening Lina's understanding that she is viewed not as a woman, but as a source of intellectual or mystical 'creation' he hopes to possess.",
+    "evidence_ids": [
+      8127,
+      8129,
+      8130
+    ]
+  },
+  {
+    "id": 113,
+    "answer": "Locate Trigger: The visual of 'tangled threads of cotton, letters, ink, books, and chaotic words' (7460). Link to Memory: The childhood destiny and 'things Lina and I planned as children' (7462). Synthesize: While Elena physically touches the worn books, the 'tangled' visual stimulus of the library shelves acts as a trigger. It awaken's the memory of her and Lina's shared childhood imagination, causing her to realize that her published novel is the physical manifestation of the chaotic pact they made long ago.",
+    "evidence_ids": [
+      7460,
+      7461,
+      7462
+    ]
+  },
+  {
+    "id": 114,
+    "answer": "Locate Trigger: The sensation of the wooden table 'trembling' under her elbow as her mother presses an old iron (7419). Link to Memory/Thought: The need to speak 'softly in Italian' to convince herself that the publication is real (7421). Synthesize: The physical vibration of the table acts as a tactile trigger. This sensory experience grounds the abstract success of the book contract in the humble, physical reality of her mother’s labor, awakening a psychological conflict between her illiterate past and her professional future.",
+    "evidence_ids": [
+      7419,
+      7421
+    ]
+  },
+  {
+    "id": 115,
+    "answer": "Locate Trigger: Sitting together in a 'dark alley, on the grass' (7219). Link to Memory: The thought that he would 'disappear from my life like Franco Mari' (7219). Synthesize: The physical sensation of the dark alley and the grass acts as an associative trigger. This specific urban sensory setting mirrors previous clandestine encounters, awakening the memory of Franco Mari’s sudden exit from her life and projecting it onto her current relationship.",
+    "evidence_ids": [
+      7219
+    ]
+  },
+  {
+    "id": 116,
+    "answer": "Locate Trigger: The sight of 'ink [that] had turned white' and handwriting 'very similar' to Elena's own (7553). Link to Memory/Thought: The admission that these passages were the 'secret core' and source of 'heat' for her own book (7554, 7555). Synthesize: The visual transformation of the faded ink acts as a sensory trigger. It bridges the gap between the physical manuscript in her hand and her internal creative process, awakening the realization that her 'mature work' is rooted in the imagination of Lina's childhood.",
+    "evidence_ids": [
+      7553,
+      7554,
+      7555
+    ]
+  },
+  {
+    "id": 117,
+    "answer": "Locate Trigger: The 'oily smell in Capodimonte' (7343). Link to Memory: Alfonso’s lack of nostalgia for Mergellina, his brothers, or his sisters (7343). Synthesize: The narrator uses the 'oily smell' as a sensory synecdoche for their childhood neighborhood. This olfactory trigger awakens the realization that Alfonso’s current 'handsome nobleman' appearance is a complete psychological departure from the sensory reality of their working-class roots.",
+    "evidence_ids": [
+      7342,
+      7343
+    ]
+  },
+  {
+    "id": 118,
+    "answer": "1. Locate Trigger: The scent of 'brand new' books accompanied by the 'smell of ink' (Item 8642). 2. Link to Memory: This olfactory stimulus triggers a memory of borrowing 'old, smelly ones' from the Mergellina library with Lina as children. 3. Synthesize: The clean, industrial scent of her current success acts as a sensory counterpoint to the odor of poverty and shared history associated with her childhood intellectual pursuits with Lina, highlighting the divide between her present and her past.",
+    "evidence_ids": [
+      8642
+    ]
+  },
+  {
+    "id": 119,
+    "answer": "1. Locate Trigger: The physical departure of Melina after their brief conversation (Item 8545). 2. Link to Memory: Melina's physical presence triggers the specific memory of her as a child 'walking down the main road, chewing on a piece of purchased soft soap' (Item 8546). 3. Synthesize: The visual stimulus of Melina—despite her heavy makeup and dyed hair in the present—acts as a psychological portal to the narrator's early neighborhood trauma, where Melina’s breakdown serves as a recurring symbol of the chaos she fears for herself.",
+    "evidence_ids": [
+      8545,
+      8546
+    ]
+  },
+  {
+    "id": 120,
+    "answer": "1. Locate Trigger: A 'faintly familiar scent' of 'someone else's body' on the bed in the dark room (Item 9218). 2. Link to Memory: This smell is directly linked to the 'secret smell on my own bed at home.' 3. Synthesize: The sensory detection of a stranger's biological trace in an unfamiliar room collapses the temporal and physical distance between her new environment and her intimate past, amplifying her feeling of physical sickness and lack of safety.",
+    "evidence_ids": [
+      9218
+    ]
+  },
+  {
+    "id": 121,
+    "answer": "1. Locate Trigger: Trying on a 'beige suit' with a 'short skirt' (Item 8558). 2. Link to Memory: This visual and tactile experience triggers the memory of Lina's 'luxurious wedding gown' and the specific photo of her displayed in the window of the Rettifilo district. 3. Synthesize: The physical garment serves as a tactile symbol of Elena's transition; the contrast in clothing styles triggers a broader realization that their weddings—and lives—now belong to 'entirely separate worlds,' driven by the sensory experience of choosing her own attire.",
+    "evidence_ids": [
+      8558
+    ]
+  },
+  {
+    "id": 122,
+    "answer": "1. Locate Trigger: The 'echo' of Giugliara’s voice in her mind during the night (Item 9561). 2. Link to Memory: The auditory memory brings back neighborhood claims that Lina had a 'terrible power' to make things 'possessed' or 'catch fire.' 3. Synthesize: Under the psychological strain of a crying child and lack of sleep, the auditory trigger of Giugliara’s voice overrides Elena's rational education, causing her to regress into the superstitious logic of her childhood to explain her current 'cursed' state.",
+    "evidence_ids": [
+      9561
+    ]
+  },
+  {
+    "id": 123,
+    "answer": "1. Locate Trigger: The physical act of the mother touching items like 'the coffee pot, the glass with milk, the sugar bowl' (Item 8922). 2. Link to Memory/Thought: These objects trigger a thought associated with her mother's volatile history—that she 'would want to smash it right into my face.' 3. Synthesize: The mundane sensory experience of a breakfast table is transformed through Elena's long-term memory of maternal violence, where the handling of physical objects becomes a readable sign of suppressed rage.",
+    "evidence_ids": [
+      8922
+    ]
+  },
+  {
+    "id": 124,
+    "answer": "1. Locate Trigger: The visual of Nino talking to intellectual authority figures like Professor Tarrantano with 'ease and charm' (Item 8645). 2. Link to Memory: This image triggers the memory of Nino 'talking to Teacher Galiani in the school corridor' (Item 8646). 3. Synthesize: The visual pattern of Nino interacting with 'big shots' in the present provides a sensory bridge to his past self, allowing Elena to recognize the continuity of his character across different temporal stages of her life.",
+    "evidence_ids": [
+      8645,
+      8646
+    ]
+  },
+  {
+    "id": 125,
+    "answer": "1. Locate Trigger: The 'scent of cigar smoke' and the physical sensation of 'fingertips brush[ing] my foot' (Item 9229, 9232). 2. Link to Memory: This triggers the memory of the 'married man' (Donato Sarratore) in Ischia (Item 9245-9247). 3. Synthesize: The specific combination of cigar odor and invasive touch acts as a somatic trigger that pulls Elena out of her present academic identity and back into the trauma of Ischia, merging the two experiences into a single sense of inescapable violation.",
+    "evidence_ids": [
+      9229,
+      9232,
+      9245
+    ]
+  },
+  {
+    "id": 126,
+    "answer": "1. Locate Trigger: Giggia opening a 'paper package' containing 'ham and sausages' (Item 8405). 2. Link to Memory/Thought: This sensory abundance triggers the thought that Giggia was 'trying very hard to make me believe in her wealth and extravagance' (Item 8407). 3. Synthesize: The physical presence of expensive food items acts as a sensory trigger for Elena's analysis of Giggia’s psychological performance, linking the material offering to the performative nature of Giggia's new life.",
+    "evidence_ids": [
+      8405,
+      8407
+    ]
+  },
+  {
+    "id": 127,
+    "answer": "1. Locate Trigger: A 'sharp pain in my right buttock' and the resulting 'limp' (Item 9529, 9531). 2. Link to Memory/Fear: The physical sensation triggers the internal fear that her 'mother's steps would be imprinted' on her (Item 9534). 3. Synthesize: The physiological experience of pain and the visual of her own changed gait act as a sensory bridge to her mother's physical disability, causing Elena to fear that she is biologically regressing into the very identity she tried to escape.",
+    "evidence_ids": [
+      9531,
+      9534
+    ]
+  },
+  {
+    "id": 128,
+    "answer": "1. **Locate Trigger:** The trigger is the sensory perception of the 'young men in the procession,' specifically characterized by their 'joyful energy' and a tangible 'heat' that the narrator feels drawing her in (Evidence ID 9738).\n2. **Link to Memory:** This sensation directly leads to a memory of her as a young girl in Mergellina, specifically the moment when Antonio or Pasquale would 'grab my arm and force me to dance' (Evidence ID 9741).\n3. **Synthesize:** The tactile and thermal sensation ('heat') of the aggressive male energy in the current environment acts as a sensory bridge. It bypasses the narrator's current status as a married, educated woman and awakens the dormant physical memory of being a reluctant, clumsy girl being physically led by the young men of her past.",
+    "evidence_ids": [
+      9738,
+      9741
+    ]
+  },
+  {
+    "id": 129,
+    "answer": "1. **Locate Trigger:** The trigger is the spatial location of the pharmacy 'facing that bare little square' (Evidence ID 10284).\n2. **Link to Memory:** This spatial anchor triggers a cascading visual memory of the interior: 'dark wooden furniture' and 'bottles of all colors lined up in rows,' as well as the specific taste of 'candies and syrups' (Evidence ID 10284, 10285).\n3. **Synthesize:** The mention of the external environment (the square) activates a high-fidelity visual and gustatory retrieval. The sensory stimulus of the 'colored bottles' and the 'dark wood' serves to recreate the internal setting of the pharmacy, allowing the narrator to mentally 'see' the parents bending over the counter as they did decades prior.",
+    "evidence_ids": [
+      10284,
+      10285,
+      10286
+    ]
+  },
+  {
+    "id": 130,
+    "answer": "1. **Locate Trigger:** The specific sensory detail is the sound of Enzo 'speaking in his dialect' to a child in the car outside the window (Evidence ID 10309).\n2. **Link to Memory:** This sound triggers the feeling that he 'brought the scent of San Gregorio Armeno and our Mergellina' (Evidence ID 10309).\n3. **Synthesize:** The auditory stimulus of the native dialect acts as an associative trigger for a complex olfactory and spatial memory. The sound of the dialect carries the 'scent' of her childhood neighborhood, immediately transporting the narrator's consciousness back to her origins and confirming her internal perception that Enzo's physical presence has remained unchanged over time.",
+    "evidence_ids": [
+      10309
+    ]
+  },
+  {
+    "id": 131,
+    "answer": "1. **Locate Trigger:** The sensory details are the 'pale green ward' and the mixture of odors including 'bad breath, urine, and the smell of medicine' (Evidence ID 10211).\n2. **Link to Memory:** These environmental details lead to the sharp recall of 'white bandages on his body' and 'blue bruises on his face and neck' (Evidence ID 10212).\n3. **Synthesize:** The 'sensory overload' of the sterile, odorous hospital environment (Smell -> Medicine/Urine; Color -> Pale Green) acts as the catalyst for the narrative retrieval of trauma. The unpleasant environmental stimuli bridge the gap between the narrator's current visit and her persistent mental image of Franco's physical degradation.",
+    "evidence_ids": [
+      10211,
+      10212
+    ]
+  },
+  {
+    "id": 132,
+    "answer": "1. Locate Trigger: The sensory detail is a 'light blue fan' being used by an old woman. 2. Link to Memory: This visual anchor directly引出了 the auditory memory of the woman 'muttering to herself: \"I feel so hot, don't you?\"' 3. Synthesize: The news of Manuela Solara's death in the present triggers a rapid-fire sequence of visual memories where the blue fan acts as a tactile and auditory catalyst, bringing back the specific physical sensation of the heat and the victim's voice from the narrator's past.",
+    "evidence_ids": [
+      11819
+    ]
+  },
+  {
+    "id": 133,
+    "answer": "1. Locate Trigger: The sensory detail is the 'gray wool sock, with the big toe torn open.' 2. Link to Memory: This visual exposure leads to the inner thought regarding the 'other shoe a meter away.' 3. Synthesize: The sight of the 'big toe torn open' serves as a visceral trigger for Elena to mentally simulate the victim's final physical actions; she logically concludes that the woman was trying to 'kick away her pain and fear,' which caused the shoes to slip off and the sock to tear.",
+    "evidence_ids": [
+      11883,
+      11884
+    ]
+  },
+  {
+    "id": 134,
+    "answer": "1. Locate Trigger: The sensory detail is the sight of 'thin, sparse hair, revealing the white skin of Giòla's skull.' 2. Link to Memory: This imagery of the exposed skull triggers the subsequent thought about 'how many of our childhood playmates are already gone.' 3. Synthesize: The visual stimulus of the 'white skin of the skull' acts as a memento mori, shifting the narrator’s focus from the specific corpse of Giggia to a broader psychological inventory of all the friends lost to illness, nerves, or violence throughout her life.",
+    "evidence_ids": [
+      11890,
+      11891
+    ]
+  },
+  {
+    "id": 135,
+    "answer": "1. Locate Trigger: The sensory detail is the framework of the 'skyscraper at the train station' with its 'layers rising higher and higher.' 2. Link to Memory: This visual height triggers the memory of a child 'imagining that beyond our Mergellina, there were some incredibly magical places.' 3. Synthesize: The physical sight of the skyscraper's vertical progression acts as a temporal bridge; the 'layers rising' trigger a cognitive shift from the 2005 reality of urban decay back to a childhood mindset where height symbolized a limitless and angelic future.",
+    "evidence_ids": [
+      11898
+    ]
+  },
+  {
+    "id": 136,
+    "answer": "1. Locate Trigger: The sensory detail is the 'Po River's current striking the pillars of the Princess Isabella Bridge.' 2. Link to Memory: This rhythmic, forceful movement triggers the memory of Lina's final words: 'But you can't stop me.' 3. Synthesize: The visual of the current 'striking the pillars' serves as a metaphor for Lina’s relentless character. It triggers Elena's cognitive association of Lina as a force that, even if deceased or absent, would 'sneak into the computer' and interfere with the text, much like the river continuously impacts the bridge.",
+    "evidence_ids": [
+      11958,
+      11959,
+      11960
+    ]
+  },
+  {
+    "id": 137,
+    "answer": "1. Locate Trigger: The sensory details are the 'pink slip dress' and the 'hair braided into a long braid that hung down her neck like a snake.' 2. Link to Memory: These details are the core of the 'false memories' Pietro uses to frame his current anguish. 3. Synthesize: The sight of the braid 'like a snake' acts as a potent visual trigger for the concept of deception. This specific sensory detail allows Pietro to anchor his internal feeling of being 'poisoned' by Elena's affair to a primal childhood memory of witnessing his mother's own infidelity.",
+    "evidence_ids": [
+      11781
+    ]
+  },
+  {
+    "id": 138,
+    "answer": "1. Locate Trigger: The sensory details are the 'high-pitched loudspeaker, noise, and commotion in the background.' 2. Link to Memory: This triggers the identification of the 'train station' at San Gregorio Armeno. 3. Synthesize: The auditory 'commotion' serves as a sensory trigger that bridges the geographic gap between the lovers. The sounds of the station allow Elena to mentally place Nino in a specific transit point, triggering the realization that his return to her city—and thus the 'reality' of their affair—is physically imminent.",
+    "evidence_ids": [
+      11529,
+      11530
+    ]
+  },
+  {
+    "id": 139,
+    "answer": "1. Locate Trigger: The sensory detail is the 'strong smell of ink and dust, mixed with the scent of shoe leather and shoe polish.' 2. Link to Memory: This olfactory stimulus triggers the specific memory of the 'IBM System' hidden within that environment. 3. Synthesize: The contrast between the high-tech 'ink' and the traditional 'shoe leather' smells acts as the associative trigger for the cognitive dissonance Elena feels; the scents anchor the memory of a place caught between industrial backwardness and the modern computing power Lina was mastering.",
+    "evidence_ids": [
+      10834,
+      10836
+    ]
+  },
+  {
+    "id": 140,
+    "answer": "1. Locate Trigger: The sensory detail is Nino's 'gestures, which were so infectious.' 2. Link to Memory: This observation triggers the thought that Nino wants the listener to 'enter a world that had been set up just for him.' 3. Synthesize: Nino’s physical movements (gestures) act as a visual trigger for Elena’s psychological interpretation of his charisma. She perceives the physical rhythm of his hands as a tool for cognitive architecture, triggering her belief that he is mentally 'setting up' a reality to entrap or seduce his interlocutor.",
+    "evidence_ids": [
+      11110
+    ]
+  },
+  {
+    "id": 141,
+    "answer": "1. Locate Trigger: The sensory details are the 'woman in black,' a 'man with a big mustache wearing a baseball cap,' and 'clothes hanging outside.' 2. Link to Memory: These images trigger the inner thought that the versions were 'all very rough' and eventually 'useless paper.' 3. Synthesize: The visual cliché of the cover art (clothes hanging, mustachioed men) acts as a trigger for Elena's professional resentment. The 'rough' visual quality of the covers triggers a cognitive transition where she dismisses the intellectual value of her own work's translation, viewing it as a silent, failed extension of her identity.",
+    "evidence_ids": [
+      10920,
+      10922
+    ]
+  }
+]

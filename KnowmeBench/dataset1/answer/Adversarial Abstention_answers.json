@@ -1,0 +1,853 @@
+[
+  {
+    "id": 1,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      3,
+      30
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 2,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      78,
+      129
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 3,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      185,
+      188
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 4,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      42,
+      1639
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 5,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2149,
+      2150
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 6,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      3317,
+      3334
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 7,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      3511,
+      3527
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 8,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      3549,
+      3551
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 9,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      4114
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 10,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2099
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 11,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      3
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 12,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      42
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 13,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      128,
+      129
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 14,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      320,
+      324
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 15,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      327,
+      328
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 16,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      388,
+      389
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 17,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      486,
+      489
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 18,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      520,
+      524
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 19,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      600,
+      601
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 20,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      780,
+      790
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 21,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      854,
+      866
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 22,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      924
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 23,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1118
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 24,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1206
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 25,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1282
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 26,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1613,
+      1615
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 27,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1708
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 28,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1923
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 29,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2038
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 30,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2019,
+      2022
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 31,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2161,
+      2162
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 32,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2289
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 33,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2453
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 34,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2573,
+      2591
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 35,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2820
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 36,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      3042
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 37,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      3307
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 38,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      4252
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 39,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      4649,
+      4652
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 40,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5414
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 41,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      3,
+      30
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 42,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      185,
+      186
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 43,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      327,
+      328
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 44,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      486,
+      487
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 45,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      600,
+      601
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 46,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      780,
+      781
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 47,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      854,
+      3214
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 48,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      924
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 49,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1118
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 50,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1282
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 51,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1613,
+      1615
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 52,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1708,
+      1710
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 53,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1923
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 54,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2038
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 55,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2161,
+      2162
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 56,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2289
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 57,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2453
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 58,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2591
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 59,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2820
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 60,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      3307
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 61,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      4649,
+      4652
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 62,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5414
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 63,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5601
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 64,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5738,
+      5751
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 65,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5787,
+      5848
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 66,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5929
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 67,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5298,
+      5946
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 68,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      6463
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 69,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      6725
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 70,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      6844
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 71,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      3
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 72,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      42
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 73,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      128,
+      129
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 74,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      320,
+      324
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 75,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      327,
+      328
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 76,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      388,
+      389
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 77,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      486,
+      489
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 78,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      520,
+      524
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 79,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      600,
+      601
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 80,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      780,
+      790
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 81,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1613,
+      1615
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 82,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      924
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 83,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1118
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 84,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2038
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 85,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1282
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 86,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1708,
+      1710
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 87,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      1923
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 88,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2019,
+      2022
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 89,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2161,
+      2162
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 90,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2289
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 91,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2453
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 92,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2591
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 93,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      2820
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 94,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      3307
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 95,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      4649,
+      4652
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 96,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5414
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 97,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5601
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 98,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5738,
+      5751
+    ],
+    "strategy": "Non-existent"
+  },
+  {
+    "id": 99,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5787,
+      5848
+    ],
+    "strategy": "False Premise"
+  },
+  {
+    "id": 100,
+    "answer": "The text does not mention / the information is insufficient / I don't know.",
+    "evidence": [
+      5929
+    ],
+    "strategy": "Non-existent"
+  }
+]

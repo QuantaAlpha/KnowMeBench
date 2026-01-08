@@ -1,0 +1,904 @@
+[
+  {
+    "id": 1,
+    "answer": "unable to answer",
+    "evidence": [
+      1,
+      49,
+      452,
+      453
+    ]
+  },
+  {
+    "id": 2,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      516,
+      517,
+      1922,
+      1924
+    ]
+  },
+  {
+    "id": 3,
+    "answer": "unable to answer",
+    "evidence": [
+      48,
+      970
+    ]
+  },
+  {
+    "id": 4,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      26,
+      27,
+      967
+    ]
+  },
+  {
+    "id": 5,
+    "answer": "unable to answer",
+    "evidence": [
+      177,
+      178,
+      494
+    ]
+  },
+  {
+    "id": 6,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      479,
+      1586
+    ]
+  },
+  {
+    "id": 7,
+    "answer": "unable to answer",
+    "evidence": [
+      856,
+      857,
+      967
+    ]
+  },
+  {
+    "id": 8,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      897,
+      1908
+    ]
+  },
+  {
+    "id": 9,
+    "answer": "unable to answer",
+    "evidence": [
+      1321,
+      1709
+    ]
+  },
+  {
+    "id": 10,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      570,
+      2002
+    ]
+  },
+  {
+    "id": 11,
+    "answer": "unable to answer",
+    "evidence": [
+      516,
+      925,
+      929
+    ]
+  },
+  {
+    "id": 12,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      46,
+      1957
+    ]
+  },
+  {
+    "id": 13,
+    "answer": "unable to answer",
+    "evidence": [
+      1135,
+      1507,
+      1508
+    ]
+  },
+  {
+    "id": 14,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      177,
+      189,
+      1281
+    ]
+  },
+  {
+    "id": 15,
+    "answer": "unable to answer",
+    "evidence": [
+      1098,
+      1099,
+      1953
+    ]
+  },
+  {
+    "id": 16,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      1877,
+      1886
+    ]
+  },
+  {
+    "id": 17,
+    "answer": "unable to answer",
+    "evidence": [
+      691,
+      1953
+    ]
+  },
+  {
+    "id": 18,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      845,
+      2049
+    ]
+  },
+  {
+    "id": 19,
+    "answer": "unable to answer",
+    "evidence": [
+      1257,
+      1264,
+      1269
+    ]
+  },
+  {
+    "id": 20,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      967,
+      2035
+    ]
+  },
+  {
+    "id": 21,
+    "answer": "unable to answer",
+    "evidence": [
+      521,
+      522,
+      2007
+    ]
+  },
+  {
+    "id": 22,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      1560
+    ]
+  },
+  {
+    "id": 23,
+    "answer": "unable to answer",
+    "evidence": [
+      1709,
+      1900,
+      1908
+    ]
+  },
+  {
+    "id": 24,
+    "answer": "not mentioned in the text",
+    "evidence": [
+      1129,
+      1161,
+      1980
+    ]
+  },
+  {
+    "id": 25,
+    "answer": "unable to answer",
+    "evidence": [
+      254,
+      659,
+      668
+    ]
+  },
+  {
+    "id": 26,
+    "answer": "A -> B -> C",
+    "evidence": [
+      2607,
+      2243,
+      2603
+    ]
+  },
+  {
+    "id": 27,
+    "answer": "",
+    "evidence": [
+      3651,
+      2426,
+      2428
+    ]
+  },
+  {
+    "id": 28,
+    "answer": "",
+    "evidence": [
+      2246,
+      2536,
+      2551
+    ]
+  },
+  {
+    "id": 29,
+    "answer": "",
+    "evidence": [
+      2175,
+      2220,
+      3648
+    ]
+  },
+  {
+    "id": 30,
+    "answer": "",
+    "evidence": [
+      2928,
+      2925,
+      2949
+    ]
+  },
+  {
+    "id": 31,
+    "answer": "",
+    "evidence": [
+      2176,
+      2149,
+      2519
+    ]
+  },
+  {
+    "id": 32,
+    "answer": "",
+    "evidence": [
+      3994,
+      3547,
+      4062
+    ]
+  },
+  {
+    "id": 33,
+    "answer": "",
+    "evidence": [
+      3804,
+      3811,
+      3954
+    ]
+  },
+  {
+    "id": 34,
+    "answer": "",
+    "evidence": [
+      2982,
+      3178,
+      3256
+    ]
+  },
+  {
+    "id": 35,
+    "answer": "",
+    "evidence": [
+      3133,
+      3146,
+      3183
+    ]
+  },
+  {
+    "id": 36,
+    "answer": "",
+    "evidence": [
+      2242,
+      2289,
+      3288
+    ]
+  },
+  {
+    "id": 37,
+    "answer": "",
+    "evidence": [
+      2814,
+      2826,
+      3289
+    ]
+  },
+  {
+    "id": 38,
+    "answer": "",
+    "evidence": [
+      2298,
+      2331,
+      3867
+    ]
+  },
+  {
+    "id": 39,
+    "answer": "",
+    "evidence": [
+      3012,
+      2452,
+      4167
+    ]
+  },
+  {
+    "id": 40,
+    "answer": "",
+    "evidence": [
+      3939,
+      3534,
+      3940
+    ]
+  },
+  {
+    "id": 41,
+    "answer": "",
+    "evidence": [
+      2649,
+      2175,
+      3648
+    ]
+  },
+  {
+    "id": 42,
+    "answer": "",
+    "evidence": [
+      2184,
+      2185,
+      4061
+    ]
+  },
+  {
+    "id": 43,
+    "answer": "",
+    "evidence": [
+      2108,
+      2248,
+      3703
+    ]
+  },
+  {
+    "id": 44,
+    "answer": "",
+    "evidence": [
+      3672,
+      3688,
+      3767
+    ]
+  },
+  {
+    "id": 45,
+    "answer": "",
+    "evidence": [
+      2472,
+      2466,
+      3237
+    ]
+  },
+  {
+    "id": 46,
+    "answer": "",
+    "evidence": [
+      2669,
+      3514,
+      4002
+    ]
+  },
+  {
+    "id": 47,
+    "answer": "",
+    "evidence": [
+      2140,
+      2141,
+      2355
+    ]
+  },
+  {
+    "id": 48,
+    "answer": "",
+    "evidence": [
+      2265,
+      2256,
+      3814
+    ]
+  },
+  {
+    "id": 49,
+    "answer": "",
+    "evidence": [
+      3251,
+      2477,
+      4169
+    ]
+  },
+  {
+    "id": 50,
+    "answer": "",
+    "evidence": [
+      2648,
+      2656,
+      3125
+    ]
+  },
+  {
+    "id": 51,
+    "answer": "B -> C -> A. (Event B is a historical context established by the date on the painting: October 1872; Event C occurs at the start of the studio visits on 1897-08-11; Event A occurs during a subsequent visit on 1897-08-13.)",
+    "evidence": [
+      4381,
+      4213,
+      4386
+    ]
+  },
+  {
+    "id": 52,
+    "answer": "C -> B -> A. (Event C occurs on 1897-08-13; Event B occurs on the night of 1897-10-11; Event A occurs on 1897-10-13 after she returns from her aunt's.)",
+    "evidence": [
+      4303,
+      5508,
+      5612
+    ]
+  },
+  {
+    "id": 53,
+    "answer": "B -> A -> C. (Event B occurs on the evening of 1897-08-16; Event A occurs the next day on 1897-08-17; Event C occurs on 1897-08-20.)",
+    "evidence": [
+      4636,
+      4644,
+      4673
+    ]
+  },
+  {
+    "id": 54,
+    "answer": "A -> C -> B. (Event A occurs on 1897-08-30; Event C occurs on 1897-09-07; Event B occurs on 1898-01-01.)",
+    "evidence": [
+      4742,
+      4849,
+      6021
+    ]
+  },
+  {
+    "id": 55,
+    "answer": "B -> A -> C. (Event B occurs on 1897-08-15; Event A occurs on 1897-09-28; Event C occurs on 1898-02-01.)",
+    "evidence": [
+      4552,
+      5379,
+      6263
+    ]
+  },
+  {
+    "id": 56,
+    "answer": "C -> A -> B. (Event C occurs on 1897-09-19; Event A occurs on 1897-10-16; Event B occurs on 1898-02-01.)",
+    "evidence": [
+      5049,
+      5814,
+      6264
+    ]
+  },
+  {
+    "id": 57,
+    "answer": "C -> B -> A. (Event C occurs on 1897-09-16; Event B occurs on 1897-10-26; Event A occurs on 1897-11-12.)",
+    "evidence": [
+      4968,
+      5808,
+      5866
+    ]
+  },
+  {
+    "id": 58,
+    "answer": "A -> C -> B. (Event A occurs on 1898-01-24; Event C occurs on 1898-01-29; Event B occurs on 1898-01-31.)",
+    "evidence": [
+      6088,
+      6171,
+      6204
+    ]
+  },
+  {
+    "id": 59,
+    "answer": "B -> A -> C. (Event B occurs on 1897-09-26; Event A occurs on 1897-10-08; Event C occurs on 1897-10-16.)",
+    "evidence": [
+      5281,
+      5456,
+      5764
+    ]
+  },
+  {
+    "id": 60,
+    "answer": "B -> C -> A. (Event B occurs on 1897-08-15; Event C occurs on 1897-08-30; Event A occurs on 1897-09-13.)",
+    "evidence": [
+      4546,
+      4742,
+      4906
+    ]
+  },
+  {
+    "id": 61,
+    "answer": "C -> B -> A. (Event C occurs on 1897-12-15; Event B occurs on 1897-12-18; Event A occurs on 1898-01-22.)",
+    "evidence": [
+      5986,
+      5999,
+      6053
+    ]
+  },
+  {
+    "id": 62,
+    "answer": "B -> A -> C. (Event B occurs on 1897-08-17; Event A occurs on 1897-08-19; Event C occurs on 1897-08-20.)",
+    "evidence": [
+      4653,
+      4666,
+      4681
+    ]
+  },
+  {
+    "id": 63,
+    "answer": "A -> B -> C. (Event A is a past performance in Elstir's youth; Event B occurs on 1897-08-13; Event C occurs on 1897-08-15.)",
+    "evidence": [
+      4382,
+      4386,
+      4552
+    ]
+  },
+  {
+    "id": 64,
+    "answer": "B -> C -> A. (Event B occurs on 1897-09-24; Event C occurs on 1897-09-28; Event A occurs on 1897-10-13.)",
+    "evidence": [
+      5214,
+      5334,
+      5645
+    ]
+  },
+  {
+    "id": 65,
+    "answer": "C -> A -> B. (Event C occurs on 1897-12-11; Event A occurs on 1897-12-18; Event B occurs on 1898-02-08.)",
+    "evidence": [
+      5970,
+      5998,
+      6300
+    ]
+  },
+  {
+    "id": 66,
+    "answer": "B -> C -> A. (Event B occurs on 1898-01-24; Event C occurs on 1898-01-26; Event A occurs on 1898-01-27.)",
+    "evidence": [
+      6084,
+      6108,
+      6122
+    ]
+  },
+  {
+    "id": 67,
+    "answer": "C -> A -> B. (Event C occurs on 1897-08-29; Event A occurs on 1897-08-30; Event B occurs on 1897-09-21.)",
+    "evidence": [
+      4730,
+      4742,
+      5092
+    ]
+  },
+  {
+    "id": 68,
+    "answer": "A -> C -> B. (Event A occurs on 1897-08-14 at 05:53; Event C occurs later that day on 1897-08-14 at 10:01; Event B occurs on 1897-09-17.)",
+    "evidence": [
+      4427,
+      4455,
+      5008
+    ]
+  },
+  {
+    "id": 69,
+    "answer": "C -> A -> B. (Event C occurs on 1897-08-17; Event A occurs on 1897-08-20; Event B occurs on 1897-09-24.)",
+    "evidence": [
+      4644,
+      4673,
+      5198
+    ]
+  },
+  {
+    "id": 70,
+    "answer": "A -> B -> C. (Event A is a background memory of Comray life; Event B occurs on 1897-09-27; Event C occurs on 1897-11-12.)",
+    "evidence": [
+      5096,
+      5336,
+      5866
+    ]
+  },
+  {
+    "id": 71,
+    "answer": "B -> A -> C. (Event B occurs on 1897-09-16; Event A occurs on 1897-11-03; Event C occurs on 1897-11-04.)",
+    "evidence": [
+      4968,
+      5846,
+      5847
+    ]
+  },
+  {
+    "id": 72,
+    "answer": "C -> A -> B. (Event C is a referenced past disappointment; Event A occurs on 1898-01-31; Event B occurs on 1898-02-01.)",
+    "evidence": [
+      6058,
+      6204,
+      6248
+    ]
+  },
+  {
+    "id": 73,
+    "answer": "B -> A -> C. (Event B occurs on 1897-08-11; Event A occurs on 1897-08-13; Event C occurs on 1898-02-06.)",
+    "evidence": [
+      4216,
+      4389,
+      6288
+    ]
+  },
+  {
+    "id": 74,
+    "answer": "C -> A -> B. (Event C occurs on 1897-08-31; Event A occurs on 1897-09-14; Event B occurs on 1897-10-09.)",
+    "evidence": [
+      4777,
+      4939,
+      5473
+    ]
+  },
+  {
+    "id": 75,
+    "answer": "C -> B -> A. (Event C occurs on 1897-08-13; Event B occurs on 1897-09-07; Event A occurs on 1898-01-24.)",
+    "evidence": [
+      4303,
+      4868,
+      6075
+    ]
+  },
+  {
+    "id": 76,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6323,
+      6329,
+      6333
+    ]
+  },
+  {
+    "id": 77,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6623,
+      6629,
+      6639
+    ]
+  },
+  {
+    "id": 78,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6691,
+      6665
+    ]
+  },
+  {
+    "id": 79,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6358,
+      6355,
+      6368
+    ]
+  },
+  {
+    "id": 80,
+    "answer": "A -> B -> C",
+    "evidence": [
+      7052,
+      7237,
+      7050
+    ]
+  },
+  {
+    "id": 81,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6600,
+      6591,
+      6586,
+      6594
+    ]
+  },
+  {
+    "id": 82,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6732,
+      6754,
+      6761,
+      6770,
+      6776
+    ]
+  },
+  {
+    "id": 83,
+    "answer": "A -> B -> C",
+    "evidence": [
+      7015,
+      7002,
+      7343,
+      7348
+    ]
+  },
+  {
+    "id": 84,
+    "answer": "A -> B -> C",
+    "evidence": [
+      8036,
+      8018,
+      8021,
+      8034
+    ]
+  },
+  {
+    "id": 85,
+    "answer": "B -> A -> C",
+    "evidence": [
+      6961,
+      6784,
+      6834,
+      6849
+    ]
+  },
+  {
+    "id": 86,
+    "answer": "A -> C -> B",
+    "evidence": [
+      7472,
+      7187,
+      7220
+    ]
+  },
+  {
+    "id": 87,
+    "answer": "A -> C -> B",
+    "evidence": [
+      6865,
+      6862
+    ]
+  },
+  {
+    "id": 88,
+    "answer": "A -> B -> C",
+    "evidence": [
+      8282,
+      8047,
+      8331
+    ]
+  },
+  {
+    "id": 89,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6983,
+      6977,
+      7486,
+      7490
+    ]
+  },
+  {
+    "id": 90,
+    "answer": "A -> B -> C",
+    "evidence": [
+      7017,
+      7080,
+      7081,
+      7085,
+      7086
+    ]
+  },
+  {
+    "id": 91,
+    "answer": "A -> B -> C",
+    "evidence": [
+      8374,
+      8345,
+      8367
+    ]
+  },
+  {
+    "id": 92,
+    "answer": "A -> B -> C",
+    "evidence": [
+      7828,
+      8236,
+      8286
+    ]
+  },
+  {
+    "id": 93,
+    "answer": "A -> B -> C",
+    "evidence": [
+      7330,
+      7339,
+      7927,
+      8010
+    ]
+  },
+  {
+    "id": 94,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6372,
+      6373,
+      6445,
+      6806,
+      6807
+    ]
+  },
+  {
+    "id": 95,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6830,
+      6771,
+      8418
+    ]
+  },
+  {
+    "id": 96,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6452,
+      6460,
+      6463
+    ]
+  },
+  {
+    "id": 97,
+    "answer": "A -> B -> C",
+    "evidence": [
+      7530,
+      7550,
+      7554
+    ]
+  },
+  {
+    "id": 98,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6416,
+      6422,
+      6427
+    ]
+  },
+  {
+    "id": 99,
+    "answer": "C -> A -> B",
+    "evidence": [
+      8059,
+      8144,
+      8149,
+      8299
+    ]
+  },
+  {
+    "id": 100,
+    "answer": "A -> B -> C",
+    "evidence": [
+      7085,
+      7105,
+      7136,
+      7138
+    ]
+  }
+]

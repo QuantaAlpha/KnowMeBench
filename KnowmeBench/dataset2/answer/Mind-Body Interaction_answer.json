@@ -1,0 +1,865 @@
+[
+  {
+    "id": 1,
+    "answer": "1. Locate External: The narrator wakes up, checks her leg, and decides to follow Lina, imitating her flexible walking style (ID 15). 2. Locate Internal: She thinks about her fear of becoming lame and believes that following Lina will prevent her mother's walk from threatening her. 3. Analyze Interaction: This is an Explanation & Drive relationship. The internal fear of inheriting her mother's physical disability drives the mimetic behavior; she uses the imitation of Lina as a talismanic or protective measure against her own genetic or environmental fate. 4. Synthesis: The narrator checks her leg and imitates Lina because her internal logic suggests that by copying Lina's agility, she can immunize herself against the threat of becoming lame like her mother.",
+    "evidence_ids": [
+      15
+    ]
+  },
+  {
+    "id": 2,
+    "answer": "1. Locate External: The narrator throws Lina's doll into the dark basement (ID 38). 2. Locate Internal: She acknowledges she is taking a risk and her heart is filled with fear, but she feels she \"has to do it\" (ID 38). 3. Analyze Interaction: This is an Explanation & Drive scenario. The internal drive for reciprocity and equality (\"Whatever you do, I'll do the same\") overrides the paralyzing fear of the basement. 4. Synthesis: Although terrified, the narrator throws the doll because her internal code of reciprocity mandates that she must match Lina's action to maintain the balance of their relationship, making the risky behavior necessary in her mind.",
+    "evidence_ids": [
+      38
+    ]
+  },
+  {
+    "id": 3,
+    "answer": "1. Locate External: Lina holds the narrator's hand tightly as they climb the stairs (ID 333). 2. Locate Internal: The narrator thinks Lina assumes she (the narrator) lacks courage, but also realizes Lina is doing it to boost her own courage (ID 333, 334). 3. Analyze Interaction: This is an Explanation & Drive interaction where the narrator reinterprets the physical action. The hand-holding is not just for comfort but is revealed as a mechanism for Lina to stabilize her own fear. 4. Synthesis: The narrator reframes the physical act of hand-holding by realizing that Lina is not merely protecting her but is using the contact to bolster her own faltering courage, exposing the vulnerability beneath Lina's brave exterior.",
+    "evidence_ids": [
+      333,
+      334
+    ]
+  },
+  {
+    "id": 4,
+    "answer": "1. Locate External: Lina stops and decides to return home because of the rain (ID 442, 444). 2. Locate Internal: The narrator thinks that they will get wet whether they go forward or back, and that they should keep going to the sea (ID 445, 446). 3. Analyze Interaction: This creates Incongruity. The narrator's internal logic exposes Lina's excuse (the rain) as irrational, suggesting the physical retreat is actually driven by a sudden internal loss of nerve rather than practical necessity. 4. Synthesis: The narrator identifies the irrationality in Lina's decision to turn back by noting that the rain affects them equally in both directions; this internal realization suggests that the physical retreat is driven by an unspoken fear rather than the weather itself.",
+    "evidence_ids": [
+      442,
+      444,
+      445,
+      446
+    ]
+  },
+  {
+    "id": 5,
+    "answer": "1. Locate External: Lina starts sweating and her heart beats wildly (ID 597, 601). 2. Locate Internal: She feels boundaries dissolving and perceives the people around her as monstrous/imperfect (ID 599, 606). 3. Analyze Interaction: This is Metaphorical Mapping. The physical loss of control (racing heart, sweat) mirrors the psychological loss of structure, where the \"outline\" of reality is breaking down. 4. Synthesis: Lina's physical symptoms of panic serve as a somatic metaphor for her psychological state; just as her body loses its calm equilibrium, her mind perceives the world losing its form, revealing the \"monstrous\" nature of reality beneath the surface.",
+    "evidence_ids": [
+      597,
+      599,
+      601,
+      606
+    ]
+  },
+  {
+    "id": 6,
+    "answer": "1. Locate External: The narrator engages in intimate acts with Antonio in the cannery (ID 803, 804). 2. Locate Internal: She thinks, \"I wanted to be pierced, I wanted to tell Lina... I won't fall behind you\" (ID 803). 3. Analyze Interaction: This is Explanation & Drive. The behavior is not driven by desire for Antonio, but by a competitive need to match Lina's perceived maturity and sexual experience. 4. Synthesis: The narrator's physical intimacy with Antonio is driven by a competitive internal logic; she forces herself into the act not out of desire, but to ensure she does not \"fall behind\" Lina in life experiences, specifically regarding losing her virginity.",
+    "evidence_ids": [
+      803,
+      804
+    ]
+  },
+  {
+    "id": 7,
+    "answer": "1. Locate External: Stefano is physically overpowering Lina on the bed (ID 843, 844). 2. Locate Internal: The narrator \"sees\" Don Achille emerging from Stefano's skin and changing his gaze (ID 846). 3. Analyze Interaction: This is Metaphorical Mapping. The physical act of violation triggers a hallucination where the husband transforms into the childhood monster (Don Achille), symbolizing the return of hereditary violence. 4. Synthesis: The narrator projects the image of the childhood \"ogre\" Don Achille onto Stefano during the assault, using this metaphor to express that the violence Lina is suffering is a manifestation of the inescapable, hereditary brutality of their neighborhood.",
+    "evidence_ids": [
+      843,
+      844,
+      846
+    ]
+  },
+  {
+    "id": 8,
+    "answer": "1. Locate External: The narrator rides in the car listening to Stefano (ID 1006). 2. Locate Internal: She admits she is getting absorbed, liking the confession, and feels happy that he thinks she is important and can \"set Lina straight\" (ID 1006). 3. Analyze Interaction: This shows Incongruity & Irony. While externally acting as a friend/mediator, internally she derives self-worth from the husband's validation, betraying her loyalty. 4. Synthesis: Although she physically plays the role of a supportive listener, her internal monologue reveals an ironic betrayal; she enjoys Stefano's confidence because it validates her own importance and superiority over Lina, rather than feeling concern for her friend.",
+    "evidence_ids": [
+      1006
+    ]
+  },
+  {
+    "id": 9,
+    "answer": "1. Locate External: Lina bets that the narrator must get high grades (ID 1051). 2. Locate Internal: The narrator thinks Lina is trying to \"fix my role\"—that she should be buried in books while Lina remains the rich one (ID 1051). 3. Analyze Interaction: This is Explanation & Drive (Interpretation). The narrator interprets the external challenge not as support, but as a strategy to confine the narrator to a non-threatening identity. 4. Synthesis: The narrator perceives Lina's bet not as friendly encouragement but as a manipulative attempt to control her identity; she believes Lina wants to confine her to the role of the \"studious one\" to maintain her own superiority in other aspects of life.",
+    "evidence_ids": [
+      1051
+    ]
+  },
+  {
+    "id": 10,
+    "answer": "1. Locate External: The narrator reads a difficult book at the seaside garden (ID 1146). 2. Locate Internal: She feels chaotic images and desires disturbing the text and longs to be freed from the \"vulgar life\" around her (ID 1146, 1147). 3. Analyze Interaction: This is Incongruity & Irony. The intellectual action is a desperate defense mechanism against the internal and external chaos she feels consuming her. 4. Synthesis: The narrator's physical act of reading is a strenuous effort to erect a barrier against reality; her internal struggle reveals that the \"vulgar life\" she tries to escape constantly intrudes, making the reading an act of resistance rather than genuine absorption.",
+    "evidence_ids": [
+      1146,
+      1147
+    ]
+  },
+  {
+    "id": 11,
+    "answer": "Locate External: Lina is fully immersed in conversation and actions, her hands never stopping, exhausting herself (ID 1209-1210). Locate Internal: The narrator thinks Lina is engaged in a fierce struggle to forget the \"inner void\" (ID 1210). Analyze Interaction: The internal thought provides the psychological drive (escaping the void) for the external physical hyperactivity. Synthesis: Lina's relentless physical activity and chatter are not just work; the narrator's internal logic interprets them as a desperate coping mechanism (\"fierce struggle\") driven by the need to suppress the psychological burden of her \"inner void.\"",
+    "evidence_ids": [
+      1209,
+      1210
+    ]
+  },
+  {
+    "id": 12,
+    "answer": "Locate External: The narrator physically breaks free and refuses the money (ID 1219). Locate Internal: She thinks she does not want to act like a \"poor relative\" (ID 1219). Analyze Interaction: The external rejection is driven by a desire to maintain dignity and avoid a specific social classification. Synthesis: The narrator's physical refusal of the financial aid is directly driven by her internal determination to maintain her dignity and not succumb to the humiliating role of a \"poor relative\" dependent on Lina's charity.",
+    "evidence_ids": [
+      1219
+    ]
+  },
+  {
+    "id": 13,
+    "answer": "Locate External: Lina uses red lines to cut the image of herself on the photo (ID 1341). Locate Internal: The narrator thinks Lina wants to \"destroy herself\" and show this self-destruction to everyone (ID 1341). Analyze Interaction: The artistic action is a direct metaphorical mapping of the desire for self-obliteration. Synthesis: Lina's physical act of severing her image with red lines serves as a visceral metaphor for her internal psychological desire to \"destroy herself\" and publicly display the disintegration of her identity within the confines of the shop.",
+    "evidence_ids": [
+      1341
+    ]
+  },
+  {
+    "id": 14,
+    "answer": "Locate External: The narrator gives a speech about Nazi camps, nuclear war, and eliminating suffering (ID 1415-1416). Locate Internal: She thinks she wants to show she can get an eight in every subject and hopes Lina will challenge her (ID 1416). Analyze Interaction: The high-minded speech is a \"mask\" or tool driven by vanity and a desire for engagement/validation. Synthesis: While the narrator physically speaks of altruistic and global concerns, her internal monologue reveals that this behavior is driven by ego (\"show her\") and a desire to provoke a specific reaction (\"challenge me\") from Lina, exposing the intellectual performance as a means to prove her worth.",
+    "evidence_ids": [
+      1415,
+      1416
+    ]
+  },
+  {
+    "id": 15,
+    "answer": "Locate External: The narrator does not answer Lina; she is too excited to speak (ID 1585-1586). Locate Internal: She wonders if Lina's ideas and designs were just to \"show off\" to her, and if Lina is lost/chaotic without that motivation (ID 1586). Analyze Interaction: The silence allows space for the narrator to process a paradigm shift in her understanding of Lina. Synthesis: The narrator's physical silence is not just due to excitement, but stems from a deep internal re-evaluation, where she questions if Lina's entire identity and creativity are merely performative acts dependent on the narrator's presence (\"show off to me\"), rationalizing her speechlessness as a moment of profound realization about Lina's potential emptiness.",
+    "evidence_ids": [
+      1585,
+      1586
+    ]
+  },
+  {
+    "id": 16,
+    "answer": "Locate External: The narrator adjusts her skirt; Lina fixes her hair with her fingertips (ID 1673). Locate Internal: The narrator thinks they are worried about accidentally showing \"weakness\" or the side they didn't want to display (ID 1673). Analyze Interaction: The physical grooming is a defense mechanism to armor themselves against judgment. Synthesis: The mundane physical acts of adjusting clothes and hair are driven by a shared internal anxiety; they serve as a psychological armor to hide their \"weakness\" and humble origins before entering a space of higher social status.",
+    "evidence_ids": [
+      1673
+    ]
+  },
+  {
+    "id": 17,
+    "answer": "Locate External: The narrator starts saying things, entering the conversation (ID 1726). Locate Internal: She feels like \"another person\" who knows more is deciding to speak through her mouth; desire to express/prove overpowers shyness (ID 1726). Analyze Interaction: The internal dissociation (\"another person\") explains the confidence required for the external action. Synthesis: The narrator's sudden physical participation in an intimidating intellectual debate is rationalized by an internal dissociation, where she imagines a more confident, knowledgeable version of herself taking control (\"another person speaking through my mouth\") to overcome her natural shyness.",
+    "evidence_ids": [
+      1726
+    ]
+  },
+  {
+    "id": 18,
+    "answer": "Locate External: The narrator turns around and speaks to Marcello (\"Thank you, but we can't...\") instead of ignoring him (ID 2053). Locate Internal: She thinks she should have ignored him but wanted to prove to herself she was \"charming and lucky\" and belonged to a world of \"rich schools\" and \"beautiful cars\" (ID 2051-2052). Analyze Interaction: The external action (engaging) contradicts safety logic but is driven by internal vanity/aspirational identity. Synthesis: Although the rational choice was to ignore the harasser, the narrator physically engages with Marcello to validate her internal fantasy of being a \"charming\" girl destined for a wealthy environment, using the interaction to prove her elevated social status to herself.",
+    "evidence_ids": [
+      2051,
+      2052,
+      2053
+    ]
+  },
+  {
+    "id": 19,
+    "answer": "Locate External: The father tightly grips the narrator's hand; she stays (ID 2116). Locate Internal: She thinks she really wants to \"let go of his hand and run\" toward the sea (ID 2116). Analyze Interaction: Incongruity between the static physical state (held) and the dynamic internal desire (run). Synthesis: The narrator's physical compliance in staying by her father's side is in direct conflict with her intense internal desire to \"let go and run,\" highlighting the tension between paternal restraint and her yearning for freedom and the \"rebirth\" symbolized by the sea.",
+    "evidence_ids": [
+      2116
+    ]
+  },
+  {
+    "id": 20,
+    "answer": "Locate External: The doctor says Lina needs to build strength; Lina tells the result (ID 2200-2201). Locate Internal: The narrator is \"shocked\" by the idea of strengthening, implying she views Lina as strong (ID 2201). Analyze Interaction: The external medical reality contradicts the narrator's internal perception of Lina's character. Synthesis: The narrator's internal shock at the phrase \"build up her strength\" reveals a cognitive dissonance; she has always perceived Lina as an invincible force, and this external diagnosis exposes the incongruity between Lina's tough exterior behavior and her actual physical or constitutional fragility.",
+    "evidence_ids": [
+      2200,
+      2201
+    ]
+  },
+  {
+    "id": 21,
+    "answer": "Physically, the narrator (Rino) exhibits extreme rage, with his face turning red and swelling, and he eventually throws a metal shoe last at his sister (2447, 2452). This behavior, triggered by a minor dampness in the shoe, is rationalized by his internal desperation to escape being a 'slave to his father' and his intense drive to become rich like the Solara family (2451). The flaw in the shoe symbolizes the failure of his only path to freedom and wealth, thus fueling a reaction rooted in existential dread rather than just product failure.",
+    "evidence_ids": [
+      2447,
+      2451,
+      2452
+    ]
+  },
+  {
+    "id": 22,
+    "answer": "Physically, Rino is shouting and participating in a violent fireworks war (2658). However, Lina internally perceives his 'boundaries' vanishing and his form dissolving into the surrounding chaos (2653, 2660). This visual distortion serves as a metaphor for her psychological state of 'disappearance of boundaries,' reflecting her terror and the loss of stability/safety as the violence of their world overwhelms the solid reality of the people she relies on.",
+    "evidence_ids": [
+      2653,
+      2658,
+      2660
+    ]
+  },
+  {
+    "id": 23,
+    "answer": "Physically, Fernando praises the shoes as the work of a 'master' and finds them comfortable (2746, 2741). However, the narrator notes his internal state is 'dark' and full of 'pain' (2746, 2748). The irony is exposed when Rino reveals he made them; Fernando's internal realization that his son has acted independently (challenging his authority/role) overrides the quality of the work, leading him to kick Rino (2756) despite his earlier verbal approval.",
+    "evidence_ids": [
+      2746,
+      2748,
+      2756
+    ]
+  },
+  {
+    "id": 24,
+    "answer": "Externally, Elena accepts praise and high grades from her teachers (2791, 2792). However, internally, she believes that the ideas and the 'passion' in the essay actually belong to Lina, stemming from their earlier conversations (2815, 2818). This creates a conflict where her external success serves as a mask for her internal feeling of being an impostor who is merely appropriating her friend's brilliance.",
+    "evidence_ids": [
+      2791,
+      2815,
+      2818
+    ]
+  },
+  {
+    "id": 25,
+    "answer": "Externally, the shop features a confident display of the new shoes, with Rino waiting hopefully for customers (2887, 2888). In stark contrast, Lina internally feels 'full of suspicion' and is waiting for bad news (2889, 2890). She understands that her parents have already made a 'secret agreement' involving Marcello (2882), making the external display of commercial ambition an ironic and futile gesture against the reality of the arranged marriage she fears.",
+    "evidence_ids": [
+      2887,
+      2890
+    ]
+  },
+  {
+    "id": 26,
+    "answer": "Physically, Elena engages in the violent act of killing mosquitoes with a highbrow literary book (2949, 2951). This behavior is driven by her internal anxiety that 'Nino would see me covered in pimples, all swollen from mosquito bites' (2950). The fear of physical imperfection in front of her romantic interest provides the logical support for her obsessive nocturnal war against the insects.",
+    "evidence_ids": [
+      2949,
+      2950,
+      2951
+    ]
+  },
+  {
+    "id": 27,
+    "answer": "Externally, Elena discusses politics and social issues in 'formal, elegant' Italian (3015). Internally, however, she admits she has 'no interest in those topics' and 'no passion for the real people' involved (3036). This thought exposes her external intellectualism as a mask used solely to 'avoid feeling embarrassed' and to maintain a connection with Nino, rather than genuine engagement.",
+    "evidence_ids": [
+      3015,
+      3036
+    ]
+  },
+  {
+    "id": 28,
+    "answer": "Externally, Lina provides a compelling analysis of the book, captivating Nino (3356). Internally, Elena analyzes this not as a return to scholarly habits, but as being triggered by an 'urge to compete' reignited by the beach environment (3411). Elena realizes Lina is driven by a need to reassert her worth and attract Nino's attention after feeling sidelined, using the book as a tool for social dominance.",
+    "evidence_ids": [
+      3356,
+      3411
+    ]
+  },
+  {
+    "id": 29,
+    "answer": "Physically, Pinocchia complains loudly about her swimsuit and demands to go home (3524, 3544). Elena internally analyzes that Pinocchia is 'lying' about these physical discomforts (3457). Instead, Elena posits that Pinocchia's irrational behavior is a mask for her deeper, unspoken desire to be with Rino or to communicate her separation anxiety, which she cannot express directly (3458).",
+    "evidence_ids": [
+      3457,
+      3458,
+      3524
+    ]
+  },
+  {
+    "id": 30,
+    "answer": "Physically, Elena swims beyond the safety line into water that turns from blue to 'night' (3576, 3580). This physical venture into the deep serves as a metaphor for her internal sensation of a 'deep chasm beneath my feet' and a 'death trap' (3581). The loss of physical grounding mirrors her psychological vertigo and fear of losing control amidst the complex emotional currents involving Lina and Nino.",
+    "evidence_ids": [
+      3576,
+      3580,
+      3581
+    ]
+  },
+  {
+    "id": 31,
+    "answer": "1. **Locate External:** Pinocchia looks at Lina without reaction after being told to wash her face (ID 3604).\n2. **Locate Internal:** Elena thinks about a 'secret projection,' 'tiny molecules' of pain, and that Pinocchia realized Lina wanted to help her despite the contempt (ID 3604, 3605).\n3. **Analyze Interaction:** The silence isn't submission or confusion; it's a result of a deep, unspoken communication where Pinocchia understands the benevolent intent behind Lina's harsh behavior.\n4. **Synthesis:** Although Pinocchia physically appears passive, Elena's internal logic explains that this is due to a rapid, unspoken exchange of 'tiny molecules' of emotion, where Pinocchia understood that Lina's harshness was actually a form of help, leading her to comply rather than react defensively.",
+    "evidence_ids": [
+      3604,
+      3605
+    ]
+  },
+  {
+    "id": 32,
+    "answer": "1. **Locate External:** Elena pretends she can't help but yawn (ID 3658).\n2. **Locate Internal:** She feels warmth and admiration in Lina's gaze (ID 3658).\n3. **Analyze Interaction:** The external action (yawning/boredom) masks the internal reality (feeling connected/admired).\n4. **Synthesis:** While Elena physically performs a yawn to signal tiredness or disinterest, her internal thought reveals she actually senses 'warmth and admiration' in Lina's gaze, highlighting an ironic clash where she pushes away the person she feels a tender connection with.",
+    "evidence_ids": [
+      3658
+    ]
+  },
+  {
+    "id": 33,
+    "answer": "1. **Locate External:** Elena answers 'No' to Nunzia regarding whether the couple is fighting (ID 3866).\n2. **Locate Internal:** She feels as if she is on fire, but the flames are cold and painless (ID 3867).\n3. **Analyze Interaction:** The external calm/denial is contradicted by a dissociated, intense internal state.\n4. **Synthesis:** Externally, Elena maintains a facade of normalcy by denying any trouble, but her internal state is described as burning with 'cold flames' without pain, a metaphor indicating a state of shock and dissociation where she feels the intensity of the betrayal (the fire) but is emotionally numbed.",
+    "evidence_ids": [
+      3866,
+      3867
+    ]
+  },
+  {
+    "id": 34,
+    "answer": "1. **Locate External:** Elena looks down at the water turning from blue to dark (ID 3954).\n2. **Locate Internal:** She feels a deep chasm/death trap beneath her feet (ID 3955).\n3. **Analyze Interaction:** The physical depth maps to her fear of the situation/relationship dynamics.\n4. **Synthesis:** The physical act of looking into the deepening sea serves as a metaphor for her internal fear; she perceives the water not just as ocean but as a 'deep chasm' and a 'death trap,' reflecting her sense of danger and lack of solid ground regarding the unfolding affair between Lina and Nino.",
+    "evidence_ids": [
+      3954,
+      3955
+    ]
+  },
+  {
+    "id": 35,
+    "answer": "1. **Locate External:** Elena refuses the invitation (implied in ID 4105 context, explicitly refusing in 4110).\n2. **Locate Internal:** She realizes her refusal is targeting Lina to make her hesitate (ID 4105).\n3. **Analyze Interaction:** The refusal isn't about Bruno; it's a strategic move to manipulate Lina.\n4. **Synthesis:** Elena's physical refusal of Bruno is not driven by her feelings toward him, but by a calculated internal strategy to 'target Lina,' hoping that by refusing to pair off with Bruno, she can force Lina to hesitate or reconsider her own reckless behavior with Nino.",
+    "evidence_ids": [
+      4105,
+      4110
+    ]
+  },
+  {
+    "id": 36,
+    "answer": "1. **Locate External:** Elena says 'Okay, I'll help you' (ID 4180).\n2. **Locate Internal:** She realizes supporting Lina's adventures is how she shows her love, even if Lina calls it friendship (ID 4179).\n3. **Analyze Interaction:** The drive is a deep-seated need to maintain the bond/love, redefining the deception as an act of devotion.\n4. **Synthesis:** While Elena physically agrees to the deception, her internal logic rationalizes this complicity by framing it not as a moral failing but as an essential expression of her 'love' for Lina, viewing her support for these adventures as the core component of their bond.",
+    "evidence_ids": [
+      4179,
+      4180
+    ]
+  },
+  {
+    "id": 37,
+    "answer": "1. **Locate External:** Elena puts on a 'sweetest face' (ID 4309).\n2. **Locate Internal:** She thinks of her father's face when taking tips, the humble/frightened look of ancestors avoiding danger (ID 4309).\n3. **Analyze Interaction:** The expression is a learned defense mechanism/mask for survival.\n4. **Synthesis:** Elena's physical adoption of a 'sweet face' is driven by an internal connection to her family's history; she consciously mimics the 'humble' and 'frightened' look her ancestors used to avoid danger, revealing that she views this social interaction as a survival situation requiring a deceptive mask.",
+    "evidence_ids": [
+      4309
+    ]
+  },
+  {
+    "id": 38,
+    "answer": "1. **Locate External:** Elena sits on the sand, looking at the sea (ID 4370, 4372).\n2. **Locate Internal:** She thinks the beauty is an illusion, the sky is terrifying, and feels an 'overwhelming cosmic terror' (ID 4370, 4371).\n3. **Analyze Interaction:** Incongruity/Irony - the scene is beautiful, the mind is terrified.\n4. **Synthesis:** While physically situated in a beautiful, moonlit setting, Elena's internal thoughts deconstruct this beauty as an 'illusion,' transforming the sea and sky into sources of 'overwhelming cosmic terror,' highlighting the stark contrast between the external serenity and her internal existential panic.",
+    "evidence_ids": [
+      4370,
+      4371,
+      4372
+    ]
+  },
+  {
+    "id": 39,
+    "answer": "1. **Locate External:** Elena threatens Donato in Italian (ID 4409).\n2. **Locate Internal:** She notes she used to say these things in dialect, but now Italian works well (ID 4409).\n3. **Analyze Interaction:** The shift in language marks a shift in power/identity.\n4. **Synthesis:** The physical act of delivering a threat in standard Italian rather than dialect is underpinned by Elena's internal realization of her own evolution; she recognizes that she can now wield the language of education as a weapon effectively, signifying a psychological shift from a local girl to an empowered, educated woman.",
+    "evidence_ids": [
+      4409
+    ]
+  },
+  {
+    "id": 40,
+    "answer": "1. **Locate External:** Fernando talks about his skills and mistakes (ID 4616-4618).\n2. **Locate Internal:** Elena thinks if he had married Ines, he might actually have a business/line of products (ID 4619).\n3. **Analyze Interaction:** The external boasting is undermined by the internal realization that his life is a failure due to his choices.\n4. **Synthesis:** While Fernando physically boasts about his craftsmanship and potential, Elena's internal thought creates irony by noting that his current success is hypothetical; she believes that had he married the capable Ines instead of Nunzia, the business success he is only now grasping at might have been a reality long ago.",
+    "evidence_ids": [
+      4616,
+      4617,
+      4618,
+      4619
+    ]
+  },
+  {
+    "id": 41,
+    "answer": "1. **Locate External:** The narrator looks away immediately upon seeing the ticket inspector (ID 4820). 2. **Locate Internal:** She feels a surge of \"anger and fear\" because the man resembles Donato Nino (ID 4819, 4820). 3. **Analyze Interaction:** The physical aversion is driven by the internal trauma and fear associated with Donato, causing a defensive reflex (Explanation & Drive). 4. **Synthesis:** The narrator's act of looking away is a direct physical manifestation of the sudden \"anger and fear\" triggered by the visual resemblance to her abuser, Donato Nino.",
+    "evidence_ids": [
+      4819,
+      4820
+    ]
+  },
+  {
+    "id": 42,
+    "answer": "1. **Locate External:** Stefano pretends nothing happened and sleeps (ID 4865). 2. **Locate Internal:** The narrator explains this as a \"posture he'd learned since childhood\" to suppress fear and murderous impulses (ID 4865, 4866). 3. **Analyze Interaction:** The external calm is identified as a mask or defense mechanism against his own violent nature (Explanation & Drive). 4. **Synthesis:** Stefano's physical calmness is identified not as genuine peace, but as a learned \"posture\" to mask his terror and suppress the internal \"impulse to tear open her chest,\" revealing the disconnect between his behavior and his violent internal state.",
+    "evidence_ids": [
+      4865,
+      4866
+    ]
+  },
+  {
+    "id": 43,
+    "answer": "1. **Locate External:** The narrator acts enthusiastic and speaks in a \"coquettish voice\" (ID 4899). 2. **Locate Internal:** She is worried he might \"misunderstand\" and confess feelings she does not reciprocate (ID 4900, 4901). 3. **Analyze Interaction:** There is an incongruity between her performance and her fear; she acts interested to keep him as company but internally fears the consequences (Incongruity & Irony). 4. **Synthesis:** While the narrator outwardly performs \"enthusiasm\" and uses a \"coquettish voice\" to maintain Alfonso's attention, her internal monologue reveals a conflicting fear that he might \"misunderstand\" and confess feelings, which exposes her external behavior as a deceptive performance.",
+    "evidence_ids": [
+      4899,
+      4900,
+      4901
+    ]
+  },
+  {
+    "id": 44,
+    "answer": "1. **Locate External:** Lina throws away books, underpants, and socks in a fit of anger (ID 5047). 2. **Locate Internal:** Immediately after, she feels regret, cries, and feels \"ugly\" and \"foolish\" (ID 5047). 3. **Analyze Interaction:** The action attempts to purge him, but the internal result is self-loathing rather than relief (Incongruity & Metaphor). 4. **Synthesis:** Although Lina physically purges Nino's items in an act of \"anger,\" the action fails to provide relief; instead, her internal state immediately shifts to \"regret,\" making her feel \"ugly\" and \"foolish\" rather than liberated.",
+    "evidence_ids": [
+      5047
+    ]
+  },
+  {
+    "id": 45,
+    "answer": "1. **Locate External:** She watches Nino leave and notices his walk resembles his father's (ID 5178). 2. **Locate Internal:** She feels a \"strong aversion\" (ID 5178). 3. **Analyze Interaction:** The physical trait (walk) maps to the internal dislike of the father, transferring it to the son (Metaphorical Mapping). 4. **Synthesis:** The narrator observes Nino's physical gait and recognizes \"the way his father walked,\" which instantly maps her deep-seated hatred for the father onto Nino, generating a \"strong aversion\" to his attitude.",
+    "evidence_ids": [
+      5178
+    ]
+  },
+  {
+    "id": 46,
+    "answer": "1. **Locate External:** She grabs Antonio's hand in front of everyone (ID 5213). 2. **Locate Internal:** She knows Nino is watching and wants to prove she isn't a follower but has \"her own man\" (ID 5215, 5216). 3. **Analyze Interaction:** The affection is a performance driven by the desire to send a message to a third party (Explanation & Drive). 4. **Synthesis:** The narrator's physical display of affection toward Antonio is driven not by love for him, but by a calculated desire to signal to Nino that she is independent and \"wouldn't follow him like a loyal little dog.\"",
+    "evidence_ids": [
+      5213,
+      5215,
+      5216
+    ]
+  },
+  {
+    "id": 47,
+    "answer": "1. **Locate External:** She meets Lina (ID 5418) and they exchange \"pretending nothing happened\" dialogue (ID 5420). 2. **Locate Internal:** She feels \"pleasure\" knowing Lina failed and gained nothing (ID 5418). 3. **Analyze Interaction:** There is a sharp contrast between external politeness and internal schadenfreude (Incongruity & Irony). 4. **Synthesis:** While the narrator outwardly engages in a neutral interaction, her internal thoughts reveal a malicious \"pleasure\" derived from the knowledge that Lina's life has deteriorated, exposing the hypocrisy of her friendly facade.",
+    "evidence_ids": [
+      5418,
+      5420
+    ]
+  },
+  {
+    "id": 48,
+    "answer": "1. **Locate External:** The narrator advises Lina regarding her marriage (ID 5642). 2. **Locate Internal:** She knows Lina senses the \"sarcasm, hostility, and contempt\" hidden beneath the advice (ID 5643). 3. **Analyze Interaction:** The \"well-meaning\" advice is merely a vehicle for contempt (Incongruity & Irony). 4. **Synthesis:** Although the narrator physically offers \"well-meaning advice\" as a friend, her internal monologue admits that these words conceal deep \"sarcasm, hostility, and contempt,\" which she believes Lina actively perceives.",
+    "evidence_ids": [
+      5642,
+      5643
+    ]
+  },
+  {
+    "id": 49,
+    "answer": "1. **Locate External:** Antonio walks \"slowly and calmly\" (ID 5699). 2. **Locate Internal:** The narrator feels he is \"timid\" and views Nino as \"respected,\" which makes her angry (ID 5701). 3. **Analyze Interaction:** She interprets his calm not as strength, but as weakness/submission (Incongruity & Irony). 4. **Synthesis:** While Antonio physically displays \"calmness,\" the narrator internally interprets this not as composure but as \"timidity\" and undue deference to Nino, driving her internal impulse to physically \"shake him.\"",
+    "evidence_ids": [
+      5699,
+      5701,
+      5702
+    ]
+  },
+  {
+    "id": 50,
+    "answer": "1. **Locate External:** She speaks in Mandarin/Italian, analyzing the styles confidently (ID 5824). 2. **Locate Internal:** She is applying rhetorical skills learned at school to mask her lack of genuine opinion (ID 5823). 3. **Analyze Interaction:** The behavior is a calculated application of a learned skill to navigate a social situation (Explanation & Drive). 4. **Synthesis:** The narrator's confident external analysis of the dresses is driven by a specific rhetorical strategy learned at school: \"whenever you don't know how to answer... analyze the issue with a very confident tone,\" effectively using intellect to mask uncertainty.",
+    "evidence_ids": [
+      5823,
+      5824
+    ]
+  },
+  {
+    "id": 51,
+    "answer": "Externally, the narrator stays to help Lina bathe and very slowly washes her (ID 6008). Internally, however, she is experiencing a psychological 'storm' and a 'chaotic' mental state (IDs 6005, 6011), driven by the obsessive thought that Stefano will soon 'defile' and 'change' Lina (IDs 6001, 6012). The interaction is one of 'Explanation & Drive': the narrator's meticulous physical attention serves as a protective barrier to shield Lina’s 'innocent state' from sensing the narrator's own anxiety (ID 6004). She forces herself to remain physically present and calm because she believes that if she withdraws, her internal 'troubled thoughts' would shatter Lina’s fragile composure before her life is permanently altered.",
+    "evidence_ids": [
+      6001,
+      6004,
+      6005,
+      6008,
+      6012
+    ]
+  },
+  {
+    "id": 52,
+    "answer": "Physically, the narrator is a passenger in a Mercedes, behaving as a member of her childhood peer group (ID 6116). However, her internal monologue reveals a state of 'Incongruity & Irony'; she feels she 'doesn't fit in' and that her daily path has taken a different direction over the last six years (IDs 6111, 6112). The hypocrisy of her external action is exposed by the thought that she must 'restrain' and 'lower herself' to fit in (ID 6114), viewing her academic achievements as something that must be put in 'parentheses' (ID 6115). Her external conformity is a performance to hide the fact that she has already mentally outgrown her world.",
+    "evidence_ids": [
+      6111,
+      6112,
+      6114,
+      6115,
+      6116
+    ]
+  },
+  {
+    "id": 53,
+    "answer": "Externally, Lina turns pale, her eyes narrow into 'slits,' and she stares intently at a bottle of red wine (IDs 6284, 6285, 6286). This physical fixation serves as a 'Metaphorical Mapping' of her internal realization that her husband, Stefano, has betrayed her. The narrator notes that Lina's gaze has the perceived power to 'shatter that bottle into a thousand pieces' (ID 6286), which mirrors the internal shattering of her trust and her marriage. The shoes on Marcello's feet represent the physical proof of Stefano's alliance with her enemies (ID 6289), and her intense, destructive stare at the wine is the projection of her internal rage and the sudden 'dissolution' of her newly formed identity.",
+    "evidence_ids": [
+      6284,
+      6285,
+      6286,
+      6289
+    ]
+  },
+  {
+    "id": 54,
+    "answer": "Lina physically puts her book away and mutters that she is leaving, abandoning the frail teacher (ID 6318). Internally, this is driven by an 'Explanation & Drive' mechanism where Lina feels she is undergoing an 'exam' and is terrified of the 'results' (ID 6316). She is consumed by the thought that Oliviero will see her and her son as 'idiots' and part of a 'foolish' family lineage (ID 6317). Her rude departure is not born of arrogance, but of a desperate internal need to 'wipe away all traces' from her face that might invite the teacher’s pity or judgment. She leaves to prevent the external confirmation of her internal fear that she has wasted her talent.",
+    "evidence_ids": [
+      6316,
+      6317,
+      6318
+    ]
+  },
+  {
+    "id": 55,
+    "answer": "Externally, Lina stares fixedly at the road and obsessively tries to pull a pacifier out of her son's mouth (ID 6456), while Michele reveals Stefano's infidelity. This physical fixation is a 'Metaphorical Mapping' of her internal psychological 'tangle of confusion' (ID 6449). Her focus on the road and the pacifier—small, controllable elements—represents her attempt to ignore the overwhelming and 'unbearable' reality Michele is presenting. By staring at the path forward and struggling with the pacifier, she physically enacts her internal refusal to 'untangle' her mind or confront the repulsive truth about her husband and Pinocchia, seeking refuge in repetitive, minor actions to survive a moment of total domestic collapse.",
+    "evidence_ids": [
+      6449,
+      6456,
+      6465,
+      6471
+    ]
+  },
+  {
+    "id": 56,
+    "answer": "Externally, the narrator returns to her parents' 'dark and dilapidated' house to avoid conflict (IDs 6549, 6554). Internally, she views herself as having 'descended from the sacred Mount Olympus' (ID 6554), a metaphor for her elevated academic status in Borgo. This creates an 'Incongruity & Irony' between her physical submission to her family and her internal sense of superiority. The tension is synthesized in her fear that some 'terrible event' or illness (ID 6550) will physically trap her in this inferior environment, forcing her back into the reality of a world she now views with internal detachment and intellectual disdain.",
+    "evidence_ids": [
+      6549,
+      6550,
+      6554
+    ]
+  },
+  {
+    "id": 57,
+    "answer": "Physically, Lina appears compliant, loitering and walking where Stefano suggests (IDs 6696, 6698). However, her internal monologue reveals 'Incongruity & Irony': she refuses to take a sweater out for him because she 'didn't want to stay in the room for another minute' (ID 6696). This physical avoidance is driven by an internal sense of 'disorientation' and the feeling that Stefano is a 'stranger' (IDs 6689, 6690). Her external obedience is a hollow mask; she is physically moving with him only until she is 'completely exhausted' (ID 6704) as a way to avoid the intimacy of the room, turning her physical presence into a defensive strategy of delay.",
+    "evidence_ids": [
+      6689,
+      6696,
+      6698,
+      6704
+    ]
+  },
+  {
+    "id": 58,
+    "answer": "As Stefano physically overpowers Lina, she observes his facial contours changing (IDs 6758, 6760). Internally, she perceives this as 'Don Achille reviving from the muck' and 'bursting out from his body' (ID 6761). This is a 'Metaphorical Mapping' where the physical violence of the present triggers a subconscious projection of childhood terror. Stefano’s physical aggression is no longer just a husband’s anger; it is the internal realization that the 'polite facade' he once maintained has dissolved, revealing the hereditary 'brutality' of his father (IDs 6758, 6759). The physical act of the assault becomes a terrifying revelation of Stefano's true, inescapable nature as the son of an ogre.",
+    "evidence_ids": [
+      6758,
+      6759,
+      6760,
+      6761
+    ]
+  },
+  {
+    "id": 59,
+    "answer": "Externally, the narrator stops on the Solferino Bridge and pushes the iron box until it falls into the river (ID 7014). Internally, she perceives this as pushing 'Lina herself'—including her thoughts, her speech, and her 'cruel attitude'—into the water (ID 7015). This physical act is a 'Metaphorical Mapping' of the narrator's attempt to purge herself of Lina’s overwhelming influence (ID 7016). By drowning the notebooks, she is internally attempting to 'drown' her own feelings of smallness and worthlessness that Lina’s writing provoked (ID 6608). The sinking box represents the narrators desperate internal effort to sever the 'rivet' connecting her to her past and to reclaim an identity separate from Lina’s turbulent life.",
+    "evidence_ids": [
+      6608,
+      7014,
+      7015,
+      7016,
+      7017
+    ]
+  },
+  {
+    "id": 60,
+    "answer": "Physically, the narrator meticulously alters her external self to mirror the cultured elite of the university (ID 7086). Internally, she rationalizes this as participating in an 'acting competition' where she has worn a 'mask' for so long it has 'almost become my face' (ID 7086). This is a case of 'Incongruity & Irony'; despite her perfect grades and social mimicry, she is internally consumed by a 'fear' of being discovered as an outsider (IDs 7090, 7110). Her external perfection is a defensive barrier against the internal truth that she is 'almost' but not 'truly' cultured, revealing the duality between her high-achieving 'trophy' persona and her underlying sense of being a 'frivolous' girl from the slums (IDs 7112, 7067).",
+    "evidence_ids": [
+      7067,
+      7086,
+      7090,
+      7110,
+      7112
+    ]
+  },
+  {
+    "id": 61,
+    "answer": "The external act of overturning her previous work (7203) is driven by a deep internal sense of vulnerability. Internally, she perceives the Airota family as possessing 'magical weapons' and 'armor'—rigorous, structured logic that allows them to move through the world with ease (7201, 7202). By recognizing her own words as 'confused' and 'naive' (7200), her physical act of rewriting is a subconscious attempt to forge her own intellectual armor. The interaction is a causal drive: she destroys the old version because it represents her 'unprotected' self, replacing it with a style she 'approves of' to mirror the perceived invincibility of her mentors.",
+    "evidence_ids": [
+      7200,
+      7201,
+      7202,
+      7203
+    ]
+  },
+  {
+    "id": 62,
+    "answer": "The incongruity lies in her misinterpretation of the TA's question. Physically, she displays the excitement of someone who believes they have been invited into the elite university circle (7207). However, her internal monologue reveals that her joy was fueled by an 'ambition to be as outstanding as Pietro' (7209). The irony is exposed when the assistant clarifies he was suggesting a kindergarten teacher's exam (7208). Her external 'hot cheeks' transition from the warmth of pride to the heat of shame as her internal logic realizes her 'arrogance' blinded her to her actual standing in the academic hierarchy.",
+    "evidence_ids": [
+      7207,
+      7208,
+      7209
+    ]
+  },
+  {
+    "id": 63,
+    "answer": "The narrator performs the act of embracing Pietro tightly (7309), but her internal state is one of intellectualized comparison. She notes that while Pietro and Antonio are 'separated by the entire library,' they are fundamentally 'similar' (7312). This serves as a metaphorical mapping where the 'library' represents the social and educational barrier she has crossed. The physical act of intimacy is stripped of unique passion and instead becomes a data point in her ongoing internal calculation of social class and male behavior, suggesting that her 'Mind' remains an analytical observer even during 'Body' intimacy.",
+    "evidence_ids": [
+      7309,
+      7312
+    ]
+  },
+  {
+    "id": 64,
+    "answer": "Locating the external, Elena speaks 'softly' and in 'Italian' to her mother (7421), who typically speaks in dialect. The internal monologue reveals this isn't just for communication, but a psychological anchor to 'convince myself that this was really happening' (7421). The use of the formal language of her education (Italian) serves as a physical proof of her new identity. The interaction is a causal explanation: the softness and specific language choice are a self-soothing ritual to bridge the gap between her internal disbelief and the external reality of her success.",
+    "evidence_ids": [
+      7421
+    ]
+  },
+  {
+    "id": 65,
+    "answer": "The external manifestation of gliding her fingers over books (7459) is a physical projection of her internal realization that she is 'carrying out the things Lina and I planned as children' (7462). The worn books symbolize the 'unknown surname' of her past that is now 'filled with glory' (7464). Her 'careless' movement is a metaphor for her psychological transition from a seeker of knowledge to a creator of it. She no longer needs to read the titles because, internally, she envisions her own name—Elena Greco—permanently etched into that physical space (7463, 7465).",
+    "evidence_ids": [
+      7459,
+      7462,
+      7463,
+      7464,
+      7465
+    ]
+  },
+  {
+    "id": 66,
+    "answer": "The interaction is one of Incongruity & Irony. Externally, Elena waves and feels that 'without her, nothing truly important could happen' (7690, 7692). However, her internal monologue reveals a visceral disgust, stating she must escape to 'avoid smelling that greasy scent of hers again' (7691). The 'greasy scent' of the sausage factory serves as a physical barrier that her mind-body duality cannot reconcile; while her mind values Lina's intellectual '0 and 1' abstractions (7674), her body physically repels the reality of Lina's poverty-stricken existence.",
+    "evidence_ids": [
+      7690,
+      7691,
+      7692
+    ]
+  },
+  {
+    "id": 67,
+    "answer": "The external act of pushing Gennaro's bed (7904) appears cold or irrational, but the internal monologue provides a protective logic. Lina feels her heart pounding so violently that it might 'crack the plaster' or 'loosen her skull' (7899). She fantasizes that the child could be 'destroyed like a celluloid doll,' with his chest and brain splitting open (7900). Thus, the physical distance created by her feet is a desperate, driven action to prevent her internal 'explosive' energy from physically harming her son. The interaction is a clear 'Explanation & Drive' where a horrific fantasy rationalizes an act of physical distancing.",
+    "evidence_ids": [
+      7899,
+      7900,
+      7904
+    ]
+  },
+  {
+    "id": 68,
+    "answer": "Locating the external, Lina clenches her fists as the room 'rises and falls' around her (8125). Internally, she views Michele's attention not as desire, but as a 'superstition'—he believes she has a 'power' he needs (8129, 8130). The clenching of her fists is a metaphorical mapping of her attempt to hold onto her own 'Mind' while her 'Body' is under the threat of Michele's physical and financial 'construction' (8109). Her physical fight against fainting is the externalized struggle to prevent her internal 'identity' from being absorbed into his world of 'luxurious disguises.'",
+    "evidence_ids": [
+      8109,
+      8125,
+      8129,
+      8130
+    ]
+  },
+  {
+    "id": 69,
+    "answer": "The external action is a violent outburst—shouting and swinging a copper ashtray (8147). However, the attack is described as 'slow and weak' (8148). The internal monologue reveals she feels like a 'martyr... who already considered himself beheaded' (8159). This interaction is a 'Metaphorical Mapping': her physical weakness is a projection of her psychological surrender. She is going through the motions of rebellion (throwing the ashtray) while her subconscious has already accepted the 'beheading' or destruction of her life at the factory, leading to a disconnect between her aggressive intent and her depleted physical force.",
+    "evidence_ids": [
+      8147,
+      8148,
+      8159
+    ]
+  },
+  {
+    "id": 70,
+    "answer": "The narrator manifests 'enthusiasm' that 'delights' Gigliola (8391). Internally, however, she feels 'very ashamed' (8389). This Incongruity is driven by a psychological calculation: Elena views her own education and success as a 'crown' that makes her part of a 'powerful class' (8384). She is internally mocking the 'vulgar pleasures' and 'luxurious disguise' of the Solara wealth (8385, 8386), even as she performs the role of the polite, impressed friend. Her outward enthusiasm is a 'mask' used to navigate a social situation she internally finds 'unseemly' and 'criminal.'",
+    "evidence_ids": [
+      8384,
+      8385,
+      8386,
+      8389,
+      8391
+    ]
+  },
+  {
+    "id": 71,
+    "answer": "1. **Locate External:** Giggia displays wide-eyed excitement about her house but suddenly slaps her full chest and asks, 'Do you think I exist?' \n2. **Locate Internal:** The narrator thinks about how Michele 'drained' and 'tore' Giggia since she was a child and now no longer even looks at her. \n3. **Analyze Interaction:** This is an Interaction Mode of 'Explanation & Drive.' The external slap is a physical attempt to prove her material presence to a witness because she feels invisible in her own marriage. \n4. **Synthesis:** The narrator interprets Giggia's violent physical self-assertion as a subconscious projection of her internal erasure. The act of slapping her chest serves as a tragic confirmation that while her body is physically present, it has ceased to exist as an object of desire or significance in Michele’s eyes, rationalizing her 'showing off' as a failing mask for total domestic neglect.",
+    "evidence_ids": [
+      8407,
+      8414
+    ]
+  },
+  {
+    "id": 72,
+    "answer": "1. **Locate External:** Lina excitedly sends Gennaro to meet his grandfather Fernando at the primary school entrance. \n2. **Locate Internal:** The narrator feels the need to stop her, sensing the impending rejection. \n3. **Analyze Interaction:** This shows 'Incongruity & Irony' between Lina's external hope for familial reconciliation and the narrator's internal dread. \n4. **Synthesis:** Lina’s action is driven by a subconscious desire to use the innocence of a child to bridge a broken bond. However, the interaction turns brutal when Fernando tells the child to call his mother a 'whore.' The narrator's internal instinct to stop Lina exposes the irony that Lina's external display of optimism is a vulnerable miscalculation of her father’s enduring resentment.",
+    "evidence_ids": [
+      8529,
+      8530
+    ]
+  },
+  {
+    "id": 73,
+    "answer": "1. **Locate External:** Elena focuses intensely on writing carefully composed, calligraphic dedications, which makes other waiting readers impatient. \n2. **Locate Internal:** Her heart is racing, and she is terrified that Nino might leave while she is signing. \n3. **Analyze Interaction:** This is an 'Explanation & Drive' scenario. The calligraphy is a physical stalling tactic and a performance of competence. \n4. **Synthesis:** Elena uses the physical act of writing as a shield to hide her internal panic. She is trying to project the image of a 'cultured female writer' to Nino to overwrite his old impression of her as a 'clumsy girl.' The external focus on the beauty of the ink is a direct response to her internal desperation to be perceived as worthy of his renewed attention.",
+    "evidence_ids": [
+      8640,
+      8643,
+      8644
+    ]
+  },
+  {
+    "id": 74,
+    "answer": "1. **Locate External:** Elena remains cold, silent, and has a 'dark face' even though Pietro has arrived as a surprise for her book celebration. \n2. **Locate Internal:** She realizes her mood is terrible specifically because Pietro has 'arrived now, standing between [her] and Nino.' \n3. **Analyze Interaction:** This is a clear 'Incongruity & Irony.' The social expectation is happiness for her fiancé's arrival, but her mind is in a state of rebellion. \n4. **Synthesis:** The narrator's internal monologue reveals that her external coldness isn't caused by exhaustion or the critic's attack, as she tells others, but by the physical presence of her fiancé, which terminates her fantasy of being alone with Nino. This internal honesty strips away the 'mask' of the happy bride-to-be, exposing her deep-seated resentment toward the man who represents her 'realm of reason.'",
+    "evidence_ids": [
+      8774,
+      8817
+    ]
+  },
+  {
+    "id": 75,
+    "answer": "1. **Locate External:** The mother screams and waves her hand in the air near Elena but does not actually strike her. \n2. **Locate Internal:** Elena thinks that even though she wasn't hit, it felt as if she were a 'shadow' and her mother was 'hitting a real me.' \n3. **Analyze Interaction:** This is 'Metaphorical Mapping.' The mother's aggressive but non-contact gesture maps to the psychological violence of their history. \n4. **Synthesis:** The narrator’s feeling of being a 'shadow' reflects her internal sense of erasure in the face of her mother’s dominant, vulgar personality. The physical 'near-miss' of the slap is interpreted by the subconscious as a successful hit on her identity, illustrating that their conflict is no longer about physical control but about the mother’s power to spiritually bruise Elena regardless of physical contact.",
+    "evidence_ids": [
+      8895
+    ]
+  },
+  {
+    "id": 76,
+    "answer": [
+      {
+        "rank": 1,
+        "event": "Elena breaks out in a cold sweat and feels faint while reading the newspaper review in Cavour Square.",
+        "reasoning": "This is the physical manifestation of her acute anxiety."
+      },
+      {
+        "rank": 2,
+        "event": "She immediately thinks of her mother cutting out the article to put it in a scrapbook to use against her whenever she is offended.",
+        "reasoning": "This internal thought explains the specific 'source' of the terror: the loss of stature in her mother's eyes."
+      },
+      {
+        "rank": 3,
+        "event": "The narrator interprets this physical collapse as a reaction not just to public criticism, but to the domestic weaponization of her failure.",
+        "reasoning": "The 'Explanation & Drive' link: the fear of her mother's permanent record of her 'pornography' drives the physical vertigo."
+      }
+    ],
+    "evidence_ids": [
+      8955,
+      8962
+    ]
+  },
+  {
+    "id": 77,
+    "answer": "1. **Locate External:** Elena listens silently as Pasquale and Nadia mock her efforts to help workers, unable to organize her words. \n2. **Locate Internal:** She internally snaps, 'Why are you doing this to me? Now that you can put your hands on this wealthy family's daughter, do you think you're something special?' \n3. **Analyze Interaction:** This is 'Incongruity & Irony.' Externally, she is the refined, 'politically conscious' writer; internally, she reverts to a petty, class-resentful girl from the slums. \n4. **Synthesis:** Elena’s external passivity is a mask for a despondent internal rage. Her internal thought exposes the hypocrisy of the social situation: while they discuss 'class struggle,' she is secretly judging Pasquale for his social climbing through Nadia. Her inability to speak is the physical manifestation of the duality between her new 'intellectual' self and her old 'San Gregorio' instincts.",
+    "evidence_ids": [
+      9125,
+      9126
+    ]
+  },
+  {
+    "id": 78,
+    "answer": "1. **Locate External:** Elena pushes away Professor Tarantano in the elevator while smelling the alcohol on his breath. \n2. **Locate Internal:** She later links this to the memory of Donato Nino on the beach and the 'pleasure that went against my will.' \n3. **Analyze Interaction:** This is 'Metaphorical Mapping.' The physical harassment in the present is a psychological mirror of her past trauma. \n4. **Synthesis:** The physical struggle in the elevator becomes a metaphor for Elena’s lifelong struggle with predatory male 'authority.' Her internal mapping suggests that regardless of her success as a writer, her body remains, in her mind, a site of involuntary 'pleasure' and exploitation. The 'smell of alcohol' and the 'touch' are physical triggers that collapse her current identity back into the 'terrified girl' of Ischia, revealing her deep-seated fear that she is inherently 'broken' or 'sexually available' to such men.",
+    "evidence_ids": [
+      9194,
+      9245,
+      9247
+    ]
+  },
+  {
+    "id": 79,
+    "answer": "1. **Locate External:** The mother speaks in a 'cold, determined manner,' telling the guests that Elena is her pride and has achieved what no other girl could. \n2. **Locate Internal:** Elena tries to discern if her mother is serious or if she is trying to make it clear to Pietro that 'he needed the Greco family' more than they needed him. \n3. **Analyze Interaction:** This is 'Incongruity & Irony.' A moment of public bonding is internally framed as a tactical power play. \n4. **Synthesis:** The narrator’s internal skepticism reveals that the 'praise' is actually an external weapon used to dominate the new son-in-law. Instead of a display of affection, the narrator sees a subconscious projection of familial ego; the mother is using Elena’s success to assert class superiority over the 'professor.' The irony lies in the fact that the more the mother praises Elena’s 'difference' from the neighborhood, the more she anchors Elena to the neighborhood’s competitive power dynamics.",
+    "evidence_ids": [
+      9385,
+      9387
+    ]
+  },
+  {
+    "id": 80,
+    "answer": "1. **Locate External:** Elena gives an exuberant thanks-giving speech using a moon metaphor and later tells Lina she is 'very, very good.' \n2. **Locate Internal:** She feels a 'sharp pain in her stomach' when Lina mocks her 'moon' comment as nonsense. \n3. **Analyze Interaction:** This is 'Metaphorical Mapping.' The physical pain in her gut is a projection of the 'gravity' Lina uses to pull her back to earth. \n4. **Synthesis:** The narrator’s 'moon' speech is an internal attempt to escape the 'messy affairs' of her past. However, her physical reaction to Lina’s mockery shows that her 'flight' is a psychological delusion. The stomach pain serves as a metaphorical anchor; it is the physical manifestation of her dependence on Lina’s approval. Her external 'happiness' is revealed to be a fragile construct that collapses the moment Lina reminds her that she is just 'feet on the ground,' tethered to the same 'billions of stones' as everyone else.",
+    "evidence_ids": [
+      9499,
+      9502,
+      9504
+    ]
+  },
+  {
+    "id": 81,
+    "answer": "1. **Locate External:** The narrator's body \"shivered with shock\" (9623) and she is seen \"shaking my head very forcefully\" (9625). \n2. **Locate Internal:** She feels that Lina is already hiding within her body and, if invited, would \"slip into Dede's body,\" manifesting through Dede's squinting eyes and furrowed brow (9623, 9624). \n3. **Analyze Interaction:** The physical rejection is driven by a terrified superstition or psychological projection where the narrator fears that her daughter is becoming a vessel for Lina's darker traits. \n4. **Synthesis:** The narrator physically shivers and shakes her head to dispel the terrifying mental image of Lina taking possession of her daughter, Dede. Her internal logic suggests that inviting Lina physically into the home would complete a spiritual or genetic takeover she already fears is happening within Dede's body.",
+    "evidence_ids": [
+      9623,
+      9624,
+      9625
+    ]
+  },
+  {
+    "id": 82,
+    "answer": "1. **Locate External:** The narrator acts \"exaggerated,\" crosses her legs to expose them, and unfastens a button on her shirt (9751), taking the initiative to draw closer to the guest (9752). \n2. **Locate Internal:** She thinks that getting close to a stranger makes her feel \"a little more at ease\" (9752) and that the \"comfortable sensation\" of male attention prevents her from feeling depressed or empty (9753). \n3. **Analyze Interaction:** The behavior is a coping mechanism. The inner thought reveals that the flirtation is not about desire for the men, but a calculated effort to use their attention as a shield against her own depression and sense of failure. \n4. **Synthesis:** The narrator rationalizes her performative seduction as a necessary self-medication; she believes that the validation received from these interactions provides a lingering \"comfortable sensation\" that staves off her depression and the emptiness of her daily life.",
+    "evidence_ids": [
+      9751,
+      9752,
+      9753
+    ]
+  },
+  {
+    "id": 83,
+    "answer": "1. **Locate External:** The narrator calls Lina every day via expensive long-distance (9837). \n2. **Locate Internal:** Her purpose is to \"hide in her shadow\" and let the time of pregnancy pass, hoping Lina will \"stir my imagination\" (9837). \n3. **Analyze Interaction:** The action is a form of parasitism or shelter. Physically connecting via phone represents a psychological need to retreat into Lina's strength or identity to survive her own stagnant state. \n4. **Synthesis:** The daily calls serve as a metaphorical shelter; the narrator admits she is using the connection to \"hide in [Lina's] shadow,\" using Lina's vitality to endure the passivity of her pregnancy and jumpstart her own dormant imagination.",
+    "evidence_ids": [
+      9837,
+      9838
+    ]
+  },
+  {
+    "id": 84,
+    "answer": "1. **Locate External:** The narrator does \"any kind of work\" available (10021), focusing entirely on family and chores (10020). \n2. **Locate Internal:** She views this as a way to make herself \"numb\" and feels she has discovered the \"right way to use my life\" (10021), with a voice whispering \"Don't let your mind wander\" (10022). \n3. **Analyze Interaction:** The drive here is suppression. The physical labor is a tool to silence her intellect and painful thoughts. \n4. **Synthesis:** The narrator rationalizes her obsessive focus on housework as a protective strategy to induce emotional numbness. She convinces herself this is the \"right way\" to live because it successfully prevents her mind from wandering into painful territories, effectively silencing her own intellect.",
+    "evidence_ids": [
+      10021,
+      10022
+    ]
+  },
+  {
+    "id": 85,
+    "answer": "1. **Locate External:** The narrator suppresses her desire to speak and remains silent (10104). \n2. **Locate Internal:** She feels the women express things she already knows in a \"terrible\" way (10097) and realizes she has molded her mind to be \"masculine\" (10100) and expresses herself in \"long, wordy sentences\" (10103), unlike the group's directness. \n3. **Analyze Interaction:** The silence is caused by a sense of alienation and superiority/inferiority complex. She feels intellectually separate (knowing better) but socially inhibited (her \"male\" education vs. their \"female\" rawness). \n4. **Synthesis:** The narrator remains silent because she feels a dissonance between her own \"masculine,\" academic mode of expression and the group's raw, direct style. She fears her \"long, wordy sentences\" would be out of place, even though she internally critiques the other women's expression as \"terrible.\"",
+    "evidence_ids": [
+      10097,
+      10100,
+      10103,
+      10104
+    ]
+  },
+  {
+    "id": 86,
+    "answer": "1. **Locate External:** The narrator drinks red wine and tries \"drugs\" (10206). \n2. **Locate Internal:** Despite the substances, she feels \"empty inside and helpless\" (10206). \n3. **Analyze Interaction:** This is a case of incongruity. The external attempt to alter her state or escape reality fails completely against the solidity of her internal despair. \n4. **Synthesis:** The narrator's physical consumption of drugs and alcohol fails to produce the desired escapism or numbness. Her internal state of emptiness and helplessness is so profound that it negates the physiological effects of the intoxicants, highlighting the severity of her trauma.",
+    "evidence_ids": [
+      10206
+    ]
+  },
+  {
+    "id": 87,
+    "answer": "1. **Locate External:** The narrator is \"cleaning something in the kitchen\" (10327) and later sits down \"like a shadow\" (10333). \n2. **Locate Internal:** She feels she has \"gotten lost behind Lina\" (10329) and Enzo, realizing she lacks independent thought and that her education has left her unable to understand their world (10327, 10332). \n3. **Analyze Interaction:** The physical retreat to domestic servitude (cleaning) metaphorically represents her regression and loss of intellectual status compared to the \"uneducated\" Lina and Enzo. \n4. **Synthesis:** The narrator's physical withdrawal into menial kitchen tasks serves as a metaphor for her feelings of intellectual obsolescence. While the \"uneducated\" friends discuss complex modern systems, she feels she has been left behind, reduced to a \"shadow\" or a traditional housewife despite her university degree.",
+    "evidence_ids": [
+      10327,
+      10329,
+      10332,
+      10333
+    ]
+  },
+  {
+    "id": 88,
+    "answer": "1. **Locate External:** The narrator feels \"very uneasy\" and lies \"listlessly in bed\" (10479). \n2. **Locate Internal:** She feels \"deeply dissatisfied with my identity as a housewife\" and depressed by the prospect of repeating \"domestic rituals\" until death (10479). \n3. **Analyze Interaction:** The physical listlessness is a direct symptom of existential dread regarding her social role. \n4. **Synthesis:** The narrator's physical paralysis and listlessness are a somatic manifestation of her existential despair. She views her future as a meaningless cycle of \"domestic rituals\" (cooking, cleaning), and this realization drains her of the physical energy to move or act.",
+    "evidence_ids": [
+      10479
+    ]
+  },
+  {
+    "id": 89,
+    "answer": "1. **Locate External:** She arrives at the doorstep (10599). \n2. **Locate Internal:** Her mind is in chaos; she wonders if she is reverting to her mother's outdated views, noting that in other places (Porto/Mergellina) she accepts cohabitation, but here she cannot (10595, 10599, 10600). \n3. **Analyze Interaction:** The hesitation is driven by cognitive dissonance. She is torn between her progressive, educated identity (which accepts free love) and her protective, traditional instinct regarding her sister. \n4. **Synthesis:** The narrator hesitates because she is paralyzed by an internal ideological conflict. While she intellectually supports women's freedom (valid in her educated life), confronting her sister's cohabitation with a Solara triggers a regression to her mother's traditional morality, leaving her unsure of which \"self\" should knock on the door.",
+    "evidence_ids": [
+      10599,
+      10600,
+      10601
+    ]
+  },
+  {
+    "id": 90,
+    "answer": "1. **Locate External:** The narrator is \"not smiling\" and cannot say a word (10686). \n2. **Locate Internal:** She is observing Lina's wrinkles and thinking, \"even though we're both thirty, she looked much older than me, and I felt I had fewer wrinkles\" (10686). \n3. **Analyze Interaction:** The shock is not just emotional but competitive. The paralysis comes from a sudden, petty assessment of aging. \n4. **Synthesis:** The narrator's physical freezing is caused by an intense internal scrutiny of Lina's appearance. Instead of feeling warmth, she is fixated on a competitive comparison of their aging, deriving a private shock (and perhaps satisfaction) from the fact that Lina looks much older and has more wrinkles than she does.",
+    "evidence_ids": [
+      10686
+    ]
+  },
+  {
+    "id": 91,
+    "answer": "Locate External: Elena outwardly performs a disagreement with Pietro's critique of Lina. Locate Internal: Internally, she is happy and realizes she had misjudged Lina's ability to manipulate her charm around men like Pietro. Analyze Interaction: This is a classic case of Incongruity & Irony. The 'mask' of the loyal friend is maintained to preserve her self-image, while the 'reality' of her psyche finds relief in Pietro’s intellectual immunity to Lina. Synthesis: Elena's external compliance with social expectations of friendship is undermined by a subconscious projection of relief; she is happy not because Pietro is right, but because Lina's power is neutralized, rationalizing her external performance as a necessary social buffer while her mind celebrates a perceived victory over Lina's influence.",
+    "evidence_ids": [
+      10818
+    ]
+  },
+  {
+    "id": 92,
+    "answer": "Locate External: Marcello speaks about revolution while looking at Elena specifically through the rearview mirror. Locate Internal: Elena thinks he is seeking her approval and that her reaction is central to his performance. Analyze Interaction: This is Explanation & Drive. The physical act of the mirror-gaze is interpreted by Elena as a validation-seeking behavior. Synthesis: Through the lens of cognitive psychology, Elena projects her own need for intellectual standing onto Marcello’s behavior. By framing his incoherent talk as a performance for her approval, she rationalizes his presence in her narrative as someone who acknowledges her status, thereby elevating her own sense of self-importance in a situation where she otherwise feels like a silent passenger.",
+    "evidence_ids": [
+      10832,
+      10833
+    ]
+  },
+  {
+    "id": 93,
+    "answer": "Locate External: Elena shows sudden, intense physical affection and loving words toward Pietro. Locate Internal: Her excitement is actually triggered by Nino’s invitation to dinner, not by Pietro himself. Analyze Interaction: This demonstrates Incongruity & Irony. The narrator uses Pietro as a physical vessel or proxy for the passion she feels toward another man (Nino). Synthesis: This behavior reveals a mind-body disconnect where the physical act of intimacy with the husband is a subconscious projection of desire for the lover. Her 'attentiveness' is a parasitic emotion; it feeds on the prospect of seeing Nino, but is physically discharged onto Pietro to maintain the 'mask' of a happy marriage while her internal logic is entirely focused on the external catalyst.",
+    "evidence_ids": [
+      11099,
+      11100,
+      11101
+    ]
+  },
+  {
+    "id": 94,
+    "answer": "Locate External: Elena speaks casually, lowers her head, and her eyes fill with tears. Locate Internal: She is internally filled with embarrassment and anger because Pietro has just publicly claimed she has 'no real interests.' Analyze Interaction: This is Metaphorical Mapping. The physical act of lowering the head represents her psychological collapse and the weight of her husband's intellectual oppression. Synthesis: Elena’s body betrays the 'mask' of the casual response. The tears and the bowed head are physical projections of her feeling 'small' and intellectually erased. Her verbal claim of 'knowing nothing' is not a statement of fact, but a sarcastic internalization of Pietro’s arrogance, showing how her physical posture mirrors the crushing of her spirit under his bourgeois intellectual tone.",
+    "evidence_ids": [
+      11156,
+      11158
+    ]
+  },
+  {
+    "id": 95,
+    "answer": "Locate External: Elena quickly passes her writing to Nino at the restaurant door. Locate Internal: Her heart pounds and she specifically thinks about not wanting Pietro or her daughters to find out. Analyze Interaction: This is Explanation & Drive. The 'haste' of the action is driven by the internal fear of discovery and the desire for validation from a specific 'other.' Synthesis: The narrator’s physical speed is a manifestation of her internal transgression. By handing over the manuscript in secret, she is physically enacting an intellectual adultery. Her internal logic treats the manuscript as a secret part of her 'self' that only Nino is worthy of seeing, rationalizing the physical risk of the hand-off as a necessary step in reclaiming her identity from her domestic role.",
+    "evidence_ids": [
+      11233,
+      11236
+    ]
+  },
+  {
+    "id": 96,
+    "answer": "Locate External: Elena remains passive while Nino insults Pietro’s intelligence and masculinity. Locate Internal: She feels a hard-to-suppress admiration and excitement for Nino’s attacks. Analyze Interaction: This is Incongruity & Irony. Her physical passivity is not a sign of 'peace' but a sign of silent endorsement. Synthesis: The narrator's refusal to defend her husband is a physical projection of her internal detachment from him. She views Pietro as a representative of a 'clumsy' class she wants to leave, while Nino represents the 'brilliance' she desires. Her internal excitement reveals that she is vicariously attacking Pietro through Nino, using her physical silence as a 'mask' to watch her husband's authority be dismantled without her having to take the blame.",
+    "evidence_ids": [
+      11345,
+      11346,
+      11347
+    ]
+  },
+  {
+    "id": 97,
+    "answer": "Locate External: Elena is physically intimate and happy with Nino. Locate Internal: She is plagued by the thought that this physical act is merely a 'repetition' of his love for Lina, and she feels she is following a 'pattern.' Analyze Interaction: This is Incongruity & Irony. Her body is experiencing unique pleasure, but her mind is trapped in a historical comparison that diminishes the act. Synthesis: The narrator cannot fully occupy her body because her mind is subconsciously projecting Lina into the room. This duality creates a 'haunted' physical experience where she feels like a copy of her friend rather than a unique lover. Her internal logic turns the physical pleasure into a source of psychological sadness, showing that her mind is incapable of accepting the body's 'truth' without the interference of her past traumas.",
+    "evidence_ids": [
+      11613,
+      11619
+    ]
+  },
+  {
+    "id": 98,
+    "answer": "Locate External: Elena drops the phone after Lina screams at her for destroying her family. Locate Internal: She immediately interprets Lina's anger as 'jealousy' and proof that Nino truly loves her. Analyze Interaction: This is Explanation & Drive. The physical rejection of the phone represents a break from Lina’s influence. Synthesis: Elena rationalizes Lina’s valid moral outrage as 'jealousy' to protect her own ego and justify her affair. The physical act of dropping the receiver 'as if it were hot' is a metaphor for her internal desire to sever the painful bond with Lina's 'correct' rationality. By projecting 'hatred' and 'jealousy' onto Lina, Elena creates a psychological space where her self-destructive path feels like an empowered choice.",
+    "evidence_ids": [
+      11835,
+      11836
+    ]
+  },
+  {
+    "id": 99,
+    "answer": "Locate External: Elena cries out in horror; Lina reacts with irritation and looks at her. Locate Internal: Elena is shocked by the ruined physical form of a childhood friend; Lina (based on the context of 'disappearing boundaries') has already mentally integrated this violence as inevitable. Analyze Interaction: This is Metaphorical Mapping. Elena's cry is a physical attempt to re-establish a boundary of 'civilized' reaction that Lina has long since discarded. Synthesis: The narrator’s physical outburst is a projection of her 'outsider' status—she has tried to leave the violence of the neighborhood behind, and her cry is a failure of that 'mask.' Lina's annoyance reflects a mind that sees physical death as the ultimate 'erasure' of boundaries she has lived with for years, making Elena's emotional performance seem like a shallow, useless synecdoche of their shared past.",
+    "evidence_ids": [
+      11860,
+      11885
+    ]
+  },
+  {
+    "id": 100,
+    "answer": "Locate External: Elena begins to write down every detail of their story. Locate Internal: She is 'extremely angry' that Lina is erasing her own traces and thinks, 'let's see who will win this time.' Analyze Interaction: This is Explanation & Drive. The act of writing is not for 'art,' but a physical counter-attack against Lina’s disappearance. Synthesis: The writing is a physical projection of Elena’s refusal to let Lina 'vanish.' Internally, she views the act of documenting as a way to cage Lina in syllables, defeating Lina’s attempt at total erasure. Her behavior is driven by a subconscious need to maintain the 'Mind-Body Duality' of their relationship: even if Lina's body is gone, Elena will force her mind to remain present through text, claiming the final victory in their lifelong rivalry.",
+    "evidence_ids": [
+      11994,
+      11995
+    ]
+  }
+]

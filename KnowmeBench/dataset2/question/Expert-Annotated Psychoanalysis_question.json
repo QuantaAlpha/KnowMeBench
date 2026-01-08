@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "question": "How do I view the conflict between \"academic success\" and \"sense of belonging to the neighborhood\"?"
+  },
+  {
+    "id": 2,
+    "question": "Do I consider \"honesty\" more important than \"maintaining relationships\"?"
+  },
+  {
+    "id": 3,
+    "question": "Whose approval do I hope for more: peers in the neighborhood or elders/teachers at school?"
+  },
+  {
+    "id": 4,
+    "question": "What is the goal I desire most deeply?"
+  },
+  {
+    "id": 5,
+    "question": "What do I do most often to cope when I feel stressed?"
+  },
+  {
+    "id": 6,
+    "question": "Under what circumstances am I most prone to self-doubt?"
+  },
+  {
+    "id": 7,
+    "question": "What is the essence of my relationship with Lila?"
+  },
+  {
+    "id": 8,
+    "question": "What role do I play in my family?"
+  },
+  {
+    "id": 9,
+    "question": "What is the fundamental driving force behind my hard work in studying?"
+  },
+  {
+    "id": 10,
+    "question": "Why am I obsessed with Nino Sarratore?"
+  },
+  {
+    "id": 11,
+    "question": "What is the biggest psychological change from my childhood to adolescence?"
+  },
+  {
+    "id": 12,
+    "question": "How does my attitude towards \"violence\" change?"
+  },
+  {
+    "id": 13,
+    "question": "What is my lowest emotional stage usually related to?"
+  },
+  {
+    "id": 14,
+    "question": "When do I feel most calm?"
+  },
+  {
+    "id": 15,
+    "question": "What is the thing I would absolutely never do?"
+  },
+  {
+    "id": 16,
+    "question": "How do I view the relationship between \"money\" and \"dignity\"?"
+  },
+  {
+    "id": 17,
+    "question": "What is my behavioral pattern in front of men?"
+  },
+  {
+    "id": 18,
+    "question": "How do I respond to the expectations of authority figures (such as teacher Oliviero)?"
+  },
+  {
+    "id": 19,
+    "question": "What is my core internal conflict?"
+  },
+  {
+    "id": 20,
+    "question": "How am I most likely to choose my life direction in the future?"
+  },
+  {
+    "id": 21,
+    "question": "What is the deep motivation for my continuous hard work in studying?"
+  },
+  {
+    "id": 22,
+    "question": "What is unbearable to me in friendship?"
+  },
+  {
+    "id": 23,
+    "question": "What is my instinctive reaction to conflict?"
+  },
+  {
+    "id": 24,
+    "question": "What is the greatest pursuit of my life?"
+  },
+  {
+    "id": 25,
+    "question": "Who is the greatest reference for my self-worth?"
+  },
+  {
+    "id": 26,
+    "question": "How do I comfort myself when I fail?"
+  },
+  {
+    "id": 27,
+    "question": "What is my standard for choosing a boyfriend?"
+  },
+  {
+    "id": 28,
+    "question": "Do I prefer solitude or being with friends?"
+  },
+  {
+    "id": 29,
+    "question": "Would I sacrifice my future for a friend?"
+  },
+  {
+    "id": 30,
+    "question": "What kind of person am I most afraid of becoming?"
+  },
+  {
+    "id": 31,
+    "question": "Who puts the most psychological pressure on me?"
+  },
+  {
+    "id": 32,
+    "question": "How do I handle being insulted or slighted?"
+  },
+  {
+    "id": 33,
+    "question": "What do I consider a sign of success?"
+  },
+  {
+    "id": 34,
+    "question": "What kind of intimate relationship do I enjoy?"
+  },
+  {
+    "id": 35,
+    "question": "How do I balance family and personal dreams?"
+  },
+  {
+    "id": 36,
+    "question": "What is my view on marriage?"
+  },
+  {
+    "id": 37,
+    "question": "What is the essence of my relationship with teachers?"
+  },
+  {
+    "id": 38,
+    "question": "When do I feel most anxious?"
+  },
+  {
+    "id": 39,
+    "question": "How do I view the values of the neighborhood?"
+  },
+  {
+    "id": 40,
+    "question": "What is the core contradiction of my personality?"
+  },
+  {
+    "id": 41,
+    "question": "What is the core consideration when I make major life choices?"
+  },
+  {
+    "id": 42,
+    "question": "What part of my relationship with Lila makes me feel most conflicted and uneasy?"
+  },
+  {
+    "id": 43,
+    "question": "What is the highest standard by which I evaluate a relationship as \"valuable\"?"
+  },
+  {
+    "id": 44,
+    "question": "Emotionally, what can I not tolerate the most?"
+  },
+  {
+    "id": 45,
+    "question": "What is my habitual way of dealing with inner chaos?"
+  },
+  {
+    "id": 46,
+    "question": "Besides escaping, what is the deep driving force behind my pursuit of success?"
+  },
+  {
+    "id": 47,
+    "question": "When expectations for my behavior conflict between two parties (such as my original family and the Airota family), what is my deep coping mechanism?"
+  },
+  {
+    "id": 48,
+    "question": "What am I fundamentally pursuing by marrying Pietro?"
+  },
+  {
+    "id": 49,
+    "question": "In front of whom do I most need to conceal my origin and true feelings?"
+  },
+  {
+    "id": 50,
+    "question": "When do I feel the strongest self-doubt?"
+  },
+  {
+    "id": 51,
+    "question": "What is one of my \"uncompromising\" principles?"
+  },
+  {
+    "id": 52,
+    "question": "What is the relationship between my writing and real experience?"
+  },
+  {
+    "id": 53,
+    "question": "What was my biggest internal conflict in the past six months?"
+  },
+  {
+    "id": 54,
+    "question": "What is my main way of gaining a sense of security?"
+  },
+  {
+    "id": 55,
+    "question": "What is the emotional core of my feelings towards my mother?"
+  },
+  {
+    "id": 56,
+    "question": "When facing Nino, what are my truest emotions and demands?"
+  },
+  {
+    "id": 57,
+    "question": "What is the implicit indicator by which I measure my \"progress\" or \"degeneration\"?"
+  },
+  {
+    "id": 58,
+    "question": "What is a latent psychological pattern when I handle relationships with men?"
+  },
+  {
+    "id": 59,
+    "question": "At the current stage, what future do I fear most?"
+  },
+  {
+    "id": 60,
+    "question": "What can the ultimate goal of all my actions be summarized as?"
+  },
+  {
+    "id": 61,
+    "question": "What is the unshakable core principle in my major life choices?"
+  },
+  {
+    "id": 62,
+    "question": "In emotional relationships, whose needs do I prioritize satisfying?"
+  },
+  {
+    "id": 63,
+    "question": "What is the fundamental motivation for my decision to leave my husband?"
+  },
+  {
+    "id": 64,
+    "question": "On what matters would I rather suffer pain than compromise?"
+  },
+  {
+    "id": 65,
+    "question": "What was the strongest conflict in my heart in the past six months?"
+  },
+  {
+    "id": 66,
+    "question": "In front of whom can I show my true self the most?"
+  },
+  {
+    "id": 67,
+    "question": "In front of whom am I most unable to be myself?"
+  },
+  {
+    "id": 68,
+    "question": "What is the trigger for my recent emotional instability?"
+  },
+  {
+    "id": 69,
+    "question": "What psychological pattern do I follow when dealing with the relationship with Lila?"
+  },
+  {
+    "id": 70,
+    "question": "What emotion appears most often when I face my daughter?"
+  },
+  {
+    "id": 71,
+    "question": "Between professional pursuit and private emotion, which side do I actually lean towards more?"
+  },
+  {
+    "id": 72,
+    "question": "What value shift does my attitude towards Naples reflect?"
+  },
+  {
+    "id": 73,
+    "question": "What kind of self-image do I try to build in my writing?"
+  },
+  {
+    "id": 74,
+    "question": "What is the psychology behind my caregiving behavior when my mother is ill?"
+  },
+  {
+    "id": 75,
+    "question": "What is unbearable to me in my relationship with Nino?"
+  },
+  {
+    "id": 76,
+    "question": "How do I view my identity as a \"cheater\"?"
+  },
+  {
+    "id": 77,
+    "question": "What is my greatest emotional need in friendship?"
+  },
+  {
+    "id": 78,
+    "question": "When facing social evaluation, whose opinion do I care about most?"
+  },
+  {
+    "id": 79,
+    "question": "What is the subconscious pattern when I handle relationships with men?"
+  },
+  {
+    "id": 80,
+    "question": "What is the biggest change in self-perception in the past six months?"
+  }
+]

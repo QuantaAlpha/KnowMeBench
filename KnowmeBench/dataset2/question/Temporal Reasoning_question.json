@@ -1,0 +1,922 @@
+[
+  {
+    "id": 1,
+    "question": "On October 20, 1950, how much time passed between the narrator being hit with a paper wad by Lina and Professor Oliviero stumbling and falling motionless to the floor?"
+  },
+  {
+    "id": 2,
+    "question": "On February 15, 1951, how long did it take from Nunzia Lina entering the classroom with coffee and sugar to Lina identifying herself to the teacher as the one who taught her to read and write?"
+  },
+  {
+    "id": 3,
+    "question": "According to records from November 15, 1952, how long were the students in Professor Ferraro's class before Enzo Scanno lost the blackboard duel with Lina and was punished?"
+  },
+  {
+    "id": 4,
+    "question": "On April 15, 1953, how much time elapsed between Lina throwing the narrator's doll into the cellar and the two girls giving up on finding Tina to leave through the broken door?"
+  },
+  {
+    "id": 5,
+    "question": "On May 15, 1953, from the moment they decided to climb the dark staircase until they reached the fourth step where Lina reached out her hand to the narrator, how much time had passed?"
+  },
+  {
+    "id": 6,
+    "question": "On May 15, 1954, how long did the encounter last from Nino catching up to block the narrator's path until Pinocchio pulled him away and he ran off?"
+  },
+  {
+    "id": 7,
+    "question": "During their escape attempt on June 11, 1954, how long did they walk on the main road from the moment they smelled a burnt scent until the light became faint and poor?"
+  },
+  {
+    "id": 8,
+    "question": "On New Year's Eve 1958, how much time passed between the start of the rooftop celebration and Lina's heart beginning to pound uncontrollably at the stroke of midnight?"
+  },
+  {
+    "id": 9,
+    "question": "On January 1, 1960, how long did the conversation on the wedding terrace last from the narrator avoiding her mother's gaze to reach her boyfriend until seeing tears in Antonio's eyes?"
+  },
+  {
+    "id": 10,
+    "question": "On the night of January 1, 1960, how much time passed between the couple arriving at the Amalfi Hotel and Lina handing her nightgown to Stefano after refusing his initial advances?"
+  },
+  {
+    "id": 11,
+    "question": "On August 30, 1960, how much time passed from the moment the narrator returned from the seaside garden to the moment Lina handed money to others after Stefano lifted up his white coat?"
+  },
+  {
+    "id": 12,
+    "question": "According to the records from September 10, 1960, at the Small Park, how long did the interaction last from the moment Lina began watching the narrator use a dictionary to the moment the narrator found translation had become very easy?"
+  },
+  {
+    "id": 13,
+    "question": "On September 10, 1960, how much time elapsed between Lina reluctantly taking Linda away by the fountain and the narrator finding that Lina had already left the seaside garden?"
+  },
+  {
+    "id": 14,
+    "question": "On September 15, 1960, how long did the sequence of events take starting from the narrator entering the print shop for flyers to the point where the narrator expressed doubt that the photo was anything more than an excuse?"
+  },
+  {
+    "id": 15,
+    "question": "On September 20, 1960, how much time passed from the beginning of the written exam to the moment the teacher asked about who provided the tutoring?"
+  },
+  {
+    "id": 16,
+    "question": "During the opening of New Capodimonte on September 20, 1960, how long did the events take from the moment the priest was sent away to the moment Stefano was observed helping Lina and Pinocchia cope with the crowds?"
+  },
+  {
+    "id": 17,
+    "question": "On September 28, 1960, how much time passed while the group was at the shoe store from observing the long faces of Rino and others until Stefano felt uncomfortable with Michele's tone?"
+  },
+  {
+    "id": 18,
+    "question": "On June 5, 1962, during the evening of Professor Galiani's party, how long did it take from the moment the narrator decided to take the stairs to the point where Lina closed the door to enter the house?"
+  },
+  {
+    "id": 19,
+    "question": "On June 24, 1962, how much time elapsed during the encounter in the courtyard from the moment the narrator heard Nino calling her to the moment Nino walked away with hunched shoulders?"
+  },
+  {
+    "id": 20,
+    "question": "According to the logs for August 5, 1962, how long was the narrator's stay at the library and its vicinity, from the moment she entered and saw the banners to the final 'Goodbye' to Pasquale?"
+  },
+  {
+    "id": 21,
+    "question": "According to the records from December 28, 1962, how much time elapsed between the narrator initially thinking about the topic of 'before' and the group finally feeling at ease after discussing everything during the Christmas holiday?"
+  },
+  {
+    "id": 22,
+    "question": "On the afternoon of December 29, 1962, how long did it take from Lina deciding to let the narrator see the secret shoes until the narrator finally left the shop feeling disoriented?"
+  },
+  {
+    "id": 23,
+    "question": "Regarding the New Year's Eve fireworks on the rooftop (January 1, 1963), how much time passed between the narrator first running up to the rooftop and the group of girls eventually running down to escape the gunfire?"
+  },
+  {
+    "id": 24,
+    "question": "During the Epiphany incident on January 6, 1963, how long was the interval between Fernando first appearing with the shoe box and the father and son finally leaving to work together in despair?"
+  },
+  {
+    "id": 25,
+    "question": "On the first day of the Vomero holiday (July 8, 1963), how much time passed from the group first boarding/arriving at Vomero until the husbands (Stefano and Rino) hurriedly left for the harbor to catch the last boat?"
+  },
+  {
+    "id": 26,
+    "question": "On July 14, 1963, how long did it take for Elena to walk to Mergellina to find Nino and eventually conclude the conversation where he promised to come looking for them?"
+  },
+  {
+    "id": 27,
+    "question": "According to the records from July 15, 1963, how much time passed between Nino and Bruno showing up on the beach in the afternoon and Elena finally trying to calm herself down in the water after saying goodbye to them?"
+  },
+  {
+    "id": 28,
+    "question": "On July 22, 1963, how much time elapsed from the group starting their walk to the beach in the morning until Lina and Stefano finally left on their motorcycle for a night ride?"
+  },
+  {
+    "id": 29,
+    "question": "On Sunday, July 23, 1963, how long was it from Elena waking up late until Rino joked with her at the wharf before the husbands departed?"
+  },
+  {
+    "id": 30,
+    "question": "During the final recorded conflict on July 27, 1963, how much time passed between the group walking nervously to the beach and Lina announcing the imminent arrival of the husbands while Pinocchia was in a confused state?"
+  },
+  {
+    "id": 31,
+    "question": "According to the records from July 27, 1963, how long passed between Pinocchia's breakdown over her closed suitcase and the moment Stefano and Rino burst into the rental house?"
+  },
+  {
+    "id": 32,
+    "question": "On July 27, 1963, how much time elapsed from everyone sitting down for rice at the table until Stefano and Lina left for a restaurant amid the sounds of a motorcycle starting up?"
+  },
+  {
+    "id": 33,
+    "question": "On the night of July 27, 1963, how long did Elena spend in her room reading and reflecting before Stefano and Lina returned home?"
+  },
+  {
+    "id": 34,
+    "question": "On July 28, 1963, how long did the boat trip on the sea last from the time Elena and Nino set out until Nino abandoned the oars to ask Elena if Lina had told her anything?"
+  },
+  {
+    "id": 35,
+    "question": "On Monday, July 29, 1963, how much time passed from Nino’s early appearance at the beach until he finally pulled the group into the water?"
+  },
+  {
+    "id": 36,
+    "question": "On the morning of July 31, 1963, how many hours did Lina and Elena wait at the beach for the boys to arrive before they finally appeared in the afternoon?"
+  },
+  {
+    "id": 37,
+    "question": "On the evening of July 31, 1963, in Mergellina, how much time passed from the group sitting down for ice cream until Elena discovered Nino and Lina hugging in the garden?"
+  },
+  {
+    "id": 38,
+    "question": "On the morning of August 3, 1963, how long did the group spend at the beach before they plunged into the sea together as if they were one person?"
+  },
+  {
+    "id": 39,
+    "question": "Based on the afternoon records of August 3, 1963, what was the duration from Pinocchia’s breakdown over her closed suitcase until the brothers Stefano and Rino arrived?"
+  },
+  {
+    "id": 40,
+    "question": "During the confrontation on the night of August 10, 1963, how much time passed from the moment Stefano began his interrogation until he ordered everyone to pack their things and leave at dawn?"
+  },
+  {
+    "id": 41,
+    "question": "On October 26, 1963, how much time elapsed from the narrator initially thinking about Nino's tall figure to the moment waves of pleasure and revulsion surged over her thinking of intimate relations?"
+  },
+  {
+    "id": 42,
+    "question": "Based on the records from November 1, 1963, what was the duration between Lina joining the conflict involving Michele and her trying to escape his sweet words at the shoe store?"
+  },
+  {
+    "id": 43,
+    "question": "According to the afternoon records of November 1, 1963, how long did it take for Lina to go from refusing dinner at her mother-in-law's house to successfully hiding her packed honeymoon suitcase behind the living room door?"
+  },
+  {
+    "id": 44,
+    "question": "On November 1, 1963, how much time passed between Stefano returning home to eat dinner and Lina finally leaving the house with her luggage?"
+  },
+  {
+    "id": 45,
+    "question": "Regarding the events in the Flegrey District on November 1, 1963, what was the time span from Lina reaching her destination apartment to the status of her identity being noted as Nino's lover awaiting his evening arrival?"
+  },
+  {
+    "id": 46,
+    "question": "On the night of November 1, 1963, how much time passed from the moment Stefano woke up to find Lina gone until he eventually shaved and went back to sleep for the night?"
+  },
+  {
+    "id": 47,
+    "question": "During the school conflict on November 15, 1963, what was the total duration from the religious teacher beginning his attack on the Communist Party to the moment the teacher apologized?"
+  },
+  {
+    "id": 48,
+    "question": "On December 5, 1963, how long did the narrator spend writing and revising the article at her home in Posillipo before deciding to preview the next day's lessons?"
+  },
+  {
+    "id": 49,
+    "question": "On the evening of December 5, 1963, how much time elapsed while Lina was absorbed in reading, editing, and copying the article for the narrator?"
+  },
+  {
+    "id": 50,
+    "question": "On September 4, 1964, how much time did the entire confrontation at the Mercato entrance take, from the group's arrival to Elena finally pulling Antonio away after Nino's departure?"
+  },
+  {
+    "id": 51,
+    "question": "According to the records of March 12, 1965, how much time passed from when the narrator began helping Lina bathe until the narrator finished drying her body and dressing her in her wedding dress?"
+  },
+  {
+    "id": 52,
+    "question": "On March 12, 1965, how long was the interval between Fernando and Nunzia waiting in the kitchen and the narrator observing them in the church?"
+  },
+  {
+    "id": 53,
+    "question": "On the wedding day, how much time elapsed between Lina heading toward the Church of the Holy Family and the bride and groom decisively saying 'I do'?"
+  },
+  {
+    "id": 54,
+    "question": "From the moment the crowd surrounded the bride and groom as they exited the church until the narrator was pushed into Pasquale's car and left the church yard, how much time passed?"
+  },
+  {
+    "id": 55,
+    "question": "How long was the car ride from the church yard until the first group of young people arrived at the restaurant on Horace Street?"
+  },
+  {
+    "id": 56,
+    "question": "On March 12, 1965, how much time did the guests spend at the restaurant before the bride and groom finally entered to warm applause?"
+  },
+  {
+    "id": 57,
+    "question": "During the wedding feast, how long did the conversation between the narrator and Nino last from the time they found a place to sit until Nino announced he was leaving?"
+  },
+  {
+    "id": 58,
+    "question": "On April 15, 1965, how long did the violent confrontation between Stefano and Rino last, from Stefano being found sitting anxiously on the kitchen floor until he shouted that he 'can't take it anymore'?"
+  },
+  {
+    "id": 59,
+    "question": "On September 1, 1966, how much time passed from when Pinocchia arrived at Lina's front door to clean until she was seen hurriedly leaving the gate?"
+  },
+  {
+    "id": 60,
+    "question": "On November 15, 1966, how much time passed from Enzo's arrival at Lina's house to assist her in moving until they arrived at Enzo's newly built rented apartment?"
+  },
+  {
+    "id": 61,
+    "question": "According to the records from March 10, 1967, how much time elapsed from the teaching assistant's first question about teaching after graduation to the moment the narrator felt a sense of shame regarding her growing ambition?"
+  },
+  {
+    "id": 62,
+    "question": "Based on the events of March 20, 1967, how long did the final encounter and argument between the man and his wife on the staircase landing last, ending with his realization about little Rino's parentage?"
+  },
+  {
+    "id": 63,
+    "question": "On May 15, 1967, how much time passed between Lina first encountering Bruno Socavo in his luxurious car on St. John Street and the final exchange in the café regarding 'a very beautiful summer'?"
+  },
+  {
+    "id": 64,
+    "question": "During the graduation celebration on July 5, 1967, how long did the dinner at the restaurant last, from Pietro's first question about their relationship to his setting of a future marriage date?"
+  },
+  {
+    "id": 65,
+    "question": "On the morning of November 20, 1967, how much time elapsed while the narrator sat at the kitchen table telling her mother about her novel's publication, from the moment she noticed the gray light until her mother's final question about money?"
+  },
+  {
+    "id": 66,
+    "question": "On November 20, 1967, from the moment the narrator ran to Solara's bar to make phone calls until she finally left hurriedy after responding to Geyola's curiosity, how long was she occupied with the phone conversations and interactions at the bar?"
+  },
+  {
+    "id": 67,
+    "question": "On December 10, 1967, how long did Elena's visit to the publishing house on Via Caracciolo last, from her arrival and explanation to the doorman until the employee Gina wrote down her expense notes?"
+  },
+  {
+    "id": 68,
+    "question": "According to the morning reports from April 6, 1968, how much time passed from Lina arriving at the factory's dirt path to Gino shouting his final insults from the car window after the brawl?"
+  },
+  {
+    "id": 69,
+    "question": "On the afternoon of April 8, 1968, how much time elapsed from Lina entering the Sokavo office to see Michele and Bruno until she finally reached the door to leave after their tense confrontation?"
+  },
+  {
+    "id": 70,
+    "question": "On April 18, 1968, how long did it take the narrator to complete her phone calls to Bruno Soccavo and the editor at L'Unità, from her first demand to speak with Bruno until the conclusion of her call with the editor?"
+  },
+  {
+    "id": 71,
+    "question": "According to records from April 20, 1968, how much time passed from Giggia talking about Pinocchia living in Mergellina to the moment she began showing off and listing things again?"
+  },
+  {
+    "id": 72,
+    "question": "On April 20, 1968, how long did it take the narrator to walk from the Meridiana Station area until she arrived at the Sorara Shoe Store and saw Alfonso Carracci?"
+  },
+  {
+    "id": 73,
+    "question": "On May 15, 1968, how much time elapsed between the narrator entering the lecture hall at the Quartiere Spagnolo bookstore and the moment Nino Sarratore began praising the novelty of her novel?"
+  },
+  {
+    "id": 74,
+    "question": "On April 10, 1969, how long did the interaction last between introducing Nino to the critic and the moment a female friend of Adele Airota approached to ask for a book signature?"
+  },
+  {
+    "id": 75,
+    "question": "On April 10, 1969, how much time did the group spend at the restaurant in Porto before the narrator excused herself to go to the bathroom?"
+  },
+  {
+    "id": 76,
+    "question": "On April 11, 1969, how long did the initial discussion with the parents about Pietro's visit last before the narrator's father went to bed?"
+  },
+  {
+    "id": 77,
+    "question": "On April 12, 1969, how much time did the narrator spend wandering Albano port bookstores before stopping for a moment at Cavour Square?"
+  },
+  {
+    "id": 78,
+    "question": "On May 2, 1969, how long did the narrator and Lina wait at Professor Galiani's house from the time they first rang the doorbell until Pasquale appeared in the hallway?"
+  },
+  {
+    "id": 79,
+    "question": "On May 13, 1969, how long was the narrator left in the hotel lobby while Pietro went to prepare and change into his blue suit?"
+  },
+  {
+    "id": 80,
+    "question": "On May 13, 1969, how much time passed from the moment Elena's sister opened the door for the couple until the wrestling matches with the men of the family began?"
+  },
+  {
+    "id": 81,
+    "question": "According to the records from June 2, 1970, how much time passed from the narrator limping in the corridor at night to the point she realized her writing lost its power while thinking about L'Unità?"
+  },
+  {
+    "id": 82,
+    "question": "On July 15, 1970, how much time elapsed between Pietro finding the narrator asleep in the kitchen to him calling his mother to ask her to stay for a while?"
+  },
+  {
+    "id": 83,
+    "question": "On September 5, 1970, how long was the interval from when Pietro began shouting about work frustrations until the narrator calmed down and decided she wanted to support him?"
+  },
+  {
+    "id": 84,
+    "question": "In May 1972, how much time passed while the narrator, Mario, and Dede were walking together on the street in Mergellina until the point they eventually parted ways?"
+  },
+  {
+    "id": 85,
+    "question": "On June 15, 1972, how many minutes elapsed between the start of the narrator's call to her mother regarding her pregnancy and Elisa calling back to confirm their mother would leave the following day?"
+  },
+  {
+    "id": 86,
+    "question": "On July 30, 1973, how much time passed from the moment the narrator checked her husband's desk for her novel in the morning to when she felt the first wave of labor pain?"
+  },
+  {
+    "id": 87,
+    "question": "During the afternoon of September 15, 1973, how much time passed between the narrator rushing to answer the phone call from Lina until Lina began shouting that the book was terrible?"
+  },
+  {
+    "id": 88,
+    "question": "Between June 22 and June 23, 1974, how much time passed between Enzo's arrival at the narrator's home on Saturday night and him moving around at 4 AM for coffee?"
+  },
+  {
+    "id": 89,
+    "question": "On the evening of November 11, 1974, how much time passed from the arrival of the narrator's parents and children at Elisa's apartment until Enzo and Lina finally entered the room?"
+  },
+  {
+    "id": 90,
+    "question": "During the final sequences of November 11th and 12th, 1974, how much time passed from Michele starting his speech about hiring Lina to Lina finally returning the book to the narrator?"
+  },
+  {
+    "id": 91,
+    "question": "According to the records from November 12, 1974, how much time elapsed between the father suggesting they try the dessert and the moment the narrator handed the book to Lina and saw her look of indifference?"
+  },
+  {
+    "id": 92,
+    "question": "On November 12, 1974, how long was the period from when the narrator and Pietro entered their guest room after putting the children to sleep until the narrator muttered goodnight and turned over to sleep?"
+  },
+  {
+    "id": 93,
+    "question": "Based on the events of November 12, 1974, how much time passed between the group's arrival at Capodimonte to see the IBM system and the conclusion of the conversation where the narrator saw Lina laughing in the corridor?"
+  },
+  {
+    "id": 94,
+    "question": "During the evening of November 12, 1974, how long was the series of calls starting from the narrator's first call to Adele Airota until Adele's gentle response regarding the sales of the translated book?"
+  },
+  {
+    "id": 95,
+    "question": "In the classroom incident on December 20, 1974, how much time passed between Pietro writing the failing grade for the student and his departure for the Labor Office?"
+  },
+  {
+    "id": 96,
+    "question": "On December 21, 1974, how long did the tense confrontation between Elena and Pietro last, beginning with her asking if he realized what he was doing and ending with him locking himself in his room?"
+  },
+  {
+    "id": 97,
+    "question": "On March 9, 1976, how much time elapsed from the moment the narrator heard the key turn in the lock for lunch until she began the afternoon sitting in front of the television with the children?"
+  },
+  {
+    "id": 98,
+    "question": "During the sequence on March 18, 1976, how much time passed from the narrator starting the drive to the university to pick up Pietro and Nino until the moment she said farewell and spoke to her husband about the invitation in the car?"
+  },
+  {
+    "id": 99,
+    "question": "On October 18, 1976, how long did the sequence of events last from Lina calling with news of the Solara brothers' mother until the narrator concluded her subsequent call with Nino?"
+  },
+  {
+    "id": 100,
+    "question": "On November 1, 2010, how long was the phone call conversation between Rino and the narrator regarding his mother's disappearance?"
+  },
+  {
+    "id": 101,
+    "question": "Please arrange the following events in chronological order based on the real-world timeline:\nA. Nino rows a small boat powerfully along the shore toward Emperor's Point.\nB. Nino falls in love with a girl during a primary school class competition.\nC. Elena hears the sound of the \"Lametta\" motorcycle while looking out of a window."
+  },
+  {
+    "id": 102,
+    "question": "Please arrange the following events in chronological order based on the real-world timeline:\nA. Stefano buys design blueprints from a shoemaker's family for two million lira.\nB. Workers tear down the wall between a shoe repair shop and an adjacent store.\nC. Stefano formally proposes marriage to Lina in front of her father."
+  },
+  {
+    "id": 103,
+    "question": "Please arrange the following events in chronological order based on the real-world timeline:\nA. Elena discovers a bloodstain in a dirty restroom at a bookstore.\nB. Stefano orders Elena and her companions to pack their belongings and leave the island.\nC. Michele Solara orders Nino to tell his father that his newspaper article was wrong about the shop's decoration."
+  },
+  {
+    "id": 104,
+    "question": "Please arrange the following events in chronological order based on the real-world timeline:\nA. Elena and Lina imagine that publishing a book like 'Little Women' will bring them castles and safes full of gold.\nB. Stefano buys a pair of handmade shoes for forty-five thousand lira.\nC. Elena watches a kite fly high while Nino stays behind her, feeling his breath on her neck."
+  },
+  {
+    "id": 105,
+    "question": "Please arrange the following events in chronological order based on the real-world timeline:\nA. Lina visits Elena's room at night to confess that Nino kissed her forcefully in the sea.\nB. Nino tells Elena on a boat that he had sex with her friend the previous day.\nC. Lina tells Elena that Pinocchia fell in love with Bruno and was scared by her own feelings."
+  },
+  {
+    "id": 106,
+    "question": "Please arrange the following events in chronological order based on the real-world timeline:\nA. Elena and Nunzia wait outside a locked bedroom door for several hours in the dark.\nB. Donato Sarratore touches Elena's shoulder on a dark beach while she is barefoot.\nC. Lina cold-bloodedly shouts that she let Nino's son touch her a hundred times to disgust her husband."
+  },
+  {
+    "id": 107,
+    "question": "Please arrange the following events in chronological order based on the real-world timeline:\nA. Marcello Solara leans against a streetlamp and bites his fist until it bleeds after being rejected.\nB. Michele Solara sees Lina coming out of the sea holding hands with Nino.\nC. Pinocchia shouts that she wants to die with her children if her husband won't let her go home."
+  },
+  {
+    "id": 108,
+    "question": "Please arrange the following events in chronological order based on the real-world timeline:\nA. Teacher Oliviero is taken away by an ambulance while the narrator watches.\nB. Elena uses Teacher Oliviero’s poor health as a fake excuse to convince Nunzia to let them go to Barano.\nC. Nella tells Elena that the teacher asked many questions about Lina."
+  },
+  {
+    "id": 109,
+    "question": "Please arrange the following events in chronological order based on the real-world timeline:\nA. Nino appears at a shop entrance with an unshaven beard, looking completely drunk.\nB. Alfonso Carracci tells Elena that her friend is determined to work in the city center at Piazza Martiri.\nC. Stefano Carracci parks his car and opens the door to help Elena down in front of a shop."
+  },
+  {
+    "id": 110,
+    "question": "Please arrange the following events in chronological order based on the real-world timeline:\nA. Elena dismisses Nino coldly on the first day of their high school term.\nB. Alfonso Carracci passes his make-up exams in Latin, Greek, and English.\nC. Elena and Nino swim together in the center of the sea while a boat drifts nearby."
+  },
+  {
+    "id": 111,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator tells Nunzia she is going out for a walk while staying at a rental apartment.\nB. The narrator recalls a rumor that Don Achille threw Peruzzo against a tree.\nC. The narrator and Lina descend into the basement to look for their dolls.\nD. The narrator sees a large photo of Lina in a wedding dress displayed in a shoe store."
+  },
+  {
+    "id": 112,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. Lina is thrown out of the window by her father, Fernando.\nB. The narrator gets into an argument with her mother about going to a peace march.\nC. Lina hits the narrator with a paper wad dipped in ink at school.\nD. The narrator wears her mother's silver bracelet at a seaside rental house."
+  },
+  {
+    "id": 113,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator and Lina decide to skip school and walk toward the sea, but get caught in the rain.\nB. The narrator learns from Pinocchia that Lina met Nino by the sea.\nC. The narrator's father tells her she must study hard or go to work.\nD. Lina and the narrator artistically deface a photo in the shoe store using black paper strips."
+  },
+  {
+    "id": 114,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator attends a party at Teacher Galiani's house and debates world peace.\nB. Lina tells the teacher she learned to read by herself.\nC. The narrator waits for Lina outside a rental house while Lina goes on a motorcycle trip.\nD. The narrator witnesses the Solara brothers breaking her bracelet."
+  },
+  {
+    "id": 115,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. Lina experiences 'dissolving boundaries' during the New Year's fireworks.\nB. The narrator sees Professor Oliviero stumble and fall in the classroom.\nC. The narrator puts on a swimsuit at a beach in Ischia.\nD. The narrator visits the new Capodimonte shop to help Lina."
+  },
+  {
+    "id": 116,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator receives a book prize from the library for being an avid reader.\nB. Lina and the narrator climb the dark stairs to Don Achille's apartment.\nC. The narrator watches her friends return from a motorcycle tour on an island.\nD. Stefano Carracci slaps Lina in his convertible."
+  },
+  {
+    "id": 117,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. Nino Sarratore's family moves away after Melina's public outburst.\nB. The narrator and Lina discuss the 'Lina' shoe factory plans in the shoemaker's shop.\nC. The narrator sees Melina's head hit the floor during a fight with Lidia.\nD. The narrator works at a bookstore on Via Mezzocannone."
+  },
+  {
+    "id": 118,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator sees Enzo selling vegetables on the street.\nB. The narrator listens to Pinocchia describe meeting Nino at the beach.\nC. The narrator and Lina exchange their dolls in the courtyard.\nD. The narrator sees a neon sign 'Solara' light up above the shoe store."
+  },
+  {
+    "id": 119,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator helps her mother wash dishes at a rental house in Ischia.\nB. The narrator sees Professor Oliviero return to school after an accident.\nC. The narrator sees Lina working busily at the new Capodimonte shop.\nD. The narrator dances at a party at Teacher Galiani's house."
+  },
+  {
+    "id": 120,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator reads an article by Nino in a magazine.\nB. The narrator plays with dolls near the basement window.\nC. The narrator sees her brothers throwing stones at a procession.\nD. The narrator stays at a house facing a chicken coop during vacation."
+  },
+  {
+    "id": 121,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator reads an article by Nino in a magazine.\nB. The narrator and Lina drop their dolls into the basement.\nC. The narrator helps her mother wash dishes at a rental house in Ischia.\nD. The narrator sees Lina working busily at the new Capodimonte shop."
+  },
+  {
+    "id": 122,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. Lina and the narrator make a bet about studying.\nB. The narrator receives a book prize from the library.\nC. Melina screams Donato's name from the window.\nD. Don Achille is murdered."
+  },
+  {
+    "id": 123,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. Rino and others engage in a fireworks battle with the Solara brothers.\nB. Lina marries Stefano.\nC. The narrator's father takes her to see the sea and the city hall.\nD. The narrator meets Nino in a bookstore."
+  },
+  {
+    "id": 124,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator asks Lina if she can take her to Teacher Galiani's party.\nB. Lina artistically covers her wedding photo with black paper.\nC. The narrator sees Nino at school and he doesn't recognize her.\nD. The narrator keeps her encounter with Nino a secret from Lina."
+  },
+  {
+    "id": 125,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator stays at a rental house with Lina and their families in Ischia.\nB. The narrator receives new textbooks from Lina.\nC. The narrator sees Lina and Rino dancing at home.\nD. The narrator attends a cultural circle lecture with Lina."
+  },
+  {
+    "id": 126,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator takes the shopkeeper's daughters to the beach.\nB. The Solara brothers break the narrator's bracelet.\nC. The narrator sees Melina eating soap.\nD. The narrator tells Pasquale she is a communist."
+  },
+  {
+    "id": 127,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator starts working at a bookstore on Via Mezzocannone.\nB. The narrator visits Teacher Oliviero who is being taken to the hospital.\nC. The narrator and Lina study Latin and Greek together in the park.\nD. The narrator eats pizza with friends in the Rettifilo district."
+  },
+  {
+    "id": 128,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. Rino and Lina secretly make shoes.\nB. The narrator sees the Solara sign on the shoe store.\nC. The narrator goes to the library award ceremony.\nD. The narrator meets Nino on the beach in Ischia."
+  },
+  {
+    "id": 129,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator's father takes her to see the sea and the city hall.\nB. Lina and the narrator climb the stairs to Don Achille's house.\nC. Lina asks the narrator to go with her to the doctor.\nD. The narrator sees Lina working at the Capodimonte grocery."
+  },
+  {
+    "id": 130,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator and Lina decide to skip school and walk to the sea.\nB. The narrator sees Nino at Teacher Galiani's party.\nC. The narrator discusses a book with Pasquale.\nD. The narrator sees the Solara brothers' car for the first time."
+  },
+  {
+    "id": 131,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator wears her mother's bracelet to the beach.\nB. The narrator sees Melina screaming from the window.\nC. The narrator watches fireworks on the roof with the Carraccis and Pelusos.\nD. The narrator sees Lina in her wedding dress in the photo."
+  },
+  {
+    "id": 132,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator meets Antonio in the canning factory.\nB. The narrator sees Enzo selling fruit.\nC. The narrator goes to Ischia with Nunzia.\nD. The narrator sees Lina reading a book about dancing."
+  },
+  {
+    "id": 133,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator has an argument with her religious teacher.\nB. The narrator sees Lina throwing coal at Rino.\nC. The narrator asks to take Lina to Galiani's party.\nD. The narrator gets a grade of nine in Latin."
+  },
+  {
+    "id": 134,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator sees Alfonso Carracci at the school gate.\nB. The narrator sees Lina working with Rino on shoes.\nC. The narrator meets Nino in the bookstore.\nD. The narrator sees the Solara brothers break her bracelet."
+  },
+  {
+    "id": 135,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator sees Melina covered in mud from the pond.\nB. The narrator sees Lina and Rino dancing at home.\nC. The narrator receives books from Teacher Galiani.\nD. The narrator sees Lina jumping into the sea to save a child."
+  },
+  {
+    "id": 136,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator sees Pinocchia kissing Alfonso Carracci.\nB. The narrator sees Lina holding a knife to Marcello's throat.\nC. The narrator sees Stefano and Lina in the convertible.\nD. The narrator sees Nino at school."
+  },
+  {
+    "id": 137,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator visits the new Capodimonte shop opening.\nB. The narrator goes to Ischia.\nC. The narrator sees Rino throwing fireworks from the roof.\nD. The narrator receives a library award."
+  },
+  {
+    "id": 138,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator and Lina go to the cultural circle.\nB. The narrator sees Lina's photo in the bridal shop window.\nC. The narrator sees Lina cutting the photo.\nD. The narrator sees Nino's article in the magazine."
+  },
+  {
+    "id": 139,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator's father takes her to see the sea.\nB. The narrator sees Lina's bruises.\nC. The narrator goes to Ischia with Nunzia.\nD. The narrator receives a bracelet from her mother."
+  },
+  {
+    "id": 140,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator meets Nino at Galiani's party.\nB. The narrator sees the Solara sign on the shoe store.\nC. The narrator sees Lina and Rino arguing about shoes.\nD. The narrator goes to the beach with shopkeeper's daughters."
+  },
+  {
+    "id": 141,
+    "question": "Please arrange the following events in chronological order based on the text:\n\nA. Elena prepares to leave her family and take a train to Borgo for university.\nB. Elena helps Nino and the children fly a kite on the beach at Maronti.\nC. Elena gets into a conflict with the religion teacher regarding the Holy Spirit and is sent out of the classroom."
+  },
+  {
+    "id": 142,
+    "question": "Determine the correct sequence of these events involving Lina:\n\nA. Lina washes herself in a copper basin on the morning of her wedding to Stefano.\nB. Lina reveals to Elena at the shoe store that she is pregnant with Nino's child.\nC. Lina threatens Stefano with a meat-cutting knife in their kitchen."
+  },
+  {
+    "id": 143,
+    "question": "Sort these events regarding Elena's relationships and interactions:\n\nA. Antonio admits to Elena that he has accepted a job working for the Solara brothers.\nB. Nino and Elena rent a small boat and swim in the deep sea at Ischia.\nC. Elena breaks up with Antonio by the pond because she needs to focus on school."
+  },
+  {
+    "id": 144,
+    "question": "Order the following events based on the provided timeline:\n\nA. Enzo arrives at the apartment in the Flegrey district to take Lina back to her husband.\nB. Elena and her friends meet Michele and Giggia on the beach at Ischia.\nC. Elena takes her high school oral exams and impresses the external examiner with blue hair."
+  },
+  {
+    "id": 145,
+    "question": "Chronologically arrange these moments involving the Solara family and local conflicts:\n\nA. Antonio threatens Nino at the Mercato to stay away from his mother.\nB. Pasquale and his friends discuss the beating of the Solara brothers and the smashing of their car.\nC. The Solara brothers smash the 'Lina' brand shoe display at the shoe repair shop."
+  },
+  {
+    "id": 146,
+    "question": "Place these events in the order they occurred:\n\nA. Giuseppina Peluso commits suicide in her bathroom.\nB. Lina and Nino secretly meet in the shoe store on Piazza Martiri.\nC. Lina tries on wedding dresses while Elena gives advice to appease the in-laws."
+  },
+  {
+    "id": 147,
+    "question": "Arrange these events concerning Nino Sarratore:\n\nA. Nino runs away from the apartment in Flegrey district after an argument with Lina.\nB. Nino kisses Lina in the sea while Elena watches from the water.\nC. Nino meets Elena at the school corridor after she is kicked out of class."
+  },
+  {
+    "id": 148,
+    "question": "Identify the correct chronological sequence:\n\nA. Elena visits Lina at the shoe store before leaving for Pisa.\nB. Stefano and Lina visit the shoe repair shop to approve the new shoe designs.\nC. Elena discovers she has passed her exams with high marks."
+  },
+  {
+    "id": 149,
+    "question": "Sort these events from earliest to latest:\n\nA. Lina and Elena visit Professor Oliviero to deliver a wedding invitation.\nB. Elena sees Lina and Nino touching in the garden at Bruno's house in Mergellina.\nC. Elena writes an article for a magazine at Nino's request."
+  },
+  {
+    "id": 150,
+    "question": "Arrange the following events regarding the characters' living situations:\n\nA. Lina moves into a run-down apartment in the Flegrey district with Nino.\nB. Lina shows Elena her new, modern apartment with a bathtub and telephone.\nC. Elena stays at Nella's house in Barano to help with chores and practice English."
+  },
+  {
+    "id": 151,
+    "question": "Arrange the following events in chronological order:\n\nA. Elena and Antonio discover Giuseppina Peluso's body.\nB. Elena sees Lina and Nino kissing in the garden at Bruno's house in Mergellina.\nC. Elena writes an article for a magazine at Nino's request."
+  },
+  {
+    "id": 152,
+    "question": "Sort these events involving Lina's relationships:\n\nA. Lina moves into a run-down apartment in the Flegrey district with Nino.\nB. Donato Nino kisses Elena on the beach at night.\nC. Lina reveals to Elena at the shoe store that she is pregnant with Nino's child."
+  },
+  {
+    "id": 153,
+    "question": "Order the following business-related events:\n\nA. Stefano agrees to buy the shoes and designs from the Cerullo family.\nB. Nino runs away from the apartment in Flegrey after a fight with Lina.\nC. Elena completes her high school exit exams."
+  },
+  {
+    "id": 154,
+    "question": "Determine the correct sequence of these departures and confrontations:\n\nA. Elena takes the train to Pisa to attend university.\nB. Antonio beats up Nino in the rain.\nC. Lina and Elena visit Professor Oliviero to deliver a wedding invitation."
+  },
+  {
+    "id": 155,
+    "question": "Chronologically arrange these events from the text:\n\nA. Elena and Nino take a boat ride at Ischia.\nB. Pinocchia gives birth to a boy named Fernando.\nC. Lina begins renovating the shoe store in Piazza Martiri."
+  },
+  {
+    "id": 156,
+    "question": "Place these events in order:\n\nA. Elena sees Lina pushing a stroller in the new Mergellina neighborhood.\nB. Enzo goes to the Flegrey district to take Lina back to her husband.\nC. Elena attempts to break up with Antonio by the pond."
+  },
+  {
+    "id": 157,
+    "question": "Sort these events involving conflicts and meetings:\n\nA. The Solara brothers' car is reported smashed.\nB. Elena meets Nino for the first time at Mergellina (Ischia).\nC. Lina's wedding day takes place."
+  },
+  {
+    "id": 158,
+    "question": "Identify the correct sequence for these specific scenes:\n\nA. Elena gives her mother a significant portion of her earnings.\nB. Nino and Lina swim far out into the sea while Elena watches fearfully.\nC. Rino tries to display 'Lina' shoes in a shop window but is rejected."
+  },
+  {
+    "id": 159,
+    "question": "Arrange these interactions:\n\nA. Elena challenges the religion teacher in class regarding the Holy Spirit.\nB. Stefano and Lina show Elena their new apartment with the bathtub.\nC. Donato Nino kisses Elena on the beach at night."
+  },
+  {
+    "id": 160,
+    "question": "Order these events regarding Antonio and the Solaras:\n\nA. Antonio threatens Nino at the Mercato to stay away from his mother.\nB. Elena meets Nino's family on the beach at Ischia.\nC. Lina confesses to Stefano that the child she is carrying isn't his."
+  },
+  {
+    "id": 161,
+    "question": "Sort these events related to family dynamics:\n\nA. Elena visits Lina at the shoe store and sees Nino hiding in the bathroom.\nB. Elena helps fly a kite with Nino and the children at Maronti beach.\nC. Giuseppina Peluso is found dead in her bathroom."
+  },
+  {
+    "id": 162,
+    "question": "Arrange the following major turning points:\n\nA. Elena leaves home to take the train to Pisa.\nB. Lina threatens Stefano with a meat knife in their kitchen.\nC. Elena sees Nino and Lina holding hands on the beach while Michele watches."
+  },
+  {
+    "id": 163,
+    "question": "Chronologically order these conversations:\n\nA. Pinocchia tells Elena about Nino's mental health issues.\nB. Elena and Antonio attend Giuseppina's funeral.\nC. Elena stays at Nella's house in Barano to help with chores."
+  },
+  {
+    "id": 164,
+    "question": "Place these events in the correct timeline:\n\nA. Lina washes herself in a copper basin on her wedding day.\nB. Michele and Giggia visit Elena and Lina on the beach at Ischia.\nC. Elena takes her oral exams with the blue-haired teacher."
+  },
+  {
+    "id": 165,
+    "question": "Sort these observations made by Elena:\n\nA. Elena sees Lina pregnant by the roadside.\nB. Nino kisses Elena on the cheek at the beach.\nC. Antonio tells Elena he has accepted a job from the Solara brothers."
+  },
+  {
+    "id": 166,
+    "question": "Order these romantic and tragic events:\n\nA. Elena plans to break up with Antonio.\nB. Lina moves into the apartment in the Flegrey district with Nino.\nC. Lina's wedding day."
+  },
+  {
+    "id": 167,
+    "question": "Arrange these school and intellectual related events:\n\nA. Elena gives Nino the article she wrote for his magazine.\nB. Lina tells Elena she wants to sleep with Nino.\nC. Elena visits an optical shop to look at new glasses."
+  },
+  {
+    "id": 168,
+    "question": "Determine the sequence of these conflicts:\n\nA. Stefano criticizes the shoes made by Rino and Fernando for deviating from the design.\nB. Nino and Elena go boating and swimming in deep water.\nC. Lina returns to her husband after running away to the Flegrey district."
+  },
+  {
+    "id": 169,
+    "question": "Sort these events involving Nino and Elena:\n\nA. Elena learns she has passed her exams with high marks.\nB. Lina and Nino attend a lecture by Pasolini.\nC. Elena meets Nino's family on the beach at Ischia."
+  },
+  {
+    "id": 170,
+    "question": "Arrange the following events regarding Elena's departure:\n\nA. Elena helps Lina pick a wedding dress.\nB. Pinocchia gets angry and leaves the beach early due to the heat/discomfort.\nC. Elena leaves her home for university."
+  },
+  {
+    "id": 171,
+    "question": "Please arrange the following events from Lina's wedding day in chronological order based on the text:\nA. Lina realizes that Marcello Solara is wearing the shoes she designed.\nB. The narrator helps Lina bathe and dress in her wedding gown.\nC. The narrator converses with Nino at the wedding reception about his article."
+  },
+  {
+    "id": 172,
+    "question": "Arrange these events concerning Lina's early marriage in chronological order:\nA. Lina tells Stefano that their child is not his.\nB. Lina meets her former teacher, Professor Oliviero, in the park.\nC. Stefano throws Lina's brother, Rino, down the stairs."
+  },
+  {
+    "id": 173,
+    "question": "Order the following events involving the Solara brothers and Stefano's affair:\nA. Pinocchia confesses to Pasquale that she loves Stefano.\nB. Lina tells Stefano she knows about his affair with Pinocchia.\nC. Michele Solara offers Lina an apartment in Piazza del Plebiscito."
+  },
+  {
+    "id": 174,
+    "question": "Based on the text, put these events involving the narrator and Lina's notebooks in order:\nA. The narrator throws the metal box containing the notebooks into the river.\nB. The narrator returns to San Gregorio Armeno for the carnival and hears about Lina's situation.\nC. Lina gives the narrator a metal box containing her notebooks for safekeeping."
+  },
+  {
+    "id": 175,
+    "question": "Arrange these events from the narrator's time in Borgo and early writing career:\nA. The narrator writes a story in a grid notebook in the third person.\nB. The narrator meets Pietro's family for the first time.\nC. The narrator gives the manuscript of her novel to Pietro as a gift."
+  },
+  {
+    "id": 176,
+    "question": "Order these events regarding Lina's time at the factory:\nA. The narrator learns that her novel will be published.\nB. Lina gets into a physical altercation where she pulls a man's ear.\nC. Bruno Socavo harasses Lina in the drying room."
+  },
+  {
+    "id": 177,
+    "question": "Arrange the following events from the period of unrest at the factory:\nA. Lina sleeps in Enzo's bed for the first time.\nB. Lina confronts Bruno and Michele in the office and quits her job.\nC. Students putting up slogans at the factory gate are beaten by a group."
+  },
+  {
+    "id": 178,
+    "question": "Order these actions taken by the narrator to help Lina:\nA. The narrator visits Gigliola in her new home in Posillipo.\nB. The narrator visits Alfonso Carracci at the shoe store.\nC. The narrator calls Bruno Socavo to demand he pay Lina her due money."
+  },
+  {
+    "id": 179,
+    "question": "Arrange these events related to the narrator's book presentation in Porto:\nA. Nino defends the narrator's book against a critic's remarks.\nB. Pietro asks the narrator if he can sleep with her outside the hotel.\nC. The narrator has dinner with Nino and Pietro's family."
+  },
+  {
+    "id": 180,
+    "question": "Order these events occurring after the narrator's return from Porto:\nA. The narrator tells her mother she will not have a church wedding.\nB. The narrator reads a harsh review of her book in the newspaper.\nC. The narrator buys books by Freud at the bookstore."
+  },
+  {
+    "id": 181,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator and Lina visit Professor Galiani's house.\nB. The narrator reads a negative review of her book written by Nino's father.\nC. The narrator travels to Turin and meets Professor Tarantano."
+  },
+  {
+    "id": 182,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. Juan enters the narrator's room at Mariarosa's house uninvited.\nB. An older man attempts to kiss the narrator in a hotel elevator.\nC. The narrator comforts Silvia's crying baby, Mirko, late at night."
+  },
+  {
+    "id": 183,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. Pietro gives the narrator his grandmother's ring at her parents' house.\nB. The narrator realizes she is pregnant with her first child.\nC. The narrator attends a wedding reception filled with intellectuals at the home of Adele Airota's friend."
+  },
+  {
+    "id": 184,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. Adele Airota gives harsh feedback on the narrator's second novel manuscript.\nB. Lina cries over the phone while telling the narrator how bad her book is.\nC. The narrator gives birth to her second daughter, Elsa."
+  },
+  {
+    "id": 185,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. Mariarosa informs the narrator that Franco Mari has been attacked and lost an eye.\nB. The narrator reads about the murder of Bruno Soccavo in the newspaper.\nC. Gennaro arrives at Posillipo to stay with the narrator for the summer."
+  },
+  {
+    "id": 186,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. Nino stays at the narrator's house, and they become intimate.\nB. Pietro brings Nino home for lunch for the first time in years.\nC. The narrator and Pietro have dinner with Nino and his wife Eleonora."
+  },
+  {
+    "id": 187,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator leaves her home to meet Nino and fly to Montpellier.\nB. The narrator tells her daughters that she is leaving.\nC. The narrator confesses to Pietro that Nino is her lover."
+  },
+  {
+    "id": 188,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator searches her house for any items related to Lina.\nB. The narrator and Lina find the body of Gigliola Spagnuolo in a flower bed.\nC. Rino calls the narrator to report that his mother has disappeared."
+  },
+  {
+    "id": 189,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator visits Silvia and hears the story of her assault.\nB. Pasquale and Nadia unexpectedly visit the narrator's home in Florence.\nC. The narrator visits Franco Mari in the hospital."
+  },
+  {
+    "id": 190,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\nA. The narrator visits her sister's new apartment and sees the luxury.\nB. The narrator's mother tells her that her sister is living with Marcello.\nC. The Solara family arrives for dinner at the sister's apartment."
+  },
+  {
+    "id": 191,
+    "question": "Arrange the following events from the wedding reception chronologically:\nA. The narrator speaks with Nino about his article on San Gregorio Armeno.\nB. The narrator sees the Solara brothers enter the restaurant.\nC. Antonio asks the narrator to dance, but she refuses citing her mother's disapproval."
+  },
+  {
+    "id": 192,
+    "question": "Order these events regarding the conflict between the families:\nA. Stefano throws Rino down the stairs during an argument.\nB. Pasquale punches the wall in Antonio's kitchen after learning about Pinocchia.\nC. Antonio leaves for Germany on a secret mission for Michele."
+  },
+  {
+    "id": 193,
+    "question": "Place these events related to Lina's escape in order:\nA. Lina tells the narrator to tell Enzo she tried but couldn't do it.\nB. Lina leaves her house with Enzo, leaving the key in the door.\nC. The narrator visits Lina at her new apartment in Stazione Centrale."
+  },
+  {
+    "id": 194,
+    "question": "Arrange these events involving Pinocchia and Stefano:\nA. Pinocchia tells Lina she is pregnant while cleaning Lina's house.\nB. Stefano hits Pinocchia in the Capodimonte shop.\nC. Stefano admits to Michele Solara that he prefers Pinocchia over Lina."
+  },
+  {
+    "id": 195,
+    "question": "Order the following events concerning the narrator's academic and romantic life:\nA. The narrator meets Pietro for the first time outside the university.\nB. The narrator gives Pietro the manuscript of her novel as a gift.\nC. Pietro announces he has become a full professor at the dinner in Porto."
+  },
+  {
+    "id": 196,
+    "question": "Arrange these events related to the manuscript of 'The Blue Fairy':\nA. The narrator receives the manuscript in a package from her deceased teacher's sister.\nB. The narrator shows the manuscript to Lina at the factory.\nC. Lina throws the manuscript into the fire in the factory courtyard."
+  },
+  {
+    "id": 197,
+    "question": "Order these events regarding the unrest at the Soccavo factory:\nA. Students are beaten by a group led by Gino outside the factory.\nB. Lina attends a meeting at Court Road where she speaks about the factory conditions.\nC. Lina confronts Bruno Socavo in his office and quits her job."
+  },
+  {
+    "id": 198,
+    "question": "Arrange these interactions involving the narrator and the Solara family's circle:\nA. The narrator visits Gigliola in her new home in Posillipo.\nB. The narrator visits Alfonso Carracci at the shoe store on Martiri Square.\nC. Alfonso confesses to the narrator that he doesn't like girls."
+  },
+  {
+    "id": 199,
+    "question": "Order these events during the narrator's book presentation trip:\nA. Nino defends the narrator's book against a critic in the bookstore.\nB. The narrator, Nino, and Pietro's family have dinner at a restaurant.\nC. The narrator and Pietro are intimate outside her hotel."
+  },
+  {
+    "id": 200,
+    "question": "Arrange these events following the narrator's return from the book presentation:\nA. The narrator tells her parents she will not have a church wedding.\nB. The narrator buys books by Freud at the Alba Port bookstore.\nC. The narrator reads a positive review of her book in L'Unità."
+  },
+  {
+    "id": 201,
+    "question": "Order the events involving Lina's medical issues:\nA. Nadia examines Lina in a side room during the meeting.\nB. The narrator calls Pietro to ask for help finding a doctor for Lina.\nC. The narrator tells Lina she has arranged for a cardiologist to visit the factory."
+  },
+  {
+    "id": 202,
+    "question": "Arrange these events related to the narrator's article:\nA. The narrator writes an article about the factory for L'Unità.\nB. The narrator reads the article to Lina.\nC. The narrator submits the article to the newspaper."
+  },
+  {
+    "id": 203,
+    "question": "Order these events concerning Lina's living arrangements:\nA. Lina moves into an apartment in Stazione Centrale with Enzo.\nB. The narrator suggests to Enzo that they look for a house in Mergellina.\nC. Enzo and the narrator visit Don Carlo's old house."
+  },
+  {
+    "id": 204,
+    "question": "Arrange the following events regarding Stefano's attempts to reconcile or control Lina:\nA. Stefano takes Lina to Amalfi for a second honeymoon.\nB. Stefano visits Lina at Stazione Centrale and meets his son.\nC. Stefano tells Lina he has found a place for her in the Piazza del Plebiscito district."
+  },
+  {
+    "id": 205,
+    "question": "Order these events involving Michele Solara:\nA. Michele tells Lina in his car about Stefano's affair.\nB. Michele confronts Lina in Bruno Socavo's office.\nC. Gigliola tells the narrator about Michele's obsession with Lina."
+  },
+  {
+    "id": 206,
+    "question": "Arrange these events from the narrator's time at university:\nA. A boy calls out to the narrator about a sweater she left in his room.\nB. Pietro introduces himself to the narrator.\nC. The narrator meets Pietro's family for lunch."
+  },
+  {
+    "id": 207,
+    "question": "Order these events concerning the publication of the narrator's book:\nA. The narrator gives her manuscript to Pietro.\nB. Adele Airota calls the narrator to say the book will be published.\nC. The narrator sees her book in a bookstore window."
+  },
+  {
+    "id": 208,
+    "question": "Arrange these events regarding Antonio:\nA. Antonio works for the Solaras and drives them to dinner.\nB. Antonio goes to Germany.\nC. Melina tells the narrator Antonio is asking about her in letters."
+  },
+  {
+    "id": 209,
+    "question": "Order the following confrontations involving Lina:\nA. Lina fights with a man at the factory and pulls his ear.\nB. Lina confronts the students distributing flyers at the factory gate.\nC. Lina confronts the doorman Philip about the sausage."
+  },
+  {
+    "id": 210,
+    "question": "Arrange these events involving Pasquale:\nA. Pasquale smashes his hand against a wall in frustration.\nB. Pasquale fights Stefano in the street.\nC. Pasquale takes Lina to a protest against the Vietnam War."
+  },
+  {
+    "id": 211,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator receives the German translation of her book as a gift at her sister's home.\nB. The narrator takes her two daughters to meet Nino for lunch at her home in Florence.\nC. The narrator visits the shoe warehouse computer center where Lina works."
+  },
+  {
+    "id": 212,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator's daughter Dede threatens to tell her father about the narrator's meeting with the engineer Mario.\nB. The narrator gives birth to her second daughter, Elsa.\nC. The narrator's mother leaves the narrator's home due to a cholera outbreak news."
+  },
+  {
+    "id": 213,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. Pasquale and Nadia unexpectedly visit the narrator's home in Florence.\nB. The narrator learns that Gino has been murdered in front of his pharmacy.\nC. Enzo brings Gennaro to the narrator's home in Florence."
+  },
+  {
+    "id": 214,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator calls Nino's house and is cursed by his wife, Eleonora.\nB. The narrator tells her husband Pietro that Nino is her lover.\nC. The narrator explains to her daughters that she is leaving the family."
+  },
+  {
+    "id": 215,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator and Lina discover the body of Gigliola Spagnuolo in a flower bed.\nB. Rino calls the narrator to report that his mother has been missing for two weeks.\nC. The narrator starts writing the story of her friendship with Lina."
+  },
+  {
+    "id": 216,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. Nino stays at the narrator's house while Pietro is busy with exams.\nB. The narrator has a secret affair with Nino in Naples while her family is at the beach.\nC. The narrator flies with Nino to Montpellier."
+  },
+  {
+    "id": 217,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator visits the hospital to see Franco Mari after he was beaten.\nB. The narrator learns that Bruno Soccavo has been murdered.\nC. The narrator's husband Pietro hits their daughter Dede for interrupting the news."
+  },
+  {
+    "id": 218,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator has dinner with Nino and his wife Eleonora in Naples.\nB. The narrator asks Nino to critique her manuscript about women in the Bible.\nC. Nino criticizes Pietro's behavior during a family dinner, causing tension."
+  },
+  {
+    "id": 219,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. Mariarosa gives a feminist speech at a gathering in Florence.\nB. The narrator hires Clelia to help with the children.\nC. The narrator has an intimate encounter with the engineer Mario in his studio."
+  },
+  {
+    "id": 220,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. Pietro gives the narrator his grandmother's ring.\nB. The narrator attends a party where Manuela Solara is present.\nC. The narrator receives a call from Adele Airota about her book being published in Germany."
+  },
+  {
+    "id": 221,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator goes to the seaside at Posillipo with her children and Pietro.\nB. The narrator learns that her sister Elisa is living with Marcello Solara.\nC. The narrator meets Nino for lunch in Florence after many years."
+  },
+  {
+    "id": 222,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator reads a negative review of her book by Nino's father.\nB. The narrator is harassed by Juan at Mariarosa's house.\nC. The narrator meets her future mother-in-law Adele's friend, Professor Tarantano."
+  },
+  {
+    "id": 223,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator's daughter Dede is born.\nB. The narrator writes a new book about the computer era and Lina.\nC. The narrator's second daughter Elsa is born."
+  },
+  {
+    "id": 224,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. Rino searches his mother's wardrobe and finds it empty.\nB. The narrator and Lina visit the site where Gigliola's body was found.\nC. The narrator's mother returns to Naples because of the cholera outbreak."
+  },
+  {
+    "id": 225,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator visits Franco Mari in the hospital after he loses an eye.\nB. The narrator sends Gennaro back to Lina in Naples.\nC. The narrator has a secret meeting with Nino in a car in Naples."
+  },
+  {
+    "id": 226,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator meets her sister Elisa and Marcello Solara in their luxury apartment.\nB. The narrator receives a call from Nino saying he has left his wife.\nC. The narrator's husband Pietro is confronted by a student with a gun."
+  },
+  {
+    "id": 227,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator's mother brings news of the narrator's pregnancy to the neighbors.\nB. The narrator fires the nanny Clelia.\nC. The narrator discovers she is pregnant with her second child."
+  },
+  {
+    "id": 228,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator visits the shoe factory where Lina works with the IBM System.\nB. The narrator has a fierce argument with Pietro about the student with the gun.\nC. The narrator meets Nino for the first time in years at her home."
+  },
+  {
+    "id": 229,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator receives a call from Rino saying his mother is missing.\nB. The narrator has a conversation with Lina about the computer center job.\nC. The narrator leaves her husband to go with Nino."
+  },
+  {
+    "id": 230,
+    "question": "Please arrange the following events in chronological order based on the content of the text:\n\nA. The narrator sees her sister Elisa with Marcello Solara at a dinner party.\nB. The narrator writes a letter to her husband before leaving him.\nC. The narrator's daughter Dede wets the bed and sleeps with her mother."
+  }
+]

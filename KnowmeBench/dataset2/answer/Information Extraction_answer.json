@@ -1,0 +1,731 @@
+[
+  {
+    "id": 1,
+    "answer": "Coffee and sugar",
+    "evidence_ids": [
+      7,
+      127
+    ]
+  },
+  {
+    "id": 2,
+    "answer": "Enzo Scanno, Nino Nino, and Alfonso Carracci",
+    "evidence_ids": [
+      22
+    ]
+  },
+  {
+    "id": 3,
+    "answer": "Tina: celluloid face/hair/eyes, wearing a light blue dress sewn by the mother; Lila's doll: made of rags, ugly and dirty",
+    "evidence_ids": [
+      33
+    ]
+  },
+  {
+    "id": 4,
+    "answer": "Flesh-and-blood, long and narrow face, hair hanging over his ears, a bare spot in the middle of his head, bright eyes with bloodshot veins, large mouth, thin lips, and a long chin with a hollow in the middle",
+    "evidence_ids": [
+      348,
+      349
+    ]
+  },
+  {
+    "id": 5,
+    "answer": "Drenched from head to toe, hair clinging to foreheads, lips blue with cold, eyes filled with terror, and muddy and slippery feet",
+    "evidence_ids": [
+      451,
+      456
+    ]
+  },
+  {
+    "id": 6,
+    "answer": "An old sky-blue pajama top and yellowed socks (turned dark at the heels)",
+    "evidence_ids": [
+      544
+    ]
+  },
+  {
+    "id": 7,
+    "answer": "Blue-and-white Fiat 1100",
+    "evidence_ids": [
+      681
+    ]
+  },
+  {
+    "id": 8,
+    "answer": "Outfit: a light blue travel suit with a blue hat; Item handed to narrator: a ceramic basket filled with candies wrapped in white gauze",
+    "evidence_ids": [
+      713,
+      718
+    ]
+  },
+  {
+    "id": 9,
+    "answer": "Scarlet",
+    "evidence_ids": [
+      839
+    ]
+  },
+  {
+    "id": 10,
+    "answer": "Prince Renato Carosone (from Egypt), the director Vittorio De Sica, and a journalist from Il Messaggero",
+    "evidence_ids": [
+      1012
+    ]
+  },
+  {
+    "id": 11,
+    "answer": "Zingarelli, Rossi, and Caronci-Giorgi",
+    "evidence_ids": [
+      1394
+    ]
+  },
+  {
+    "id": 12,
+    "answer": "To pull out three teeth",
+    "evidence_ids": [
+      1215
+    ]
+  },
+  {
+    "id": 13,
+    "answer": "One eye, a hand resting on her chin, two bright red lips, the lines of her crossed legs, and her shoes",
+    "evidence_ids": [
+      1321
+    ]
+  },
+  {
+    "id": 14,
+    "answer": "1. Lina Lina, 2. Fernando Lina, 3. Nunzia Lina, 4. Rino Lina, 5. Elena Greco",
+    "evidence_ids": [
+      1843
+    ]
+  },
+  {
+    "id": 15,
+    "answer": "Danilo Dolci, Martin Luther King, and Bertrand Russell",
+    "evidence_ids": [
+      1722
+    ]
+  },
+  {
+    "id": 16,
+    "answer": "Giggia (Giyao), Pinocchia, and Rino",
+    "evidence_ids": [
+      1554
+    ]
+  },
+  {
+    "id": 17,
+    "answer": "Marcello Solara, Michele Solara, the father of the Solara brothers, and a bartender",
+    "evidence_ids": [
+      1448,
+      1450
+    ]
+  },
+  {
+    "id": 18,
+    "answer": "Pencil, Understand, and Shoe",
+    "evidence_ids": [
+      2357
+    ]
+  },
+  {
+    "id": 19,
+    "answer": "The homes of the poor, the botanical garden, Via Flora, the museum, Constantinople Street, and the Port of Alba",
+    "evidence_ids": [
+      2095,
+      2096
+    ]
+  },
+  {
+    "id": 20,
+    "answer": "Elena Greco received 'Three Men in a Boat' by Jerome K. Jerome; Rino's prize was 'The Dead Bruges'",
+    "evidence_ids": [
+      1849,
+      1856
+    ]
+  },
+  {
+    "id": 21,
+    "answer": "The shoes were brown, size forty-three, and were based on the design drawing created by Lina.",
+    "evidence_ids": [
+      2428,
+      2429
+    ]
+  },
+  {
+    "id": 22,
+    "answer": "He bought a box of fireworks, a string of firecrackers, and a few small cannons.",
+    "evidence_ids": [
+      2484
+    ]
+  },
+  {
+    "id": 23,
+    "answer": "The family of the former carpenter, the family of the building's porter, the family of the cobbler, the family of the fruit seller, and the family of Melina.",
+    "evidence_ids": [
+      2572
+    ]
+  },
+  {
+    "id": 24,
+    "answer": "A silver bracelet and silver earrings.",
+    "evidence_ids": [
+      2582
+    ]
+  },
+  {
+    "id": 25,
+    "answer": "Lina found a sock filled with coal, and her mother (Nunzia) found a sock filled with candies and chocolates. Rino was responsible for providing both.",
+    "evidence_ids": [
+      2722,
+      2724
+    ]
+  },
+  {
+    "id": 26,
+    "answer": "\"The Tragic Stages of Queen Dido.\"",
+    "evidence_ids": [
+      2789,
+      2791
+    ]
+  },
+  {
+    "id": 27,
+    "answer": "Nunzia's room had a small skylight on the ceiling with almost no view. The narrator's room was extremely tiny and faced a chicken coop and a quiet little bamboo grove.",
+    "evidence_ids": [
+      2927
+    ]
+  },
+  {
+    "id": 28,
+    "answer": "Everyone's towels, sandwiches, and a bottle of water.",
+    "evidence_ids": [
+      3097
+    ]
+  },
+  {
+    "id": 29,
+    "answer": "Donato, Lidia, Pino, Clelia, and Ciro.",
+    "evidence_ids": [
+      3124,
+      3127,
+      3129
+    ]
+  },
+  {
+    "id": 30,
+    "answer": "A collection of plays by Beckett (theater), a book about the concept of the nation by Federico Cappo, and a book about Hiroshima.",
+    "evidence_ids": [
+      2949,
+      3023,
+      3407
+    ]
+  },
+  {
+    "id": 31,
+    "answer": "Gold chain with a heart-shaped pendant",
+    "evidence_ids": [
+      3608
+    ]
+  },
+  {
+    "id": 32,
+    "answer": "Sausage and cheese",
+    "evidence_ids": [
+      3635
+    ]
+  },
+  {
+    "id": 33,
+    "answer": "Beard unshaven and completely drunk",
+    "evidence_ids": [
+      4528
+    ]
+  },
+  {
+    "id": 34,
+    "answer": "Red convertible (sports car)",
+    "evidence_ids": [
+      4554,
+      4630
+    ]
+  },
+  {
+    "id": 35,
+    "answer": "Adam Smith and Joyce",
+    "evidence_ids": [
+      4675
+    ]
+  },
+  {
+    "id": 36,
+    "answer": "Marie Curie, Grazia Deledda, and Nilda Iotti",
+    "evidence_ids": [
+      4330
+    ]
+  },
+  {
+    "id": 37,
+    "answer": "Two million lira",
+    "evidence_ids": [
+      4574
+    ]
+  },
+  {
+    "id": 38,
+    "answer": "Giullara's brother Rello",
+    "evidence_ids": [
+      4224
+    ]
+  },
+  {
+    "id": 39,
+    "answer": "Latin, Greek, and English",
+    "evidence_ids": [
+      4780
+    ]
+  },
+  {
+    "id": 40,
+    "answer": "Long-sleeved yellow dress",
+    "evidence_ids": [
+      4457
+    ]
+  },
+  {
+    "id": 41,
+    "answer": "Undergarments, dresses, and a pair of winter shoes.",
+    "evidence_ids": [
+      4830
+    ]
+  },
+  {
+    "id": 42,
+    "answer": "The magazine was titled \"San Gregorio Armeno: The Poor Man's Hotel\" and his article was titled \"Miserable Data.\"",
+    "evidence_ids": [
+      5102,
+      5103
+    ]
+  },
+  {
+    "id": 43,
+    "answer": "Stefano's mother, Alfonso Carracci, Rino, Fernando, Pinocchia, and her child.",
+    "evidence_ids": [
+      4884
+    ]
+  },
+  {
+    "id": 44,
+    "answer": "It was on the third floor. The bathroom had only a toilet and a sink.",
+    "evidence_ids": [
+      4858
+    ]
+  },
+  {
+    "id": 45,
+    "answer": "\"If God is everywhere, why does He still need the Holy Spirit to spread His presence?\"",
+    "evidence_ids": [
+      5125
+    ]
+  },
+  {
+    "id": 46,
+    "answer": "She was a girl from the Martelli district who had studied secretarial work.",
+    "evidence_ids": [
+      4918
+    ]
+  },
+  {
+    "id": 47,
+    "answer": "She earned a total of seventy-seven thousand lira and gave fifty thousand lira to her mother.",
+    "evidence_ids": [
+      5651
+    ]
+  },
+  {
+    "id": 48,
+    "answer": "Fernando.",
+    "evidence_ids": [
+      5320
+    ]
+  },
+  {
+    "id": 49,
+    "answer": "She was not wearing any socks, her nails were very long, and one foot had freshly painted red nail polish while the other had nothing at all.",
+    "evidence_ids": [
+      5506
+    ]
+  },
+  {
+    "id": 50,
+    "answer": "Books, notes, razor, and soap.",
+    "evidence_ids": [
+      5004
+    ]
+  },
+  {
+    "id": 51,
+    "answer": "Father thirty-nine, mother thirty-five.",
+    "evidence_ids": [
+      6033
+    ]
+  },
+  {
+    "id": 52,
+    "answer": "Lina (herself); Rino.",
+    "evidence_ids": [
+      6018
+    ]
+  },
+  {
+    "id": 53,
+    "answer": "Pinocchio, Melina, Pasquale, Camilla, and Enzo.",
+    "evidence_ids": [
+      6086
+    ]
+  },
+  {
+    "id": 54,
+    "answer": "Ghiacciu bookstore.",
+    "evidence_ids": [
+      6238
+    ]
+  },
+  {
+    "id": 55,
+    "answer": "Ulysses; green spine.",
+    "evidence_ids": [
+      6301,
+      6307
+    ]
+  },
+  {
+    "id": 56,
+    "answer": "Fabrizio; the university.",
+    "evidence_ids": [
+      6438,
+      6440
+    ]
+  },
+  {
+    "id": 57,
+    "answer": "Eight notebooks.",
+    "evidence_ids": [
+      6613
+    ]
+  },
+  {
+    "id": 58,
+    "answer": "Piazza del Plebiscito district, Artist's Square.",
+    "evidence_ids": [
+      6935,
+      6936
+    ]
+  },
+  {
+    "id": 59,
+    "answer": "Dormitory 004.",
+    "evidence_ids": [
+      7054
+    ]
+  },
+  {
+    "id": 60,
+    "answer": "Adele Airota and Mariarosa; his mother's occupation is not mentioned (though his sister is an art history teacher).",
+    "evidence_ids": [
+      7166,
+      7168,
+      7171
+    ]
+  },
+  {
+    "id": 61,
+    "answer": "Sausage and ham",
+    "evidence_ids": [
+      7263
+    ]
+  },
+  {
+    "id": 62,
+    "answer": "A ring with a small diamond",
+    "evidence_ids": [
+      7289
+    ]
+  },
+  {
+    "id": 63,
+    "answer": "Twenty million lire",
+    "evidence_ids": [
+      7483
+    ]
+  },
+  {
+    "id": 64,
+    "answer": "Gina",
+    "evidence_ids": [
+      7513
+    ]
+  },
+  {
+    "id": 65,
+    "answer": "Potenza",
+    "evidence_ids": [
+      7337,
+      7532
+    ]
+  },
+  {
+    "id": 66,
+    "answer": "Two (one gray and one blue)",
+    "evidence_ids": [
+      7938
+    ]
+  },
+  {
+    "id": 67,
+    "answer": "Static",
+    "evidence_ids": [
+      8028
+    ]
+  },
+  {
+    "id": 68,
+    "answer": "L'Unità",
+    "evidence_ids": [
+      8321
+    ]
+  },
+  {
+    "id": 69,
+    "answer": "Posillipo",
+    "evidence_ids": [
+      8383,
+      8386
+    ]
+  },
+  {
+    "id": 70,
+    "answer": "Pinocchia",
+    "evidence_ids": [
+      7360
+    ]
+  },
+  {
+    "id": 71,
+    "answer": "Engineers, lawyers, and big professors",
+    "evidence_ids": [
+      8402
+    ]
+  },
+  {
+    "id": 72,
+    "answer": "One hundred and twenty-two",
+    "evidence_ids": [
+      8427
+    ]
+  },
+  {
+    "id": 73,
+    "answer": "The gas pump of Pinocchia's fiancé",
+    "evidence_ids": [
+      8513
+    ]
+  },
+  {
+    "id": 74,
+    "answer": "Maria, daughter of Pinocchia and Stefano",
+    "evidence_ids": [
+      8533
+    ]
+  },
+  {
+    "id": 75,
+    "answer": "Long, messy hair and a thick, dark beard",
+    "evidence_ids": [
+      8591
+    ]
+  },
+  {
+    "id": 76,
+    "answer": "Economic geography",
+    "evidence_ids": [
+      8635
+    ]
+  },
+  {
+    "id": 77,
+    "answer": "\"A Girl Full of Ambition's Erotic Memoirs — The Debut Work of Elena Greco\"",
+    "evidence_ids": [
+      8954
+    ]
+  },
+  {
+    "id": 78,
+    "answer": "Solara's Capodimonte",
+    "evidence_ids": [
+      8992
+    ]
+  },
+  {
+    "id": 79,
+    "answer": "Nadia",
+    "evidence_ids": [
+      9116
+    ]
+  },
+  {
+    "id": 80,
+    "answer": "February 12, 1970, at 5:30 in the morning",
+    "evidence_ids": [
+      9538
+    ]
+  },
+  {
+    "id": 81,
+    "answer": "A Dai (initial name); Dede (final name)",
+    "evidence_ids": [
+      9600
+    ]
+  },
+  {
+    "id": 82,
+    "answer": "Clelia; Maremma",
+    "evidence_ids": [
+      9628
+    ]
+  },
+  {
+    "id": 83,
+    "answer": "A haircut and a visit to the dentist",
+    "evidence_ids": [
+      9637
+    ]
+  },
+  {
+    "id": 84,
+    "answer": "Continue Fighting (Lotta Continua) and Il Manifesto",
+    "evidence_ids": [
+      9688
+    ]
+  },
+  {
+    "id": 85,
+    "answer": "Engineer (taught mechanical engineering); Keyboard",
+    "evidence_ids": [
+      9779
+    ]
+  },
+  {
+    "id": 86,
+    "answer": "Olivetti Lettera 32",
+    "evidence_ids": [
+      9899
+    ]
+  },
+  {
+    "id": 87,
+    "answer": "Fiat 500",
+    "evidence_ids": [
+      10308
+    ]
+  },
+  {
+    "id": 88,
+    "answer": "Thirty-five million lira (Enzo); Ten million lira (Lina)",
+    "evidence_ids": [
+      10323
+    ]
+  },
+  {
+    "id": 89,
+    "answer": "Bruno Socavo (owner) and Filippo (guard)",
+    "evidence_ids": [
+      10427
+    ]
+  },
+  {
+    "id": 90,
+    "answer": "The narrator's novel; German",
+    "evidence_ids": [
+      10780,
+      10786
+    ]
+  },
+  {
+    "id": 91,
+    "answer": "Geyola",
+    "evidence_ids": [
+      10799
+    ]
+  },
+  {
+    "id": 92,
+    "answer": "German (Germany), French (France), and Spanish (Spain)",
+    "evidence_ids": [
+      10911,
+      10919
+    ]
+  },
+  {
+    "id": 93,
+    "answer": "Loverezzano Labor Office",
+    "evidence_ids": [
+      10966
+    ]
+  },
+  {
+    "id": 94,
+    "answer": "Urban Geography",
+    "evidence_ids": [
+      11050,
+      11054
+    ]
+  },
+  {
+    "id": 95,
+    "answer": "Albert; two years old",
+    "evidence_ids": [
+      11079,
+      11081
+    ]
+  },
+  {
+    "id": 96,
+    "answer": "Seventy pages",
+    "evidence_ids": [
+      11300
+    ]
+  },
+  {
+    "id": 97,
+    "answer": "At a hotel not far from the train station",
+    "evidence_ids": [
+      11849
+    ]
+  },
+  {
+    "id": 98,
+    "answer": "In the flower bed next to the church; deep green",
+    "evidence_ids": [
+      11877,
+      11879,
+      11880
+    ]
+  },
+  {
+    "id": 99,
+    "answer": "Clothes, shoes, books, photos, VCDs, computers, and documents",
+    "evidence_ids": [
+      11987
+    ]
+  },
+  {
+    "id": 100,
+    "answer": "Birth certificate, phone contract, and utility bills",
+    "evidence_ids": [
+      11991
+    ]
+  }
+]

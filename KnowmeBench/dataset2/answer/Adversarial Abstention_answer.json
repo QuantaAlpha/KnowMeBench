@@ -1,0 +1,878 @@
+[
+  {
+    "id": 1,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      3608,
+      3982
+    ]
+  },
+  {
+    "id": 2,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      3694,
+      3747,
+      4067
+    ]
+  },
+  {
+    "id": 3,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      4318,
+      4320,
+      4528
+    ]
+  },
+  {
+    "id": 4,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      4380,
+      4389,
+      4401
+    ]
+  },
+  {
+    "id": 5,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      4347,
+      4554,
+      4630,
+      4707
+    ]
+  },
+  {
+    "id": 6,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      3621,
+      3995,
+      4127,
+      4135
+    ]
+  },
+  {
+    "id": 7,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      4223,
+      4236,
+      4253,
+      4256
+    ]
+  },
+  {
+    "id": 8,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      4574,
+      4603,
+      4634
+    ]
+  },
+  {
+    "id": 9,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      4434,
+      4437,
+      4443,
+      4450
+    ]
+  },
+  {
+    "id": 10,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      3882,
+      3884,
+      4780
+    ]
+  },
+  {
+    "id": 11,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      6007,
+      6307
+    ]
+  },
+  {
+    "id": 12,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      6799,
+      6803
+    ]
+  },
+  {
+    "id": 13,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      6670,
+      6677,
+      6108
+    ]
+  },
+  {
+    "id": 14,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      6124,
+      6863
+    ]
+  },
+  {
+    "id": 15,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      6382,
+      7079
+    ]
+  },
+  {
+    "id": 16,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      6158,
+      6333
+    ]
+  },
+  {
+    "id": 17,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      6287,
+      7098
+    ]
+  },
+  {
+    "id": 18,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      6814,
+      7014
+    ]
+  },
+  {
+    "id": 19,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      7166,
+      6646,
+      6651
+    ]
+  },
+  {
+    "id": 20,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      6018,
+      6301,
+      6287
+    ]
+  },
+  {
+    "id": 21,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      8414
+    ]
+  },
+  {
+    "id": 22,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      8451,
+      8453
+    ]
+  },
+  {
+    "id": 23,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      8533,
+      8538,
+      8639
+    ]
+  },
+  {
+    "id": 24,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      8624,
+      8762
+    ]
+  },
+  {
+    "id": 25,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      8558,
+      9538
+    ]
+  },
+  {
+    "id": 26,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      9098,
+      9108,
+      9109
+    ]
+  },
+  {
+    "id": 27,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      9268,
+      9283,
+      9284
+    ]
+  },
+  {
+    "id": 28,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      9391,
+      9392,
+      9410
+    ]
+  },
+  {
+    "id": 29,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      8405,
+      8953,
+      8954
+    ]
+  },
+  {
+    "id": 30,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      8593,
+      9011,
+      9012
+    ]
+  },
+  {
+    "id": 31,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      1213,
+      1215
+    ]
+  },
+  {
+    "id": 32,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      1261,
+      1312,
+      1802
+    ]
+  },
+  {
+    "id": 33,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      1394,
+      1446
+    ]
+  },
+  {
+    "id": 34,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      1722,
+      1843
+    ]
+  },
+  {
+    "id": 35,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      2110,
+      1684
+    ]
+  },
+  {
+    "id": 36,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      2075,
+      2265
+    ]
+  },
+  {
+    "id": 37,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      1216,
+      1266
+    ]
+  },
+  {
+    "id": 38,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      1353,
+      1927,
+      1931
+    ]
+  },
+  {
+    "id": 39,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      2200,
+      1632
+    ]
+  },
+  {
+    "id": 40,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      1682,
+      2357
+    ]
+  },
+  {
+    "id": 41,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      2722,
+      2500
+    ]
+  },
+  {
+    "id": 42,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      2604,
+      3158,
+      2573
+    ]
+  },
+  {
+    "id": 43,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      3084,
+      3029,
+      2416
+    ]
+  },
+  {
+    "id": 44,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      2452,
+      2897,
+      2905
+    ]
+  },
+  {
+    "id": 45,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      3006,
+      3297,
+      3024
+    ]
+  },
+  {
+    "id": 46,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      2570,
+      2501,
+      2887
+    ]
+  },
+  {
+    "id": 47,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      3263,
+      3268,
+      2510
+    ]
+  },
+  {
+    "id": 48,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      2791,
+      2582
+    ]
+  },
+  {
+    "id": 49,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      2428,
+      2740,
+      2846
+    ]
+  },
+  {
+    "id": 50,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      3089,
+      3407,
+      2914
+    ]
+  },
+  {
+    "id": 51,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      4835,
+      5000,
+      4999
+    ]
+  },
+  {
+    "id": 52,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      5503,
+      4858,
+      4815
+    ]
+  },
+  {
+    "id": 53,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      5384,
+      4805,
+      5868,
+      5869
+    ]
+  },
+  {
+    "id": 54,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      5150,
+      5930,
+      5135
+    ]
+  },
+  {
+    "id": 55,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      4914,
+      5981,
+      5984
+    ]
+  },
+  {
+    "id": 56,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      4823,
+      5312,
+      5519
+    ]
+  },
+  {
+    "id": 57,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      4819,
+      5864,
+      5868
+    ]
+  },
+  {
+    "id": 58,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      5403,
+      4858,
+      5049
+    ]
+  },
+  {
+    "id": 59,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      5584,
+      5566,
+      4916
+    ]
+  },
+  {
+    "id": 60,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      4947,
+      5863,
+      5860
+    ]
+  },
+  {
+    "id": 61,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      7419,
+      7421,
+      8310
+    ]
+  },
+  {
+    "id": 62,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      7549,
+      7642,
+      7693
+    ]
+  },
+  {
+    "id": 63,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      7202,
+      7519,
+      7628
+    ]
+  },
+  {
+    "id": 64,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      7204,
+      7788,
+      7789
+    ]
+  },
+  {
+    "id": 65,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      8028,
+      8387,
+      8394
+    ]
+  },
+  {
+    "id": 66,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      7585,
+      7931,
+      7932
+    ]
+  },
+  {
+    "id": 67,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      7416,
+      7417,
+      7546
+    ]
+  },
+  {
+    "id": 68,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      7289,
+      7340,
+      7702
+    ]
+  },
+  {
+    "id": 69,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      7427,
+      7449,
+      8351
+    ]
+  },
+  {
+    "id": 70,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      7254,
+      7457,
+      7461
+    ]
+  },
+  {
+    "id": 71,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      9598,
+      10402,
+      10403
+    ]
+  },
+  {
+    "id": 72,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      9602,
+      10308,
+      10309
+    ]
+  },
+  {
+    "id": 73,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      9960,
+      10078,
+      10080
+    ]
+  },
+  {
+    "id": 74,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      10323,
+      10211,
+      10212
+    ]
+  },
+  {
+    "id": 75,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      10078,
+      9782
+    ]
+  },
+  {
+    "id": 76,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      10780,
+      10607,
+      10775
+    ]
+  },
+  {
+    "id": 77,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      10134,
+      10148,
+      10156
+    ]
+  },
+  {
+    "id": 78,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      9600,
+      9942,
+      9944
+    ]
+  },
+  {
+    "id": 79,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      9899,
+      10150,
+      10155
+    ]
+  },
+  {
+    "id": 80,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      10279,
+      10292,
+      10305
+    ]
+  },
+  {
+    "id": 81,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      11080,
+      11068,
+      10806
+    ]
+  },
+  {
+    "id": 82,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      11011,
+      11005,
+      11236,
+      10835
+    ]
+  },
+  {
+    "id": 83,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      11851,
+      11605,
+      10799
+    ]
+  },
+  {
+    "id": 84,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      10937,
+      10938,
+      11818
+    ]
+  },
+  {
+    "id": 85,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      11280,
+      11287,
+      11652
+    ]
+  },
+  {
+    "id": 86,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      10909,
+      10911,
+      11952
+    ]
+  },
+  {
+    "id": 87,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      11963,
+      11989,
+      11330
+    ]
+  },
+  {
+    "id": 88,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      11959,
+      11778,
+      11779
+    ]
+  },
+  {
+    "id": 89,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      10800,
+      10911,
+      10813
+    ]
+  },
+  {
+    "id": 90,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      10985,
+      11821
+    ]
+  },
+  {
+    "id": 91,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      2,
+      11,
+      300
+    ]
+  },
+  {
+    "id": 92,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      4,
+      479,
+      1
+    ]
+  },
+  {
+    "id": 93,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      589,
+      22
+    ]
+  },
+  {
+    "id": 94,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      13,
+      795,
+      780
+    ]
+  },
+  {
+    "id": 95,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      23,
+      51
+    ]
+  },
+  {
+    "id": 96,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      1073,
+      7
+    ]
+  },
+  {
+    "id": 97,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      15,
+      1
+    ]
+  },
+  {
+    "id": 98,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      849,
+      399,
+      816
+    ]
+  },
+  {
+    "id": 99,
+    "answer": "unable to answer",
+    "evidence_ids": [
+      528,
+      19,
+      20
+    ]
+  },
+  {
+    "id": 100,
+    "answer": "not mentioned in the text",
+    "evidence_ids": [
+      979,
+      418
+    ]
+  }
+]

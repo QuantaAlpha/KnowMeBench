@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "question": "The narrator is physically in a carriage near Balbec (Fairhaven) in 1897, but his mind is trying to grasp a memory triggered by the landscape. What specific visual element acts as the anchor for this displacement, and what metaphorical entity does the narrator compare these elements to as they fail to communicate their message?"
+  },
+  {
+    "id": 2,
+    "question": "While standing in his bedroom in Balbec during a sunset, the narrator's consciousness is transported to a specific moment in his past in 'Sunrise' (Combray). What specific visual element in the sky serves as the anchor for this spatial and temporal jump?"
+  },
+  {
+    "id": 3,
+    "question": "While the narrator is physically in Elstir's (George's) studio looking at a painting of the Carquethuit harbor, his perception of the boundary between land and sea is displaced. What specific architectural structure acts as the anchor for this displacement, and how does the narrator categorize it?"
+  },
+  {
+    "id": 4,
+    "question": "The narrator is riding in a carriage on a country path near Balbec (Riverside) in 1897. He sees an apple tree. To what specific future timeframe and location does this visual anchor transport his mind, and what object is central to that future memory?"
+  },
+  {
+    "id": 5,
+    "question": "While dining at the Rivebelle hotel, the narrator creates a cosmological metaphor to describe the social dynamics of the room. What specific furniture items serve as the anchors for this displacement into a 'planetary system,' and how does the narrator describe the relationship between them?"
+  },
+  {
+    "id": 6,
+    "question": "The narrator is observing the ocean from his bedroom window. He sees a ship. How does the specific visual alignment of the ship and the horizon (the anchor) displace his sense of physical stability and location?"
+  },
+  {
+    "id": 7,
+    "question": "While observing the dining room of the Balbec hotel from the outside at night, the narrator mentally displaces the building into a biological/natural structure. What specific physical barrier acts as the anchor for this metaphor, and what role do the poor observers play?"
+  },
+  {
+    "id": 8,
+    "question": "During a carriage ride with Charles (Mme de Villeparisis), the narrator looks at the moon. This visual anchor triggers a recitation of poetry. How does Charles's response displace the narrator's romanticized literary perception into a banal social anecdote?"
+  },
+  {
+    "id": 9,
+    "question": "The narrator is observing a group of girls on the seawall. He mentally displaces them from human beings into a collective biological entity. What specific physical behavior acts as the anchor for this reclassification into a 'flock of birds'?"
+  },
+  {
+    "id": 10,
+    "question": "In his grandmother's room, the narrator perceives the sunlight interacting with the furniture. How does the specific visual anchor of the 'pink flowers' on the sofa displace the interior room into an outdoor setting?"
+  },
+  {
+    "id": 11,
+    "question": "While on the 'Old Road' to Riverside, the narrator notes that this specific road will anchor future experiences. What specific sensory details constitute the anchor that will displace him back to this moment in later years?"
+  },
+  {
+    "id": 12,
+    "question": "Standing outside the hotel entrance at night, the narrator sees a footman wrapped in a blanket. What specific visual attributes act as the anchor displacing the footman from a human servant to a botanical object?"
+  },
+  {
+    "id": 13,
+    "question": "Richard (Bloch) corrects Steven's pronunciation of 'lift.' How does the narrator use Richard's specific verbal reaction as an anchor to displace the surface meaning of the conversation to a deeper psychological reality?"
+  },
+  {
+    "id": 14,
+    "question": "While observing birds beneath his window, the narrator mentally displaces their biological movement into a mechanical or fluid dynamic. What specific trajectory serves as the anchor for this comparison to a 'fountain'?"
+  },
+  {
+    "id": 15,
+    "question": "In the Rivebelle hotel garden, the narrator observes a wall with roses. How does the lighting condition act as an anchor to displace the material reality of the wall into a geological substance?"
+  },
+  {
+    "id": 16,
+    "question": "While sitting in the dining room, the narrator feels separated from the beach. What specific architectural element acts as the anchor that simultaneously connects and displaces him from the external world, turning the sky into a flaw in the structure?"
+  },
+  {
+    "id": 17,
+    "question": "The narrator passes a girl with a bicycle on the seawall. He analyzes her gaze. What specific metaphorical substance does he use as an anchor to describe the potential interaction between her gaze and his mind?"
+  },
+  {
+    "id": 18,
+    "question": "Standing outside Elstir's (George's) villa, the narrator recalls its history. What specific architectural evolution anchors the present 'ugliest building' to its past identity as a rustic gathering place for artists?"
+  },
+  {
+    "id": 19,
+    "question": "While observing a waiter in the Rivebelle hotel, the narrator mentally displaces him into a specific type of bird. What specific physical behaviors and visual details serve as the anchors for this comparison to a 'macaw'?"
+  },
+  {
+    "id": 20,
+    "question": "While drunk in a carriage heading to Rivebelle, the narrator experiences a shift in his perception of his own life's timeline. How does the 'shadow' of the past act as an anchor for this displacement, and what happens to the concept of the 'future'?"
+  },
+  {
+    "id": 21,
+    "question": "In Elstir's painting of the harbor, the narrator observes figures in the water. What specific physical action anchors the displacement of these figures from 'sailors pushing boats' to 'riders' on animals?"
+  },
+  {
+    "id": 22,
+    "question": "Navigating the hotel corridors at night, the narrator mentally reduces the scale of the building. What specific structural characteristic and lighting effect act as the anchors for displacing the hotel into a 'toy' or 'miniature model'?"
+  },
+  {
+    "id": 23,
+    "question": "On the seawall, the narrator observes a butterfly and a ship. How does the butterfly's relationship with a 'rose' (a metaphor for the girls) anchor a displacement of time perception regarding the ship?"
+  },
+  {
+    "id": 24,
+    "question": "Peter (Saint-Loup) discusses his uncle, M. de Charlus. How does the discussion of 'titles' and 'names' act as an anchor for a displacement of identity within the Fairhaven (Guermantes) family?"
+  },
+  {
+    "id": 25,
+    "question": "While observing Hémard (the waiter) in the dining room, the narrator's mind jumps to a 'Barber Shop' scene. What specific psychological recognition anchors these two disparate scenes?"
+  },
+  {
+    "id": 26,
+    "question": "The narrator physically applauds the watercolor portrait 'Miss Sacripant' in Elstir's studio. How does the simultaneous internal logic about the figure's ambiguity rationalize this appreciation?"
+  },
+  {
+    "id": 27,
+    "question": "The narrator stops to examine an antique shop window while the girls approach. How does his internal calculation regarding 'social posturing' drive this physical inaction?"
+  },
+  {
+    "id": 28,
+    "question": "Physically, the narrator turns his head away when he sees the girls on the seawall. How does this serve as a metaphor for his internal psychological state regarding the 'force' they represent?"
+  },
+  {
+    "id": 29,
+    "question": "The narrator physically looks at Elstir's painting of the port of Carquethuit. How does his internal analysis of 'metaphor' explain his appreciation of the visual confusion in the painting?"
+  },
+  {
+    "id": 30,
+    "question": "Steven aggressively pries a ring from a rival's hand during a game. How does his internal delusion about a 'secret understanding' drive this behavior, and how does the outcome expose the irony?"
+  },
+  {
+    "id": 31,
+    "question": "Steven leans in to kiss Albertine in her hotel room. How does his internal interpretation of her 'secret visit' provide logical support for this action, despite her subsequent rejection?"
+  },
+  {
+    "id": 32,
+    "question": "The narrator physically hesitates to applaud the actress Arthur (Berma). How does his internal conflict between his 'abstract concept of talent' and the 'sensory reality' rationalize this inaction?"
+  },
+  {
+    "id": 33,
+    "question": "The narrator gazes at the Princess de Fairhaven's box at the opera. How does his mind metaphorically map this physical environment to an 'underwater kingdom'?"
+  },
+  {
+    "id": 34,
+    "question": "Steven rides the elevator to his hotel room. How does this physical ascent serve as a metaphor for his internal psychological state regarding his new living arrangement?"
+  },
+  {
+    "id": 35,
+    "question": "Steven receives a gold pencil from Albertine. How does his internal logic regarding 'virtue-driven compensation' rationalize this gift?"
+  },
+  {
+    "id": 36,
+    "question": "Françoise physically claims she suffocated in the old house she previously defended. How does Steven's internal analysis of her 'temperament' explain this verbal contradiction?"
+  },
+  {
+    "id": 37,
+    "question": "Steven speaks to the hawthorn leaves on the path. How does his internal personification of them drive this whimsical dialogue?"
+  },
+  {
+    "id": 38,
+    "question": "Steven reads Peter's letter. How does his internal theory about Peter's 'anxiety over gratitude' explain the content of the letter?"
+  },
+  {
+    "id": 39,
+    "question": "The narrator fails to recognize the girl (Albertine) approaching him on the seawall. How does his mental rigidity regarding 'memory images' cause this recognition failure?"
+  },
+  {
+    "id": 40,
+    "question": "Steven stares at Albertine's cheek. How does his mind transform this visual input into a 'gustatory' desire?"
+  },
+  {
+    "id": 41,
+    "question": "Steven expresses disappointment that the church is not 'Persian'. How does his internal logic regarding the 'discrepancy between words and images' explain this reaction?"
+  },
+  {
+    "id": 42,
+    "question": "Steven looks at the old straw mat at the Guermantes' door. How does his internal 'faith' transform this mundane object into a symbol of the 'Saint-Germain district'?"
+  },
+  {
+    "id": 43,
+    "question": "Steven feels his eyelashes 'swelling' in Albertine's room. How does this physical sensation serve as a metaphor for the expansion of his internal desire?"
+  },
+  {
+    "id": 44,
+    "question": "Steven listens to Albertine's voice. How does his mind metaphorically map the sound to the 'notes of a small instrument' to explain his sensory pleasure?"
+  },
+  {
+    "id": 45,
+    "question": "Steven turns away when he sees the girls approaching. How does his internal fear of a 'wave breaking over him' explain this physical avoidance?"
+  },
+  {
+    "id": 46,
+    "question": "Steven watches Elstir's watercolor painting of shadows. How does his internal interpretation of 'heat' rationalize the presence of these dark forms?"
+  },
+  {
+    "id": 47,
+    "question": "Andrée sacrifices her time to translate a book for Steven. How does Steven's internal cynicism regarding her 'desire to appear noble' reframe this seemingly kind act?"
+  },
+  {
+    "id": 48,
+    "question": "Steven physically moves into a new apartment. How does his internal sensation of being a 'python swallowing a cow' serve as a metaphor for his psychological struggle with adaptation?"
+  },
+  {
+    "id": 49,
+    "question": "Steven sees the Duchess de Guermantes walking on the street. How does his internal mythological lens rationalizing her mundane actions as a 'performance'?"
+  },
+  {
+    "id": 50,
+    "question": "Steven physically eats a strawberry tart while ignoring the girl (Albertine) he just met. How does his internal state regarding 'event significance' explain this dismissal?"
+  },
+  {
+    "id": 51,
+    "question": "The narrator describes Steven's awakening as a struggle against a 'coating' of sleep. How does the narrator physically locate Steven in the 'present' moment of waking, while mentally anchoring him to the process of retrieving his 'past' personality?"
+  },
+  {
+    "id": 52,
+    "question": "Steven stirs the fire in his room. How does the narrator connect this physical action in the 'present' to a specific duality of pleasure anchored in the nature of the fire?"
+  },
+  {
+    "id": 53,
+    "question": "The narrator describes Steven's fatigue as digging into the 'depths' of his body. What specific physical sensation serves as the anchor for Steven to mentally return to his childhood in Sunrise?"
+  },
+  {
+    "id": 54,
+    "question": "Steven climbs the service staircase at the Hotel de Flandres for the first time. How does the narrator explain the displacement of 'habit' onto the physical environment itself?"
+  },
+  {
+    "id": 55,
+    "question": "Steven is physically paralyzed by desire on a dark street in East Siret. What specific auditory detail serves as the anchor for his delusion that a woman has appeared to satisfy him?"
+  },
+  {
+    "id": 56,
+    "question": "Steven pulls Peter into a corner of the restaurant to ask about a photo. How does the narrator use the physical setting to explain the psychological timing of this request?"
+  },
+  {
+    "id": 57,
+    "question": "Peter feigns ignorance of a story Steven tells at dinner. What specific motive anchors this deception to the 'past' knowledge Peter actually possesses?"
+  },
+  {
+    "id": 58,
+    "question": "Steven walks across the square with bouncing steps. How does the narrator use a mythological anchor to explain Steven's physical sensation of weightlessness?"
+  },
+  {
+    "id": 59,
+    "question": "Steven counts the days since he last saw Edward. How does the narrator transform this mathematical time into an emotional anchor?"
+  },
+  {
+    "id": 60,
+    "question": "Steven asks Peter's friends to classify the officers. What specific past activity serves as the anchor for this present interest in military hierarchy?"
+  },
+  {
+    "id": 61,
+    "question": "Steven waits for a telephone connection at the post office. How does the narrator use mythological imagery to explain the disconnect between the physical technology and the emotional experience?"
+  },
+  {
+    "id": 62,
+    "question": "Steven hears his grandmother's voice on the phone. What specific quality of the sound anchors him to the realization of her mortality/separation?"
+  },
+  {
+    "id": 63,
+    "question": "After the call is cut off, Steven stands alone calling 'David'. What mythological figure anchors this physical act of futility to a narrative of loss?"
+  },
+  {
+    "id": 64,
+    "question": "Peter salutes Steven from his carriage without stopping. How does the narrator explain this physical coldness by anchoring it to a specific persona?"
+  },
+  {
+    "id": 65,
+    "question": "Steven enters the parlor and sees his grandmother reading. What specific metaphor describes the mechanism that allows him to see her as an 'exhausted old woman' rather than his grandmother?"
+  },
+  {
+    "id": 66,
+    "question": "Steven passes Edward on the street and looks at her without speaking. How does the narrator explain the disconnect between Steven's internal intent and the external impression he creates?"
+  },
+  {
+    "id": 67,
+    "question": "Steven is sleeping but believes he is awake thinking about sleep. What mental mechanism anchors this illusion of wakefulness?"
+  },
+  {
+    "id": 68,
+    "question": "Peter introduces Steven to his mistress, Brian. What specific memory anchors Steven's recognition of her, contrasting with Peter's perception?"
+  },
+  {
+    "id": 69,
+    "question": "Steven turns his head to look at the flowering pear trees while Peter talks about Brian. How does Steven use this physical action to mask his internal reaction?"
+  },
+  {
+    "id": 70,
+    "question": "Steven looks in the mirror of the private room and smiles at a 'hideous stranger'. What physiological state anchors this dissociation?"
+  },
+  {
+    "id": 71,
+    "question": "Men in the theater turn their backs and laugh at the actress. How does the narrator reclassify this physical 'humor' through an internal analysis of motive?"
+  },
+  {
+    "id": 72,
+    "question": "Steven observes Unknown_Marsantes and expects her to share her brother's character. What specific physical detail serves as the deceptive anchor for this expectation?"
+  },
+  {
+    "id": 73,
+    "question": "M. de Charlus gazes intently at Steven on the street. How does Steven use a past memory to interpret this current physical action?"
+  },
+  {
+    "id": 74,
+    "question": "The Stevenes shake the thermometer when it shows a high fever. How does the narrator's metaphor frame this physical action as a struggle against fate?"
+  },
+  {
+    "id": 75,
+    "question": "Dr. Daniel diagnoses David's illness. How does he use the concept of 'mimicry' to displace the physical symptoms into a psychological category?"
+  },
+  {
+    "id": 76,
+    "question": "On December 25, 1896, while physically located in his father's study examining securities, the narrator's consciousness is displaced to a specific location in his past associated with literary discovery. What specific visual detail on the 'Hebo Development Company' security serves as the anchor for this displacement, and what specific past location does it conjure?"
+  },
+  {
+    "id": 77,
+    "question": "During the dinner on December 25, 1896, the narrator physically listens to Paul's praise of the actress Arthur. How does the narrator mentally process these external comments to reshape his own earlier memory of the performance?"
+  },
+  {
+    "id": 78,
+    "question": "On December 30, 1896, while standing physically before a theater poster, the narrator's mind detaches from the calendar concept of 'New Year's Day.' What specific atmospheric element serves as the anchor for this displacement, and what 'substance' does he perceive instead of the new year?"
+  },
+  {
+    "id": 79,
+    "question": "On January 3, 1897, while physically waiting in a public toilet kiosk, the narrator experiences a sudden rush of pleasure. What specific sensory anchor triggers this displacement, and to what specific past environment does his consciousness travel?"
+  },
+  {
+    "id": 80,
+    "question": "On January 27, 1897, upon physically seeing Michael's signature on a letter, the narrator describes a violent mental displacement. What specific metaphor does he use to describe the disconnection between his physical surroundings and his mental state caused by this visual anchor?"
+  },
+  {
+    "id": 81,
+    "question": "On January 31, 1897, as the narrator physically enters Swann's house, he encounters a specific sensory stimulus on the staircase. How does this anchor displace his consciousness from the immediate physical act of climbing stairs?"
+  },
+  {
+    "id": 82,
+    "question": "On February 8, 1897, while physically examining artworks in Matthew's study, the narrator is unable to see them objectively. What specific mental projection acts as an anchor, displacing the artistic value of the objects?"
+  },
+  {
+    "id": 83,
+    "question": "On February 15, 1897, while physically present in his own house, Matthew's (Swann's) mind is tormented by a specific past event. What is the physical location of the event he relives, and what 'disease-like' mechanism anchors him to it?"
+  },
+  {
+    "id": 84,
+    "question": "On February 24, 1897, while physically strolling near Swann's house at 12:27 PM, the narrator transforms the physical winter landscape into a gustatory experience. What specific food item serves as the anchor for this mental displacement?"
+  },
+  {
+    "id": 85,
+    "question": "On March 4, 1897, while physically listening to the Vandeuvre (Vinteuil) Sonata at Swann's house, the narrator's mind drifts to a specific past environment. What is this environment, and what specific element of the music acts as the anchor?"
+  },
+  {
+    "id": 86,
+    "question": "On March 5, 1897, while physically observing Michael (Gilberte) in her parents' living room, the narrator superimposes a past image onto her. What specific location from his memory serves as the anchor for this displacement?"
+  },
+  {
+    "id": 87,
+    "question": "On March 25, 1897, while physically listening to Christopher (Bergotte) speak in the restaurant, the narrator experiences a flash-forward. What specific future realization serves as the anchor connecting the speaker's voice to his written work?"
+  },
+  {
+    "id": 88,
+    "question": "On March 29, 1897, while physically present in a room where John and Michael are speaking English, the narrator's mind constructs a metaphorical building. What is this building, and how does the language barrier act as the anchor?"
+  },
+  {
+    "id": 89,
+    "question": "On April 3, 1897, while physically looking at John's winter garden from the street, the narrator's mind is transported to a childhood holiday. What specific object serves as the anchor for this displacement?"
+  },
+  {
+    "id": 90,
+    "question": "On April 27, 1897, while physically seeking comfort in the arms of 'other women,' the narrator is tormented by a persistent visual memory. What specific scene constitutes this anchor, and how does it resist his mental defenses?"
+  },
+  {
+    "id": 91,
+    "question": "On May 1, 1897, standing on the Balbec Sea Wall, the narrator hears the phrase 'Director of the Post Office.' How does this phrase act as a chronological anchor, and what specific 'lost self' does it revive?"
+  },
+  {
+    "id": 92,
+    "question": "On May 2, 1897, while physically sitting in a train compartment, the narrator fixes his gaze on a blue curtain. How does this visual anchor alter his perception of his own existence?"
+  },
+  {
+    "id": 93,
+    "question": "On May 2, 1897, at a mountain-side station, the narrator sees a milkmaid in the sunrise. How does this visual anchor displace his desire from the physical person to a conceptual 'life'?"
+  },
+  {
+    "id": 94,
+    "question": "On May 3, 1897, inside the hotel room at Balbec, the narrator looks at the high ceiling. How does this visual detail serve as an anchor for a 'protest' against the present?"
+  },
+  {
+    "id": 95,
+    "question": "On May 3, 1897, the narrator knocks three times on the wall of his hotel room. How does the answering knock serve as an anchor that transforms the physical space?"
+  },
+  {
+    "id": 96,
+    "question": "On May 3, 1897, looking out from the Balbec hotel room window, the narrator sees the sun on the waves. What specific artistic reference does this visual anchor trigger in his mind?"
+  },
+  {
+    "id": 97,
+    "question": "On May 3, 1897, inside the Sainte-Chapelle at Balbec, the narrator is disappointed by the statue of the Virgin. How does his mind contrast the physical object with his mental anchor?"
+  },
+  {
+    "id": 98,
+    "question": "On December 23, 1896, during dinner, the narrator physically hears his parents discussing Paul. What specific mental event does he drift to, and how does it relate to the dinner conversation?"
+  },
+  {
+    "id": 99,
+    "question": "On May 1, 1897, the narrator reflects on the 'faint breeze' and 'moldy smell' at the Balbec Sea Wall. How does his theory of 'forgetting' explain the power of these sensory anchors?"
+  },
+  {
+    "id": 100,
+    "question": "On December 31, 1896, lying sleepless in bed, what specific sound anchors Steven's mind to a mood of literary melancholy?"
+  },
+  {
+    "id": 101,
+    "question": "Identify the specific visual detail on the 'Hebo Development Company' security that acted as the trigger for the narrator's recall of a literary memory in Sunrise."
+  },
+  {
+    "id": 102,
+    "question": "Identify the specific atmospheric condition near the theater poster on December 30 that triggered the narrator's sensation of the 'eternal substance of past time'."
+  },
+  {
+    "id": 103,
+    "question": "Identify the specific olfactory sensation in the public toilet kiosk that acted as the trigger for the recall of Uncle Adolphe's room."
+  },
+  {
+    "id": 104,
+    "question": "Identify the specific visual object on the letter received on January 27 that triggered a sensation of physical instability described as 'falling off a horse'."
+  },
+  {
+    "id": 105,
+    "question": "Identify the specific olfactory detail on the staircase of Swann's house that acted as the trigger for the transition to the 'aroma of Michael's life'."
+  },
+  {
+    "id": 106,
+    "question": "Identify the specific visual quality of the trees in the winter garden on February 24 that triggered the gustatory association with a 'creamed egg'."
+  },
+  {
+    "id": 107,
+    "question": "Identify the specific auditory stimulus from the Vinteuil sonata that triggered the narrator's memory of the 'foliage' of the Bois de Boulogne."
+  },
+  {
+    "id": 108,
+    "question": "Identify the specific visual memory of Michael that overlaid her physical presence in the living room on March 5, acting as a trigger for a merge of past and present."
+  },
+  {
+    "id": 109,
+    "question": "Identify the specific linguistic characteristic in Christopher's speech that triggered the narrator's recognition of the structural rhythm found in his written work."
+  },
+  {
+    "id": 110,
+    "question": "Identify the specific auditory characteristic of the conversation between John and Michael on March 29 that triggered the metaphor of a 'shut palace' in the narrator's mind."
+  },
+  {
+    "id": 111,
+    "question": "Identify the specific visual object in John's winter garden on April 3 that acted as the trigger for the narrator's memory of childhood New Year's gifts."
+  },
+  {
+    "id": 112,
+    "question": "Identify the specific visual characteristic of the chrysanthemums on April 3 that triggered the association with the 'ephemeral pleasures of November'."
+  },
+  {
+    "id": 113,
+    "question": "Identify the specific visual geometry in the narrator's memory on April 27 that acted as the trigger for the persistent recurrence of his jealousy regarding Michael."
+  },
+  {
+    "id": 114,
+    "question": "Identify the specific phrase spoken by a stranger on the Balbec Sea Wall on May 1 that acted as the trigger for the revival of a 'forgotten' sorrow associated with Michael."
+  },
+  {
+    "id": 115,
+    "question": "Identify the specific visual object in the train compartment on May 2 that triggered a state of aesthetic isolation, comparing the narrator to a 'congenitally blind person' seeing for the first time."
+  },
+  {
+    "id": 116,
+    "question": "Identify the specific visual subject in the morning landscape on May 2 that triggered the narrator's desire for a specific, integrated 'life' rather than just a romantic interest."
+  },
+  {
+    "id": 117,
+    "question": "Identify the specific architectural feature of the hotel room on May 3 that triggered the narrator's 'protest from friendship' regarding his home environment."
+  },
+  {
+    "id": 118,
+    "question": "Identify the specific auditory signal in the hotel room on May 3 that triggered the transformation of the physical wall into a medium of 'immaterial tenderness'."
+  },
+  {
+    "id": 119,
+    "question": "Identify the specific visual aspect of the distant waves on May 3 that triggered the narrator's association with an 'early Renaissance Tuscan painting'."
+  },
+  {
+    "id": 120,
+    "question": "Identify the specific auditory sound heard from a small inn on December 31 that triggered the literary mood of 'Evening, deep in the woods' for the narrator."
+  },
+  {
+    "id": 121,
+    "question": "Identify the specific sartorial detail on John's vest on April 22 that triggered the narrator's vague memories of 'old forms' and past years."
+  },
+  {
+    "id": 122,
+    "question": "Identify the specific visual pattern on John's suit on April 21 that triggered Matthew's association with the figure of 'Spring' by Botticelli."
+  },
+  {
+    "id": 123,
+    "question": "Identify the specific visual framing in the hotel room on May 3 that triggered the narrator's association with a 'ship's porthole'."
+  },
+  {
+    "id": 124,
+    "question": "Identify the specific chromatic change in the sky on May 2 that triggered the narrator's perception of the 'profound existence of nature'."
+  },
+  {
+    "id": 125,
+    "question": "Identify the specific sensory experience on the staircase of Swann's house on February 5 that triggered a 'loss of mind' and reliance on conditioned reflexes for the narrator."
+  },
+  {
+    "id": 126,
+    "question": "The narrator is physically in a carriage near Balbec (Fairhaven) in 1897, but his mind is trying to grasp a memory triggered by the landscape. What specific visual element acts as the anchor for this displacement, and what metaphorical entity does the narrator compare these elements to as they fail to communicate their message?"
+  },
+  {
+    "id": 127,
+    "question": "While standing in his bedroom in Balbec during a sunset, the narrator's consciousness is transported to a specific moment in his past in 'Sunrise' (Combray). What specific visual element in the sky serves as the anchor for this spatial and temporal jump?"
+  },
+  {
+    "id": 128,
+    "question": "While the narrator is physically in Elstir's (George's) studio looking at a painting of the Carquethuit harbor, his perception of the boundary between land and sea is displaced. What specific architectural structure acts as the anchor for this displacement, and how does the narrator categorize it?"
+  },
+  {
+    "id": 129,
+    "question": "The narrator is riding in a carriage on a country path near Balbec (Riverside) in 1897. He sees an apple tree. To what specific future timeframe and location does this visual anchor transport his mind, and what object is central to that future memory?"
+  },
+  {
+    "id": 130,
+    "question": "While dining at the Rivebelle hotel, the narrator creates a cosmological metaphor to describe the social dynamics of the room. What specific furniture items serve as the anchors for this displacement into a 'planetary system,' and how does the narrator describe the relationship between them?"
+  },
+  {
+    "id": 131,
+    "question": "The narrator is observing the ocean from his bedroom window. He sees a ship. How does the specific visual alignment of the ship and the horizon (the anchor) displace his sense of physical stability and location?"
+  },
+  {
+    "id": 132,
+    "question": "While observing the dining room of the Balbec hotel from the outside at night, the narrator mentally displaces the building into a biological/natural structure. What specific physical barrier acts as the anchor for this metaphor, and what role do the poor observers play?"
+  },
+  {
+    "id": 133,
+    "question": "During a carriage ride with Charles (Mme de Villeparisis), the narrator looks at the moon. This visual anchor triggers a recitation of poetry. How does Charles's response displace the narrator's romanticized literary perception into a banal social anecdote?"
+  },
+  {
+    "id": 134,
+    "question": "The narrator is observing a group of girls on the seawall. He mentally displaces them from human beings into a collective biological entity. What specific physical behavior acts as the anchor for this reclassification into a 'flock of birds'?"
+  },
+  {
+    "id": 135,
+    "question": "In his grandmother's room, the narrator perceives the sunlight interacting with the furniture. How does the specific visual anchor of the 'pink flowers' on the sofa displace the interior room into an outdoor setting?"
+  },
+  {
+    "id": 136,
+    "question": "While on the 'Old Road' to Riverside, the narrator notes that this specific road will anchor future experiences. What specific sensory details constitute the anchor that will displace him back to this moment in later years?"
+  },
+  {
+    "id": 137,
+    "question": "Standing outside the hotel entrance at night, the narrator sees a footman wrapped in a blanket. What specific visual attributes act as the anchor displacing the footman from a human servant to a botanical object?"
+  },
+  {
+    "id": 138,
+    "question": "Richard (Bloch) corrects Steven's pronunciation of 'lift.' How does the narrator use Richard's specific verbal reaction as an anchor to displace the surface meaning of the conversation to a deeper psychological reality?"
+  },
+  {
+    "id": 139,
+    "question": "While observing birds beneath his window, the narrator mentally displaces their biological movement into a mechanical or fluid dynamic. What specific trajectory serves as the anchor for this comparison to a 'fountain'?"
+  },
+  {
+    "id": 140,
+    "question": "In the Rivebelle hotel garden, the narrator observes a wall with roses. How does the lighting condition act as an anchor to displace the material reality of the wall into a geological substance?"
+  },
+  {
+    "id": 141,
+    "question": "While sitting in the dining room, the narrator feels separated from the beach. What specific architectural element acts as the anchor that simultaneously connects and displaces him from the external world, turning the sky into a flaw in the structure?"
+  },
+  {
+    "id": 142,
+    "question": "The narrator passes a girl with a bicycle on the seawall. He analyzes her gaze. What specific metaphorical substance does he use as an anchor to describe the potential interaction between her gaze and his mind?"
+  },
+  {
+    "id": 143,
+    "question": "Standing outside Elstir's (George's) villa, the narrator recalls its history. What specific architectural evolution anchors the present 'ugliest building' to its past identity as a rustic gathering place for artists?"
+  },
+  {
+    "id": 144,
+    "question": "While observing a waiter in the Rivebelle hotel, the narrator mentally displaces him into a specific type of bird. What specific physical behaviors and visual details serve as the anchors for this comparison to a 'macaw'?"
+  },
+  {
+    "id": 145,
+    "question": "While drunk in a carriage heading to Rivebelle, the narrator experiences a shift in his perception of his own life's timeline. How does the 'shadow' of the past act as an anchor for this displacement, and what happens to the concept of the 'future'?"
+  },
+  {
+    "id": 146,
+    "question": "In Elstir's painting of the harbor, the narrator observes figures in the water. What specific physical action anchors the displacement of these figures from 'sailors pushing boats' to 'riders' on animals?"
+  },
+  {
+    "id": 147,
+    "question": "Navigating the hotel corridors at night, the narrator mentally reduces the scale of the building. What specific structural characteristic and lighting effect act as the anchors for displacing the hotel into a 'toy' or 'miniature model'?"
+  },
+  {
+    "id": 148,
+    "question": "On the seawall, the narrator observes a butterfly and a ship. How does the butterfly's relationship with a 'rose' (a metaphor for the girls) anchor a displacement of time perception regarding the ship?"
+  },
+  {
+    "id": 149,
+    "question": "Peter (Saint-Loup) discusses his uncle, M. de Charlus. How does the discussion of 'titles' and 'names' act as an anchor for a displacement of identity within the Fairhaven (Guermantes) family?"
+  },
+  {
+    "id": 150,
+    "question": "While observing Hémard (the waiter) in the dining room, the narrator's mind jumps to a 'Barber Shop' scene. What specific psychological recognition anchors these two disparate scenes?"
+  },
+  {
+    "id": 151,
+    "question": "The narrator physically applauds the watercolor portrait 'Miss Sacripant' in Elstir's studio. How does the simultaneous internal logic about the figure's ambiguity rationalize this appreciation?"
+  },
+  {
+    "id": 152,
+    "question": "The narrator stops to examine an antique shop window while the girls approach. How does his internal calculation regarding 'social posturing' drive this physical inaction?"
+  },
+  {
+    "id": 153,
+    "question": "Physically, the narrator turns his head away when he sees the girls on the seawall. How does this serve as a metaphor for his internal psychological state regarding the 'force' they represent?"
+  },
+  {
+    "id": 154,
+    "question": "The narrator physically looks at Elstir's painting of the port of Carquethuit. How does his internal analysis of 'metaphor' explain his appreciation of the visual confusion in the painting?"
+  },
+  {
+    "id": 155,
+    "question": "Steven aggressively pries a ring from a rival's hand during a game. How does his internal delusion about a 'secret understanding' drive this behavior, and how does the outcome expose the irony?"
+  },
+  {
+    "id": 156,
+    "question": "Steven leans in to kiss Albertine in her hotel room. How does his internal interpretation of her 'secret visit' provide logical support for this action, despite her subsequent rejection?"
+  },
+  {
+    "id": 157,
+    "question": "The narrator physically hesitates to applaud the actress Arthur (Berma). How does his internal conflict between his 'abstract concept of talent' and the 'sensory reality' rationalize this inaction?"
+  },
+  {
+    "id": 158,
+    "question": "The narrator gazes at the Princess de Fairhaven's box at the opera. How does his mind metaphorically map this physical environment to an 'underwater kingdom'?"
+  },
+  {
+    "id": 159,
+    "question": "Steven rides the elevator to his hotel room. How does this physical ascent serve as a metaphor for his internal psychological state regarding his new living arrangement?"
+  },
+  {
+    "id": 160,
+    "question": "Steven receives a gold pencil from Albertine. How does his internal logic regarding 'virtue-driven compensation' rationalize this gift?"
+  },
+  {
+    "id": 161,
+    "question": "Françoise physically claims she suffocated in the old house she previously defended. How does Steven's internal analysis of her 'temperament' explain this verbal contradiction?"
+  },
+  {
+    "id": 162,
+    "question": "Steven speaks to the hawthorn leaves on the path. How does his internal personification of them drive this whimsical dialogue?"
+  },
+  {
+    "id": 163,
+    "question": "Steven reads Peter's letter. How does his internal theory about Peter's 'anxiety over gratitude' explain the content of the letter?"
+  },
+  {
+    "id": 164,
+    "question": "The narrator fails to recognize the girl (Albertine) approaching him on the seawall. How does his mental rigidity regarding 'memory images' cause this recognition failure?"
+  },
+  {
+    "id": 165,
+    "question": "Steven stares at Albertine's cheek. How does his mind transform this visual input into a 'gustatory' desire?"
+  },
+  {
+    "id": 166,
+    "question": "Steven expresses disappointment that the church is not 'Persian'. How does his internal logic regarding the 'discrepancy between words and images' explain this reaction?"
+  },
+  {
+    "id": 167,
+    "question": "Steven looks at the old straw mat at the Guermantes' door. How does his internal 'faith' transform this mundane object into a symbol of the 'Saint-Germain district'?"
+  },
+  {
+    "id": 168,
+    "question": "Steven feels his eyelashes 'swelling' in Albertine's room. How does this physical sensation serve as a metaphor for the expansion of his internal desire?"
+  },
+  {
+    "id": 169,
+    "question": "Steven listens to Albertine's voice. How does his mind metaphorically map the sound to the 'notes of a small instrument' to explain his sensory pleasure?"
+  },
+  {
+    "id": 170,
+    "question": "Steven watches Elstir's watercolor painting of shadows. How does his internal interpretation of 'heat' rationalize the presence of these dark forms?"
+  },
+  {
+    "id": 171,
+    "question": "Andrée sacrifices her time to translate a book for Steven. How does Steven's internal cynicism regarding her 'desire to appear noble' reframe this seemingly kind act?"
+  },
+  {
+    "id": 172,
+    "question": "Steven physically moves into a new apartment. How does his internal sensation of being a 'python swallowing a cow' serve as a metaphor for his psychological struggle with adaptation?"
+  },
+  {
+    "id": 173,
+    "question": "Steven sees the Duchess de Guermantes walking on the street. How does his internal mythological lens rationalizing her mundane actions as a 'performance'?"
+  },
+  {
+    "id": 174,
+    "question": "Steven physically eats a strawberry tart while ignoring the girl (Albertine) he just met. How does his internal state regarding 'event significance' explain this dismissal?"
+  },
+  {
+    "id": 175,
+    "question": "Steven hears a passerby singing in his new neighborhood. How does his internal state of 'heightened auditory reception' transform this faint sound?"
+  },
+  {
+    "id": 176,
+    "question": "The narrator describes Steven's sleep as a time of intense activity for his 'vegetative nervous systems.' What specific physical sensation upon waking triggers the narrator's comparison of these systems to 'nymphs' feeding a mythological figure?"
+  },
+  {
+    "id": 177,
+    "question": "Steven stirs the fire in his room to add warmth. How does the narrator's internal analysis connect this physical source of heat to a dual nature of pleasure?"
+  },
+  {
+    "id": 178,
+    "question": "Steven feels physically immobilized by fatigue in the hotel. What specific imagery does the narrator use to describe how this physical sensation of heaviness anchors Steven to a specific past location?"
+  },
+  {
+    "id": 179,
+    "question": "Steven climbs the service staircase of the Hotel de Flandres for the first time with surprising ease. How does the narrator attribute this physical lack of effort to a specific quality of the environment?"
+  },
+  {
+    "id": 180,
+    "question": "On a dark street, Steven is overcome by an urge to embrace a passerby. What specific auditory possibility serves as the trigger for his delusion that this encounter is not coincidental?"
+  },
+  {
+    "id": 181,
+    "question": "As Steven walks across the square in East Sillé, he feels his feet bouncing. What mythological imagery does this physical sensation trigger in the narrator's mind regarding Steven's vitality?"
+  },
+  {
+    "id": 182,
+    "question": "Steven calculates that it has been fourteen days since he saw Edward. How does the narrator describe the transformation of this mathematical fact into a specific type of emotional experience?"
+  },
+  {
+    "id": 183,
+    "question": "Steven asks Peter's friends to classify the officers by merit. What specific past habit does this intellectual activity trigger a memory of?"
+  },
+  {
+    "id": 184,
+    "question": "Steven waits for a telephone connection at the post office. How does the delay in this physical mechanism trigger a reflection on the loss of 'wonder'?"
+  },
+  {
+    "id": 185,
+    "question": "Steven hears a high-pitched voice on the telephone that doesn't answer him. What specific metaphor does this auditory frustration trigger regarding the nature of the device?"
+  },
+  {
+    "id": 186,
+    "question": "Steven hears his grandmother's voice over the phone. What specific quality of this isolated sensory input triggers his realization of her true fragility?"
+  },
+  {
+    "id": 187,
+    "question": "After the telephone call is cut off, Steven stands alone calling 'David'. What mythological figure does this physical act of calling into the void trigger a comparison to?"
+  },
+  {
+    "id": 188,
+    "question": "Peter salutes Steven from a carriage without stopping. What specific aspect of Peter's physical demeanor triggers the narrator's interpretation of this action as a role-playing exercise?"
+  },
+  {
+    "id": 189,
+    "question": "Steven enters the parlor and sees his grandmother reading. What metaphor does the narrator use to explain how this visual encounter allows Steven to see her 'sickness' and 'age' for the first time?"
+  },
+  {
+    "id": 190,
+    "question": "Steven hears a murmuring sound from the fireplace in his room. What specific visual imagery of nature does this auditory trigger evoke in his mind?"
+  },
+  {
+    "id": 191,
+    "question": "Steven passes Edward on the street and forces himself to be cold. How does the narrator explain the paradox between Steven's internal motive and his external behavior?"
+  },
+  {
+    "id": 192,
+    "question": "Steven is sleeping but believes he is thinking about insomnia. What specific mental mechanism does the narrator identify as the cause of this illusion?"
+  },
+  {
+    "id": 193,
+    "question": "Steven meets Peter's mistress in a suburban village. What specific visual recognition triggers the collapse of Peter's romanticized description of her in Steven's mind?"
+  },
+  {
+    "id": 194,
+    "question": "Steven turns his head to look at the flowering pear trees while Peter talks about Brian. How does Steven use this visual engagement to mask his true internal emotion?"
+  },
+  {
+    "id": 195,
+    "question": "Steven looks into a mirror in a private room and smiles at a 'hideous stranger'. What physiological state allows him to dissociate from his own reflection in this way?"
+  },
+  {
+    "id": 196,
+    "question": "In the theater, men turn their backs and laugh at the actress. How does the narrator's internal analysis reclassify this auditory event from comedy to cruelty?"
+  },
+  {
+    "id": 197,
+    "question": "Steven observes Unknown_Marsantes and assumes she shares her brother's character. What specific physical similarity serves as the deceptive trigger for this assumption?"
+  },
+  {
+    "id": 198,
+    "question": "M. de Charlus stares intently at Steven on the street. How does Steven use memory to interpret the meaning of this specific visual behavior?"
+  },
+  {
+    "id": 199,
+    "question": "The Stevenes frantically shake the thermometer when it reads 38.3 degrees. What personification of the object drives this irrational physical response?"
+  },
+  {
+    "id": 200,
+    "question": "Dr. Daniel observes David's fever and other symptoms. What theoretical concept triggers his dismissal of these physical signs as non-organic?"
+  }
+]

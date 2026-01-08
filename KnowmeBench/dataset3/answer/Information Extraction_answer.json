@@ -1,0 +1,708 @@
+[
+  {
+    "id": 1,
+    "answer": "It was shameful",
+    "evidence": [
+      28
+    ]
+  },
+  {
+    "id": 2,
+    "answer": "\"De Paul has invited Steven to dinner again, that's quite a big deal.\"",
+    "evidence": [
+      72
+    ]
+  },
+  {
+    "id": 3,
+    "answer": "\"Not found. Preserved.\"",
+    "evidence": [
+      80
+    ]
+  },
+  {
+    "id": 4,
+    "answer": "\"Phedre\"",
+    "evidence": [
+      98
+    ]
+  },
+  {
+    "id": 5,
+    "answer": "\"Hippolyte\"",
+    "evidence": [
+      143
+    ]
+  },
+  {
+    "id": 6,
+    "answer": "Repeating rifles",
+    "evidence": [
+      169
+    ]
+  },
+  {
+    "id": 7,
+    "answer": "British consols and Russian bonds with a four percent interest rate",
+    "evidence": [
+      178
+    ]
+  },
+  {
+    "id": 8,
+    "answer": "Hebo Development Company",
+    "evidence": [
+      189
+    ]
+  },
+  {
+    "id": 9,
+    "answer": "Carrot and beef cold dish",
+    "evidence": [
+      217
+    ]
+  },
+  {
+    "id": 10,
+    "answer": "\"Let the dogs bark, the caravan still moves on.\"",
+    "evidence": [
+      254
+    ]
+  },
+  {
+    "id": 11,
+    "answer": "It died without a sound, as if it were mute",
+    "evidence": [
+      453
+    ]
+  },
+  {
+    "id": 12,
+    "answer": "King's Street",
+    "evidence": [
+      467
+    ]
+  },
+  {
+    "id": 13,
+    "answer": "Pope Pius IX and Lassalle",
+    "evidence": [
+      479
+    ]
+  },
+  {
+    "id": 14,
+    "answer": "Lavatory",
+    "evidence": [
+      516
+    ]
+  },
+  {
+    "id": 15,
+    "answer": "Only milk to drink for a few days",
+    "evidence": [
+      582
+    ]
+  },
+  {
+    "id": 16,
+    "answer": "\"Pre viam rectam\"",
+    "evidence": [
+      600
+    ]
+  },
+  {
+    "id": 17,
+    "answer": "A black umbrella",
+    "evidence": [
+      646
+    ]
+  },
+  {
+    "id": 18,
+    "answer": "\"Elevator use prohibited when descending\"",
+    "evidence": [
+      650
+    ]
+  },
+  {
+    "id": 19,
+    "answer": "The secretary / The secretary-general",
+    "evidence": [
+      711,
+      712
+    ]
+  },
+  {
+    "id": 20,
+    "answer": "12:27",
+    "evidence": [
+      830
+    ]
+  },
+  {
+    "id": 21,
+    "answer": "\"Steven is a Negro, you're a slut!\"",
+    "evidence": [
+      892
+    ]
+  },
+  {
+    "id": 22,
+    "answer": "A small hat with two ribbons tied under her chin",
+    "evidence": [
+      926
+    ]
+  },
+  {
+    "id": 23,
+    "answer": "A red nose that curled upward like a snail's shell",
+    "evidence": [
+      970
+    ]
+  },
+  {
+    "id": 24,
+    "answer": "Lemaitre's",
+    "evidence": [
+      1521
+    ]
+  },
+  {
+    "id": 25,
+    "answer": "Ten thousand francs",
+    "evidence": [
+      1709
+    ]
+  },
+  {
+    "id": 26,
+    "answer": "Golden liquid from the lemon's skin",
+    "evidence": [
+      2107
+    ]
+  },
+  {
+    "id": 27,
+    "answer": "A yellow gem",
+    "evidence": [
+      2113
+    ]
+  },
+  {
+    "id": 28,
+    "answer": "Ten thousand and two hundred",
+    "evidence": [
+      2130
+    ]
+  },
+  {
+    "id": 29,
+    "answer": "His beautiful mistress",
+    "evidence": [
+      2140
+    ]
+  },
+  {
+    "id": 30,
+    "answer": "A orchid",
+    "evidence": [
+      2148
+    ]
+  },
+  {
+    "id": 31,
+    "answer": "Monsieur de St. Léger and his daughter, Mademoiselle de St. Léger",
+    "evidence": [
+      2176
+    ]
+  },
+  {
+    "id": 32,
+    "answer": "White",
+    "evidence": [
+      2205
+    ]
+  },
+  {
+    "id": 33,
+    "answer": "A little maid who made long dresses for a Belgian lady",
+    "evidence": [
+      2226
+    ]
+  },
+  {
+    "id": 34,
+    "answer": "Because Françoise had become friends with the man who heated the water",
+    "evidence": [
+      2242
+    ]
+  },
+  {
+    "id": 35,
+    "answer": "An officer",
+    "evidence": [
+      2254
+    ]
+  },
+  {
+    "id": 36,
+    "answer": "A valet would come upstairs to bring the book or the fruit to Steven",
+    "evidence": [
+      2271
+    ]
+  },
+  {
+    "id": 37,
+    "answer": "The Fairhaven family",
+    "evidence": [
+      2294
+    ]
+  },
+  {
+    "id": 38,
+    "answer": "Lapis lazuli",
+    "evidence": [
+      2302
+    ]
+  },
+  {
+    "id": 39,
+    "answer": "An umbrella",
+    "evidence": [
+      2312
+    ]
+  },
+  {
+    "id": 40,
+    "answer": "A loaf of bread",
+    "evidence": [
+      2329
+    ]
+  },
+  {
+    "id": 41,
+    "answer": "The black boy in the red satin dress",
+    "evidence": [
+      2333
+    ]
+  },
+  {
+    "id": 42,
+    "answer": "Toulon",
+    "evidence": [
+      2350
+    ]
+  },
+  {
+    "id": 43,
+    "answer": "Blonde",
+    "evidence": [
+      2366
+    ]
+  },
+  {
+    "id": 44,
+    "answer": "The King of England and the King of Austria",
+    "evidence": [
+      2373
+    ]
+  },
+  {
+    "id": 45,
+    "answer": "Pink flowers",
+    "evidence": [
+      2391
+    ]
+  },
+  {
+    "id": 46,
+    "answer": "The waterfall at Bec",
+    "evidence": [
+      2409
+    ]
+  },
+  {
+    "id": 47,
+    "answer": "Only a cluster of pistils",
+    "evidence": [
+      2426
+    ]
+  },
+  {
+    "id": 48,
+    "answer": "Humility, not boasting about Steven, being content with a simple art, doing just enough and no more, avoiding long-windedness to seem ridiculous, being adaptable",
+    "evidence": [
+      2468
+    ]
+  },
+  {
+    "id": 49,
+    "answer": "Fish",
+    "evidence": [
+      2541
+    ]
+  },
+  {
+    "id": 50,
+    "answer": "A pastry shop",
+    "evidence": [
+      2553
+    ]
+  },
+  {
+    "id": 51,
+    "answer": "A row of scales",
+    "evidence": [
+      4213
+    ]
+  },
+  {
+    "id": 52,
+    "answer": "Albertine Simonet",
+    "evidence": [
+      4303
+    ]
+  },
+  {
+    "id": 53,
+    "answer": "A beauty mark on her chin",
+    "evidence": [
+      4300
+    ]
+  },
+  {
+    "id": 54,
+    "answer": "Miss Sacripant, October 1872",
+    "evidence": [
+      4381
+    ]
+  },
+  {
+    "id": 55,
+    "answer": "Unknown_Carquethuit",
+    "evidence": [
+      4456
+    ]
+  },
+  {
+    "id": 56,
+    "answer": "A sketch in which the outline of the beach (Unknown_Carquethuit) was clearly visible",
+    "evidence": [
+      4545,
+      4546
+    ]
+  },
+  {
+    "id": 57,
+    "answer": "Alfred Baring",
+    "evidence": [
+      4673
+    ]
+  },
+  {
+    "id": 58,
+    "answer": "A few drops of crystal-clear juice",
+    "evidence": [
+      4699
+    ]
+  },
+  {
+    "id": 59,
+    "answer": "Under her cheek",
+    "evidence": [
+      4757
+    ]
+  },
+  {
+    "id": 60,
+    "answer": "Between Alcandre and Philinte, whom would you prefer as a friend?",
+    "evidence": [
+      4943
+    ]
+  },
+  {
+    "id": 61,
+    "answer": "The little devil",
+    "evidence": [
+      4907
+    ]
+  },
+  {
+    "id": 62,
+    "answer": "Gauthier, Dusse, Chevrier, and Bagan",
+    "evidence": [
+      5043
+    ]
+  },
+  {
+    "id": 63,
+    "answer": "Unknown_Creuniers",
+    "evidence": [
+      5049
+    ]
+  },
+  {
+    "id": 64,
+    "answer": "Marie-Antoinette farm",
+    "evidence": [
+      5091
+    ]
+  },
+  {
+    "id": 65,
+    "answer": "Steven likes you",
+    "evidence": [
+      5191
+    ]
+  },
+  {
+    "id": 66,
+    "answer": "A gilded pencil",
+    "evidence": [
+      5612
+    ]
+  },
+  {
+    "id": 67,
+    "answer": "Three parts makeup for every one part of flesh",
+    "evidence": [
+      5769
+    ]
+  },
+  {
+    "id": 68,
+    "answer": "Compassion, sorrow, and confusion",
+    "evidence": [
+      5849
+    ]
+  },
+  {
+    "id": 69,
+    "answer": "Madame Octave",
+    "evidence": [
+      5927
+    ]
+  },
+  {
+    "id": 70,
+    "answer": "He has rheumatism",
+    "evidence": [
+      6032
+    ]
+  },
+  {
+    "id": 71,
+    "answer": "Hedda Gabler",
+    "evidence": [
+      6057
+    ]
+  },
+  {
+    "id": 72,
+    "answer": "Take off his coat",
+    "evidence": [
+      6108
+    ]
+  },
+  {
+    "id": 73,
+    "answer": "A large white flower, fluffy like a wing",
+    "evidence": [
+      6128,
+      6169
+    ]
+  },
+  {
+    "id": 74,
+    "answer": "Cyclamens",
+    "evidence": [
+      6291
+    ]
+  },
+  {
+    "id": 75,
+    "answer": "Seven o'clock",
+    "evidence": [
+      6316
+    ]
+  },
+  {
+    "id": 76,
+    "answer": "\"Lead sleep\"",
+    "evidence": [
+      6325
+    ]
+  },
+  {
+    "id": 77,
+    "answer": "They were smaller than white mice, covered with large red blisters, and had a feather sticking out of their heads.",
+    "evidence": [
+      6322
+    ]
+  },
+  {
+    "id": 78,
+    "answer": "Glaring red paper covered with black and white flowers",
+    "evidence": [
+      6334
+    ]
+  },
+  {
+    "id": 79,
+    "answer": "A pale purple undershirt decorated with palm-leaf-shaped medals.",
+    "evidence": [
+      6380
+    ]
+  },
+  {
+    "id": 80,
+    "answer": "A string of prayer beads made from the roots of blue violets",
+    "evidence": [
+      6413
+    ]
+  },
+  {
+    "id": 81,
+    "answer": "Gloxinias",
+    "evidence": [
+      6419
+    ]
+  },
+  {
+    "id": 82,
+    "answer": "One fountain was glowing with a pale red light, and the other was glistening under the moonlight with a milky sheen.",
+    "evidence": [
+      6453
+    ]
+  },
+  {
+    "id": 83,
+    "answer": "A young musical angel (with golden hair and the face of a fourteen-year-old child).",
+    "evidence": [
+      6470
+    ]
+  },
+  {
+    "id": 84,
+    "answer": "Mythological subjects",
+    "evidence": [
+      6630
+    ]
+  },
+  {
+    "id": 85,
+    "answer": "At least five years",
+    "evidence": [
+      6658
+    ]
+  },
+  {
+    "id": 86,
+    "answer": "A set of Sèvres porcelain in a pale blue shade",
+    "evidence": [
+      6722
+    ]
+  },
+  {
+    "id": 87,
+    "answer": "Danaides",
+    "evidence": [
+      6741
+    ]
+  },
+  {
+    "id": 88,
+    "answer": "Her large pink nose",
+    "evidence": [
+      6847
+    ]
+  },
+  {
+    "id": 89,
+    "answer": "A pale red velvet dress with a crescent-shaped neckline",
+    "evidence": [
+      6891
+    ]
+  },
+  {
+    "id": 90,
+    "answer": "Giotto's goddess of jealousy",
+    "evidence": [
+      6914
+    ]
+  },
+  {
+    "id": 91,
+    "answer": "Thirty thousand francs",
+    "evidence": [
+      7037
+    ]
+  },
+  {
+    "id": 92,
+    "answer": "Monsieur de Sacy",
+    "evidence": [
+      7161
+    ]
+  },
+  {
+    "id": 93,
+    "answer": "Thirty or so",
+    "evidence": [
+      7198,
+      7199
+    ]
+  },
+  {
+    "id": 94,
+    "answer": "Excessively large hips and a voice that was too small.",
+    "evidence": [
+      7218
+    ]
+  },
+  {
+    "id": 95,
+    "answer": "Edward de Sefler (Duchesse de Chevreuse)",
+    "evidence": [
+      7362
+    ]
+  },
+  {
+    "id": 96,
+    "answer": "The letters 'G' and the Samuel crest (Guermantes coronet).",
+    "evidence": [
+      8073,
+      8144
+    ]
+  },
+  {
+    "id": 97,
+    "answer": "38.3 degrees",
+    "evidence": [
+      8345
+    ]
+  },
+  {
+    "id": 98,
+    "answer": "A milk-based diet (thick milk soup at every meal).",
+    "evidence": [
+      8341,
+      8342
+    ]
+  },
+  {
+    "id": 99,
+    "answer": "A brown wig topped with a small soft hat decorated with a red flower (and black lace trim).",
+    "evidence": [
+      8403
+    ]
+  },
+  {
+    "id": 100,
+    "answer": "The Marquise de Sévigné",
+    "evidence": [
+      8418
+    ]
+  }
+]

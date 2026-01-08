@@ -1,0 +1,848 @@
+[
+  {
+    "id": 1,
+    "answer": "Physically, Robert confirms her husband's opinion and tries to lie, though she is poor at it. Internally, she views this action as a duty, comparing it to the role of a servant ensuring the master is fed or kept quiet. The interaction reveals that her external compliance and deceit are driven by a self-sacrificing logic where maintaining her husband's happiness is a functional obligation, akin to domestic service.",
+    "evidence": [
+      84,
+      85
+    ]
+  },
+  {
+    "id": 2,
+    "answer": "Physically, the narrator drops his pen and cries. Internally, he realizes that he lacks the talent to write a 'good article' for Paul, despite his intense desire to do so to prevent being separated from Michael. The physical breakdown is a direct result of the crushing contrast between his high ambition (driven by love) and his realization of his own mediocrity.",
+    "evidence": [
+      119,
+      120,
+      121
+    ]
+  },
+  {
+    "id": 3,
+    "answer": "Physically, the narrator speaks incoherently while Paul remains motionless. Internally, the narrator fears his words are failing to convey his true feelings. He metaphorically maps Paul's lack of reaction to a 'classical bust in a stone sculpture gallery' that is 'deaf.' This metaphor highlights the futility of the narrator's animated struggle against Paul's stony, unyielding indifference.",
+    "evidence": [
+      161,
+      162
+    ]
+  },
+  {
+    "id": 4,
+    "answer": "Physically, Paul hands the manuscript back to Steven without speaking. Internally, Steven is convinced that the poem was written with such passion that anyone reading it must be deeply moved. The interaction creates a sharp irony: the narrator's internal certainty of the poem's emotional impact is completely contradicted by the external reality of Paul's utter lack of reaction.",
+    "evidence": [
+      191
+    ]
+  },
+  {
+    "id": 5,
+    "answer": "Physically, the narrator haltingly admits he was 'deeply disappointed' by the performance. Internally, he is too absorbed in his quest for the 'truth' of the art to care about social flattery or winning Paul's favor. This internal drive for intellectual honesty overrides the social instinct to lie, explaining why he performs the socially awkward action of criticizing the recommended play.",
+    "evidence": [
+      205
+    ]
+  },
+  {
+    "id": 6,
+    "answer": "Physically, the narrator is listening to praises of the actress's simplicity and taste. Internally, he appropriates these compliments to justify his own pleasure. He uses the metaphor of a 'cheerful drunkard' who appropriates his neighbor's behavior and makes a big deal out of it. This suggests the narrator is intoxicated by the idea of the art and claims its virtues as his own valid experience.",
+    "evidence": [
+      213,
+      215
+    ]
+  },
+  {
+    "id": 7,
+    "answer": "Physically, Paul speaks with an innocent tone and glances around cautiously. Internally, the narrator analyzes this behavior not as genuine caution, but as a calculated performance to 'enhance the effect' of his mockery. The narrator sees the physical act of feigning innocence as a rhetorical device that makes the subsequent insult more biting by contrasting it with a harmless exterior.",
+    "evidence": [
+      289
+    ]
+  },
+  {
+    "id": 8,
+    "answer": "Physically, the narrator is overcome with excitement and almost kisses Paul's hands. Internally, he reflects that people often misjudge the social weight of their actions, thinking they are the only observers. This thought process explains the drive behind the action: the narrator almost performs the socially inappropriate act because, in his overwhelmed state, he momentarily believes his internal emotion isolates him from external judgment.",
+    "evidence": [
+      405,
+      406
+    ]
+  },
+  {
+    "id": 9,
+    "answer": "Physically, Steven tells Paul he does not know John. Internally, he realizes that because Paul knows his desperate desire to visit her, this denial will not be seen as a fact, but as evidence of a 'suspicious motive' or 'great difficulty.' The interaction is ironic because the truth is interpreted as a cover-up for a scandalous secret, making his situation worse rather than better.",
+    "evidence": [
+      417,
+      420,
+      423
+    ]
+  },
+  {
+    "id": 10,
+    "answer": "Physically, Steven exclaims praise for the actress. Internally, he has just read a review calling the performance a 'pure and remarkable artistic performance.' This new external concept merges with and fills the void of his own vague, disappointed impressions. The physical exclamation is driven by his mind's eagerness to adopt this authoritative 'idea' of genius to validate his experience, overriding his initial sensory disappointment.",
+    "evidence": [
+      433,
+      434
+    ]
+  },
+  {
+    "id": 11,
+    "answer": "Physically, the narrator hides his fever symptoms and refuses to eat while maintaining a cold exterior. Internally, he compares himself to a 'wounded soldier' who ignores pain in the heat of battle. This metaphor rationalizes his behavior: he suppresses the physical signs of illness because he fears that acknowledging them would lead to a 'defeat'—being forbidden from going out to see his love.",
+    "evidence": [
+      553
+    ]
+  },
+  {
+    "id": 12,
+    "answer": "Physically, the narrator sees the signature. Internally, this sight causes reality to lose its stability. He uses the metaphor of falling off a horse ('everything... began to sway, as if Steven had fallen off his horse') to describe the sensation. This mapping illustrates that the shock of the signature is so violent it physically disorients his perception of the material world.",
+    "evidence": [
+      602,
+      604
+    ]
+  },
+  {
+    "id": 13,
+    "answer": "Physically, the narrator lies, claiming the staircase is an ancient artifact. Internally, he values the 'charm' and 'mystery' of the Matthew family above objective truth. He rationalizes the lie by prioritizing the emotional 'truth' of his love—which dictates that everything associated with them is unique—over the factual reality, treating his intellect as a sacrifice to his passion.",
+    "evidence": [
+      651,
+      656
+    ]
+  },
+  {
+    "id": 14,
+    "answer": "Physically, the narrator stammers and gazes at the collection. Internally, he is in a state of blank confusion caused by extreme excitement and hunger. This internal cognitive overload disconnects his sensory perception from his mind; although he physically looks, he cannot mentally process the visual information, rendering the artworks invisible to his understanding.",
+    "evidence": [
+      692,
+      694
+    ]
+  },
+  {
+    "id": 15,
+    "answer": "Physically, the narrator bows to the physically unimpressive man. Internally, he compares the man to a magician standing unharmed in smoke after a gunshot. The 'smoke' represents the dissolution of the 'frail old man' image the narrator had cherished. The metaphor illustrates the instant, magical, and destructive replacement of his idealized mental construct with the disappointing physical reality.",
+    "evidence": [
+      970,
+      971,
+      972
+    ]
+  },
+  {
+    "id": 16,
+    "answer": "Physically, Christopher emphasizes specific words violently. Internally, the narrator connects this to the rhythm of Christopher's prose, where specific words are arranged to create a flow. He rationalizes the odd speech as the oral manifestation of the writer's textual rhythm, realizing that the 'blank space' and emphasis in writing are physically performed in speech.",
+    "evidence": [
+      1021,
+      1022
+    ]
+  },
+  {
+    "id": 17,
+    "answer": "Physically, Matthew stays silent and wipes his glasses. Internally, the narrator compares this to Louis XVI remaining silent when Racine mentioned a disgraced figure. This metaphor explains the silence not as agreement, but as a defensive realization that the conversation has uncomfortably touched upon his own shameful situation (his marriage), causing him to withdraw like a monarch protecting his dignity.",
+    "evidence": [
+      1128,
+      1129
+    ]
+  },
+  {
+    "id": 18,
+    "answer": "Physically, Michael shrugs her shoulders. Internally, the narrator interprets this gesture as a definitive sign of disdain and dismissal. This physical act acts as a catalyst that shatters his hope, forcing him to realize that his presence is a nuisance to her, thereby driving his decision to break off the relationship to save his dignity.",
+    "evidence": [
+      1321
+    ]
+  },
+  {
+    "id": 19,
+    "answer": "Physically, Michael laughs. Internally, the narrator tries to decipher if the laughter mocks his sincerity or hides a deeper affection. His struggle to reach a 'more elusive layer' reveals his insecurity; he cannot accept the laughter at face value and desperately seeks a hidden, less painful meaning, exposing the gap between her physical signal and his desired interpretation.",
+    "evidence": [
+      1338,
+      1339
+    ]
+  },
+  {
+    "id": 20,
+    "answer": "Physically, the narrator writes letters using cold, general apologies. Internally, he believes that feigning indifference is the only way to re-attract Michael. He rationalizes that genuine emotion would be seen as 'affected,' whereas formal, detached language will convince her he has truly moved on, logically driving him to mask his true pain with bureaucratic formality.",
+    "evidence": [
+      1391
+    ]
+  },
+  {
+    "id": 21,
+    "answer": "Physically, the narrator sees the carriage moving back and forth. Internally, he initially projected a 'mysterious' and romantic significance onto the lights and activity at John's house. The realization that the movement is simply a practical measure for the horses acts as a deflation of his fantasy, replacing the magical atmosphere he projected onto the physical scene with a mundane, functional explanation.",
+    "evidence": [
+      1422,
+      1424
+    ]
+  },
+  {
+    "id": 22,
+    "answer": "Physically, the narrator is haunted by the mental image of Michael walking. Internally, he tries to dismiss it with logic (that he can stop seeing her). He maps this failure to 'medicine ineffective against certain diseases.' This metaphor illustrates that his rational thoughts are chemically powerless against the viral, persistent nature of the painful visual memory.",
+    "evidence": [
+      1742
+    ]
+  },
+  {
+    "id": 23,
+    "answer": "Physically, the narrator weeps at sensory triggers like smells. Internally, he theorizes that conscious memory dulls emotions, but 'forgetting' preserves the past intact in safe-keeping. When a sensory trigger unlocks this 'forgotten' compartment, the emotion returns with its original, undiluted power. Thus, the lack of conscious attention (forgetting) is paradoxically what allows the physical sensation to trigger such a violent emotional release.",
+    "evidence": [
+      1792,
+      1793,
+      1795
+    ]
+  },
+  {
+    "id": 24,
+    "answer": "Physically, the grandmother jokes and quotes literature. Internally, the narrator realizes this cheerfulness is a mask worn out of 'deep affection.' She suppresses her own sorrow to spare him pain, using the external action of joking to distract him. Her altruistic love drives the incongruity between her internal sadness and her external gaiety.",
+    "evidence": [
+      1873,
+      1895,
+      1896
+    ]
+  },
+  {
+    "id": 25,
+    "answer": "Physically, the narrator knocks three times, 'timidly' and 'gently.' Internally, he is torn between a desperate need to communicate with his grandmother and a terrifying fear of waking her if she is asleep. This internal conflict acts as a modulator for his physical action, stripping the knock of force and resulting in a signal that is barely audible, embodying his hesitation.",
+    "evidence": [
+      2051
+    ]
+  },
+  {
+    "id": 26,
+    "answer": "1. **Locate External:** The windows and doors are described as transparent but closed, like a \"display window\" (ID 2110), and later the restaurant is compared to a \"fishbowl\" where outsiders gaze in (ID 2196). \n2. **Locate Internal:** The narrator reflects that for the poor/outsiders, the lives of the diners are as incomprehensible as strange fish (ID 2197), and conversely, Steven desires to be liked by the people outside (ID 2116). \n3. **Analyze Interaction:** The physical glass acts as a metaphorical barrier that allows visual access (envy/curiosity) but prevents social mixing. It turns the diners into a spectacle for the outsiders, reinforcing the class divide while simultaneously exposing the diners' isolation.\n4. **Synthesis:** The transparent yet closed windows physically represent the social barrier that turns the diners into an exotic spectacle (\"fish in a bowl\") for the outsiders. While the glass allows the Stevenes to see the world they are separated from, it creates a psychological aquarium where their privileged isolation is both a luxury and a cage, scrutinized by the \"faceless people\" outside.",
+    "evidence": [
+      2110,
+      2196,
+      2197
+    ]
+  },
+  {
+    "id": 27,
+    "answer": "1. **Locate External:** The women mock the 'Queen,' stare at her brazenly as if she were a dish (ID 2153), or pretend not to see her at all (ID 2142).\n2. **Locate Internal:** The narrator thinks their behavior is a performance to show they *don't want* what they *can't have* (ID 2154). They feign indifference to mask their inability to participate in her luxurious life (ID 2156).\n3. **Analyze Interaction:** The external display of contempt is identified as a psychological shield (Incongruity/Irony). Their aggressive rejection is actually a cover for their envy and social impotence.\n4. **Synthesis:** While the women physically display scorn and haughty indifference toward the 'Queen,' the narrator's internal analysis exposes this as a hypocritical defense mechanism. By pretending the 'Queen' is unworthy of attention (a \"dish\" sent back), they rationalize their own exclusion from her glamorous world, turning their inability to access her lifestyle into a voluntary moral rejection.",
+    "evidence": [
+      2142,
+      2153,
+      2154,
+      2156
+    ]
+  },
+  {
+    "id": 28,
+    "answer": "1. **Locate External:** The Manager stands without making gestures or blinking, his eyes \"turned to stone\" (ID 2210, 2213).\n2. **Locate Internal:** The narrator thinks he feels superior, a \"supreme commander\" whose gaze controls everything (ID 2211, 2214).\n3. **Analyze Interaction:** The physical immobility is not passivity but a manifestation of total control (Explanation & Drive). His lack of movement implies that his \"gaze\" alone is sufficient to manage the chaos, elevating him to a god-like status in his own mind.\n4. **Synthesis:** The General Manager's physical rigidity and unblinking stare are driven by his internal belief that he is the \"supreme commander\" of the hotel. He refrains from physical action because he believes his all-seeing eyes possess enough authority to maintain order, projecting an image of omnipotence where mere observation replaces the need for physical intervention.",
+    "evidence": [
+      2210,
+      2211,
+      2213,
+      2214
+    ]
+  },
+  {
+    "id": 29,
+    "answer": "1. **Locate External:** Françoise does not dare to ring the bell for Steven's needs (ID 2238) and argues it would \"give a bad impression\" (ID 2239).\n2. **Locate Internal:** She values her relationships with the hotel staff (the \"powers\" of the kitchen) more than her master's immediate comfort. She fears disrupting the servants' schedule (ID 2239).\n3. **Analyze Interaction:** Her refusal (action) is driven by a reversed hierarchy (Inner Logic) where maintaining her status/diplomacy with the hotel staff takes precedence over her duty to Steven.\n4. **Synthesis:** Françoise's refusal to perform the physical act of ringing the bell is rationalized by her internal diplomatic strategy. She prioritizes her standing within the hotel's servant hierarchy over Steven's physical comfort, believing that demanding service for \"trivial\" matters like cold feet would damage her reputation with the \"powers\" of the kitchen, which she deems more critical than her master's immediate needs.",
+    "evidence": [
+      2238,
+      2239
+    ]
+  },
+  {
+    "id": 30,
+    "answer": "1. **Locate External:** The Princess buys rye bread (animal food) and hands it to Steven to feed to his grandmother, smiling as if at a child (ID 2329, 2336).\n2. **Locate Internal:** The narrator thinks she views them as \"two cute little animals\" in a zoo (ID 2323, 2324).\n3. **Analyze Interaction:** The action constitutes a Metaphorical Mapping. Treating them like animals to be fed symbolizes her inability to see them as social equals; she interacts with them across a species barrier.\n4. **Synthesis:** The Princess's act of handing Steven the bread to \"feed\" his grandmother physically enacts her internal perception of them as charming animals in a zoo. The gesture serves as a metaphor for the insurmountable class divide; despite her attempt to be kind, she cannot treat them as humans of the same species, but rather as delightful creatures to be patronized through the bars of a cage.",
+    "evidence": [
+      2323,
+      2324,
+      2329,
+      2336
+    ]
+  },
+  {
+    "id": 31,
+    "answer": "1. **Locate External:** Peter runs with his head high, eyes expressionless, his movements balanced around the fluttering monocle (ID 2702, 2708).\n2. **Locate Internal:** Steven initially interprets this as hostility/arrogance (ID 2709, 2715), but later realizes it is a learned \"mask\" covering a kind, generous nature (ID 2739, 2740).\n3. **Analyze Interaction:** This is a case of Incongruity & Irony. The external \"arrogance\" is actually a protective shell of breeding that hides a humble interior.\n4. **Synthesis:** Physically, Peter projects extreme arrogance through his stiff carriage and the aggressive use of his monocle. However, Steven later understands that this behavior is merely a \"social habit\" or mask inherited from his caste. Internally, Peter is actually kind and humble, creating an ironic contrast where his physical attempt to appear noble and detached conceals a desperate desire to be liked and a warm heart.",
+    "evidence": [
+      2702,
+      2708,
+      2715,
+      2739,
+      2740
+    ]
+  },
+  {
+    "id": 32,
+    "answer": "1. **Locate External:** Peter explodes with rage and violently scolds his coachman (ID 3439).\n2. **Locate Internal:** He professes republican/socialist views and disdain for nobility (ID 2743, 3431), yet the narrator notes his sense of class difference is stronger than his egalitarian theories (ID 3440).\n3. **Analyze Interaction:** Incongruity & Irony. His intellectual ideology (equality) is contradicted by his visceral, hereditary reaction (class superiority) when dealing with subordinates.\n4. **Synthesis:** While Peter internally cultivates socialist ideals and claims to despise class distinctions, his physical outburst against the coachman exposes the deep-seated, instinctive arrogance of his noble blood. This contradiction reveals that his intellectual commitment to equality is superficial compared to the \"physiologically\" ingrained sense of superiority that dictates his actual behavior in moments of stress.",
+    "evidence": [
+      2743,
+      3439,
+      3440
+    ]
+  },
+  {
+    "id": 33,
+    "answer": "1. **Locate External:** Richard holds Steven's hand, sobs, and swears by Zeus that he loves him (ID 2895, 2896).\n2. **Locate Internal:** The narrator notes the oath is \"purely literary,\" the emotion is \"neurotic drunkenness,\" and the words are \"hastily made up\" (ID 2897, 2898).\n3. **Analyze Interaction:** Incongruity. The physical intensity (tears, oaths) is not a sign of deep truth but of a \"hysterical pleasure of lying.\"\n4. **Synthesis:** Richard's physical display of overwhelming emotion—sobbing and swearing by ancient gods—is interpreted by the narrator not as genuine affection, but as a performance driven by the \"neurotic pleasure of lying.\" The internal logic reveals that Richard's dramatic actions are merely a literary and hysterical fabrication, exposing the hollowness of his protestations despite their intense physical manifestation.",
+    "evidence": [
+      2895,
+      2896,
+      2897,
+      2898
+    ]
+  },
+  {
+    "id": 34,
+    "answer": "1. **Locate External:** Charlus stares with \"wide-open eyes\" (ID 2950), then suddenly turns to look at a poster with an air of indifference (ID 2953).\n2. **Locate Internal:** The narrator sees the first look as that of a \"madman or spy\" (ID 2951) and the second as a deliberate \"mask\" or performance to hide the intensity of the first (ID 2963).\n3. **Analyze Interaction:** Explanation & Drive. The internal need for secrecy (the \"spy\" nature) drives the immediate physical over-correction (feigned indifference) to conceal his initial attraction/interest.\n4. **Synthesis:** M. de Charlus's physical sequence—an intense stare followed abruptly by feigning interest in a poster—is driven by his internal duality. The narrator interprets the initial stare as revealing a dangerous or hidden obsession (like a spy), while the subsequent indifference is a calculated performance to mask that vulnerability. This interaction exposes Charlus as a man constantly toggling between compulsive observation and the desperate need to maintain a facade of aristocratic detachment.",
+    "evidence": [
+      2950,
+      2951,
+      2953,
+      2963
+    ]
+  },
+  {
+    "id": 35,
+    "answer": "1. **Locate External:** Charlus extends only his \"middle finger and ring finger\" (two fingers) for Steven to hold (ID 2978, 2979).\n2. **Locate Internal:** The narrator interprets this as a sign of \"giving his kindness a somewhat forced meaning\" (ID 2977) and minimizing contact.\n3. **Analyze Interaction:** Metaphorical Mapping. The partial handshake represents a partial social acceptance; he offers the bare minimum required by politeness while physically withholding full contact.\n4. **Synthesis:** M. de Charlus's act of offering only two fingers to Steven serves as a precise physical metaphor for his internal aristocratic arrogance. By physically withholding a full hand, he symbolizes that he is granting Steven only a fraction of his attention and social recognition, maintaining a barrier of superiority even in the act of greeting.",
+    "evidence": [
+      2977,
+      2978,
+      2979
+    ]
+  },
+  {
+    "id": 36,
+    "answer": "1. **Locate External:** Charlus comes to lend a book kindly (ID 3258), but when he cannot get the specific waiter he wants, his tone becomes harsh and he leaves saying \"Good night\" abruptly (ID 3278).\n2. **Locate Internal:** The narrator suggests Charlus acted out of a \"bizarre,\" controlling nature, perhaps disappointed that his specific stage-management (the waiter) failed, or simply due to a volatile, imperious temperament (ID 3267, 3276).\n3. **Analyze Interaction:** Explanation & Drive. The internal need for total control and the staging of his benevolence means that a minor obstacle (the waiter's absence) causes the entire benevolent facade to collapse into aggression.\n4. **Synthesis:** M. de Charlus's rapid shift from benevolence to harshness is driven by his internal need for absolute control over the \"staging\" of his interactions. When the specific waiter he requests is unavailable, his internal script is disrupted. This minor frustration triggers a disproportionate reaction, causing him to abandon his kind facade and retreat into his natural arrogance, revealing that his kindness is conditional on his ability to dominate the situation.",
+    "evidence": [
+      3258,
+      3267,
+      3278
+    ]
+  },
+  {
+    "id": 37,
+    "answer": "1. **Locate External:** The tall girl jumps over the old man's head; the others laugh and call him \"poor old fellow\" (ID 3586, 3589).\n2. **Locate Internal:** The narrator views them as a \"cruel\" group with contempt for the rest of humanity (ID 3570, 3577).\n3. **Analyze Interaction:** Metaphorical Mapping. The physical act of jumping *over* a person symbolizes their psychological belief that they are above social norms and other people's dignity.\n4. **Synthesis:** The girls' physical act of leaping over the old banker serves as a potent metaphor for their internal collective identity. It physically demonstrates their psychological stance: they view themselves as a separate, superior species, literally and figuratively trampling over the dignity of others. This athletic feat embodies their cruelty, their youthful vitality, and their utter contempt for the social conventions and the humanity of those outside their \"little tribe.\"",
+    "evidence": [
+      3570,
+      3577,
+      3586,
+      3589
+    ]
+  },
+  {
+    "id": 38,
+    "answer": "1. **Locate External:** Steven sees their eyes as \"stiff, stubborn,\" forming a barrier (ID 3565), and feels they do not see the crowd (ID 3577).\n2. **Locate Internal:** He feels their world is an \"unreachable unknown\" and that his idea of himself cannot penetrate their minds (ID 3603).\n3. **Analyze Interaction:** Metaphorical Mapping. The visual impenetrability of their gaze maps to the psychological inaccessibility of their social circle.\n4. **Synthesis:** The physical description of the girls' eyes as a \"wall\" or an impenetrable barrier serves as a direct metaphor for Steven's psychological state of exclusion. He perceives their gaze not just as a visual organ but as the boundary of a \"separate world\"—one that is cruel, self-contained, and utterly impervious to his existence or desire to enter. Their physical refusal to \"see\" him mirrors his internal despair at being unable to penetrate their collective consciousness.",
+    "evidence": [
+      3565,
+      3577,
+      3603
+    ]
+  },
+  {
+    "id": 39,
+    "answer": "1. **Locate External:** The paintings show the church rising like a shell from water, or ships appearing to be on land (ID 4190, 4195).\n2. **Locate Internal:** The narrator realizes Elstir's method is to strip things of their intellectual \"names\" and paint only the raw impression/metaphor (ID 4176, 4177).\n3. **Analyze Interaction:** Explanation & Drive. The external technique (mixing visual elements) is driven by the internal philosophy that true art must capture the immediate, naive impression before intelligence categorizes it.\n4. **Synthesis:** Elstir's physical technique of blending land and sea elements in his paintings is the direct manifestation of his internal artistic philosophy. He believes in suppressing the intellect's tendency to label and categorize objects (\"church,\" \"ship\") in favor of capturing the raw, initial visual impression. By visually dissolving the boundaries between the urban and the marine, he forces the viewer to see the world \"poetically\" or metaphorically, recreating the innocence of the eye before it knows the names of things.",
+    "evidence": [
+      4176,
+      4177,
+      4190,
+      4195
+    ]
+  },
+  {
+    "id": 40,
+    "answer": "1. **Locate External:** Steven gives the waiter a huge tip (two Louis) and feels physically vigorous (ID 3811, 3833).\n2. **Locate Internal:** The alcohol induces a \"subjective idealism\" where the present moment is all that matters; consequences (poverty, health) lose their weight (ID 3896, 3899).\n3. **Analyze Interaction:** Explanation & Drive. The internal suspension of time/consequence allows for the external recklessness.\n4. **Synthesis:** Steven's physical acts of extravagance and his feeling of invincibility are driven by the alcohol-induced \"subjective idealism\" dominating his mind. In this state, the internal weighing of future consequences (financial loss, health risks) is suspended. His mind creates a closed loop of the \"present moment,\" rationalizing his reckless actions as the only reality that matters, thereby liberating him from the anxieties that usually constrain his behavior.",
+    "evidence": [
+      3811,
+      3833,
+      3896,
+      3899
+    ]
+  },
+  {
+    "id": 41,
+    "answer": "1. **Locate External:** Françoise steps back and cries out, \"That's Mr. Richard! Oh! Seeing him, you'd never guess!\" (ID 3423, 3424).\n2. **Locate Internal:** She feels a grudge against Steven for raising her expectations too high; she expected a \"great man\" to look physically imposing (ID 3423, 3425).\n3. **Analyze Interaction:** Incongruity. The mental image built by Steven's stories clashes with the mundane physical reality of Richard's appearance.\n4. **Synthesis:** Françoise's physical recoil and verbal disappointment upon seeing Richard expose the vast gap between the \"mythological\" figure Steven constructed in her mind and the ordinary reality. Steven had imbued the name \"Richard\" with immense prestige, leading Françoise to expect a physical presence radiating greatness. When the physical man fails to match this internal image, she feels deceived, highlighting the tension between the \"idea\" of a person and their actual embodiment.",
+    "evidence": [
+      3423,
+      3424,
+      3425
+    ]
+  },
+  {
+    "id": 42,
+    "answer": "1. **Locate External:** Peter violently scolds the coachman (ID 3439).\n2. **Locate Internal:** Steven thinks this proves Peter's sense of class difference is stronger than his egalitarian theories; the \"physiologically\" ingrained nobility overrides the intellectual socialism (ID 3440, 2743).\n3. **Analyze Interaction:** Incongruity & Irony. The action (abuse) directly contradicts the professed belief (socialism), with the internal thought identifying \"breeding\" as the true driver.\n4. **Synthesis:** While Peter physically abuses his coachman, exhibiting the behavior of an entitled aristocrat, Steven's internal monologue reveals the irony: Peter claims to be a socialist who despises his own class. Steven realizes that Peter's intellectual adherence to equality is superficial, while his physical, instinctive behavior is driven by an unshakeable, hereditary sense of superiority, exposing the hypocrisy of his political persona.",
+    "evidence": [
+      2743,
+      3439,
+      3440
+    ]
+  },
+  {
+    "id": 43,
+    "answer": "1. **Locate External:** Richard laughs loudly at his father's stories and repeats witty remarks (ID 3299, 3300).\n2. **Locate Internal:** Steven realizes Richard is \"cast in the same mold\" as his father (ID 3298) and that this laughter is a learned family code for showing respect/admiration for things that are actually mediocre or meaningless (ID 3318, 3319).\n3. **Analyze Interaction:** Explanation & Drive. The external laughter isn't genuine mirth but a ritual of family solidarity and pretension.\n4. **Synthesis:** Externally, the dinner seems lively with Richard's loud laughter and storytelling. However, Steven's internal analysis reveals that this behavior is merely a hereditary reflex (\"cast in the same mold\") and a shallow social tactic. He sees the laughter not as a reaction to humor, but as a mechanism to validate the family's deluded sense of self-importance within their \"world of almost,\" emptying the external conviviality of any genuine intellectual value.",
+    "evidence": [
+      3298,
+      3299,
+      3318,
+      3319
+    ]
+  },
+  {
+    "id": 44,
+    "answer": "1. **Locate External:** Charlus does not speak to Steven but his eyes \"dart around\" like a wild animal or vendor (ID 3188).\n2. **Locate Internal:** Steven thinks the eyes are like a \"bullet hole\" or \"crack\" revealing a dangerous, unstable inner life that Charlus tries to mask (ID 3208, 3209).\n3. **Analyze Interaction:** Incongruity. The static body (ignoring) vs. the active eyes (darting) reveals the struggle between social control and internal paranoia/obsession.\n4. **Synthesis:** Physically, M. de Charlus attempts to freeze Steven out by ignoring him. However, Steven observes that Charlus's eyes are frantically active, darting like a \"startled wild animal.\" Steven interprets this visual hyperactivity as a leak in Charlus's armor—a \"crack\" through which his unstable, perhaps dangerous, inner nature escapes. The physical act of looking away is a conscious effort to mask the compulsive, paranoid observation that his eyes involuntarily betray.",
+    "evidence": [
+      3188,
+      3208,
+      3209
+    ]
+  },
+  {
+    "id": 45,
+    "answer": "1. **Locate External:** Steven's body feels weightless, he falls back onto the pillow, his limbs feel broken/scattered (ID 3957, 3981).\n2. **Locate Internal:** He thinks of his mind/self as having been emptied or destroyed by sleep (\"destruction and rebirth\") and now needing to \"reassemble the framework\" (ID 3947, 3982).\n3. **Analyze Interaction:** Metaphorical Mapping. The physical reassembling of limbs maps to the cognitive reassembling of the \"self\" and memory after the oblivion of sleep.\n4. **Synthesis:** The physical sensation of Steven's limbs being \"dislocated\" and scattered across the bed serves as a metaphor for the fragmentation of his consciousness during deep sleep. As he struggles to physically sit up and coordinate his body, it mirrors the internal mental process of retrieving his memories and \"reassembling the framework\" of his personality. The act of waking is portrayed not just as physical arousal, but as a literal reconstruction of the self from the void of non-existence.",
+    "evidence": [
+      3947,
+      3957,
+      3981,
+      3982
+    ]
+  },
+  {
+    "id": 46,
+    "answer": "1. **Locate External:** The operator speaks of \"returning\" to his \"post\" (ID 3654, 3657).\n2. **Locate Internal:** Steven realizes this is the language of the \"modern proletariat\" wanting to erase the stigma of the wage system/servitude (ID 3656).\n3. **Analyze Interaction:** Explanation & Drive. The choice of words (Action) is driven by class pride and a desire for dignity (Internal Logic).\n4. **Synthesis:** The elevator operator's use of elevated vocabulary—\"return\" and \"position\"—seems pretentious or incorrect on the surface. However, Steven's internal analysis reveals that this linguistic affectation is driven by a desire for dignity. By adopting the terminology of a higher social status or a military \"post,\" the operator mentally erases the reality of his wage servitude, using language as a tool to construct a self-image of independence and professional pride.",
+    "evidence": [
+      3654,
+      3656,
+      3657
+    ]
+  },
+  {
+    "id": 47,
+    "answer": "1. **Locate External:** Charlus extends his middle and ring fingers, keeping the others curled (ID 3124).\n2. **Locate Internal:** The narrator links this to a \"museum\" of family history, implying it's a deliberate, archaic gesture of nobility (ID 3123, 3125).\n3. **Analyze Interaction:** Metaphorical Mapping/Explanation. The gesture is a physical artifact of his lineage, a ritualized movement symbolizing his separation from the commoner.\n4. **Synthesis:** M. de Charlus's physical act of offering only two fingers is not merely rude; the narrator interprets it as a deliberate, ritualized gesture rooted in his ancestry. This minimal contact acts as a physical manifestation of his internal \"museum\" of aristocratic values. By withholding his full hand, he physically enacts the social distance he believes exists between his noble blood and Steven's common status, turning a simple greeting into an assertion of feudal superiority.",
+    "evidence": [
+      3123,
+      3124,
+      3125
+    ]
+  },
+  {
+    "id": 48,
+    "answer": "1. **Locate External:** The studio is dim, shutters closed, with only one small window admitting light, like a \"laboratory\" or crystal rock (ID 4163, 4168, 4170).\n2. **Locate Internal:** Steven thinks of it as a place where the world is \"recreated\" (ID 4177) and where Elstir manufactures new worlds from the raw materials of reality.\n3. **Analyze Interaction:** Metaphorical Mapping. The isolation/darkness represents the withdrawal required for internal creation, transforming raw reality (light) into art (the paintings).\n4. **Synthesis:** The physical environment of Elstir's studio—dark, cool, and secluded from the bright reality outside—serves as a metaphor for the artist's mind. Just as the studio filters the blinding sunlight to create a controlled \"laboratory\" atmosphere, Elstir's mind withdraws from the direct perception of the world to process and \"recreate\" it. The studio is the crucible where the raw data of nature is stripped of its conventional names and transformed into the new, poetic reality of his paintings.",
+    "evidence": [
+      4163,
+      4168,
+      4170,
+      4177
+    ]
+  },
+  {
+    "id": 49,
+    "answer": "1. **Locate External:** They move as an \"independent column\" or a \"machine,\" forcing others to step aside (ID 3578, 3600).\n2. **Locate Internal:** Steven feels they share a \"harmonious fluidity\" or collective consciousness that excludes the rest of humanity (ID 3601, 3603).\n3. **Analyze Interaction:** Explanation & Drive. Their physical cohesion creates the psychological impression of an impregnable fortress, heightening Steven's sense of exclusion.\n4. **Synthesis:** The girls' physical movement as a single, unstoppable \"machine\" or \"solid mass\" reinforces Steven's internal sense of exclusion. By observing them physically force pedestrians aside and move with a shared, fluid rhythm, Steven perceives them not as individuals but as a collective entity with a shared soul. This physical impenetrability acts as a metaphor for their social exclusivity, making Steven feel that their world is an \"inhuman\" and closed circle that he can never hope to breach.",
+    "evidence": [
+      3578,
+      3600,
+      3601,
+      3603
+    ]
+  },
+  {
+    "id": 50,
+    "answer": "1. **Locate External:** Steven says sarcastic, cutting words to dampen her enthusiasm (ID 3524).\n2. **Locate Internal:** He is annoyed/surprised by her \"coquetry\" and \"childishness,\" traits he never associated with her before (ID 3515, 3516).\n3. **Analyze Interaction:** Incongruity/Reaction. His verbal aggression is a defense against the cognitive dissonance of seeing his ascetic grandmother care about her appearance.\n4. **Synthesis:** Steven's physical verbal aggression—his sarcastic remarks—is a reaction to a jarring internal discovery. He has always viewed his grandmother as an ascetic, indifferent to appearance. Seeing her fuss over a hat reveals a hidden \"coquetry\" and \"childishness\" that shatters his idealized image of her. His external cruelty is an attempt to punish this deviation and manage his own discomfort at seeing her act in a way that contradicts his internal model of her character.",
+    "evidence": [
+      3515,
+      3516,
+      3524
+    ]
+  },
+  {
+    "id": 51,
+    "answer": "Locate External: The narrator physically applauds the watercolor after viewing it (Item 4382). Locate Internal: Simultaneously, he reflects on the figure's ambiguity—uncertain of the gender (Item 4364, 4377) or the nature of the costume (Item 4363). Analyze Interaction: The internal thought process explains the drive for the external action; the narrator values the work precisely because of this aesthetic ambiguity and the 'unfathomable' nature of the character, viewing it as a mark of Elstir's genius in capturing a specific moment. Synthesis: The narrator applauds the painting because his internal analysis interprets the confusing visual details (ambiguous gender, strange costume) not as flaws, but as a deliberate and masterful artistic choice by Elstir to emphasize a specific, compelling aesthetic element.",
+    "evidence": [
+      4364,
+      4375,
+      4382
+    ]
+  },
+  {
+    "id": 52,
+    "answer": "Locate External: The narrator physically stops and stares at the antique shop window as the girls and Elstir approach (Item 4464). Locate Internal: He thinks that by feigning indifference and engagement with something else, he will compel Elstir to call him over, thereby saving his dignity (Item 4466). Analyze Interaction: The internal logic (feigned indifference as a strategy) drives the external action (stopping at the window). Synthesis: The narrator performs the physical act of staring at the window not out of genuine interest in the antiques, but as a calculated social maneuver driven by his internal belief that appearing disinterested will paradoxically increase his chances of being introduced to the girls by Elstir.",
+    "evidence": [
+      4464,
+      4466,
+      4468
+    ]
+  },
+  {
+    "id": 53,
+    "answer": "Locate External: The narrator turns away as soon as he sees the girls (Item 4462). Locate Internal: He compares himself to a swimmer turning away to avoid a wave breaking over him (Item 4462). Analyze Interaction: Metaphorical Mapping; the physical avoidance maps to the psychological feeling of being overwhelmed. Synthesis: The narrator's physical act of turning away serves as a metaphor for his internal psychological state, where he perceives the group of girls not merely as people, but as an overwhelming elemental force or 'wave' that he must protect himself from, mapping his social anxiety onto a physical survival instinct.",
+    "evidence": [
+      4462,
+      4460
+    ]
+  },
+  {
+    "id": 54,
+    "answer": "Locate External: The narrator looks at the painting where the sea appears like land and the land like sea (Item 4216, 4230). Locate Internal: He reflects on Elstir's method of using 'metaphors' to present things not as they are known to be, but as they appear optically (Item 4227, 4228). Analyze Interaction: Explanation & Drive; the internal understanding of the artistic method rationalizes the visual experience. Synthesis: The narrator appreciates the confusing visual elements of the painting because his mind identifies them as a deliberate 'metaphor' employed by the artist to capture the raw optical impression before intellectual processing, thus validating the visual illusion as a higher form of truth.",
+    "evidence": [
+      4216,
+      4227,
+      4230
+    ]
+  },
+  {
+    "id": 55,
+    "answer": "Locate External: Steven violently takes the ring to sit next to Albertine (Item 5314, 5315). Locate Internal: He interprets Albertine's glance and touch as a secret signal of mutual affection and complicity (Item 5319, 5322). Analyze Interaction: Incongruity & Irony; the action is driven by a delusion that is immediately contradicted by reality. Synthesis: Steven's aggressive seizure of the ring is driven by his internal conviction that Albertine is secretly communicating her love to him through the game; however, the irony is exposed when Albertine immediately scolds him for his behavior (Item 5325), revealing that his internal narrative of a 'secret understanding' was a complete fabrication.",
+    "evidence": [
+      5314,
+      5319,
+      5325
+    ]
+  },
+  {
+    "id": 56,
+    "answer": "Locate External: Steven leans down to embrace and kiss Albertine (Item 5508, 5513). Locate Internal: He reasons that a girl who visits a man secretly at night must imply consent and willingness for intimacy (Item 5514). Analyze Interaction: Explanation & Drive; the erroneous internal logic drives the bold external action. Synthesis: Steven attempts to kiss Albertine because his internal logic dictates that her action of visiting him secretly acts as a tacit signal of availability; this internal narrative provides the confidence for his physical advance, which is abruptly halted when she rings the bell in protest.",
+    "evidence": [
+      5508,
+      5513,
+      5514
+    ]
+  },
+  {
+    "id": 57,
+    "answer": "Locate External: The narrator hesitates to applaud after the performance (Item 6238). Locate Internal: He feels a discrepancy between his preconceived, abstract idea of 'talent' and the simple, transparent reality of the performance he just witnessed (Item 6237, 6239). Analyze Interaction: Explanation & Drive; the cognitive dissonance causes physical inertia. Synthesis: The narrator's physical hesitation to applaud is rationalized by his internal confusion; because the performance was so natural and 'transparent' that it didn't match his complex expectations of what 'acting' should look like, he is left unsure if he actually witnessed talent, freezing his reaction until he can intellectually process it.",
+    "evidence": [
+      6237,
+      6238,
+      6239
+    ]
+  },
+  {
+    "id": 58,
+    "answer": "Locate External: The narrator looks at the Princess's box and the people inside (Item 6124). Locate Internal: He imagines the box as a grotto or rock in a semi-dark sea, and the women as water nymphs or sirens (Item 6116, 6125). Analyze Interaction: Metaphorical Mapping; the physical theatre space is transformed into a mythological landscape. Synthesis: The narrator's gaze upon the opera box is filtered through a metaphorical lens where he maps the physical dimness and the flowing garments of the women onto the imagery of an underwater kingdom, treating the aristocrats not as humans but as mythological sea creatures inhabiting a separate element.",
+    "evidence": [
+      6116,
+      6124,
+      6125
+    ]
+  },
+  {
+    "id": 59,
+    "answer": "Locate External: Steven ascends in the elevator (Item 5488). Locate Internal: He views the machinery and the ascent as the 'materialization of joy' and a connection to his heart (Item 5490). Analyze Interaction: Metaphorical Mapping; the mechanical action represents the elevation of his mood. Synthesis: The physical act of riding the elevator is metaphorically mapped to Steven's internal state; he perceives the upward movement and the mechanism not as mere transport, but as the physical embodiment of his rising joy and the solidified comfort of his new, privileged existence.",
+    "evidence": [
+      5488,
+      5490
+    ]
+  },
+  {
+    "id": 60,
+    "answer": "Locate External: Albertine gives Steven a gold pencil (Item 5612). Locate Internal: Steven compares this to critics who give dinners instead of good reviews, viewing it as a compensation for her refusal to kiss him (Item 5613, 5614). Analyze Interaction: Explanation & Drive; the internal analogy explains the significance of the physical object. Synthesis: Steven interprets the physical gift of the pencil through a cynical internal logic, rationalizing it not as a simple gesture of friendship, but as a calculated 'consolation prize' offered by Albertine's virtue to compensate for withholding the physical intimacy (the kiss) that he actually desired.",
+    "evidence": [
+      5612,
+      5613,
+      5614
+    ]
+  },
+  {
+    "id": 61,
+    "answer": "Locate External: Françoise complains about the old house, saying she almost suffocated there (Item 5809), despite previously crying over leaving it. Locate Internal: Steven reflects on her 'nervous' temperament and her tendency to twist facts to hide her true feelings or adaptation (Item 5808, 5812). Analyze Interaction: Incongruity & Irony; the internal analysis exposes the hypocrisy of the external statement. Synthesis: Françoise's physical complaint about the old house contradicts her earlier behavior; Steven's internal analysis rationalizes this incongruity by attributing it to her fickle nature and a psychological defense mechanism where she disparages what she has lost to adapt to the new reality, revealing the contradiction between her past and present 'masks'.",
+    "evidence": [
+      5808,
+      5809,
+      5812
+    ]
+  },
+  {
+    "id": 62,
+    "answer": "Locate External: Steven stops and asks the leaves about the flowers (Item 5339). Locate Internal: He views the hawthorn flowers as young girls with a lively, impulsive nature (Item 5339). Analyze Interaction: Explanation & Drive; the internal personification dictates the form of the external address. Synthesis: Steven physically addresses the leaves as if they were people because his internal mind has personified the hawthorn blossoms as 'young girls'; this internal metaphor drives him to engage in a dialogue where he inquires about their 'companions' (the flowers) as if inquiring about a group of friends.",
+    "evidence": [
+      5339,
+      5340
+    ]
+  },
+  {
+    "id": 63,
+    "answer": "Locate External: Steven reads the letter from Peter (Item 4668). Locate Internal: He thinks Peter is worried he hasn't shown enough gratitude to Steven's grandmother (Item 4668). Analyze Interaction: Explanation & Drive; the internal theory interprets the external text. Synthesis: As Steven reads the physical letter, his internal logic interprets the text not just as a casual update, but as a manifestation of Peter's specific anxiety about politeness; this internal framework allows Steven to rationalize the letter's excessive focus on thanking his grandmother as a symptom of Peter's character trait regarding gratitude.",
+    "evidence": [
+      4668,
+      4669
+    ]
+  },
+  {
+    "id": 64,
+    "answer": "Locate External: The narrator sees a girl but does not recognize her (Item 4779). Locate Internal: He cannot reconcile the visual reality (brimless hat, peeling nose) with the fixed mental image he retained from the party (Item 4779, 4780). Analyze Interaction: Incongruity & Irony; the conflict between the static internal image and dynamic external reality causes the failure. Synthesis: The narrator fails to physically recognize Albertine because his internal mind is holding onto a rigid, static 'memory image' of her from a previous setting; the discrepancy between this internal projection and the new external reality (her different clothes and complexion) creates a cognitive block that temporarily prevents recognition.",
+    "evidence": [
+      4779,
+      4780
+    ]
+  },
+  {
+    "id": 65,
+    "answer": "Locate External: Steven looks at Albertine's cheek (Item 5469). Locate Internal: He perceives it as a 'pink fruit' to be tasted (Item 5516, 5471). Analyze Interaction: Metaphorical Mapping; visual perception is mapped to taste/consumption. Synthesis: Steven's physical act of staring is transformed by his internal state into a 'gustatory' experience; his mind metaphorically maps the visual qualities of her skin (color, texture) onto the concept of a fruit, transmuting his visual attention into a desire for physical consumption (kissing/tasting).",
+    "evidence": [
+      5469,
+      5471,
+      5516
+    ]
+  },
+  {
+    "id": 66,
+    "answer": "Locate External: Steven tells Elstir he is disappointed in the church (Item 4272). Locate Internal: He realizes the building does not match the image the word 'Persian' had evoked in his mind (Item 4276). Analyze Interaction: Explanation & Drive; the unmet internal expectation drives the external expression of disappointment. Synthesis: Steven's verbal expression of disappointment is driven by an internal conflict where the concrete reality of the church fails to align with the exotic, imaginative 'image' his mind had constructed based solely on the label 'Persian', illustrating how his internal expectations override objective appreciation.",
+    "evidence": [
+      4272,
+      4276
+    ]
+  },
+  {
+    "id": 67,
+    "answer": "Locate External: Steven looks at the old straw mat (Item 5985). Locate Internal: He believes it marks the threshold of the 'Saint-Germain district' and possesses a mysterious charm (Item 5984, 5986). Analyze Interaction: Metaphorical Mapping; the object is imbued with symbolic geographical/social significance. Synthesis: While physically looking at a mundane straw mat, Steven's internal 'faith' acts as a transformative lens, mapping the object onto his mythological concept of the 'Saint-Germain aristocracy', effectively turning a piece of trash into a sacred boundary marker of a social world he idealizes.",
+    "evidence": [
+      5984,
+      5985,
+      5986
+    ]
+  },
+  {
+    "id": 68,
+    "answer": "Locate External: Steven feels his eyelashes swelling and becoming strong (Item 5505). Locate Internal: He feels that the horizon is no longer enough to fill this 'downy celestial body' and that life is inside him, not outside (Item 5506, 5509). Analyze Interaction: Metaphorical Mapping; a localized physical sensation represents a cosmic internal expansion. Synthesis: The sensation of swelling eyelashes acts as a somatic metaphor for Steven's internal state; his desire and ego expand so massively that he projects this internal vastness onto his physical body, feeling as though his own perception (eyelashes) has become a celestial body larger than the external world.",
+    "evidence": [
+      5505,
+      5506,
+      5509
+    ]
+  },
+  {
+    "id": 69,
+    "answer": "Locate External: Steven listens to Albertine speaking (Item 5276). Locate Internal: He thinks of her voice as single notes of a 'small instrument' (Item 5277). Analyze Interaction: Metaphorical Mapping; auditory perception is mapped to musical mechanics. Synthesis: Steven's listening experience is filtered through an internal metaphor where he deconstructs Albertine's human speech into the mechanical/aesthetic output of a 'small instrument', allowing him to objectify the sound and derive sensory pleasure from its unique 'tuning' rather than its content.",
+    "evidence": [
+      5276,
+      5277
+    ]
+  },
+  {
+    "id": 70,
+    "answer": "Locate External: Steven turns away to avoid the girls (Item 4462). Locate Internal: He compares the situation to a swimmer turning away to avoid a wave breaking (Item 4462). Analyze Interaction: Metaphorical Mapping / Explanation; the survival instinct metaphor explains the social anxiety behavior. Synthesis: Steven's physical act of avoidance is rationalized by an internal metaphor where the group of girls is perceived not as humans but as a natural force (a wave); his mind maps the social encounter onto a physical danger, triggering a 'survival' response to turn away before being 'submerged' by their presence.",
+    "evidence": [
+      4460,
+      4462
+    ]
+  },
+  {
+    "id": 71,
+    "answer": "Locate External: The narrator sees a girl approaching but does not recognize her (Item 4779). Locate Internal: He holds a rigid mental image of her from a previous meeting that contradicts the current visual reality (Item 4779, 4780). Analyze Interaction: Incongruity & Irony; the conflict between the internal static image and external reality causes cognitive failure. Synthesis: The physical failure to recognize Albertine is caused by the narrator's internal reliance on a static 'memory image'; his mind rejects the current visual input (her different hat and complexion) because it doesn't match the internal template he created, demonstrating how his internal world overrides external perception.",
+    "evidence": [
+      4779,
+      4780
+    ]
+  },
+  {
+    "id": 72,
+    "answer": "Locate External: Andrée gives up her time/game to stay with Steven (Item 5353). Locate Internal: Steven suspects she does this to appear like a loyal friend and questions if kindness is actually absent from her nature (Item 5355). Analyze Interaction: Incongruity & Irony; the external kindness is reinterpreted as internal vanity. Synthesis: While Andrée performs an externally kind act of sacrifice, Steven's internal monologue reframes it as a calculated move to feed her own self-image of nobility; he disconnects the action from genuine altruism, viewing it instead as a performance of friendship rather than the reality of it.",
+    "evidence": [
+      5353,
+      5355
+    ]
+  },
+  {
+    "id": 73,
+    "answer": "Locate External: Steven moves into the new apartment (Item 5814). Locate Internal: He feels stretched and deformed, comparing himself to a python that has swallowed a cow (Item 5813). Analyze Interaction: Metaphorical Mapping; somatic discomfort maps to psychological resistance to change. Synthesis: Steven's physical relocation is processed internally through a visceral metaphor of ingestion and distortion (the python); this image conveys his psychological inability to 'digest' or assimilate the new environment, expressing his extreme discomfort and feeling of foreignness in the new space.",
+    "evidence": [
+      5813,
+      5814
+    ]
+  },
+  {
+    "id": 74,
+    "answer": "Locate External: Steven hesitates to applaud (Item 6238). Locate Internal: He realizes the performance was so 'transparent' it didn't look like 'acting', conflicting with his expectation of visible talent (Item 6209, 6237). Analyze Interaction: Explanation & Drive; intellectual confusion leads to physical paralysis. Synthesis: Steven's physical hesitation is the result of an internal intellectual conflict; because the actress's genius lay in hiding her technique ('transparency'), Steven's mind couldn't identify the 'talent' he expected to see, causing a moment of paralysis where he couldn't justify the physical act of applause until he rationalized it later.",
+    "evidence": [
+      6209,
+      6237,
+      6238
+    ]
+  },
+  {
+    "id": 75,
+    "answer": "Locate External: Steven eats a tart and listens to music right after meeting Albertine (Item 4730, 4731). Locate Internal: He feels that the significance of the event has vanished in the moment, and he has forgotten his original purpose (Item 4734, 4741). Analyze Interaction: Incongruity & Irony; the trivial physical act dominates the supposedly momentous social event. Synthesis: Steven's action of eating a tart—a trivial pleasure—dominates the moment because his internal processing of the event has stripped it of its anticipated significance; the 'event' of meeting his crush becomes internally flattened, leading to a behavioral incongruity where he prioritizes a pastry over the person he longed to meet.",
+    "evidence": [
+      4730,
+      4734,
+      4741
+    ]
+  },
+  {
+    "id": 76,
+    "answer": "Physically, Steven is in a profound sleep where he hears nothing (6324). Internally, the narrator metaphorically attributes the heavy feeling in Steven's head to the need to 'digest' the intense activity of his 'vegetative nervous systems,' which he likens to 'nymphs' feeding 'Hercules' during his sleep (6324). This internal logic explains the physical heaviness as a biological accumulation of nervous activity.",
+    "evidence": [
+      6324
+    ]
+  },
+  {
+    "id": 77,
+    "answer": "Externally, Steven stirs the fire to add warmth to the visual scene (6333). Internally, the narrator analyzes this as a 'coarse yet subtle' pleasure: coarse because it is based on physical comfort (warmth), but subtle because it stirs a 'vague and pure fantasy' (6333). This thought process explains why Steven lingers on the sensation, bridging physical comfort with mental stimulation.",
+    "evidence": [
+      6333
+    ]
+  },
+  {
+    "id": 78,
+    "answer": "Externally, Steven's worries vanish when the doorbell rings (6339). Internally, he reasons that while worry is a 'strength' when dealing with himself (perhaps as intellectual activity), it is a 'weakness' before Peter (6339). Furthermore, he shifts the burden of decision-making to Peter (6340), logically justifying the cessation of his own anxiety.",
+    "evidence": [
+      6339,
+      6340
+    ]
+  },
+  {
+    "id": 79,
+    "answer": "Externally, the narrator is physically unable to move (6357). Internally, he maps this state to 'fatigue' acting as a tool that 'digs into the depths' of his body, causing his muscles to twist like 'lateral roots' binding him to the earth (6357, 6361). This metaphor transforms the physical paralysis into a grounding connection to a 'deep, invisible land' or childhood memory.",
+    "evidence": [
+      6357,
+      6361
+    ]
+  },
+  {
+    "id": 80,
+    "answer": "Physically, Steven climbs the stairs easily despite it being his first time (6408). Internally, the narrator rationalizes this by suggesting the environment (things) seemed to possess a pre-existing familiarity or 'habit' woven into them by the former master (6408, 6409), essentially transferring the physical ease usually gained by personal habit to the objects themselves.",
+    "evidence": [
+      6408,
+      6409
+    ]
+  },
+  {
+    "id": 81,
+    "answer": "Externally, Steven tries to embrace a passerby (6462). Internally, he is driven by an 'unbearable desire' (6461) and a delusional belief that the sound of a skirt brushing past him cannot be coincidental but is a signal of a woman appearing specifically to satisfy his desire (6462).",
+    "evidence": [
+      6461,
+      6462
+    ]
+  },
+  {
+    "id": 82,
+    "answer": "Externally, Steven interrupts the social setting to whisper to Peter (6472). Internally, the narrator explains that the very 'discomfort' of the situation gave Steven the 'courage' to speak, as the presence of others provided an excuse for his words to be 'brief and incoherent' (6487), which he wouldn't have dared in a private setting.",
+    "evidence": [
+      6472,
+      6487
+    ]
+  },
+  {
+    "id": 83,
+    "answer": "Externally, Peter's face turns red after refusing the photo request (6500). Internally, Steven interprets this blush as a sign that Peter is harboring 'hidden motives' and moral judgments, willing to serve Steven's love only 'halfway' (6500). This interpretation of the blush as moral withholding drives Steven's feeling of hatred.",
+    "evidence": [
+      6500
+    ]
+  },
+  {
+    "id": 84,
+    "answer": "Externally, Peter acts as if he has never heard the story (6504) and looks excited (6505). Internally, the narrator realizes this deception is an act of 'friendship,' designed specifically to demonstrate Steven's intelligence to the others present (6505, 6573), thus re-framing the lie as a noble act of support.",
+    "evidence": [
+      6504,
+      6505,
+      6573
+    ]
+  },
+  {
+    "id": 85,
+    "answer": "Externally, Steven is walking with a bouncing step (6518). Internally, this physical lightness is a metaphorical mapping of a 'flow of life entering Steven's nerves' (6518), suggesting a state of boundless energy and vitality where he feels impervious to fatigue, effectively acting as a god (Mercury) fueled by internal power.",
+    "evidence": [
+      6518
+    ]
+  },
+  {
+    "id": 86,
+    "answer": "Externally, Steven notes it has been 'fourteen days' (6608). Internally, because his longing is so intense ('measured in seconds'), this mathematical calculation ceases to be a mere number and becomes 'painful, yet poetic' (6608), signifying that his logical tracking of time has been co-opted by his emotional suffering.",
+    "evidence": [
+      6608
+    ]
+  },
+  {
+    "id": 87,
+    "answer": "Externally, Steven eagerly asks for a ranking of officers (6671). Internally, this behavior is driven by a regression to a 'middle school' habit where he used to categorize actors of the Comédie-Française (6671), revealing that he is applying an aesthetic/dramatic framework to military hierarchy.",
+    "evidence": [
+      6671
+    ]
+  },
+  {
+    "id": 88,
+    "answer": "Externally, Steven waits for the connection and feels annoyed (6734). Internally, the narrator explains that 'habit' has stripped the telephone of its 'sacred power' (6734), transforming what should be a wondrous communication into a mere 'inconvenience,' showing how familiarity dulls the perception of technological magic.",
+    "evidence": [
+      6734
+    ]
+  },
+  {
+    "id": 89,
+    "answer": "Externally, Steven hears a voice on the line but no one answers him (6751). Internally, he metaphorically maps the device to a 'hunchbacked clown in a puppet show' (6751, 6752), framing the mechanical failure as a mocking, autonomous performance that he is powerless to stop, emphasizing his isolation.",
+    "evidence": [
+      6751,
+      6752
+    ]
+  },
+  {
+    "id": 90,
+    "answer": "Externally, Steven shouts the name 'David' in vain (6776). Internally, the narrator likens him to 'Orpheus, all alone, repeating the name of his dead wife' (6776), metaphorically mapping the telephonic disconnection to the finality of death, foreshadowing the permanent separation from his grandmother.",
+    "evidence": [
+      6776
+    ]
+  },
+  {
+    "id": 91,
+    "answer": "Externally, Peter salutes but does not stop or smile (6806, 6807). Internally, the narrator (and Steven) interprets this not as a snub to a friend, but as Peter adopting an impersonal military persona, saluting as if returning the greeting of an 'unknown soldier' (6807), thereby rationalizing the lack of intimacy as adherence to military protocol.",
+    "evidence": [
+      6806,
+      6807
+    ]
+  },
+  {
+    "id": 92,
+    "answer": "Externally, Steven sees his grandmother physically deteriorated (6848). Internally, the narrator explains this as his eyes acting like a 'camera' or 'photographer' (6837, 6843), mechanically capturing the reality before his 'tenderness' can edit the image (6841, 6844). This 'photograph' reveals the 'stranger' that time has created, bypassing the habitual image of his grandmother.",
+    "evidence": [
+      6837,
+      6841,
+      6843,
+      6844,
+      6848
+    ]
+  },
+  {
+    "id": 93,
+    "answer": "Externally, Steven acts distant or stares silently (6882). Internally, he does this to avoid appearing 'too forward' (6882). However, he realizes that this internal caution leads to the external appearance of being 'arrogant and ill-mannered' (6882), achieving the exact opposite of his intent.",
+    "evidence": [
+      6882
+    ]
+  },
+  {
+    "id": 94,
+    "answer": "Externally, Steven is asleep (6901). Internally, his mind projects the 'idea of being unable to sleep' into the sleep itself (6901). This 'reflection of insomnia into sleep' creates a mental state where he believes he is witnessing his own wakefulness, blurring the boundary between the two states.",
+    "evidence": [
+      6901
+    ]
+  },
+  {
+    "id": 95,
+    "answer": "Externally, Steven turns to look at the trees (7077). Internally, he is actually 'excited' by the realization of the power of Peter's fantasy over Brian (7076, 7077). He uses the action of looking at nature to mislead Peter into thinking his emotion is aesthetic appreciation of the landscape (7077), rather than a reaction to the woman.",
+    "evidence": [
+      7076,
+      7077
+    ]
+  },
+  {
+    "id": 96,
+    "answer": "Externally, Steven sees an ugly reflection but smiles (7202, 7203). Internally, the 'drunkenness' creates a dissociation where he recognizes the reflection as a stranger but feels so 'at ease' (7203) that he no longer cares about the ugliness, allowing him to smile at what would normally repulse him.",
+    "evidence": [
+      7202,
+      7203
+    ]
+  },
+  {
+    "id": 97,
+    "answer": "Externally, the men turn their backs and laugh (7220). Internally, the narrator identifies this not as genuine humor but as 'premeditated' mischief (7220) and a form of 'sadism' where pleasure is derived specifically from inflicting pain (7228), revealing the cruelty behind the physical action.",
+    "evidence": [
+      7220,
+      7228
+    ]
+  },
+  {
+    "id": 98,
+    "answer": "Externally, Peter denies the encounter (7249) despite the earlier salute (7250). Internally, the narrator reasons that Peter was playing a specific 'role' (soldier) at that moment (7252), and his decisiveness in 'pretending not to recognize' Steven (7251) allows him to maintain the separation between his military duties and his personal friendships.",
+    "evidence": [
+      7249,
+      7250,
+      7251,
+      7252
+    ]
+  },
+  {
+    "id": 99,
+    "answer": "Externally, she nods slightly and turns away (7322). Internally, the narrator theorizes that she adopts this 'haughty dignity' (7321) and 'compensatory expression' precisely because she feels 'specially humiliated' (7322) by her need to associate with others, using the physical arrogance to mask her compromised social standing.",
+    "evidence": [
+      7321,
+      7322
+    ]
+  },
+  {
+    "id": 100,
+    "answer": "Externally, they shake the thermometer (8346). Internally, they view the thermometer not as a tool but as a 'little witch' or 'fortune-teller' (8345, 8347) that decrees fate. Their physical shaking is an irrational attempt to 'get rid of that fateful symbol' (8346), as if erasing the number would magically alter the medical reality it predicts.",
+    "evidence": [
+      8345,
+      8346,
+      8347
+    ]
+  }
+]

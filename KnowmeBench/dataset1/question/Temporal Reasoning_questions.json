@@ -1,0 +1,526 @@
+[
+  {
+    "id": 1,
+    "question": "According to the record from August 15, 1969, how long did it take for the bus carrying the family to depart and finally arrive outside the Red House?"
+  },
+  {
+    "id": 2,
+    "question": "According to the record from July 24, 1975, how long did it take from when the grandparents entered the living room to watch television until the television broke?"
+  },
+  {
+    "id": 3,
+    "question": "According to the record from the early morning of July 25, 1975, how long did it take from when \"I\" was awakened to when I saw the cat chasing the mouse and eventually the mouse escaping?"
+  },
+  {
+    "id": 4,
+    "question": "According to the record from August 18, 1975, how long did it take from when Karl Larsdal called out \"I\" to when we lit a fire in the forest at the summit and eventually extinguished it?"
+  },
+  {
+    "id": 5,
+    "question": "According to the record from the evening of August 18, 1975, how long did it take from when everyone started playing soccer on the field until everyone left the field?"
+  },
+  {
+    "id": 6,
+    "question": "According to the record from September 6, 1975, how long did it take from \"we\" onward, as we moved upward toward the building area, until we reached the edge of the landfill and found someone shooting?"
+  },
+  {
+    "id": 7,
+    "question": "According to the record from September 6, 1975, how long did it take from \"I\" being questioned by my father at the doorstep of our home until I finally reached the Fina gas station?"
+  },
+  {
+    "id": 8,
+    "question": "According to the record from September 16, 1975, how long passed between the moment Mom came home and told \"me\" that she'd forgotten to buy a swimming cap, and the moment Dad started making beef burgers in the kitchen?"
+  },
+  {
+    "id": 9,
+    "question": "According to the record from September 16, 1975, how long did it take from when Mom parked the car outside the swimming pool until Mom drove up to pick \"us\" after swimming practice?"
+  },
+  {
+    "id": 10,
+    "question": "According to the record from September 20, 1975, how long did it take from when \"we\" saw Jacobson's car until we attempted to climb onto the roof of the boat house?"
+  },
+  {
+    "id": 11,
+    "question": "According to the record from September 27, 1975, how long did it take from when Dad started chopping wood in the kitchen garden until the end of his work?"
+  },
+  {
+    "id": 12,
+    "question": "According to the record from September 28, 1975, how long did it take for the \"we\" family to drive from Vesfjord to the city where their grandparents lived?"
+  },
+  {
+    "id": 13,
+    "question": "According to the record from September 29, 1975, how long did it take from the moment \"I\" slipped into the basement window to enter the house, to the moment \"I\" climbed out of the room's window and arrived at the driveway?"
+  },
+  {
+    "id": 14,
+    "question": "According to the record from June 12, 1976, how long did it take from when \"I\" began talking with Henrik Inge and others in the woods until \"I\" returned home?"
+  },
+  {
+    "id": 15,
+    "question": "According to the record from November 16, 1977, how long did it take from when \"we\" entered the candy shop until we watched the bus drive away because we missed our ride?"
+  },
+  {
+    "id": 16,
+    "question": "According to the record from November 16, 1977, how long did it take from \"I\" and Karl Larsdal eating candy at the station to \"I\" finally returning home and being discovered by my father in the corridor?"
+  },
+  {
+    "id": 17,
+    "question": "According to the record from December 3, 1977, how long did it take from when Dad called \"me\" to go skiing until I returned home at the end of the skiing session?"
+  },
+  {
+    "id": 18,
+    "question": "According to the record from June 19, 1981, how long did it take from when the football match ended and \"I\" met Kaisa's messenger, until \"I\" said goodbye to Kaisa and rode home?"
+  },
+  {
+    "id": 19,
+    "question": "According to the record from June 25, 1981, how long did it take from when \"I\" and Kaisa began kissing deep in the woods until the kiss ended?"
+  },
+  {
+    "id": 20,
+    "question": "According to the record from December 2, 1984, how long did it take from when \"I\" arrived at the old house in Tveit until I finally left to catch a bus?"
+  },
+  {
+    "id": 21,
+    "question": "From the time \"I\" returned to the grandparents' apartment for dinner on December 5, 1984, until Dad said he would take \"I\" away, how long did it take?"
+  },
+  {
+    "id": 22,
+    "question": "According to the record from December 5, 1984, how long did it take from when Dad returned to our city residence to pick up \"me,\" until we finally drove to Sannes' home?"
+  },
+  {
+    "id": 23,
+    "question": "According to the record dated December 31, 1984, how long did it take from \"I\" to walk to the beer cellar and then drive to pick up \"I\" by the roadside in Marivik?"
+  },
+  {
+    "id": 24,
+    "question": "According to the record dated December 31, 1984, how long did it take from when \"we\" arrived at the Vallund household until the final entry into the gathering at Elgsteinn No. 13?"
+  },
+  {
+    "id": 25,
+    "question": "According to the record from December 31, 1984, how long did it take from when \"we\" arrived at the gathering until the decision was made to leave for the Sarm Cross Road?"
+  },
+  {
+    "id": 26,
+    "question": "According to the record dated December 31, 1984, how long did it take from when \"we\" arrived at the Thum Crossroads to prepare for the New Year, until finally Vallund's father drove to pick us up?"
+  },
+  {
+    "id": 27,
+    "question": "According to the record from July 17, 1998, how long elapsed from Henrik Inge’s call informing his father of his death to “I” ending the call with Toni and preparing to leave?"
+  },
+  {
+    "id": 28,
+    "question": "According to the record dated July 17, 1998, how long did it take from when the taxi picked up \"I\" at Baysang Apartments until the invoice was received at Flesland Airport?"
+  },
+  {
+    "id": 29,
+    "question": "According to the record from July 18, 1998, how long did it take from when \"we\" arrived at grandma's house until Marivik first came to help at grandma's house?"
+  },
+  {
+    "id": 30,
+    "question": "According to the record on January 30, 2004, how long did it take from Nils Nils entering into labor with intense contractions and beginning to exert herself until the baby was finally born?"
+  },
+  {
+    "id": 31,
+    "question": "According to the record from June 25, 1981, how long did it take from when \"I\" and Kaisa began kissing deep in the woods until the kiss ended?"
+  },
+  {
+    "id": 32,
+    "question": "According to the record from December 2, 1984, how long did it take from when \"I\" arrived at the old house in Tveit until I finally left to catch a bus?"
+  },
+  {
+    "id": 33,
+    "question": "From the time \"I\" returned to the grandparents' apartment for dinner on December 5, 1984, until Dad said he would take \"I\" away, how long did it take?"
+  },
+  {
+    "id": 34,
+    "question": "According to the record from December 5, 1984, how long did it take from when Dad returned to our city residence to pick up \"me,\" until we finally drove to Sannes' home?"
+  },
+  {
+    "id": 35,
+    "question": "According to the record dated December 31, 1984, how long did it take from \"I\" to walk to the beer cellar and then drive to pick up \"I\" by the roadside in Marivik?"
+  },
+  {
+    "id": 36,
+    "question": "According to the record dated December 31, 1984, how long did it take from Marivik to pick up \"I\" and drop \"I\" off near Vallund's house?"
+  },
+  {
+    "id": 37,
+    "question": "According to the record dated December 31, 1984, how long did it take from when \"we\" arrived at the Vallund household until the final entry into the gathering at Elgsteinn No. 13?"
+  },
+  {
+    "id": 38,
+    "question": "According to the record from December 31, 1984, how long did it take from when \"we\" arrived at the gathering until the decision was made to leave for the Sarm Cross Road?"
+  },
+  {
+    "id": 39,
+    "question": "According to the record dated December 31, 1984, how long did it take from when \"we\" arrived at the Thum Crossroads to prepare for the New Year, until finally Vallund's father drove to pick us up?"
+  },
+  {
+    "id": 40,
+    "question": "According to the record from July 17, 1998, how long elapsed from Henrik Inge’s call informing his father of his death to “I” ending the call with Toni and preparing to leave?"
+  },
+  {
+    "id": 41,
+    "question": "According to the record dated July 17, 1998, how long did it take from when the taxi picked up \"I\" at Baysang Apartments until the invoice was received at Flesland Airport?"
+  },
+  {
+    "id": 42,
+    "question": "According to the record dated July 18, 1998, how long did it take from when \"we\" arrived at the funeral home and spoke with the staff until we left the funeral home's office?"
+  },
+  {
+    "id": 43,
+    "question": "From the moment \"I\" began cleaning the dirt from the basement laundry room at my grandmother's house, to the time \"I\" and Henrik Inge finished eating, how long did it take?"
+  },
+  {
+    "id": 44,
+    "question": "According to the record dated July 18, 1998, how long did it take from when \"I\" began cleaning the dirt from the downstairs bathroom of my grandmother's house until the carpet, walls, and toilet were thoroughly cleaned?"
+  },
+  {
+    "id": 45,
+    "question": "According to the record from July 18, 1998, how long passed from Henrik Inge suggesting a drink in the kitchen to the grandmother finishing her story and exclaiming about the passage of time?"
+  },
+  {
+    "id": 46,
+    "question": "According to the record from March 16, 2002, how long did it take from Karl Larsdal meeting \"me\" in the train station hall until we finished our coffee and left the station café?"
+  },
+  {
+    "id": 47,
+    "question": "According to the record from April 2, 2002, how long did it take from the time Nils Nils was called to make the appointment, until the call was completed?"
+  },
+  {
+    "id": 48,
+    "question": "According to the record from May 18, 2002, how long did it take from when \"I\" and Nils Nils met at the People's Opera House bar until we left?"
+  },
+  {
+    "id": 49,
+    "question": "According to the record from May 26, 2002, how long did it take from when \"I\" tried to confess my feelings to Nils Nils and kiss her at the Vertigo party, until \"I\" woke up after fainting?"
+  },
+  {
+    "id": 50,
+    "question": "According to the record from November 29, 2002, how long did it take from when Nils Nils and \"I\" began preparing dinner until they finished eating?"
+  },
+  {
+    "id": 51,
+    "question": "According to the record on January 30, 2004, how long did it take from the moment Nils Nils began receiving sterile water injections until he entered into severe contractions and was administered nitrous oxide?"
+  },
+  {
+    "id": 52,
+    "question": "According to the record from January 30, 2004, how long did it take from Nils Nils being in a stage of intense contractions until Vanny was finally born?"
+  },
+  {
+    "id": 53,
+    "question": "According to the record from January 31, 2004, how long did it take from Vanya's birth until Nils Nils and the child were transferred to the new ward and settled in?"
+  },
+  {
+    "id": 54,
+    "question": "According to the record as of December 31, 2004, how long elapsed from the arrival of the first guests, Anders and Helena, until all guests began their meal?"
+  },
+  {
+    "id": 55,
+    "question": "According to the record on February 13, 2005, how long did it take from when \"I\" was injured on the soccer field and taken to the hospital to when I finished dealing with the wound and returned home?"
+  },
+  {
+    "id": 56,
+    "question": "According to the record from February 15, 2005, how long did it take from Roland's arrival at the apartment to his departure?"
+  },
+  {
+    "id": 57,
+    "question": "According to the record from February 16, 2005, how long did it take from Vidal and \"I\" starting to move the freezer from the storage room to placing it in its final location?"
+  },
+  {
+    "id": 58,
+    "question": "According to the record on July 13, 2008, how long did it take from our entry into \"Cowboy Town\" until we finished our visit to \"Fairy Tale World\" and left the \"Goblin\" area?"
+  },
+  {
+    "id": 59,
+    "question": "According to the record on July 29, 2008, how long did it take from the moment we arrived at the apartment building where the birthday party was held until we left the party and went downstairs?"
+  },
+  {
+    "id": 60,
+    "question": "According to the record on July 29, 2008, how long did it take from the time we left the birthday party until we finished our Thai takeaway on the way home?"
+  },
+  {
+    "id": 61,
+    "question": "A, B, C"
+  },
+  {
+    "id": 62,
+    "question": "A, B, C"
+  },
+  {
+    "id": 63,
+    "question": "A, B, C"
+  },
+  {
+    "id": 64,
+    "question": "A, B, C"
+  },
+  {
+    "id": 65,
+    "question": "A, B, C"
+  },
+  {
+    "id": 66,
+    "question": "A, B, C"
+  },
+  {
+    "id": 67,
+    "question": "A, B, C"
+  },
+  {
+    "id": 68,
+    "question": "A, B, C"
+  },
+  {
+    "id": 69,
+    "question": "A, B, C"
+  },
+  {
+    "id": 70,
+    "question": "A, B, C"
+  },
+  {
+    "id": 71,
+    "question": "A, B, C"
+  },
+  {
+    "id": 72,
+    "question": "A, B, C"
+  },
+  {
+    "id": 73,
+    "question": "A, B, C"
+  },
+  {
+    "id": 74,
+    "question": "A, B, C"
+  },
+  {
+    "id": 75,
+    "question": "A, B, C"
+  },
+  {
+    "id": 76,
+    "question": "A, B, C"
+  },
+  {
+    "id": 77,
+    "question": "A, B, C"
+  },
+  {
+    "id": 78,
+    "question": "A, B, C"
+  },
+  {
+    "id": 79,
+    "question": "A, B, C"
+  },
+  {
+    "id": 80,
+    "question": "A, B, C"
+  },
+  {
+    "id": 81,
+    "question": "A, B, C"
+  },
+  {
+    "id": 82,
+    "question": "A, B, C"
+  },
+  {
+    "id": 83,
+    "question": "A, B, C"
+  },
+  {
+    "id": 84,
+    "question": "A, B, C"
+  },
+  {
+    "id": 85,
+    "question": "A, B, C"
+  },
+  {
+    "id": 86,
+    "question": "A, B, C"
+  },
+  {
+    "id": 87,
+    "question": "A, B, C"
+  },
+  {
+    "id": 88,
+    "question": "A, B, C"
+  },
+  {
+    "id": 89,
+    "question": "A, B, C"
+  },
+  {
+    "id": 90,
+    "question": "A, B, C"
+  },
+  {
+    "id": 91,
+    "question": "A, B, C"
+  },
+  {
+    "id": 92,
+    "question": "A, B, C"
+  },
+  {
+    "id": 93,
+    "question": "A, B, C"
+  },
+  {
+    "id": 94,
+    "question": "A, B, C"
+  },
+  {
+    "id": 95,
+    "question": "A, B, C"
+  },
+  {
+    "id": 96,
+    "question": "A, B, C"
+  },
+  {
+    "id": 97,
+    "question": "A, B, C"
+  },
+  {
+    "id": 98,
+    "question": "A, B, C"
+  },
+  {
+    "id": 99,
+    "question": "A, B, C"
+  },
+  {
+    "id": 100,
+    "question": "A, B, C"
+  },
+  {
+    "id": 101,
+    "question": "A, B, C"
+  },
+  {
+    "id": 102,
+    "question": "A, B, C"
+  },
+  {
+    "id": 103,
+    "question": "A, B, C"
+  },
+  {
+    "id": 104,
+    "question": "A, B, C"
+  },
+  {
+    "id": 105,
+    "question": "A, B, C"
+  },
+  {
+    "id": 106,
+    "question": "A, B, C"
+  },
+  {
+    "id": 107,
+    "question": "A, B, C"
+  },
+  {
+    "id": 108,
+    "question": "A, B, C"
+  },
+  {
+    "id": 109,
+    "question": "A, B, C"
+  },
+  {
+    "id": 110,
+    "question": "A, B, C"
+  },
+  {
+    "id": 111,
+    "question": "A, B, C"
+  },
+  {
+    "id": 112,
+    "question": "A, B, C"
+  },
+  {
+    "id": 113,
+    "question": "A, B, C"
+  },
+  {
+    "id": 114,
+    "question": "A, B, C"
+  },
+  {
+    "id": 115,
+    "question": "A, B, C"
+  },
+  {
+    "id": 116,
+    "question": "A, B, C"
+  },
+  {
+    "id": 117,
+    "question": "A, B, C"
+  },
+  {
+    "id": 118,
+    "question": "A, B, C"
+  },
+  {
+    "id": 119,
+    "question": "A, B, C"
+  },
+  {
+    "id": 120,
+    "question": "A, B, C"
+  },
+  {
+    "id": 121,
+    "question": "A, B, C"
+  },
+  {
+    "id": 122,
+    "question": "A, B, C"
+  },
+  {
+    "id": 123,
+    "question": "A, B, C"
+  },
+  {
+    "id": 124,
+    "question": "A, B, C"
+  },
+  {
+    "id": 125,
+    "question": "A, B, C"
+  },
+  {
+    "id": 126,
+    "question": "A, B, C"
+  },
+  {
+    "id": 127,
+    "question": "A, B, C"
+  },
+  {
+    "id": 128,
+    "question": "A, B, C"
+  },
+  {
+    "id": 129,
+    "question": "A, B, C"
+  },
+  {
+    "id": 130,
+    "question": "A, B, C"
+  },
+  {
+    "id": 131,
+    "question": "A, B, C"
+  }
+]

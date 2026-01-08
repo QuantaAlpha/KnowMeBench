@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 1,
+    "type": "Information Extraction",
+    "answer": "Aucity Shipping Company",
+    "evidence": 1,
+    "entity_type": "Organization",
+    "question_id": 1
+  },
+  {
+    "id": 2,
+    "type": "Information Extraction",
+    "answer": "Henrik Inge",
+    "evidence": 6,
+    "entity_type": "Person",
+    "question_id": 1
+  },
+  {
+    "id": 3,
+    "type": "Information Extraction",
+    "answer": "A newly built house.",
+    "evidence": 12,
+    "entity_type": "Object",
+    "question_id": 1
+  },
+  {
+    "id": 4,
+    "type": "Information Extraction",
+    "answer": "A farm in Yorston.",
+    "evidence": 24,
+    "entity_type": "Location",
+    "question_id": 1
+  },
+  {
+    "id": 5,
+    "type": "Information Extraction",
+    "answer": "Firefighters",
+    "evidence": 42,
+    "entity_type": "Person_Role",
+    "question_id": 1
+  },
+  {
+    "id": 6,
+    "type": "Information Extraction",
+    "answer": "Skirt",
+    "evidence": 93,
+    "entity_type": "Object",
+    "question_id": 2
+  },
+  {
+    "id": 7,
+    "type": "Information Extraction",
+    "answer": "Toya Moen",
+    "evidence": 98,
+    "entity_type": "Person",
+    "question_id": 2
+  },
+  {
+    "id": 8,
+    "type": "Information Extraction",
+    "answer": "Alex",
+    "evidence": 102,
+    "entity_type": "Animal",
+    "question_id": 3
+  },
+  {
+    "id": 9,
+    "type": "Information Extraction",
+    "answer": "Lars Palmas",
+    "evidence": 164,
+    "entity_type": "Object",
+    "question_id": 3
+  },
+  {
+    "id": 10,
+    "type": "Information Extraction",
+    "answer": "Lars Palmas",
+    "evidence": 164,
+    "entity_type": "Object",
+    "question_id": 2
+  },
+  {
+    "id": 11,
+    "type": "Information Extraction",
+    "answer": "Crab",
+    "evidence": 178,
+    "entity_type": "Object",
+    "question_id": 3
+  },
+  {
+    "id": 12,
+    "type": "Information Extraction",
+    "answer": "Grandma and Grandpa",
+    "evidence": 183,
+    "entity_type": "Person",
+    "question_id": 4
+  },
+  {
+    "id": 13,
+    "type": "Information Extraction",
+    "answer": "Toya Moen",
+    "evidence": 235,
+    "entity_type": "Person",
+    "question_id": 2
+  },
+  {
+    "id": 14,
+    "type": "Information Extraction",
+    "answer": "Toya Moen",
+    "evidence": 235,
+    "entity_type": "Person",
+    "question_id": 2
+  },
+  {
+    "id": 15,
+    "type": "Information Extraction",
+    "answer": "White sugar",
+    "evidence": 313,
+    "entity_type": "Food",
+    "question_id": 3
+  },
+  {
+    "id": 16,
+    "type": "Information Extraction",
+    "answer": "Karl Larsdal",
+    "evidence": 326,
+    "entity_type": "Person",
+    "question_id": 4
+  },
+  {
+    "id": 17,
+    "type": "Information Extraction",
+    "answer": "By Oscar",
+    "evidence": 328,
+    "entity_type": "Person",
+    "question_id": 5
+  },
+  {
+    "id": 18,
+    "type": "Information Extraction",
+    "answer": "By Oscar",
+    "evidence": 328,
+    "entity_type": "Person",
+    "question_id": 4
+  },
+  {
+    "id": 19,
+    "type": "Information Extraction",
+    "answer": "Bottle filled with water",
+    "evidence": 346,
+    "entity_type": "Object",
+    "question_id": 5
+  },
+  {
+    "id": 20,
+    "type": "Information Extraction",
+    "answer": "Bottle filled with water",
+    "evidence": 346,
+    "entity_type": "Object",
+    "question_id": 6
+  },
+  {
+    "id": 21,
+    "type": "Information Extraction",
+    "answer": "Hunting attire",
+    "evidence": 487,
+    "entity_type": "Object",
+    "question_id": 3
+  },
+  {
+    "id": 22,
+    "type": "Information Extraction",
+    "answer": "Hunting attire",
+    "evidence": 487,
+    "entity_type": "Object",
+    "question_id": 4
+  },
+  {
+    "id": 23,
+    "type": "Information Extraction",
+    "answer": "Teks Vile",
+    "evidence": 494,
+    "entity_type": "Art_Work",
+    "question_id": 7
+  },
+  {
+    "id": 24,
+    "type": "Information Extraction",
+    "answer": "Teks Vile",
+    "evidence": 494,
+    "entity_type": "Art_Work",
+    "question_id": 5
+  },
+  {
+    "id": 25,
+    "type": "Information Extraction",
+    "answer": "A huge (overturned) pine tree",
+    "evidence": 496,
+    "entity_type": "Object",
+    "question_id": 6
+  },
+  {
+    "id": 26,
+    "type": "Information Extraction",
+    "answer": "Fox and Knox",
+    "evidence": 511,
+    "entity_type": "Product",
+    "question_id": 8
+  },
+  {
+    "id": 27,
+    "type": "Information Extraction",
+    "answer": "White bikini",
+    "evidence": 552,
+    "entity_type": "Object",
+    "question_id": 7
+  },
+  {
+    "id": 28,
+    "type": "Information Extraction",
+    "answer": "A bench.",
+    "evidence": 738,
+    "entity_type": "Object",
+    "question_id": 4
+  },
+  {
+    "id": 29,
+    "type": "Information Extraction",
+    "answer": "Kneeling on the roof.",
+    "evidence": 745,
+    "entity_type": "Action",
+    "question_id": 5
+  },
+  {
+    "id": 30,
+    "type": "Information Extraction",
+    "answer": "Compost bin near the stone fence",
+    "evidence": 953,
+    "entity_type": "Object",
+    "question_id": 5
+  },
+  {
+    "id": 31,
+    "type": "Information Extraction",
+    "answer": "Volvo",
+    "evidence": 1005,
+    "entity_type": "Product",
+    "question_id": 6
+  },
+  {
+    "id": 32,
+    "type": "Information Extraction",
+    "answer": "Doctor's Show",
+    "evidence": 1188,
+    "entity_type": "Art_Work",
+    "question_id": 7
+  },
+  {
+    "id": 33,
+    "type": "Information Extraction",
+    "answer": "Five people",
+    "evidence": 1192,
+    "entity_type": "Quantity",
+    "question_id": 6
+  },
+  {
+    "id": 34,
+    "type": "Information Extraction",
+    "answer": "Ingeborg Lofnes",
+    "evidence": 1323,
+    "entity_type": "Person",
+    "question_id": 8
+  },
+  {
+    "id": 35,
+    "type": "Information Extraction",
+    "answer": "Red",
+    "evidence": 1419,
+    "entity_type": "Color",
+    "question_id": 7
+  },
+  {
+    "id": 36,
+    "type": "Information Extraction",
+    "answer": "Mercedes-Benz",
+    "evidence": 1689,
+    "entity_type": "Organization",
+    "question_id": 8
+  },
+  {
+    "id": 37,
+    "type": "Information Extraction",
+    "answer": "Mercedes-Benz",
+    "evidence": 1689,
+    "entity_type": "Organization",
+    "question_id": 9
+  },
+  {
+    "id": 38,
+    "type": "Information Extraction",
+    "answer": "Ship shape",
+    "evidence": 1721,
+    "entity_type": "Object",
+    "question_id": 8
+  },
+  {
+    "id": 39,
+    "type": "Information Extraction",
+    "answer": "Green cod",
+    "evidence": 1764,
+    "entity_type": "Animal",
+    "question_id": 9
+  },
+  {
+    "id": 40,
+    "type": "Information Extraction",
+    "answer": "The Smuggler",
+    "evidence": 1861,
+    "entity_type": "Art_Work",
+    "question_id": 6
+  },
+  {
+    "id": 41,
+    "type": "Information Extraction",
+    "answer": "E chord",
+    "evidence": 1895,
+    "entity_type": "Other",
+    "question_id": 9
+  },
+  {
+    "id": 42,
+    "type": "Information Extraction",
+    "answer": "Beige",
+    "evidence": 1918,
+    "entity_type": "Object",
+    "question_id": 9
+  },
+  {
+    "id": 43,
+    "type": "Information Extraction",
+    "answer": "Beige",
+    "evidence": 1918,
+    "entity_type": "Color",
+    "question_id": 10
+  },
+  {
+    "id": 44,
+    "type": "Information Extraction",
+    "answer": "Everton team",
+    "evidence": 2038,
+    "entity_type": "Organization",
+    "question_id": 7
+  },
+  {
+    "id": 45,
+    "type": "Information Extraction",
+    "answer": "A folding stool",
+    "evidence": 2040,
+    "entity_type": "Object",
+    "question_id": 10
+  },
+  {
+    "id": 46,
+    "type": "Information Extraction",
+    "answer": "A folding stool",
+    "evidence": 2040,
+    "entity_type": "Object",
+    "question_id": 10
+  },
+  {
+    "id": 47,
+    "type": "Information Extraction",
+    "answer": "Not lit (or it has wilted)",
+    "evidence": 2051,
+    "entity_type": "Event_Cause",
+    "question_id": 11
+  },
+  {
+    "id": 48,
+    "type": "Information Extraction",
+    "answer": "It's wilted (or not lit/has gone out).",
+    "evidence": 2051,
+    "entity_type": "Event_Outcome",
+    "question_id": 11
+  },
+  {
+    "id": 49,
+    "type": "Information Extraction",
+    "answer": "A Stater Cup (white)",
+    "evidence": 2063,
+    "entity_type": "Object",
+    "question_id": 12
+  },
+  {
+    "id": 50,
+    "type": "Information Extraction",
+    "answer": "“Terrible!” (Aller Værste!)",
+    "evidence": 2104,
+    "entity_type": "Group",
+    "question_id": 11
+  },
+  {
+    "id": 51,
+    "type": "Information Extraction",
+    "answer": "Tretorn",
+    "evidence": 2133,
+    "entity_type": "Product",
+    "question_id": 10
+  },
+  {
+    "id": 52,
+    "type": "Information Extraction",
+    "answer": "Frog Fish Type 17",
+    "evidence": 2139,
+    "entity_type": "Product",
+    "question_id": 13
+  },
+  {
+    "id": 53,
+    "type": "Information Extraction",
+    "answer": "Frog Fish Type 17",
+    "evidence": 2139,
+    "entity_type": "Product",
+    "question_id": 12
+  },
+  {
+    "id": 54,
+    "type": "Information Extraction",
+    "answer": "Bajazzo of Vesfjord",
+    "evidence": 2184,
+    "entity_type": "Location",
+    "question_id": 14
+  },
+  {
+    "id": 55,
+    "type": "Information Extraction",
+    "answer": "Bajazzo",
+    "evidence": 2184,
+    "entity_type": "Location",
+    "question_id": 13
+  },
+  {
+    "id": 56,
+    "type": "Information Extraction",
+    "answer": "A dead seagull",
+    "evidence": 2276,
+    "entity_type": "Animal",
+    "question_id": 14
+  },
+  {
+    "id": 57,
+    "type": "Information Extraction",
+    "answer": "Orange-red",
+    "evidence": 2276,
+    "entity_type": "Color",
+    "question_id": 12
+  },
+  {
+    "id": 58,
+    "type": "Information Extraction",
+    "answer": "Hilde",
+    "evidence": 2338,
+    "entity_type": "Person",
+    "question_id": 15
+  },
+  {
+    "id": 59,
+    "type": "Information Extraction",
+    "answer": "A box (large) of chocolate",
+    "evidence": 2355,
+    "entity_type": "Object",
+    "question_id": 11
+  },
+  {
+    "id": 60,
+    "type": "Information Extraction",
+    "answer": "Ice",
+    "evidence": 2456,
+    "entity_type": "Object",
+    "question_id": 13
+  },
+  {
+    "id": 61,
+    "type": "Information Extraction",
+    "answer": "Echo and the Bunnymen",
+    "evidence": 2474,
+    "entity_type": "Group",
+    "question_id": 8
+  },
+  {
+    "id": 62,
+    "type": "Information Extraction",
+    "answer": "Stig Johndal",
+    "evidence": 2570,
+    "entity_type": "Person",
+    "question_id": 15
+  },
+  {
+    "id": 63,
+    "type": "Information Extraction",
+    "answer": "Trunk (or rear)",
+    "evidence": 2593,
+    "entity_type": "Location",
+    "question_id": 12
+  },
+  {
+    "id": 64,
+    "type": "Information Extraction",
+    "answer": "Roadside bushes (or beneath a birch tree)",
+    "evidence": 2596,
+    "entity_type": "Location",
+    "question_id": 16
+  },
+  {
+    "id": 65,
+    "type": "Information Extraction",
+    "answer": "Marivik",
+    "evidence": 2613,
+    "entity_type": "Person",
+    "question_id": 16
+  },
+  {
+    "id": 66,
+    "type": "Information Extraction",
+    "answer": "Pomai Dan Yan",
+    "evidence": 2698,
+    "entity_type": "Brand",
+    "question_id": 17
+  },
+  {
+    "id": 67,
+    "type": "Information Extraction",
+    "answer": "Pomai Dan Yan",
+    "evidence": 2698,
+    "entity_type": "Brand",
+    "question_id": 14
+  },
+  {
+    "id": 68,
+    "type": "Information Extraction",
+    "answer": "Taye",
+    "evidence": 2710,
+    "entity_type": "Person",
+    "question_id": 17
+  },
+  {
+    "id": 69,
+    "type": "Information Extraction",
+    "answer": "Crown",
+    "evidence": 2803,
+    "entity_type": "Object",
+    "question_id": 18
+  },
+  {
+    "id": 70,
+    "type": "Information Extraction",
+    "answer": "Shrimp Cabaret (or Shrimp/Crab/Lobster/Ham)",
+    "evidence": 2824,
+    "entity_type": "Food",
+    "question_id": 13
+  },
+  {
+    "id": 71,
+    "type": "Information Extraction",
+    "answer": "Sea Shrimp Cabaret",
+    "evidence": 2824,
+    "entity_type": "Food",
+    "question_id": 15
+  },
+  {
+    "id": 72,
+    "type": "Information Extraction",
+    "answer": "Bodil",
+    "evidence": 2979,
+    "entity_type": "Person",
+    "question_id": 18
+  },
+  {
+    "id": 73,
+    "type": "Information Extraction",
+    "answer": "Twenty years",
+    "evidence": 3054,
+    "entity_type": "Time",
+    "question_id": 14
+  },
+  {
+    "id": 74,
+    "type": "Information Extraction",
+    "answer": "350 kroner",
+    "evidence": 3058,
+    "entity_type": "Money",
+    "question_id": 16
+  },
+  {
+    "id": 75,
+    "type": "Information Extraction",
+    "answer": "A cup of coffee and a newspaper.",
+    "evidence": 3063,
+    "entity_type": "Object",
+    "question_id": 19
+  },
+  {
+    "id": 76,
+    "type": "Information Extraction",
+    "answer": "Petterøe",
+    "evidence": 3159,
+    "entity_type": "Brand",
+    "question_id": 9
+  },
+  {
+    "id": 77,
+    "type": "Information Extraction",
+    "answer": "Petterøe",
+    "evidence": 3159,
+    "entity_type": "Brand",
+    "question_id": 20
+  },
+  {
+    "id": 78,
+    "type": "Information Extraction",
+    "answer": "Salmon",
+    "evidence": 3225,
+    "entity_type": "Food",
+    "question_id": 19
+  },
+  {
+    "id": 79,
+    "type": "Information Extraction",
+    "answer": "Salt",
+    "evidence": 3343,
+    "entity_type": "Food",
+    "question_id": 15
+  },
+  {
+    "id": 80,
+    "type": "Information Extraction",
+    "answer": "Ringing.",
+    "evidence": 3350,
+    "entity_type": "Sound",
+    "question_id": 17
+  },
+  {
+    "id": 81,
+    "type": "Information Extraction",
+    "answer": "A needle.",
+    "evidence": 3459,
+    "entity_type": "Object",
+    "question_id": 20
+  },
+  {
+    "id": 82,
+    "type": "Information Extraction",
+    "answer": "\"Comfort for That Wound\"",
+    "evidence": 3511,
+    "entity_type": "Art_Work",
+    "question_id": 21
+  },
+  {
+    "id": 83,
+    "type": "Information Extraction",
+    "answer": "Bergson",
+    "evidence": 3516,
+    "entity_type": "Person",
+    "question_id": 10
+  },
+  {
+    "id": 84,
+    "type": "Information Extraction",
+    "answer": "Mirror fragments (or mirrors)",
+    "evidence": 3549,
+    "entity_type": "Object",
+    "question_id": 16
+  },
+  {
+    "id": 85,
+    "type": "Information Extraction",
+    "answer": "Songs (by Hölderlin)",
+    "evidence": 3625,
+    "entity_type": "Art_Work",
+    "question_id": 21
+  },
+  {
+    "id": 86,
+    "type": "Information Extraction",
+    "answer": "Hölderlin",
+    "evidence": 3625,
+    "entity_type": "Person",
+    "question_id": 22
+  },
+  {
+    "id": 87,
+    "type": "Information Extraction",
+    "answer": "Songs",
+    "evidence": 3625,
+    "entity_type": "Art_Work",
+    "question_id": 18
+  },
+  {
+    "id": 88,
+    "type": "Information Extraction",
+    "answer": "Shoe pattern",
+    "evidence": 3702,
+    "entity_type": "Object",
+    "question_id": 22
+  },
+  {
+    "id": 89,
+    "type": "Information Extraction",
+    "answer": "Juliet",
+    "evidence": 3859,
+    "entity_type": "Person",
+    "question_id": 23
+  },
+  {
+    "id": 90,
+    "type": "Information Extraction",
+    "answer": "Juliet",
+    "evidence": 3859,
+    "entity_type": "Person",
+    "question_id": 23
+  },
+  {
+    "id": 91,
+    "type": "Information Extraction",
+    "answer": "Maria Mountain Interchange",
+    "evidence": 3907,
+    "entity_type": "Location",
+    "question_id": 17
+  },
+  {
+    "id": 92,
+    "type": "Information Extraction",
+    "answer": "Lasse Coffee House in the Garden",
+    "evidence": 3939,
+    "entity_type": "Location",
+    "question_id": 19
+  },
+  {
+    "id": 93,
+    "type": "Information Extraction",
+    "answer": "Dizziness outside the main gate.",
+    "evidence": 3995,
+    "entity_type": "Location",
+    "question_id": 24
+  },
+  {
+    "id": 94,
+    "type": "Information Extraction",
+    "answer": "Dizziness outside the main gate.",
+    "evidence": 3995,
+    "entity_type": "Location",
+    "question_id": 24
+  },
+  {
+    "id": 95,
+    "type": "Information Extraction",
+    "answer": "Have some children (or want to have children).",
+    "evidence": 4005,
+    "entity_type": "Event",
+    "question_id": 18
+  },
+  {
+    "id": 96,
+    "type": "Information Extraction",
+    "answer": "Ola",
+    "evidence": 4021,
+    "entity_type": "Person",
+    "question_id": 25
+  },
+  {
+    "id": 97,
+    "type": "Information Extraction",
+    "answer": "Venice Apartment",
+    "evidence": 4120,
+    "entity_type": "Location",
+    "question_id": 20
+  },
+  {
+    "id": 98,
+    "type": "Information Extraction",
+    "answer": "Leivik dialect",
+    "evidence": 4272,
+    "entity_type": "Language",
+    "question_id": 19
+  },
+  {
+    "id": 99,
+    "type": "Information Extraction",
+    "answer": "Pete Greenaway",
+    "evidence": 4325,
+    "entity_type": "Person",
+    "question_id": 21
+  },
+  {
+    "id": 100,
+    "type": "Information Extraction",
+    "answer": "US Audio Store",
+    "evidence": 4438,
+    "entity_type": "Organization",
+    "question_id": 22
+  },
+  {
+    "id": 101,
+    "type": "Information Extraction",
+    "answer": "Ground",
+    "evidence": 4515,
+    "entity_type": "Location",
+    "question_id": 20
+  },
+  {
+    "id": 102,
+    "type": "Information Extraction",
+    "answer": "Sterile Water Injection",
+    "evidence": 4646,
+    "entity_type": "Medical_Procedure",
+    "question_id": 26
+  },
+  {
+    "id": 103,
+    "type": "Information Extraction",
+    "answer": "Sterile Water Injection",
+    "evidence": 4646,
+    "entity_type": "Medical_Procedure",
+    "question_id": 25
+  },
+  {
+    "id": 104,
+    "type": "Information Extraction",
+    "answer": "The narrator (me/father)",
+    "evidence": 4755,
+    "entity_type": "Person",
+    "question_id": 21
+  },
+  {
+    "id": 105,
+    "type": "Information Extraction",
+    "answer": "Pink",
+    "evidence": 4797,
+    "entity_type": "Color",
+    "question_id": 23
+  },
+  {
+    "id": 106,
+    "type": "Information Extraction",
+    "answer": "A single-lens reflex camera",
+    "evidence": 4851,
+    "entity_type": "Object",
+    "question_id": 27
+  },
+  {
+    "id": 107,
+    "type": "Information Extraction",
+    "answer": "A single-lens reflex camera",
+    "evidence": 4851,
+    "entity_type": "Object",
+    "question_id": 26
+  },
+  {
+    "id": 108,
+    "type": "Information Extraction",
+    "answer": "The Encyclopædia Britannica, 18th Century",
+    "evidence": 4984,
+    "entity_type": "Art_Work",
+    "question_id": 22
+  },
+  {
+    "id": 109,
+    "type": "Information Extraction",
+    "answer": "Anders Johan",
+    "evidence": 5110,
+    "entity_type": "Person",
+    "question_id": 24
+  },
+  {
+    "id": 110,
+    "type": "Information Extraction",
+    "answer": "Don't let her be alone with Wan Niya.",
+    "evidence": 5208,
+    "entity_type": "Event",
+    "question_id": 23
+  },
+  {
+    "id": 111,
+    "type": "Information Extraction",
+    "answer": "Harvik to the east",
+    "evidence": 5340,
+    "entity_type": "Location",
+    "question_id": 25
+  },
+  {
+    "id": 112,
+    "type": "Information Extraction",
+    "answer": "Kai",
+    "evidence": 5466,
+    "entity_type": "Person",
+    "question_id": 24
+  },
+  {
+    "id": 113,
+    "type": "Information Extraction",
+    "answer": "Clavicle",
+    "evidence": 5474,
+    "entity_type": "Body Part",
+    "question_id": 28
+  },
+  {
+    "id": 114,
+    "type": "Information Extraction",
+    "answer": "Clavicle",
+    "evidence": 5474,
+    "entity_type": "Body Part",
+    "question_id": 27
+  },
+  {
+    "id": 115,
+    "type": "Information Extraction",
+    "answer": "Emilie Harris",
+    "evidence": 5556,
+    "entity_type": "Person",
+    "question_id": 28
+  },
+  {
+    "id": 116,
+    "type": "Information Extraction",
+    "answer": "Black",
+    "evidence": 5612,
+    "entity_type": "Color",
+    "question_id": 26
+  },
+  {
+    "id": 117,
+    "type": "Information Extraction",
+    "answer": "Storage room (or shed)",
+    "evidence": 5676,
+    "entity_type": "Location",
+    "question_id": 25
+  },
+  {
+    "id": 118,
+    "type": "Information Extraction",
+    "answer": "Karinvik",
+    "evidence": 5787,
+    "entity_type": "Person",
+    "question_id": 29
+  },
+  {
+    "id": 119,
+    "type": "Information Extraction",
+    "answer": "Delacroix",
+    "evidence": 5787,
+    "entity_type": "Person",
+    "question_id": 26
+  },
+  {
+    "id": 120,
+    "type": "Information Extraction",
+    "answer": "Gunnar Knut",
+    "evidence": 5894,
+    "entity_type": "Person",
+    "question_id": 27
+  },
+  {
+    "id": 121,
+    "type": "Information Extraction",
+    "answer": "Little Mouse",
+    "evidence": 6186,
+    "entity_type": "Object",
+    "question_id": 29
+  },
+  {
+    "id": 122,
+    "type": "Information Extraction",
+    "answer": "Marshmallow",
+    "evidence": 6187,
+    "entity_type": "Food",
+    "question_id": 30
+  },
+  {
+    "id": 123,
+    "type": "Information Extraction",
+    "answer": "Marshmallow",
+    "evidence": 6187,
+    "entity_type": "Food",
+    "question_id": 28
+  },
+  {
+    "id": 124,
+    "type": "Information Extraction",
+    "answer": "Tompen",
+    "evidence": 6260,
+    "entity_type": "John",
+    "question_id": 27
+  },
+  {
+    "id": 125,
+    "type": "Information Extraction",
+    "answer": "A book",
+    "evidence": 6364,
+    "entity_type": "Object",
+    "question_id": 28
+  },
+  {
+    "id": 126,
+    "type": "Information Extraction",
+    "answer": "A book",
+    "evidence": 6364,
+    "entity_type": "Object",
+    "question_id": 29
+  },
+  {
+    "id": 127,
+    "type": "Information Extraction",
+    "answer": "York",
+    "evidence": 6522,
+    "entity_type": "Person",
+    "question_id": 30
+  },
+  {
+    "id": 128,
+    "type": "Information Extraction",
+    "answer": "Vania",
+    "evidence": 6603,
+    "entity_type": "Person",
+    "question_id": 29
+  },
+  {
+    "id": 129,
+    "type": "Information Extraction",
+    "answer": "Gift Pack",
+    "evidence": 6761,
+    "entity_type": "Object",
+    "question_id": 30
+  },
+  {
+    "id": 130,
+    "type": "Information Extraction",
+    "answer": "Various colors",
+    "evidence": 6844,
+    "entity_type": "Color",
+    "question_id": 30
+  }
+]

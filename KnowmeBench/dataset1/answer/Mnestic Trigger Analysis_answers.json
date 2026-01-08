@@ -1,0 +1,2229 @@
+[
+  {
+    "id": 1,
+    "type": "Chronological_Displacement",
+    "answer": "The transition from renting an apartment on Thereses Street in Berlunn (Oslo) to building and moving into their own house in Tromøy.",
+    "evidence": [
+      18
+    ],
+    "reasoning": "1. Identify the narrative present: 1969, moving to Tromøy.  \n2. Identify the memory past: 1964-1969, living in Berlunn.  \n3. Locate the anchor: The narrator contrasts the five years spent in the rented apartment near Bislett Stadium with the new house being built for them in Tromøy."
+  },
+  {
+    "id": 2,
+    "type": "Chronological_Displacement",
+    "answer": "The father's night shifts while studying English/Levinvik and the mother's attendance at Ullevål Nursing College.",
+    "evidence": [
+      19
+    ],
+    "reasoning": "1. Narrative present: 1969, parents have jobs (teacher, nurse). 2. Memory past: Life in Berlunn. 3. Anchor: The memory is anchored by the struggle of the father studying/working nights and the mother attending nursing school before they were fully qualified."
+  },
+  {
+    "id": 3,
+    "type": "Chronological_Displacement",
+    "answer": "The wedding photos where the father is smiling but appears surrounded by loneliness, lacking his own family's presence.",
+    "evidence": [
+      20
+    ],
+    "reasoning": "1. Narrative present: 1969. 2. Memory past: Wedding (1964/65) and meeting (1961). 3. Anchor: The narrator focuses on the wedding photographs ('all the photos') to deduce the father's isolation amidst the mother's large family."
+  },
+  {
+    "id": 4,
+    "type": "Chronological_Displacement",
+    "answer": "Their birth year, 1944.",
+    "evidence": [
+      23
+    ],
+    "reasoning": "1. Identify the subject: The parents' generation. 2. Locate the trigger for the historical displacement: The text explicitly cites '1944' as their birth year, anchoring them to the post-war reconstruction era (1950s)."
+  },
+  {
+    "id": 5,
+    "type": "Chronological_Displacement",
+    "answer": "The shift of fishermen's and farmers' children leaving home to enter universities and become professionals (teachers, psychologists, etc.).",
+    "evidence": [
+      26
+    ],
+    "reasoning": "1. Narrative context: 1969, analyzing social change. 2. Memory content: The 1950s-60s educational revolution. 3. Anchor: The specific detail of children from working-class backgrounds (fishermen, farmers) becoming academics and living away from home."
+  },
+  {
+    "id": 6,
+    "type": "Chronological_Displacement",
+    "answer": "The idea of marrying a neighbor from a nearby farm and staying in the same place for the rest of her life.",
+    "evidence": [
+      27
+    ],
+    "reasoning": "1. Identify the character's mindset: The mother in the 60s.  \n2. Identify the displacement trigger: Her desire to escape.  \n3. Anchor: The 'absurd idea' of marrying a local farmer anchors her motivation to leave."
+  },
+  {
+    "id": 7,
+    "type": "Chronological_Displacement",
+    "answer": "The family's expectation for him to receive an education.",
+    "evidence": [
+      29
+    ],
+    "reasoning": "1. Identify the character: The father. 2. Identify the displacement: Divergence from tradition. 3. Anchor: The specific expectation (education) that pushed him away from the traditional life of marrying a farmer's daughter."
+  },
+  {
+    "id": 8,
+    "type": "Chronological_Displacement",
+    "answer": "The old shipowner's manor on Merdø and the exotic ballast plants found on Tromøy.",
+    "evidence": [
+      32
+    ],
+    "reasoning": "1. Narrative present: Description of Tromøy (1969). 2. Memory/Historical time: 18th/19th century trade era. 3. Anchor: The physical presence of the manor on Merdø and the exotic plants brought by ships anchor the history to the present landscape."
+  },
+  {
+    "id": 9,
+    "type": "Chronological_Displacement",
+    "answer": "The blue color of the coarse gravel in the summer.",
+    "evidence": [
+      120
+    ],
+    "reasoning": "1. Narrative present: 1975. 2. Memory: Childhood driveway. 3. Anchor: The visual detail that the gravel looked 'almost blue' in the summer."
+  },
+  {
+    "id": 10,
+    "type": "Chronological_Displacement",
+    "answer": "They anchor the memory to the specific '1970s style' of his childhood driveway.",
+    "evidence": [
+      122
+    ],
+    "reasoning": "1. Narrative present: 1975 walk. 2. Memory object: Car list. 3. Function: They are explicitly identified as '70s style cars' that define the childhood driveway memory."
+  },
+  {
+    "id": 11,
+    "type": "Chronological_Displacement",
+    "answer": "The grandparents wearing their 'finest clothes' on the beach, unaffected by the environment.",
+    "evidence": [
+      297
+    ],
+    "reasoning": "1. Narrative present: 1975 swimming trip. 2. Memory/Vibe: 1950s. 3. Anchor: The grandparents' refusal to dress down (wearing finest clothes) anchors them to the 50s and their inner character."
+  },
+  {
+    "id": 12,
+    "type": "Chronological_Displacement",
+    "answer": "An ivory tusk retrieved from a slave ship that sank in 1768.",
+    "evidence": [
+      589
+    ],
+    "reasoning": "1. Narrative present: 1975 school setting.  \n2. Memory/History: 1768 slave ship.  \n3. Anchor: The principal holding the ivory tusk emerging from the sea anchors the narrator's fascination."
+  },
+  {
+    "id": 13,
+    "type": "Chronological_Displacement",
+    "answer": "Boxes of old magazines dating back to the 50s and tin toys.",
+    "evidence": [
+      878
+    ],
+    "reasoning": "1. Narrative present: 1975 attic. 2. Memory: Father's 50s childhood. 3. Anchor: The physical presence of the old magazines and tin toys."
+  },
+  {
+    "id": 14,
+    "type": "Chronological_Displacement",
+    "answer": "The grandmother's repetitive story that the father also wanted to be a handyman/cleaner when he was small.",
+    "evidence": [
+      1200
+    ],
+    "reasoning": "1. Narrative present: 1975 conversation. 2. Memory: Father's childhood. 3. Anchor: The grandmother's repetitive storytelling comparing Henrik Inge's wish to the father's identical wish."
+  },
+  {
+    "id": 15,
+    "type": "Chronological_Displacement",
+    "answer": "The contrast between the timeless fire and the modern 1970s environment (cars, houses).",
+    "evidence": [
+      1361
+    ],
+    "reasoning": "1. Narrative present: 1976. 2. Philosophical displacement: Timelessness vs Modernity. 3. Anchor: The fire triggers the thought of the 'ancient,' while the cars/houses anchor the 'modern 70s' identity."
+  },
+  {
+    "id": 16,
+    "type": "Chronological_Displacement",
+    "answer": "Living \"shoulder to shoulder\" in the Tybakken house with separate internal lives while maintaining a shared external family facade.",
+    "evidence": [
+      1813
+    ],
+    "reasoning": "1. Narrative present: 1976 context. 2. Memory span: 70s-80s. 3. Anchor: The description of living in the house 'shoulder to shoulder' with two cars and two jobs anchors the perception of their parallel lives."
+  },
+  {
+    "id": 17,
+    "type": "Chronological_Displacement",
+    "answer": "The father's drinking habits and his mention of a trip to Reykjavik with an Icelandic girlfriend.",
+    "evidence": [
+      2091
+    ],
+    "reasoning": "1. Narrative present: 1978 (start of father's drinking). 2. Flash-forward: Early 90s visit. 3. Anchor: The topic of alcohol connects 1978 to the 90s meeting where the father is drunk and discusses the girlfriend."
+  },
+  {
+    "id": 18,
+    "type": "Chronological_Displacement",
+    "answer": "The specific year '2004' mentioned in a report about oil depletion.",
+    "evidence": [
+      2110
+    ],
+    "reasoning": "1. Narrative present: 1980. 2. Future projection: 2004. 3. Anchor: The specific number/year '2004' heard on the news anchors the displacement to the future."
+  },
+  {
+    "id": 19,
+    "type": "Chronological_Displacement",
+    "answer": "The word 'Socialism', which he associates with a 1950s 'Mykle-esque' passion rather than the dull reality.",
+    "evidence": [
+      2926
+    ],
+    "reasoning": "1. Narrative present: 1985 meeting.  \n2. Memory/Ideal: 1950s passion.  \n3. Anchor: The specific word 'Socialism' triggers the association with the 50s and burning desire."
+  },
+  {
+    "id": 20,
+    "type": "Chronological_Displacement",
+    "answer": "The father's arguments are anchored in 'reality' (student life, football, porridge), while Kjartan's passion is anchored in 'another place' (political idealism).",
+    "evidence": [
+      2969
+    ],
+    "reasoning": "1. Narrative present: 1985 argument. 2. Contrast: Reality vs Idealism (Other place). 3. Anchor: The list of mundane real-world things (porridge, comics) anchors the father, while 'passion' anchors Kjartan."
+  },
+  {
+    "id": 21,
+    "type": "Chronological_Displacement",
+    "answer": "The band 'Queen' (and specifically Brian May).",
+    "evidence": [
+      3099
+    ],
+    "reasoning": "1. Narrative present: 1998 car ride.  \n2. Memory: Brother's room.  \n3. Anchor: Seeing the Queen CD triggers the memory of the brother playing guitar like Brian May."
+  },
+  {
+    "id": 22,
+    "type": "Chronological_Displacement",
+    "answer": "Early morning fishing trips in the freezing cold.",
+    "evidence": [
+      3108
+    ],
+    "reasoning": "1. Narrative present: 1998. 2. Memory: 1982 (Mother away). 3. Anchor: The specific recurring event of fishing trips at 6 AM anchors this period."
+  },
+  {
+    "id": 23,
+    "type": "Chronological_Displacement",
+    "answer": "The sensation of cold water being run over his head in the bathtub.",
+    "evidence": [
+      3109
+    ],
+    "reasoning": "1. Narrative present: 1998 thought process.  \n2. Memory: Childhood trauma.  \n3. Anchor: The sensory detail of the 'ice cold water' in the bathtub anchors the memory of the punishment."
+  },
+  {
+    "id": 24,
+    "type": "Chronological_Displacement",
+    "answer": "The fantasy of the water rising to cover the forest, turning hills into islands.",
+    "evidence": [
+      3111
+    ],
+    "reasoning": "1. Narrative present: 1998 driving. 2. Memory: Childhood fantasy. 3. Anchor: The specific imagined scenario of water covering the forest anchors the displacement."
+  },
+  {
+    "id": 25,
+    "type": "Chronological_Displacement",
+    "answer": "The Hennig-Olsen ice cream factory and the Falconbridge Nickel plant.",
+    "evidence": [
+      3114
+    ],
+    "reasoning": "1. Narrative present: 1998 driving. 2. Memory: Youth. 3. Anchor: The specific landmarks (Ice cream factory, Nickel plant) match the internal images."
+  },
+  {
+    "id": 26,
+    "type": "Chronological_Displacement",
+    "answer": "The gravel courts where he trained for the junior football team.",
+    "evidence": [
+      3119
+    ],
+    "reasoning": "1. Narrative present: 1998 driving. 2. Memory: 16 years old. 3. Anchor: Passing the gravel courts triggers the memory of football training."
+  },
+  {
+    "id": 27,
+    "type": "Chronological_Displacement",
+    "answer": "The man's black curly hair, bald spot, and corduroy trousers.",
+    "evidence": [
+      3122
+    ],
+    "reasoning": "1. Narrative present: 1998 funeral. 2. Memory: High school teacher. 3. Anchor: The specific physical description (curly hair, bald spot, corduroy) anchors the recognition."
+  },
+  {
+    "id": 28,
+    "type": "Chronological_Displacement",
+    "answer": "The car accident where Magnus Nord died after hitting a gate/iron bar.",
+    "evidence": [
+      3128
+    ],
+    "reasoning": "1. Narrative present: 1998 funeral. 2. Memory: Magnus Nord's funeral. 3. Anchor: The context of a funeral triggers the specific memory of Magnus Nord's tragic car crash."
+  },
+  {
+    "id": 29,
+    "type": "Chronological_Displacement",
+    "answer": "The complex parking maneuver (reversing down to drive up) which is identical to how the father used to park.",
+    "evidence": [
+      3142
+    ],
+    "reasoning": "1. Narrative present: 1998 parking. 2. Memory: Father. 3. Anchor: The specific, identical physical maneuver of parking anchors the memory."
+  },
+  {
+    "id": 30,
+    "type": "Chronological_Displacement",
+    "answer": "An old man with a white beard and cane whom the child confused with a famous figure.",
+    "evidence": [
+      3181
+    ],
+    "reasoning": "1. Narrative present: 1998 crossing bridge.  \n2. Memory: 1972 walk.  \n3. Anchor: The memory of seeing the 'old man' anchors the childhood recollection."
+  },
+  {
+    "id": 31,
+    "type": "Chronological_Displacement",
+    "answer": "A poster of Henrik Ibsen.",
+    "evidence": [
+      3182
+    ],
+    "reasoning": "1. Narrative present: 1998 (continuation of thought). 2. Memory: Father's office. 3. Anchor: The poster of Ibsen anchors the child's confusion about the old man he saw."
+  },
+  {
+    "id": 32,
+    "type": "Chronological_Displacement",
+    "answer": "The sound of locusts, distant drums, and the sudden thunderstorm.",
+    "evidence": [
+      3193
+    ],
+    "reasoning": "1. Narrative present: 1998 reflection. 2. Memory: 1994 proposal. 3. Anchor: The sensory details (locusts, drums, rain) anchor the specific memory of the proposal."
+  },
+  {
+    "id": 33,
+    "type": "Chronological_Displacement",
+    "answer": "The father lying in the garden or on the balcony, sun-tanned and drunk, moving like he was swimming.",
+    "evidence": [
+      3201
+    ],
+    "reasoning": "1. Narrative present: 1998 thought. 2. Memory: 90s decline. 3. Anchor: The specific image of the father 'swimming' in the air while drunk anchors the memory."
+  },
+  {
+    "id": 34,
+    "type": "Chronological_Displacement",
+    "answer": "Burnt meat cakes (without potatoes or vegetables).",
+    "evidence": [
+      3202
+    ],
+    "reasoning": "1. Narrative present: 1998 walk. 2. Memory: Kitchen scene. 3. Anchor: The burnt meat cakes anchor the memory of the suicide conversation."
+  },
+  {
+    "id": 35,
+    "type": "Chronological_Displacement",
+    "answer": "The bathroom floor where the grandfather fell.",
+    "evidence": [
+      3228
+    ],
+    "reasoning": "1. Narrative present: 1998 bathroom. 2. Memory: 1992 collapse. 3. Anchor: The location (bathroom floor) anchors the memory of the fall."
+  },
+  {
+    "id": 36,
+    "type": "Chronological_Displacement",
+    "answer": "The rustling sound from the old water tank.",
+    "evidence": [
+      3229
+    ],
+    "reasoning": "1. Narrative present: 1998 cleaning.  \n2. Memory: 1970s fear.  \n3. Anchor: The 'rustling' sound of the water tank anchors the childhood fear."
+  },
+  {
+    "id": 37,
+    "type": "Chronological_Displacement",
+    "answer": "Hearing 'peeping' (pisse) instead of 'kissing' (kysse).",
+    "evidence": [
+      3237
+    ],
+    "reasoning": "1. Narrative present: 1998 recall.  \n2. Memory: 1976 camping.  \n3. Anchor: The specific misunderstanding of the word 'kissing' anchors the memory of laughter."
+  },
+  {
+    "id": 38,
+    "type": "Chronological_Displacement",
+    "answer": "A plastic ball that slipped away from him.",
+    "evidence": [
+      3238
+    ],
+    "reasoning": "1. Narrative present: 1998 recall.  \n2. Memory: 1976 drowning.  \n3. Anchor: The plastic ball slipping away anchors the sequence of events leading to the near-drowning."
+  },
+  {
+    "id": 39,
+    "type": "Chronological_Displacement",
+    "answer": "The brother leaving water in the sink for the narrator to wash his face in the morning to avoid the noisy pipes.",
+    "evidence": [
+      3239
+    ],
+    "reasoning": "1. Narrative present: 1998 recall.  \n2. Memory: 1970s ritual.  \n3. Anchor: The act of saving face-wash water anchors the brother's protective yet tormenting role."
+  },
+  {
+    "id": 40,
+    "type": "Chronological_Displacement",
+    "answer": "Buying and smoking a pack of Prince cigarettes on the street.",
+    "evidence": [
+      3240
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: 1984 visit. 3. Anchor: The ritual of buying and smoking cigarettes anchors the feeling of freedom."
+  },
+  {
+    "id": 41,
+    "type": "Chronological_Displacement",
+    "answer": "The Edge from U2 (rolling up sleeves).",
+    "evidence": [
+      3241
+    ],
+    "reasoning": "1. Narrative present: 1998 recall.  \n2. Memory: 1984 night out.  \n3. Anchor: The reference to 'The Edge' anchors the specific style of rolling up sleeves."
+  },
+  {
+    "id": 42,
+    "type": "Chronological_Displacement",
+    "answer": "The bassist's all-black clothing and arm tattoo.",
+    "evidence": [
+      3242
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: 1985 interview. 3. Anchor: The visual of the bassist's clothes and tattoo anchors the feeling of intimidation."
+  },
+  {
+    "id": 43,
+    "type": "Chronological_Displacement",
+    "answer": "The nightclub 'Hulen' (The Cave).",
+    "evidence": [
+      3243
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: 80s dreams. 3. Anchor: The specific venue 'Hulen' anchors the dream of performing."
+  },
+  {
+    "id": 44,
+    "type": "Chronological_Displacement",
+    "answer": "The black-and-white photos of him and his brother displayed in the cinema window.",
+    "evidence": [
+      3244
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: 80s identity. 3. Anchor: The photos in the cinema window anchor the specific 'brotherly' identity separate from his friends."
+  },
+  {
+    "id": 45,
+    "type": "Chronological_Displacement",
+    "answer": "Acceptance into the Creative Writing Academy.",
+    "evidence": [
+      3245
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: 1987 decision. 3. Anchor: The acceptance letter/ambition to the Writing Academy anchors the change in plans."
+  },
+  {
+    "id": 46,
+    "type": "Chronological_Displacement",
+    "answer": "The brother criticizing how thick the brown cheese slices were.",
+    "evidence": [
+      3246
+    ],
+    "reasoning": "1. Narrative present: 1998 recall.  \n2. Memory: 1988 cohabitation.  \n3. Anchor: The petty criticism about brown cheese slices anchors the dynamic of dominance."
+  },
+  {
+    "id": 47,
+    "type": "Chronological_Displacement",
+    "answer": "Sitting alone in his brother's friends' living room reading a magazine while waiting for the brother.",
+    "evidence": [
+      3247
+    ],
+    "reasoning": "1. Narrative present: 1998 recall.  \n2. Memory: 1989 loneliness.  \n3. Anchor: The specific act of waiting in the friends' living room anchors the feeling of dependency."
+  },
+  {
+    "id": 48,
+    "type": "Chronological_Displacement",
+    "answer": "The rejection of his novel manuscript.",
+    "evidence": [
+      3248
+    ],
+    "reasoning": "1. Narrative present: 1998 recall.  \n2. Memory: 1992 failure.  \n3. Anchor: The rejected manuscript anchors the feeling of failure."
+  },
+  {
+    "id": 49,
+    "type": "Chronological_Displacement",
+    "answer": "His interest in Beckett, jazz, and chess.",
+    "evidence": [
+      3249
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Meeting Ola Ingvar. 3. Anchor: The specific list of interests (Beckett, jazz, chess) anchors the perception of him as 'intellectual'."
+  },
+  {
+    "id": 50,
+    "type": "Chronological_Displacement",
+    "answer": "Blanchot's description of Orpheus' gaze (the 'night's night').",
+    "evidence": [
+      3250
+    ],
+    "reasoning": "1. Narrative present: 1998 reflection. 2. Memory: Literary studies. 3. Anchor: The specific reference to Blanchot and Orpheus anchors the memory of intellectual awakening."
+  },
+  {
+    "id": 51,
+    "type": "Chronological_Displacement",
+    "answer": "The physical presence of books by authors like Adorno, Derrida, and Foucault on his shelf, which provided a sense of nourishment just by existing there.",
+    "evidence": [
+      3251
+    ],
+    "reasoning": "1. Narrative present: 1998 reflection on intellectual growth.  \n2. Memory context: Early 90s studies.  \n3. Anchor: The specific sensation that merely having the books on the shelf caused a 'subconscious replacement' or nourishment."
+  },
+  {
+    "id": 52,
+    "type": "Chronological_Displacement",
+    "answer": "The period (full stop) acting as a climber's carabiner (rope clip) in the text.",
+    "evidence": [
+      3252
+    ],
+    "reasoning": "1. Narrative present: Reflection. 2. Memory: Reading Adorno. 3. Anchor: The metaphor of the 'period' being a 'climber's carabiner' that allows thought to ascend."
+  },
+  {
+    "id": 53,
+    "type": "Chronological_Displacement",
+    "answer": "Media studies, which emphasized that no objective quality exists and all evaluations are relative.",
+    "evidence": [
+      3253
+    ],
+    "reasoning": "1. Narrative present: 1998 reflection. 2. Memory/Context: Brother's education. 3. Anchor: The specific field of 'media studies' and its inherent subjectivism."
+  },
+  {
+    "id": 54,
+    "type": "Chronological_Displacement",
+    "answer": "The feeling of shame (vicarious embarrassment) when his brother acted foolishly or showed weakness.",
+    "evidence": [
+      3254
+    ],
+    "reasoning": "1. Narrative present: 1998 reflection. 2. Memory: Social interactions in the 90s. 3. Anchor: The specific emotion of 'shame' he felt on his brother's behalf, which he tried to hide."
+  },
+  {
+    "id": 55,
+    "type": "Chronological_Displacement",
+    "answer": "Henrik Inge winking at him while speaking dryly to the others.",
+    "evidence": [
+      3255
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: 'Garage' bar discussion. 3. Anchor: The specific action of Henrik Inge 'winking', signaling a shared (but exclusionary) understanding."
+  },
+  {
+    "id": 56,
+    "type": "Chronological_Displacement",
+    "answer": "Fløgstad's use of puns.",
+    "evidence": [
+      3256
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Preparing for interview. 3. Anchor: The mention of 'puns' as the specific reason for Henrik Inge's admiration."
+  },
+  {
+    "id": 57,
+    "type": "Chronological_Displacement",
+    "answer": "The fact that three people arrived (narrator, Ola Ingvar, Ingvar Tomasdal) when Hauge was expecting only one.",
+    "evidence": [
+      3257
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Hauge visit. 3. Anchor: The numerical discrepancy (three vs one) causing the rejection."
+  },
+  {
+    "id": 58,
+    "type": "Chronological_Displacement",
+    "answer": "The gentle gesture of brushing a lock of grey hair away from his forehead.",
+    "evidence": [
+      3258
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Interview details. 3. Anchor: The specific hand gesture regarding his hair."
+  },
+  {
+    "id": 59,
+    "type": "Chronological_Displacement",
+    "answer": "Hauge staring at the floor and seemingly talking to the floor (or himself) rather than the interviewers.",
+    "evidence": [
+      3259
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Interview failure. 3. Anchor: The visual of Hauge staring/talking to the floor."
+  },
+  {
+    "id": 60,
+    "type": "Chronological_Displacement",
+    "answer": "The TV crew forgot their connecting cable and had to drive back to get it.",
+    "evidence": [
+      3260
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: TV crew arrival. 3. Anchor: The missing cable creates a shared moment of 'us vs them', shifting Hauge's attitude."
+  },
+  {
+    "id": 61,
+    "type": "Chronological_Displacement",
+    "answer": "The childlike, defenseless openness he displayed, similar to a friendless boy suddenly receiving attention.",
+    "evidence": [
+      3261
+    ],
+    "reasoning": "1. Narrative present: 1998 reflection. 2. Memory: Hauge's behavior. 3. Anchor: The comparison to a 'friendless boy' anchors the perception of dangerous vulnerability."
+  },
+  {
+    "id": 62,
+    "type": "Chronological_Displacement",
+    "answer": "A book of Hauge's poems bought at a bookstore on the way there.",
+    "evidence": [
+      3262
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Departure. 3. Anchor: The book he bought, which he asks Hauge to sign for his mother."
+  },
+  {
+    "id": 63,
+    "type": "Chronological_Displacement",
+    "answer": "A cat sitting in the yard.",
+    "evidence": [
+      3263
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Poetry reading. 3. Anchor: The poem about the cat in the yard matches the physical setting."
+  },
+  {
+    "id": 64,
+    "type": "Chronological_Displacement",
+    "answer": "The convergence of the work (poem), the author, and the place of creation in a single moment.",
+    "evidence": [
+      3264
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: The moment of reading. 3. Anchor: The simultaneous presence of Work, Author, and Place."
+  },
+  {
+    "id": 65,
+    "type": "Chronological_Displacement",
+    "answer": "Children sitting on their bicycles.",
+    "evidence": [
+      3265
+    ],
+    "reasoning": "1. Narrative present: 1998 recall.  \n2. Memory: Drive home.  \n3. Anchor: The recurring image of children on bikes anchors the sense of small-town permanence."
+  },
+  {
+    "id": 66,
+    "type": "Chronological_Displacement",
+    "answer": "Descriptions of the diary cover, the apple cake, and the library.",
+    "evidence": [
+      3266
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Transcription process. 3. Anchor: The specific atmospheric details (cake, diary) added to compensate for the poor interview."
+  },
+  {
+    "id": 67,
+    "type": "Chronological_Displacement",
+    "answer": "The fear of being perceived as a 'pedant' or trying to appear better than his brother.",
+    "evidence": [
+      3267
+    ],
+    "reasoning": "1. Narrative present: 1998 recall.  \n2. Memory: Preparation anxiety.  \n3. Anchor: The fear of disrupting the sibling dynamic (appearing better/pedantic)."
+  },
+  {
+    "id": 68,
+    "type": "Chronological_Displacement",
+    "answer": "The decision not to use a tape recorder or take notes.",
+    "evidence": [
+      3268
+    ],
+    "reasoning": "1. Narrative present: 1998 recall.  \n2. Memory: Interview method.  \n3. Anchor: The absence of recording devices/notes."
+  },
+  {
+    "id": 69,
+    "type": "Chronological_Displacement",
+    "answer": "Going to a pub to watch a Premier League football match.",
+    "evidence": [
+      3269
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Post-interview. 3. Anchor: The specific distraction of the football match/pub."
+  },
+  {
+    "id": 70,
+    "type": "Chronological_Displacement",
+    "answer": "Henrik Inge listening on the other receiver like a secret agent.",
+    "evidence": [
+      3270
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Phone call. 3. Anchor: The image of Henrik Inge acting like a 'secret agent' on the second line."
+  },
+  {
+    "id": 71,
+    "type": "Chronological_Displacement",
+    "answer": "Reassembling loose details into 'responsible' sentences that bore the 'mark of truth'.",
+    "evidence": [
+      3271
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Writing process. 3. Anchor: The effort to create the 'mark of truth' through sentence construction."
+  },
+  {
+    "id": 72,
+    "type": "Chronological_Displacement",
+    "answer": "The red lines and comments like 'I never said this' or '???' in the margins.",
+    "evidence": [
+      3272
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Reading feedback. 3. Anchor: The visual of red ink and specific humiliating comments."
+  },
+  {
+    "id": 73,
+    "type": "Chronological_Displacement",
+    "answer": "The burning sensation of shame.",
+    "evidence": [
+      3273
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Bus ride. 3. Anchor: The physical 'burning' of shame."
+  },
+  {
+    "id": 74,
+    "type": "Chronological_Displacement",
+    "answer": "Cortázar-esque",
+    "evidence": [
+      3274
+    ],
+    "reasoning": "1. Narrative present: 1998 recall.  \n2. Memory: Further correspondence.  \n3. Anchor: The specific literary term 'Cortázar-esque' used in the critique."
+  },
+  {
+    "id": 75,
+    "type": "Chronological_Displacement",
+    "answer": "A poster for the Slottsfjell Festival (Red Vågen) and an airplane advertisement for a local revue.",
+    "evidence": [
+      3275
+    ],
+    "reasoning": "1. Narrative present: 1998 reflection. 2. Memory: Brother's career. 3. Anchor: The specific design items (festival poster, plane ad)."
+  },
+  {
+    "id": 76,
+    "type": "Chronological_Displacement",
+    "answer": "Being drunk in the Russ (high school graduate) parade and his grandparents seeing him.",
+    "evidence": [
+      3284
+    ],
+    "reasoning": "1. Narrative present: 1998 street noise.  \n2. Memory: 1988 Russ parade.  \n3. Anchor: The specific event of the parade and the grandparents' reaction."
+  },
+  {
+    "id": 77,
+    "type": "Chronological_Displacement",
+    "answer": "Burning his diaries.",
+    "evidence": [
+      3285
+    ],
+    "reasoning": "1. Narrative present: 1998 reflection.  \n2. Memory: Erasure of past.  \n3. Anchor: The act of burning the diaries."
+  },
+  {
+    "id": 78,
+    "type": "Chronological_Displacement",
+    "answer": "Throwing his duvet out the window and sleeping in the cold.",
+    "evidence": [
+      3302
+    ],
+    "reasoning": "1. Narrative present: 1998 discussion.  \n2. Memory: Childhood sleepwalking.  \n3. Anchor: The specific, absurd act of throwing the bedding out the window."
+  },
+  {
+    "id": 79,
+    "type": "Chronological_Displacement",
+    "answer": "A pencil case he believed was his wallet.",
+    "evidence": [
+      3303
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Sleepwalking incident. 3. Anchor: The pencil case interpreted as a wallet."
+  },
+  {
+    "id": 80,
+    "type": "Chronological_Displacement",
+    "answer": "The blue bottle of Klorin with the child-proof cap.",
+    "evidence": [
+      3311
+    ],
+    "reasoning": "1. Narrative present: 1998 cleaning. 2. Memory: 1970s kitchen. 3. Anchor: The smell and visual of the Klorin bottle."
+  },
+  {
+    "id": 81,
+    "type": "Chronological_Displacement",
+    "answer": "The sharp but sweet taste of XL-1 drink.",
+    "evidence": [
+      3312
+    ],
+    "reasoning": "1. Narrative present: 1998 reflection. 2. Memory: Football training. 3. Anchor: The specific taste of the XL-1 sports drink."
+  },
+  {
+    "id": 82,
+    "type": "Chronological_Displacement",
+    "answer": "The contrast between the colorful, live marine life at the market and the white fish meat on a brown 1970s dinner plate.",
+    "evidence": [
+      3351
+    ],
+    "reasoning": "1. Narrative present: 1998 recall. 2. Memory: Fish market vs Dinner. 3. Anchor: The transition from the vivid market to the drab brown plate anchors the loss of 'magic'."
+  },
+  {
+    "id": 83,
+    "type": "Chronological_Displacement",
+    "answer": "The bonfire lit in a hollow on the small island.",
+    "evidence": [
+      3352
+    ],
+    "reasoning": "1. Narrative present: 1998 questioning memory. 2. Memory: Torungen trip. 3. Anchor: The visual of the bonfire anchors the specific memory."
+  },
+  {
+    "id": 84,
+    "type": "Chronological_Displacement",
+    "answer": "I love you.",
+    "evidence": [
+      3366
+    ],
+    "reasoning": "1. Narrative present: 1998 phone call.  \n2. Memory/Comparison: Past intensity vs current reality.  \n3. Anchor: The specific phrase 'I love you' triggers the reflection on whether it is still true."
+  },
+  {
+    "id": 85,
+    "type": "Chronological_Displacement",
+    "answer": "The dog sticking its head out the car window and barking at pedestrians.",
+    "evidence": [
+      3386
+    ],
+    "reasoning": "1. Narrative present: 1998 storytelling. 2. Memory: 1930s job. 3. Anchor: The dog's behavior anchors the eccentricity of the situation."
+  },
+  {
+    "id": 86,
+    "type": "Chronological_Displacement",
+    "answer": "The fact that she was paid very low wages ('measly pay').",
+    "evidence": [
+      3388
+    ],
+    "reasoning": "1. Narrative present: 1998 storytelling. 2. Memory: 1930s theft. 3. Anchor: The low wages anchor the moral justification for the theft."
+  },
+  {
+    "id": 87,
+    "type": "Chronological_Displacement",
+    "answer": "Wine and radios.",
+    "evidence": [
+      3419
+    ],
+    "reasoning": "1. Narrative present: 1998 storytelling. 2. Memory: May 1945. 3. Anchor: The specific items (wine, radios) left as gifts anchor the story."
+  },
+  {
+    "id": 88,
+    "type": "Chronological_Displacement",
+    "answer": "A rubble heap (røys) where the items were hidden.",
+    "evidence": [
+      3420
+    ],
+    "reasoning": "1. Narrative present: 1998 conversation. 2. Memory: Retrieval. 3. Anchor: The specific location 'rubble heap' anchors the clandestine nature of the gift."
+  },
+  {
+    "id": 89,
+    "type": "Chronological_Displacement",
+    "answer": "Climbing up a rubble heap at night to scavenge for alcohol.",
+    "evidence": [
+      3421
+    ],
+    "reasoning": "1. Narrative present: 1998 reflection.  \n2. Visualized Memory: 1945.  \n3. Anchor: The action of climbing the rubble heap for booze anchors the irony."
+  },
+  {
+    "id": 90,
+    "type": "Chronological_Displacement",
+    "answer": "Pipe cleaners.",
+    "evidence": [
+      3458
+    ],
+    "reasoning": "1. Narrative present: 1998 walk.  \n2. Memory: 1970s walk.  \n3. Anchor: The specific purpose of buying 'pipe cleaners' anchors the memory."
+  },
+  {
+    "id": 91,
+    "type": "Chronological_Displacement",
+    "answer": "Dark, dramatic eyeshadow and cherry-red lips.",
+    "evidence": [
+      3466
+    ],
+    "reasoning": "1. Narrative present: 1998 observation. 2. Memory: 1930s photos. 3. Anchor: The specific makeup style anchors the 1930s image."
+  },
+  {
+    "id": 92,
+    "type": "Chronological_Displacement",
+    "answer": "A puddle of brownish water (urine) on the floor under her chair.",
+    "evidence": [
+      3486
+    ],
+    "reasoning": "1. Narrative present: 1998 room. 2. Displacement: Realization of decline vs her long life. 3. Anchor: The puddle on the floor anchors the immediate reality of her incontinence."
+  },
+  {
+    "id": 93,
+    "type": "Chronological_Displacement",
+    "answer": "His infectious laughter and 'I'm game' attitude.",
+    "evidence": [
+      3593
+    ],
+    "reasoning": "1. Narrative present: 2002 meeting. 2. Memory: 1989 party. 3. Anchor: The specific traits (laugh, attitude) anchor the memory of connection."
+  },
+  {
+    "id": 94,
+    "type": "Chronological_Displacement",
+    "answer": "His uncle Kjartan talking about Hölderlin when the narrator was sixteen.",
+    "evidence": [
+      3628
+    ],
+    "reasoning": "1. Narrative present: 2002 thought. 2. Memory: Teenage years (16). 3. Anchor: Uncle Kjartan's mention of the poet anchors the memory."
+  },
+  {
+    "id": 95,
+    "type": "Chronological_Displacement",
+    "answer": "Working as a plumber on ships.",
+    "evidence": [
+      3629
+    ],
+    "reasoning": "1. Narrative present: Reflection. 2. Memory/Context: Kjartan's life. 3. Anchor: The specific job of 'ship plumber' anchors his reality."
+  },
+  {
+    "id": 96,
+    "type": "Chronological_Displacement",
+    "answer": "His 'sensitive nature' (delicate as a flower).",
+    "evidence": [
+      3630
+    ],
+    "reasoning": "1. Narrative present: Reflection. 2. Character analysis. 3. Anchor: The 'sensitive nature' anchors the conflict with his practical life."
+  },
+  {
+    "id": 97,
+    "type": "Chronological_Displacement",
+    "answer": "The nature-loving, vitalistic trend in New Norwegian (Nynorsk) writing.",
+    "evidence": [
+      3631
+    ],
+    "reasoning": "1. Narrative present: Reflection. 2. Hypothetical Past: 1920s. 3. Anchor: The specific literary trend anchors the 1920s scenario."
+  },
+  {
+    "id": 98,
+    "type": "Chronological_Displacement",
+    "answer": "Joining the AKP (m-l) and 'proletarianizing' himself.",
+    "evidence": [
+      3632
+    ],
+    "reasoning": "1. Narrative present: Reflection. 2. Historical Context: 1970s. 3. Anchor: The specific political act of joining the Communist party anchors his life choices."
+  },
+  {
+    "id": 99,
+    "type": "Chronological_Displacement",
+    "answer": "Being known as 'the Communist'.",
+    "evidence": [
+      3633
+    ],
+    "reasoning": "1. Narrative present: Reflection. 2. Memory context: 1980s rural life. 3. Anchor: The specific label 'the Communist' anchors his isolation."
+  },
+  {
+    "id": 100,
+    "type": "Chronological_Displacement",
+    "answer": "Geir calling him an 'existentialist'.",
+    "evidence": [
+      3648
+    ],
+    "reasoning": "1. Narrative present: 2002 waiting.  \n2. Memory: 1990 interaction.  \n3. Anchor: The specific label 'existentialist' anchors the memory."
+  },
+  {
+    "id": 101,
+    "type": "Chronological_Displacement",
+    "answer": "1477, the founding year of Uppsala University.",
+    "evidence": [
+      3658
+    ],
+    "reasoning": "1. Narrative present: 2002 (Reading email). 2. Location: Uppsala. 3. Anchor: Geir explicitly mentions 'Uppsala University was founded in 1477' to anchor the location's history."
+  },
+  {
+    "id": 102,
+    "type": "Chronological_Displacement",
+    "answer": "An unmailed letter written to Geir in the summer of 1989.",
+    "evidence": [
+      3680
+    ],
+    "reasoning": "1. Narrative present: 2002 meeting. 2. Memory object: Letter from 1989. 3. Anchor: The physical, unmailed letter serves as the anchor for 'frozen time'."
+  },
+  {
+    "id": 103,
+    "type": "Chronological_Displacement",
+    "answer": "The allusion to Martin Luther (Luther-like behavior).",
+    "evidence": [
+      3703
+    ],
+    "reasoning": "1. Narrative present: 2002 conversation. 2. Memory: Uppsala event. 3. Anchor: The comparison to 'Luther' anchors the act of nailing the thesis."
+  },
+  {
+    "id": 104,
+    "type": "Chronological_Displacement",
+    "answer": "The claim that the narrator had a relationship with a thirteen-year-old while working as a teacher in Northern Norway.",
+    "evidence": [
+      3710
+    ],
+    "reasoning": "1. Narrative present: 2002 confrontation.  \n2. Memory: 1989 conversation.  \n3. Anchor: The specific shocking detail (13-year-old lover) anchors the memory."
+  },
+  {
+    "id": 105,
+    "type": "Chronological_Displacement",
+    "answer": "Waking up in a shelter corridor, possibly wearing someone else's clothes or with blood on his jacket, followed by police interrogation.",
+    "evidence": [
+      3716
+    ],
+    "reasoning": "1. Narrative present: 2002 reflection. 2. Memory: Late 80s blackouts. 3. Anchor: The specific imagery of waking in the shelter/blood/police anchors the chaotic period."
+  },
+  {
+    "id": 106,
+    "type": "Chronological_Displacement",
+    "answer": "Correcting the girl's age from thirteen to fifteen or sixteen.",
+    "evidence": [
+      3727
+    ],
+    "reasoning": "1. Narrative present: 2002 clarification. 2. Memory: 1988 relationship. 3. Anchor: The number (age) correction anchors the shift from myth to reality."
+  },
+  {
+    "id": 107,
+    "type": "Chronological_Displacement",
+    "answer": "The heat, darkness, live crabs in a bucket, and the discovery of a dead seagull.",
+    "evidence": [
+      3759
+    ],
+    "reasoning": "1. Narrative present: 2002. 2. Creative Memory: Childhood summer. 3. Anchor: The specific cluster of sensory details (heat, crabs, dead seagull) anchors the draft."
+  },
+  {
+    "id": 108,
+    "type": "Chronological_Displacement",
+    "answer": "A 'glass-like' hardness or fragility that made her seem unapproachable.",
+    "evidence": [
+      3793
+    ],
+    "reasoning": "1. Narrative present: 2002 observation. 2. Memory: 1999 meeting. 3. Anchor: The metaphor of 'glass-like' hardness/fragility anchors the past perception."
+  },
+  {
+    "id": 109,
+    "type": "Chronological_Displacement",
+    "answer": "The 'Golden Monkey' restaurant.",
+    "evidence": [
+      3803
+    ],
+    "reasoning": "1. Narrative present: 2002 dinner. 2. Memory: Previous visit. 3. Anchor: The specific name of the restaurant 'Golden Monkey'."
+  },
+  {
+    "id": 110,
+    "type": "Chronological_Displacement",
+    "answer": "It is a feeling he cannot grasp or turn into a clear thought.",
+    "evidence": [
+      3915
+    ],
+    "reasoning": "1. Narrative present: 2002. 2. Memory: 1999 event. 3. Anchor: The elusive 'feeling' itself is the anchor, characterized by its resistance to being conceptualized."
+  },
+  {
+    "id": 111,
+    "type": "Chronological_Displacement",
+    "answer": "The fact that it exists only as a sensation/feeling, not as a coherent thought.",
+    "evidence": [
+      3916
+    ],
+    "reasoning": "1. Narrative present: 2002. 2. Memory: 1999. 3. Limit: The memory is anchored in sensation rather than intellect/language."
+  },
+  {
+    "id": 112,
+    "type": "Chronological_Displacement",
+    "answer": "Her use of the words 'stars' (stjerner) and 'awesome' (kanon).",
+    "evidence": [
+      3939
+    ],
+    "reasoning": "1. Narrative present: 2002 writing. 2. Subject: Linda's traits. 3. Anchor: The specific vocabulary ('stars', 'awesome') anchors his memory of her speech."
+  },
+  {
+    "id": 113,
+    "type": "Chronological_Displacement",
+    "answer": "The way her lips slide over her gums when she is excited.",
+    "evidence": [
+      3940
+    ],
+    "reasoning": "1. Narrative present: 2002 writing. 2. Subject: Linda's physicality. 3. Anchor: The visual detail of 'lips sliding over gums' anchors the memory of her smile."
+  },
+  {
+    "id": 114,
+    "type": "Chronological_Displacement",
+    "answer": "The rain making her hair wet and her face shiny.",
+    "evidence": [
+      3991
+    ],
+    "reasoning": "1. Narrative present: 2002 outside club. 2. Atmosphere: Rain. 3. Anchor: The sensory details of the rain on her face anchor the moment's emotional weight."
+  },
+  {
+    "id": 115,
+    "type": "Chronological_Displacement",
+    "answer": "The expectation that it will go 'badly' (to hell), just like the previous time.",
+    "evidence": [
+      3992
+    ],
+    "reasoning": "1. Narrative present: 2002 conversation. 2. Memory: Previous failure. 3. Anchor: The anticipation of repeating the failure anchors the link to the past."
+  },
+  {
+    "id": 116,
+    "type": "Chronological_Displacement",
+    "answer": "The gas station (to buy cigarettes for his father).",
+    "evidence": [
+      4017
+    ],
+    "reasoning": "1. Narrative present: 2002 storytelling. 2. Memory: Childhood errand. 3. Anchor: The destination (gas station) and purpose (cigarettes) anchor the memory."
+  },
+  {
+    "id": 117,
+    "type": "Chronological_Displacement",
+    "answer": "It looked like it came from Africa or Asia.",
+    "evidence": [
+      4018
+    ],
+    "reasoning": "1. Narrative present: 2002 storytelling. 2. Memory: The bird. 3. Anchor: The comparison to 'Africa or Asia' anchors the alien nature of the bird in the Nordic setting."
+  },
+  {
+    "id": 118,
+    "type": "Chronological_Displacement",
+    "answer": "A maternity ward in 1944.",
+    "evidence": [
+      4044
+    ],
+    "reasoning": "1. Narrative present: 2002 writing. 2. Creative content: 1944 story. 3. Anchor: The specific setting 'maternity ward 1944' anchors the fiction."
+  },
+  {
+    "id": 119,
+    "type": "Chronological_Displacement",
+    "answer": "The introduction of angels.",
+    "evidence": [
+      4045
+    ],
+    "reasoning": "1. Narrative present: 2002 writing. 2. Creative failure. 3. Anchor: The element of 'angels' anchors the failed attempt to connect the text."
+  },
+  {
+    "id": 120,
+    "type": "Chronological_Displacement",
+    "answer": "The grandfather's bald head (half-circle of white hair).",
+    "evidence": [
+      4050
+    ],
+    "reasoning": "1. Narrative present: 2002 conversation. 2. Memory: Grandfather story. 3. Anchor: The physical trait (baldness) anchors the tall tale."
+  },
+  {
+    "id": 121,
+    "type": "Chronological_Displacement",
+    "answer": "The eaglet grabbing the hair with its claws and flying away with it.",
+    "evidence": [
+      4051
+    ],
+    "reasoning": "1. Narrative present: 2002 conversation. 2. Memory: Grandfather's tale. 3. Anchor: The specific action of the bird plucking the hair anchors the story."
+  },
+  {
+    "id": 122,
+    "type": "Chronological_Displacement",
+    "answer": "A hamster.",
+    "evidence": [
+      4052
+    ],
+    "reasoning": "1. Narrative present: 2002 conversation. 2. Memory: Linda's childhood. 3. Anchor: The specific pet 'hamster' anchors the traumatic memory."
+  },
+  {
+    "id": 123,
+    "type": "Chronological_Displacement",
+    "answer": "In a cage placed on the grass/lawn.",
+    "evidence": [
+      4053
+    ],
+    "reasoning": "1. Narrative present: 2002 conversation. 2. Memory: Event details. 3. Anchor: The location 'on the grass' anchors the scene."
+  },
+  {
+    "id": 124,
+    "type": "Chronological_Displacement",
+    "answer": "Airships (Zeppelins).",
+    "evidence": [
+      4064
+    ],
+    "reasoning": "1. Narrative present: 2002 conversation. 2. Memory: Childhood obsession. 3. Anchor: The specific object 'airships' anchors the magical feeling."
+  },
+  {
+    "id": 125,
+    "type": "Chronological_Displacement",
+    "answer": "Divers and astronauts.",
+    "evidence": [
+      4065
+    ],
+    "reasoning": "1. Narrative present: 2002 conversation. 2. Memory: Drawings. 3. Anchor: The specific figures 'divers' and 'astronauts' anchor his childhood art."
+  },
+  {
+    "id": 126,
+    "type": "Chronological_Displacement",
+    "answer": "The revelation that the seagull was actually an angel.",
+    "evidence": [
+      4088
+    ],
+    "reasoning": "1. Narrative present: 2002 writing. 2. Creative idea. 3. Anchor: The specific twist 'seagull = angel' anchors the story concept."
+  },
+  {
+    "id": 127,
+    "type": "Chronological_Displacement",
+    "answer": "Live crabs crawling in the bucket.",
+    "evidence": [
+      4089
+    ],
+    "reasoning": "1. Narrative present: 2002 writing. 2. Scene detail. 3. Anchor: The 'live crabs' anchor the realistic, sensory aspect of the scene."
+  },
+  {
+    "id": 128,
+    "type": "Chronological_Displacement",
+    "answer": "An old shed/hovel filled with bottles.",
+    "evidence": [
+      4090
+    ],
+    "reasoning": "1. Narrative present: 2002 critique. 2. Draft content: 1940s. 3. Anchor: The specific image of the 'shed with bottles' anchors the bleak setting."
+  },
+  {
+    "id": 129,
+    "type": "Chronological_Displacement",
+    "answer": "One brother lying awake watching the other brother sleep while their father is dead in the house.",
+    "evidence": [
+      4091
+    ],
+    "reasoning": "1. Narrative present: 2002 critique. 2. Draft content: Sibling scene. 3. Anchor: The specific dynamic (watcher vs sleeper, dead father) anchors the scene."
+  },
+  {
+    "id": 130,
+    "type": "Chronological_Displacement",
+    "answer": "A pilot from the 1920s.",
+    "evidence": [
+      4326
+    ],
+    "reasoning": "1. Narrative present: 2004 office. 2. Object: Poster. 3. Anchor: The specific image of the '1920s pilot' anchors the temporal reference."
+  },
+  {
+    "id": 131,
+    "type": "Chronological_Displacement",
+    "answer": "Spring in a residential area/housing estate.",
+    "evidence": [
+      4332
+    ],
+    "reasoning": "1. Narrative present: 2004. 2. Memory: 70s atmosphere. 3. Anchor: The combination of 'Spring' and 'residential area' anchors the specific feeling."
+  },
+  {
+    "id": 132,
+    "type": "Chronological_Displacement",
+    "answer": "The furnishings of the rooms and the places he has been.",
+    "evidence": [
+      4337
+    ],
+    "reasoning": "1. Narrative present: 2004 reflection. 2. Memory theory. 3. Anchor: The 'furnishings' and 'places' anchor the memory, contrasting with the lost 'events'."
+  },
+  {
+    "id": 133,
+    "type": "Chronological_Displacement",
+    "answer": "Setting the events in the 1880s but filling them with characters and objects from the 1980s.",
+    "evidence": [
+      4392
+    ],
+    "reasoning": "1. Narrative present: 2004. 2. Writing strategy. 3. Anchor: The specific collision of '1880s events' and '1980s objects' anchors the method."
+  },
+  {
+    "id": 134,
+    "type": "Chronological_Displacement",
+    "answer": "The 18th century (1700s).",
+    "evidence": [
+      4405
+    ],
+    "reasoning": "1. Narrative present: 2004/Stockholm. 2. Historical comparison. 3. Anchor: The '18th century' anchors the observation of continuity vs disparity."
+  },
+  {
+    "id": 135,
+    "type": "Chronological_Displacement",
+    "answer": "It stood from the 16th century until the 1960s.",
+    "evidence": [
+      4406
+    ],
+    "reasoning": "1. Narrative present: 2004 reflection. 2. Memory: Aunt's house. 3. Anchor: The span '16th century to 1960s' anchors the tragedy of its demolition."
+  },
+  {
+    "id": 136,
+    "type": "Chronological_Displacement",
+    "answer": "September 6, 1822.",
+    "evidence": [
+      4446
+    ],
+    "reasoning": "1. Narrative present: 2004. 2. Object: Constable painting. 3. Anchor: The exact date 'Sept 6, 1822' anchors the cloud study."
+  },
+  {
+    "id": 137,
+    "type": "Chronological_Displacement",
+    "answer": "Neo-Baroque style towers.",
+    "evidence": [
+      4518
+    ],
+    "reasoning": "1. Narrative present: 2004. 2. Object: Towers. 3. Anchor: The 'Neo-Baroque' style anchors the connection to the 1920s."
+  },
+  {
+    "id": 138,
+    "type": "Chronological_Displacement",
+    "answer": "The claim that the world is a structure of language/text.",
+    "evidence": [
+      4535
+    ],
+    "reasoning": "1. Narrative present: 2004 reflection. 2. Memory: Age 19. 3. Anchor: The specific theory 'world = language' anchors his rejection."
+  },
+  {
+    "id": 139,
+    "type": "Chronological_Displacement",
+    "answer": "When he was 16 or 17 and they lived alone in Tveit.",
+    "evidence": [
+      4858
+    ],
+    "reasoning": "1. Narrative present: 2004 speech. 2. Memory: Tveit period. 3. Anchor: The specific age (16-17) and location (Tveit) anchor the memory."
+  },
+  {
+    "id": 140,
+    "type": "Chronological_Displacement",
+    "answer": "His first day of school at age seven.",
+    "evidence": [
+      4860
+    ],
+    "reasoning": "1. Narrative present: 2004 speech. 2. Memory: Childhood event. 3. Anchor: The 'first day of school' anchors the story of getting lost."
+  },
+  {
+    "id": 141,
+    "type": "Chronological_Displacement",
+    "answer": "It transformed his father's broken and miserable life into a 'decent' or 'proper' life.",
+    "evidence": [
+      4873
+    ],
+    "reasoning": "1. Narrative present: 2004 reflection.  \n2. Memory: 1998 funeral.  \n3. Anchor: The transformative power of the 'ceremony' anchors the shift in perception."
+  },
+  {
+    "id": 142,
+    "type": "Chronological_Displacement",
+    "answer": "Who are you really?",
+    "evidence": [
+      5123
+    ],
+    "reasoning": "1. Narrative present: 2004 recall.  \n2. Memory: 1998 interview.  \n3. Anchor: The direct question 'Who are you?' anchors the interaction."
+  },
+  {
+    "id": 143,
+    "type": "Chronological_Displacement",
+    "answer": "Bereson Hansen is the sage. Per Sande is the Labour writer. Siv Vik is mentioned. *Self-Correction*: The text says 'Bereson Hansen is the sage'. Wait, the text provided says 'Bereson Hansen'. I must stick to the text. Anchor: The comparison to Bereson Hansen as the 'sage'.",
+    "evidence": [
+      5124
+    ],
+    "reasoning": "1. Narrative present: 2004 recall.  \n2. Memory: 1998 interview.  \n3. Anchor: The reporter's categorization of other writers (e.g., Hansen as sage) anchors the pressure on the narrator."
+  },
+  {
+    "id": 144,
+    "type": "Chronological_Displacement",
+    "answer": "I'm just an ordinary person.",
+    "evidence": [
+      5125
+    ],
+    "reasoning": "1. Narrative present: 2004 recall.  \n2. Memory: 1998 response.  \n3. Anchor: The phrase 'ordinary person' anchors his lack of persona."
+  },
+  {
+    "id": 145,
+    "type": "Chronological_Displacement",
+    "answer": "Ibsen said the strongest man is he who stands most alone. I think he was wrong.",
+    "evidence": [
+      5126
+    ],
+    "reasoning": "1. Narrative present: 2004 recall.  \n2. Memory: Broadcast result.  \n3. Anchor: The specific Ibsen quote anchors the constructed identity."
+  },
+  {
+    "id": 146,
+    "type": "Chronological_Displacement",
+    "answer": "Three years (since leaving Bergen).",
+    "evidence": [
+      5210
+    ],
+    "reasoning": "1. Narrative present: 2004. 2. Memory comparison: Bergen vs Stockholm. 3. Anchor: The duration of 'three years' anchors the speed of the transition."
+  },
+  {
+    "id": 147,
+    "type": "Chronological_Displacement",
+    "answer": "The dark furrows on his forehead and cheeks.",
+    "evidence": [
+      5268
+    ],
+    "reasoning": "1. Narrative present: Writing moment (Reflecting on 30 years passed). 2. Visual anchor: The 'dark furrows' (deep wrinkles) anchor the physical reality of aging."
+  },
+  {
+    "id": 148,
+    "type": "Chronological_Displacement",
+    "answer": "Extinguishing cigarettes in sake cups and shouting for waiters.",
+    "evidence": [
+      5326
+    ],
+    "reasoning": "1. Narrative present: 2004 conversation. 2. Memory: Tokyo tour. 3. Anchor: The crude behavior (cigarettes in sake) anchors the scene."
+  },
+  {
+    "id": 149,
+    "type": "Chronological_Displacement",
+    "answer": "Chaplin's cuff (with the lyrics written on it) flying off during a song and dance number.",
+    "evidence": [
+      5398
+    ],
+    "reasoning": "1. Narrative present: 2004 recall.  \n2. Memory: 1980s cinema.  \n3. Anchor: The specific gag of the 'flying cuff' anchors the memory."
+  },
+  {
+    "id": 150,
+    "type": "Chronological_Displacement",
+    "answer": "They were passed down from the great-grandmother/grandmother from the early 1900s.",
+    "evidence": [
+      5408
+    ],
+    "reasoning": "1. Narrative present: 2004 discovery. 2. Object history: 1900s. 3. Anchor: The origin 'from the years after 1900' anchors the loss."
+  },
+  {
+    "id": 151,
+    "type": "Chronological_Displacement",
+    "answer": "The '130 pages of stupid prose about angels' which the future self views with pity.",
+    "evidence": [
+      5441
+    ],
+    "reasoning": "1. Narrative present: 2004 conversation. 2. Future/Meta perspective: 2009. 3. Anchor: The specific, disparaged content of the draft ('angels') anchors the timeline."
+  },
+  {
+    "id": 152,
+    "type": "Chronological_Displacement",
+    "answer": "Being flatly refused a loan.",
+    "evidence": [
+      5460
+    ],
+    "reasoning": "1. Narrative present: 2005 reflection on debt.  \n2. Future realization: 2008.  \n3. Anchor: The specific event of the loan refusal anchors the consequence."
+  },
+  {
+    "id": 153,
+    "type": "Chronological_Displacement",
+    "answer": "The divorce settlement where the mother bought out the father's share of the house in Tveit.",
+    "evidence": [
+      5545
+    ],
+    "reasoning": "1. Narrative present: 2005. 2. Object origin: 1988. 3. Anchor: The source of the money (divorce settlement) anchors the plates to that specific rupture."
+  },
+  {
+    "id": 154,
+    "type": "Chronological_Displacement",
+    "answer": "The side of the bucket that was melted by the stove, resembling a distorted human face.",
+    "evidence": [
+      5547
+    ],
+    "reasoning": "1. Narrative present: 2005. 2. Memory: 1970s usage. 3. Anchor: The specific deformation (melted face) anchors the object's continuity."
+  },
+  {
+    "id": 155,
+    "type": "Chronological_Displacement",
+    "answer": "The metaphor of 'taking root' (which the father failed to do).",
+    "evidence": [
+      5549
+    ],
+    "reasoning": "1. Narrative present: 2005 reflection.  \n2. Memory: 1998 funeral.  \n3. Anchor: The priest's sermon/metaphor about roots anchors the analysis."
+  },
+  {
+    "id": 156,
+    "type": "Chronological_Displacement",
+    "answer": "Being a goalkeeper and a high-school educated engineer.",
+    "evidence": [
+      5564
+    ],
+    "reasoning": "1. Narrative present: 2005 reconstruction.  \n2. Memory: 1960.  \n3. Anchor: The specific roles (Goalkeeper, Engineer) anchor the period of success."
+  },
+  {
+    "id": 157,
+    "type": "Chronological_Displacement",
+    "answer": "Ingrid's acceptance into the National Theatre Academy.",
+    "evidence": [
+      5566
+    ],
+    "reasoning": "1. Narrative present: 2005 reconstruction. 2. Event: Move to Oslo. 3. Anchor: The specific acceptance letter/institution anchors the shift in power dynamics."
+  },
+  {
+    "id": 158,
+    "type": "Chronological_Displacement",
+    "answer": "The presence of breadcrumbs on the table, which his father couldn't tolerate.",
+    "evidence": [
+      5616
+    ],
+    "reasoning": "1. Narrative present: 2005 kitchen. 2. Memory: 1975 childhood. 3. Anchor: The specific visual of 'breadcrumbs' anchors the inherited behavioral correction."
+  },
+  {
+    "id": 159,
+    "type": "Chronological_Displacement",
+    "answer": "Mishearing his surname as 'Knudsen'.",
+    "evidence": [
+      5716
+    ],
+    "reasoning": "1. Narrative present: 2005 conversation.  \n2. Memory: 1965 meeting.  \n3. Anchor: The specific mistake regarding the name anchors the memory."
+  },
+  {
+    "id": 160,
+    "type": "Chronological_Displacement",
+    "answer": "Asplund and the 1920s.",
+    "evidence": [
+      5735
+    ],
+    "reasoning": "1. Narrative present: 2005. 2. Historical era: 1920s. 3. Anchor: The architect's name (Asplund) and the decade anchor the aesthetic."
+  },
+  {
+    "id": 161,
+    "type": "Chronological_Displacement",
+    "answer": "Pork chops with cabbage, meat cakes, lung mash (lungemos), fish cakes, and semolina pudding.",
+    "evidence": [
+      5769
+    ],
+    "reasoning": "1. Narrative present: 2005 shop. 2. Memory: 1970s food. 3. Anchor: The specific list of traditional, unglamorous foods anchors the 70s identity."
+  },
+  {
+    "id": 162,
+    "type": "Chronological_Displacement",
+    "answer": "A lecture on 'henpecked husbands' (tøffelhelter).",
+    "evidence": [
+      5811
+    ],
+    "reasoning": "1. Narrative present: 2005 conversation. 2. Memory: 2002 taxi ride. 3. Anchor: The specific, humorous topic of the lecture anchors the memory."
+  },
+  {
+    "id": 163,
+    "type": "Chronological_Displacement",
+    "answer": "Ernst Jünger's prediction of a future 'World Government' (World State).",
+    "evidence": [
+      5927
+    ],
+    "reasoning": "1. Narrative present: 2005 reflection. 2. Historical text: 1949. 3. Anchor: The specific concept of 'World Government' anchors the link."
+  },
+  {
+    "id": 164,
+    "type": "Chronological_Displacement",
+    "answer": "Two meters of snow that allowed them to dig tunnel systems between gardens.",
+    "evidence": [
+      5938
+    ],
+    "reasoning": "1. Narrative present: 2005 recall. 2. Memory: 1976 winter. 3. Anchor: The extreme depth of the snow (2 meters) and the tunnels anchor the memory."
+  },
+  {
+    "id": 165,
+    "type": "Chronological_Displacement",
+    "answer": "The father was thirty-two years old in 1976 (implying a comparison to the narrator's own age or perspective).",
+    "evidence": [
+      6034
+    ],
+    "reasoning": "1. Narrative present: 2008. 2. Memory: 1976. 3. Anchor: The specific age (32) anchors the comparative reflection."
+  },
+  {
+    "id": 166,
+    "type": "Chronological_Displacement",
+    "answer": "Lifting a sledgehammer high and striking the rock.",
+    "evidence": [
+      6060,
+      6048
+    ],
+    "reasoning": "1. Narrative present: 2008 visualization. 2. Memory: 1976. 3. Anchor: The dynamic action of the sledgehammer anchors the scene."
+  },
+  {
+    "id": 167,
+    "type": "Chronological_Displacement",
+    "answer": "The fearful gaze of the eight-year-old child vs. the peer-like gaze of the adult narrator.",
+    "evidence": [
+      6075
+    ],
+    "reasoning": "1. Narrative present: 2008 analysis.  \n2. Memory object: 1976 scene.  \n3. Anchor: The split perspective (Child vs Contemporary/Peer) anchors the depth of the memory."
+  },
+  {
+    "id": 168,
+    "type": "Chronological_Displacement",
+    "answer": "The deep, rich sunlight of the afternoon (distinct from the clear midday light) turning the rocks golden.",
+    "evidence": [
+      6256,
+      6255
+    ],
+    "reasoning": "1. Narrative present: 2008 walk. 2. Memory: 1970s summer. 3. Anchor: The specific quality of 'afternoon light' anchors the atmospheric recall."
+  },
+  {
+    "id": 169,
+    "type": "Chronological_Displacement",
+    "answer": "We will not put wings on coffee pots.",
+    "evidence": [
+      6306
+    ],
+    "reasoning": "1. Narrative present: 2008 essayistic thought.  \n2. Historical text: 1969.  \n3. Anchor: The specific quote/image about 'winged coffee pots' anchors the cultural shift."
+  },
+  {
+    "id": 170,
+    "type": "Chronological_Displacement",
+    "answer": "Closing her eyes when strangers approached, pretending to sleep.",
+    "evidence": [
+      6310
+    ],
+    "reasoning": "1. Narrative present: 2008 observation. 2. Memory: 2004 infancy. 3. Anchor: The specific action of 'closing eyes' anchors the trait."
+  },
+  {
+    "id": 171,
+    "type": "Chronological_Displacement",
+    "answer": "The interior decor and selection of goods which have remained unchanged since the 1940s.",
+    "evidence": [
+      6334
+    ],
+    "reasoning": "1. Narrative present: 2008 walk. 2. Historical anchor: 1940s. 3. Anchor: The 'unchanged' nature of the shop anchors the temporal displacement."
+  },
+  {
+    "id": 172,
+    "type": "Chronological_Displacement",
+    "answer": "The strange black timber houses.",
+    "evidence": [
+      6888
+    ],
+    "reasoning": "1. Narrative present: 2008 reflection. 2. Memory: 1960s travel. 3. Anchor: The visual of 'black timber houses' anchors the lost culture."
+  },
+  {
+    "id": 173,
+    "type": "Chronological_Displacement",
+    "answer": "The proximity of death making life more robust/strong.",
+    "evidence": [
+      6894,
+      6891
+    ],
+    "reasoning": "1. Narrative present: 2008 reflection. 2. Historical period: 1600s. 3. Anchor: The concept that 'death's proximity' anchored their vitality."
+  },
+  {
+    "id": 174,
+    "type": "Chronological_Displacement",
+    "answer": "The image of a drooling, trembling old man in a nursing home in 2049.",
+    "evidence": [
+      6901
+    ],
+    "reasoning": "1. Narrative present: 2009. 2. Future projection: 2049. 3. Anchor: The visceral image of the 'drooling old man' anchors the projection."
+  },
+  {
+    "id": 175,
+    "type": "Chronological_Displacement",
+    "answer": "A shiny coffee pot with a red lid.",
+    "evidence": [
+      6909,
+      6911
+    ],
+    "reasoning": "1. Narrative present: 2009. 2. Object: Photo (1960s). 3. Anchor: The 'red-lidded coffee pot' anchors the connection between the parents' separate photos."
+  },
+  {
+    "id": 176,
+    "type": "Chronological_Displacement",
+    "answer": "The presence of the same red-lidded coffee pot.",
+    "evidence": [
+      6911
+    ],
+    "reasoning": "1. Narrative present: 2009. 2. Object: Photo (1979). 3. Anchor: The coffee pot serves as the continuity anchor."
+  },
+  {
+    "id": 177,
+    "type": "Chronological_Displacement",
+    "answer": "Where should all these temporary people live?",
+    "evidence": [
+      6928
+    ],
+    "reasoning": "1. Narrative present: 2009 reflection. 2. Historical context: 1970s. 3. Anchor: The functional question defining the location's purpose anchors its lack of history."
+  },
+  {
+    "id": 178,
+    "type": "Associative_Trigger",
+    "answer": "A scout knife (specifically the sheath depicting a scout in a skirt).",
+    "evidence": [
+      92,
+      93
+    ],
+    "reasoning": "The environmental trigger is the piles of firewood and the boat (winter setting). This transitions to a memory of receiving a scout knife. The narrator recalls disappointment because the knife sheath depicted a scout in a skirt, implying it was for girls."
+  },
+  {
+    "id": 179,
+    "type": "Associative_Trigger",
+    "answer": "A light blue down jacket, a white hat, and half-boots with a wool edge.",
+    "evidence": [
+      1322,
+      1323
+    ],
+    "reasoning": "The trigger segment describes seeing 'her' wearing a light blue down jacket, a white hat, and boots with wool edges. This visual trigger leads directly to the memory of sledding/sliding down a slope with her in 1975."
+  },
+  {
+    "id": 180,
+    "type": "Associative_Trigger",
+    "answer": "The fire (yellow-red flames burning rubbish/branches).",
+    "evidence": [
+      1360,
+      1361
+    ],
+    "reasoning": "The trigger is the sight of a fire burning various objects (rubbish, branches). This visual acts as a catalyst for the memory/reflection that 'fire' belongs to a timeless world, whereas the surrounding objects (cars, houses) belong to the specific era of the 1970s."
+  },
+  {
+    "id": 181,
+    "type": "Associative_Trigger",
+    "answer": "The grandfather singing/calling to the cows ('Come back, cows...').",
+    "evidence": [
+      1775,
+      1776
+    ],
+    "reasoning": "The trigger segment depicts the grandfather standing by the barn singing to call the cows. This routine action triggers the narrator's internal monologue about the difficulty of reconciling the holiday experience with his life back home."
+  },
+  {
+    "id": 182,
+    "type": "Associative_Trigger",
+    "answer": "The father ignoring the children and sitting directly in front of the television.",
+    "evidence": [
+      1865,
+      1866
+    ],
+    "reasoning": "In the trigger, the father comes home, ignores the usual routine of asking how they are, and sits in front of the TV. The narrative then shifts to a memory about a friend swearing and the narrator trying to be 'good', likely associated with the tension or atmosphere created by the father."
+  },
+  {
+    "id": 183,
+    "type": "Associative_Trigger",
+    "answer": "Alexander Kielland.",
+    "evidence": [
+      2109,
+      2110
+    ],
+    "reasoning": "The trigger segment mentions the rain and the news about the 'Alexander Kielland' disaster. This leads to the memory of a teacher discussing the accident and a news prediction about oil running out by 2004."
+  },
+  {
+    "id": 184,
+    "type": "Associative_Trigger",
+    "answer": "Helen Ster.",
+    "evidence": [
+      2190,
+      2191
+    ],
+    "reasoning": "The trigger segment describes seeing Helen Ster coming out of a gas station and getting on a motorcycle. This visual encounter triggers the memory of a past event at the Rock-haug supermarket involving a long kiss (though the kiss involved Thor and Merethe, the location and social circle are linked via the sighting)."
+  },
+  {
+    "id": 185,
+    "type": "Associative_Trigger",
+    "answer": "Roxy Music's 'More Than This'.",
+    "evidence": [
+      2269,
+      2270
+    ],
+    "reasoning": "The trigger segment explicitly mentions listening to Roxy Music's 'More Than This'. This music, combined with the summer night atmosphere, triggers the memory of the summer of 1981 when the narrator finished primary school."
+  },
+  {
+    "id": 186,
+    "type": "Associative_Trigger",
+    "answer": "The plan to buy the house and move there (changing schools/jobs).",
+    "evidence": [
+      2348,
+      2349
+    ],
+    "reasoning": "The trigger involves the excitement of buying a new house and the logistics of moving. This leads to the memory of the brother, Henrik Inge, refusing to move, which was a significant moment of defiance against the father."
+  },
+  {
+    "id": 187,
+    "type": "Associative_Trigger",
+    "answer": "The sound of cars (traffic) from the city.",
+    "evidence": [
+      2475,
+      2476
+    ],
+    "reasoning": "The trigger segment mentions the 'steady, low hum' of cars from the city. This auditory detail leads to the memory of waking up in his childhood home, where the sound of car engines warming up was part of a comforting family routine."
+  },
+  {
+    "id": 188,
+    "type": "Associative_Trigger",
+    "answer": "His usual untidiness/messiness vs. cleaning up for a party.",
+    "evidence": [
+      2540,
+      2541
+    ],
+    "reasoning": "The trigger is the smell of green soap and the clean floor. This unusual cleanliness triggers the memory that the father only cleaned because he was hosting a party/colleagues, contrasting with his usual messy state."
+  },
+  {
+    "id": 189,
+    "type": "Associative_Trigger",
+    "answer": "Finding his father alone in the kitchen, drunk, with an empty wine bottle.",
+    "evidence": [
+      2542,
+      2543
+    ],
+    "reasoning": "The trigger involves seeing the aftermath of a party (bottles, records). This leads to a memory of a contrasting event: coming home to find the father drunk but alone, not partying with others, highlighting the father's alcoholism."
+  },
+  {
+    "id": 190,
+    "type": "Associative_Trigger",
+    "answer": "The mother returning home and giving the narrator a shirt and money as a birthday gift.",
+    "evidence": [
+      2552,
+      2553
+    ],
+    "reasoning": "The trigger is the mundane evening with the father (reading X9) where the birthday is ignored. This leads to the memory of the next day when the mother returns and actually acknowledges the birthday with gifts."
+  },
+  {
+    "id": 191,
+    "type": "Associative_Trigger",
+    "answer": "Henrik Inge (the narrator's brother).",
+    "evidence": [
+      2600,
+      2601
+    ],
+    "reasoning": "The trigger describes a cozy Christmas atmosphere. This leads to thoughts about Henrik Inge, who refused to move with the family and only visited briefly during Christmas, maintaining his independence."
+  },
+  {
+    "id": 192,
+    "type": "Associative_Trigger",
+    "answer": "A class party hosted by Siv.",
+    "evidence": [
+      2850,
+      2851
+    ],
+    "reasoning": "The trigger is the departure from the grandmother's house. The memory/thought process moves to the upcoming days and specifically a class party that the narrator feels accepted in ('good news')."
+  },
+  {
+    "id": 193,
+    "type": "Associative_Trigger",
+    "answer": "The arrival of spring (March/April).",
+    "evidence": [
+      2948,
+      2949
+    ],
+    "reasoning": "The trigger is the internal monologue about wanting Elsa Ingrid to see his world. This emotional intensity links to the memory of the arrival of spring, described as a 'storm of the soul' and a sensory explosion of nature."
+  },
+  {
+    "id": 194,
+    "type": "Associative_Trigger",
+    "answer": "Svaberg (camping site).",
+    "evidence": [
+      2992,
+      2993
+    ],
+    "reasoning": "The trigger involves moving away from the party noise to a quiet spot. This solitude and the background music trigger memories of Elsa Ingrid and a specific past event at Svaberg camping site."
+  },
+  {
+    "id": 195,
+    "type": "Associative_Trigger",
+    "answer": "She had read one of the narrator's essays aloud.",
+    "evidence": [
+      3006,
+      3007
+    ],
+    "reasoning": "The trigger is the conversation with Winnie where she asks if he is okay. This leads to the memory of her mentioning that she read his essay in the spring and the father was proud, which the narrator perceives as flattery."
+  },
+  {
+    "id": 196,
+    "type": "Associative_Trigger",
+    "answer": "Kjartan (referred to as 'Sjertan' or similar in text, likely the uncle).",
+    "evidence": [
+      3016,
+      3017
+    ],
+    "reasoning": "The trigger is the wind and the sensation of drinking wine. The memory drifts to Kjartan and his monotonous life of farm work and shipyard labor, seemingly unchanged by world events."
+  },
+  {
+    "id": 197,
+    "type": "Associative_Trigger",
+    "answer": "Heidegger.",
+    "evidence": [
+      3020,
+      3021
+    ],
+    "reasoning": "The trigger is the description of the Christmas setting with the grandparents and the uncle (Kjartan/Sjertan). This triggers the memory of the uncle talking incessantly about the philosopher Heidegger during the gathering."
+  },
+  {
+    "id": 198,
+    "type": "Associative_Trigger",
+    "answer": "Telemark.",
+    "evidence": [
+      3023,
+      3024
+    ],
+    "reasoning": "The trigger is the thought process about the link between the man's character and his writing. This leads to the memory of spending time with him in a cabin in Telemark."
+  },
+  {
+    "id": 199,
+    "type": "Associative_Trigger",
+    "answer": "Fishing (setting/retrieving nets and buoys).",
+    "evidence": [
+      3107,
+      3108
+    ],
+    "reasoning": "The trigger is the view of the landscape and the silence. The memory is about how the father paid attention to the narrator (unlike the brother), specifically recalling painful/cold fishing trips they took together."
+  },
+  {
+    "id": 200,
+    "type": "Associative_Trigger",
+    "answer": "The Hennig-Olsen ice cream factory or the Falconbridge Nickel Mine (Eagle Bridge Nickel Mine).",
+    "evidence": [
+      3113,
+      3114
+    ],
+    "reasoning": "The trigger is the drive towards Shanheim/Kristiansand. The memory details seeing specific landmarks like the ice cream factory and the nickel mine, which confirm the feeling of entering the past."
+  },
+  {
+    "id": 201,
+    "type": "Associative_Trigger",
+    "answer": "Suicide (specifically that car accidents are often disguised suicides).",
+    "evidence": [
+      3200,
+      3201
+    ],
+    "reasoning": "The trigger is the visit to the pharmacy and the grey exterior. This triggers memories of the father talking about suicide and how many single-car accidents are actually suicides."
+  },
+  {
+    "id": 202,
+    "type": "Associative_Trigger",
+    "answer": "That he liked the interview/article (it was one of the best).",
+    "evidence": [
+      3265,
+      3266
+    ],
+    "reasoning": "The trigger is the drive home after the interview. The memory jumps forward to writing the article and receiving positive feedback from Hauge, who usually didn't give compliments."
+  },
+  {
+    "id": 203,
+    "type": "Associative_Trigger",
+    "answer": "Russ (the graduation celebration period).",
+    "evidence": [
+      3283,
+      3284
+    ],
+    "reasoning": "The trigger involves cleaning the basement and hearing noise from the street. This links to the memory of being a 'Russ' (high school graduate), drinking heavily, and disappointing his grandparents."
+  },
+  {
+    "id": 204,
+    "type": "Associative_Trigger",
+    "answer": "His diaries (journals).",
+    "evidence": [
+      3284,
+      3285
+    ],
+    "reasoning": "The trigger is the continuation of the thought about his 'Russ' period and drinking. The memory reveals that he burned/destroyed all his diaries from that time to erase the shame."
+  },
+  {
+    "id": 205,
+    "type": "Associative_Trigger",
+    "answer": "Crabs.",
+    "evidence": [
+      3351,
+      3352
+    ],
+    "reasoning": "The trigger is the scene at the fish market with cod and crabs. This triggers the memory that crabs were a constant presence in his childhood, with his father often buying or catching them."
+  },
+  {
+    "id": 206,
+    "type": "Associative_Trigger",
+    "answer": "Puns or wordplay (e.g., sending someone to buy 'sense/memory').",
+    "evidence": [
+      3383,
+      3384
+    ],
+    "reasoning": "The trigger is the grandmother's state (smell vs lively eyes). The memory focuses on her storytelling and the family's love for puns and word games (e.g., 'vett' as something to buy)."
+  },
+  {
+    "id": 207,
+    "type": "Associative_Trigger",
+    "answer": "The grandfather and his brother Alf.",
+    "evidence": [
+      3394,
+      3395
+    ],
+    "reasoning": "The trigger is the sight of the bubbly drinks in the kitchen. This leads to the memory/story of the grandmother's past relationship with the grandfather's brother, Alf, before she married the grandfather."
+  },
+  {
+    "id": 208,
+    "type": "Associative_Trigger",
+    "answer": "The pharmacy (Apotheket).",
+    "evidence": [
+      3454,
+      3455
+    ],
+    "reasoning": "The environmental trigger is the walk along the avenue, seeing the grime and the trees. This sensory input activates a memory of the same city in the past, specifically a visit to the pharmacy with his grandmother during a snowy winter."
+  },
+  {
+    "id": 209,
+    "type": "Associative_Trigger",
+    "answer": "Cycling up the slope.",
+    "evidence": [
+      3455,
+      3456
+    ],
+    "reasoning": "The text describes a chain of associations: the pharmacy memory leads to looking at the slope, which triggers the specific memory of the grandfather cycling home, looking like any ordinary old man."
+  },
+  {
+    "id": 210,
+    "type": "Associative_Trigger",
+    "answer": "Sledding (sliding down the slope on a sled).",
+    "evidence": [
+      3456,
+      3457
+    ],
+    "reasoning": "The environmental trigger is the view of the slope behind the buildings. This triggers the memory of a specific winter day spent sledding there with the grandmother."
+  },
+  {
+    "id": 211,
+    "type": "Associative_Trigger",
+    "answer": "Pipe cleaners.",
+    "evidence": [
+      3457,
+      3458
+    ],
+    "reasoning": "The association moves from the winter landscape to a specific memory of the father. The detail anchoring this memory is the errand they were running: walking to the kiosk to buy pipe cleaners."
+  },
+  {
+    "id": 212,
+    "type": "Associative_Trigger",
+    "answer": "For that wound give me comfort.",
+    "evidence": [
+      3510,
+      3511
+    ],
+    "reasoning": "The visual trigger is the woman (Nils Nils) standing against the wall. This leads to the memory of the seminar group introduction where her debut work's title is recalled."
+  },
+  {
+    "id": 213,
+    "type": "Associative_Trigger",
+    "answer": "The owl turning its head.",
+    "evidence": [
+      3513,
+      3514
+    ],
+    "reasoning": "The trigger is the euphoric state after the morning walk. This connects to the memory of sitting next to the woman and trying to bond over a specific aesthetic detail (the owl) from *Blade Runner*."
+  },
+  {
+    "id": 214,
+    "type": "Associative_Trigger",
+    "answer": "Alver.",
+    "evidence": [
+      3522,
+      3523
+    ],
+    "reasoning": "The visual memory of the woman (Nils Nils) triggers the memory of the seminar evenings. The narrator recalls his own failed reading and then the successful performance by Alver."
+  },
+  {
+    "id": 215,
+    "type": "Associative_Trigger",
+    "answer": "His uncle Kjartan (or Sjertan).",
+    "evidence": [
+      3627,
+      3628
+    ],
+    "reasoning": "The environmental trigger is the pause in the archway with the book. This leads to thoughts about Hölderlin, which associates to the memory of his uncle Kjartan talking about the poet when the narrator was sixteen."
+  },
+  {
+    "id": 216,
+    "type": "Associative_Trigger",
+    "answer": "An existentialist.",
+    "evidence": [
+      3647,
+      3648
+    ],
+    "reasoning": "The trigger is the anticipation of meeting Karl. This triggers the memory of their limited past interactions, specifically the moment Karl laughed and called him an existentialist."
+  },
+  {
+    "id": 217,
+    "type": "Associative_Trigger",
+    "answer": "Having a relationship with a thirteen-year-old child.",
+    "evidence": [
+      3715,
+      3716
+    ],
+    "reasoning": "The sensory trigger is the night sounds and insomnia. This leads to a spiral of guilt and memory regarding his drinking days, culminating in the specific recollection of the accusation involving a minor."
+  },
+  {
+    "id": 218,
+    "type": "Associative_Trigger",
+    "answer": "She was the only person he knew in Hallvik (besides Karl Larsdahl).",
+    "evidence": [
+      3731,
+      3732
+    ],
+    "reasoning": "The trigger is the disjointed feeling of the city. This leads to the memory of trying to establish a foothold by calling the only acquaintance he had there."
+  },
+  {
+    "id": 219,
+    "type": "Associative_Trigger",
+    "answer": "Romeo and Juliet.",
+    "evidence": [
+      3849,
+      3850
+    ],
+    "reasoning": "The environmental trigger is the party atmosphere filled with circus performers. The text explains this is due to a collaboration between the Royal Theatre and Cirkus Cirkör (Sik) for a production of *Romeo and Juliet*."
+  },
+  {
+    "id": 220,
+    "type": "Associative_Trigger",
+    "answer": "A cat.",
+    "evidence": [
+      4038,
+      4039
+    ],
+    "reasoning": "The trigger is the moment of intimacy and reassurance in the new relationship. This contrasts with the memory of the finality of the previous breakup, symbolized by the act of taking the cat to his mother's house."
+  },
+  {
+    "id": 221,
+    "type": "Associative_Trigger",
+    "answer": "The sky opening up / the sun appearing.",
+    "evidence": [
+      4121,
+      4122
+    ],
+    "reasoning": "The trigger is the transition from the dark alleys to the open square. The visual appearance of the sky and sun physically mirrors the mental realization/epiphany regarding the interpretation of irony."
+  },
+  {
+    "id": 222,
+    "type": "Associative_Trigger",
+    "answer": "At the airport (when preparing to fly home).",
+    "evidence": [
+      4151,
+      4152
+    ],
+    "reasoning": "The trigger is the pleasant New Year's Eve dinner. This links to the overall memory of the trip, specifically contrasting the stress of the stay with the relief felt upon reaching the airport to leave."
+  },
+  {
+    "id": 223,
+    "type": "Associative_Trigger",
+    "answer": "A missing fishing boat.",
+    "evidence": [
+      4329,
+      4330
+    ],
+    "reasoning": "The trigger is the observation of shapes in stains and paint. This phenomenon triggers the specific memory of seeing a 'face' or shape in the water during a news report about a lost fishing boat."
+  },
+  {
+    "id": 224,
+    "type": "Associative_Trigger",
+    "answer": "The rooms / furniture / physical places.",
+    "evidence": [
+      4336,
+      4337
+    ],
+    "reasoning": "The trigger is the face in the pattern. This leads to a meta-cognitive reflection: while he forgets specific event sequences (like with his brother), he vividly recalls the physical environments (rooms, objects)."
+  },
+  {
+    "id": 225,
+    "type": "Associative_Trigger",
+    "answer": "The weather (sunny/cloudy vs. heavy rain) relative to the time of day.",
+    "evidence": [
+      4445,
+      4446
+    ],
+    "reasoning": "The trigger is looking at the art book. The memory focuses on a specific sketch from 1822 and the academic debate about whether the sky depicted matched the weather records for that time of day."
+  },
+  {
+    "id": 226,
+    "type": "Associative_Trigger",
+    "answer": "The 1920s.",
+    "evidence": [
+      4517,
+      4518
+    ],
+    "reasoning": "The environmental trigger is the sight of the towers. The memory/association is the specific architectural style (Neo-Baroque) and the era (1920s) they represent."
+  },
+  {
+    "id": 227,
+    "type": "Associative_Trigger",
+    "answer": "Cleaning his mother's house.",
+    "evidence": [
+      4836,
+      4837
+    ],
+    "reasoning": "The trigger is the walk in the beautiful surroundings. The memory focuses on the argument taking place, specifically the narrator's desire to spend days clearing out his mother's house."
+  },
+  {
+    "id": 228,
+    "type": "Associative_Trigger",
+    "answer": "Reading books.",
+    "evidence": [
+      4841,
+      4842
+    ],
+    "reasoning": "The peaceful auditory environment leads to a reflection on his 'sulking' nature. He contrasts his current internal turmoil with his childhood coping mechanism: disappearing into books."
+  },
+  {
+    "id": 229,
+    "type": "Associative_Trigger",
+    "answer": "As a small, insignificant, self-deceptive symbiosis.",
+    "evidence": [
+      4846,
+      4847
+    ],
+    "reasoning": "The environmental trigger is the vastness of the night sky appearing after sunset. This triggers the nihilistic thought that the human world/drama is tiny and meaningless compared to the universe."
+  },
+  {
+    "id": 230,
+    "type": "Associative_Trigger",
+    "answer": "His mother, Kjartan (Sjertan), Henrik Inge, and Karl Larsdahl.",
+    "evidence": [
+      4867,
+      4868
+    ],
+    "reasoning": "The trigger is the religious ritual of the christening. This links to the memory of the communion rite where he felt judged by specific relatives present."
+  },
+  {
+    "id": 231,
+    "type": "Associative_Trigger",
+    "answer": "Sofie Ingrid (referred to as 'he' in the text).",
+    "evidence": [
+      4965,
+      4966
+    ],
+    "reasoning": "The trigger is the environment of the studio. The memory focuses on the encounter with the colleague, noting the contrast between his experienced background and his innocent aura."
+  },
+  {
+    "id": 232,
+    "type": "Associative_Trigger",
+    "answer": "Notes/diary entries from when he was eighteen (about a 'beer bag in the ditch').",
+    "evidence": [
+      5273,
+      5274
+    ],
+    "reasoning": "The trigger is the quiet evening moment with the hedgehog. This leads to the decision to write about the father's departure, specifically utilizing old notes from his teenage years."
+  },
+  {
+    "id": 233,
+    "type": "Associative_Trigger",
+    "answer": "It was too big (huge).",
+    "evidence": [
+      5411,
+      5412
+    ],
+    "reasoning": "The trigger is the noise from the neighbor. The memory shifts to a contrasting peaceful time (Christmas preparation) where they laughed at the absurdity of the oversized tree they had bought."
+  },
+  {
+    "id": 234,
+    "type": "Associative_Trigger",
+    "answer": "Fredrik Lund.",
+    "evidence": [
+      5687,
+      5688
+    ],
+    "reasoning": "The trigger is the visual of Ingrid carrying the bottles. This triggers the memory of the previous day, realizing the man in the café looked exactly like the author Fredrik Lund."
+  },
+  {
+    "id": 235,
+    "type": "Associative_Trigger",
+    "answer": "Three.",
+    "evidence": [
+      5695,
+      5696
+    ],
+    "reasoning": "The trigger is the abundance of food in the cellar. This leads to the memory of the christening preparation where Ingrid insisted on bringing three bags of pre-cooked food on the plane."
+  },
+  {
+    "id": 236,
+    "type": "Associative_Trigger",
+    "answer": "The Museum of Modern Art (Moderna Museet).",
+    "evidence": [
+      5712,
+      5713
+    ],
+    "reasoning": "The trigger is the monotony of pushing the pram. This leads to memories of how he killed time, specifically mentioning the visit to the Modern Art Museum."
+  },
+  {
+    "id": 237,
+    "type": "Associative_Trigger",
+    "answer": "The combover (or receding hairlines, as they now shave their heads).",
+    "evidence": [
+      5725,
+      5726
+    ],
+    "reasoning": "The visual trigger is the other fathers. The memory/observation focuses on how they all shave their heads now, making the traditional 'receding hairline' look rare."
+  },
+  {
+    "id": 238,
+    "type": "Associative_Trigger",
+    "answer": "Rattles (or instruments like rattles).",
+    "evidence": [
+      5760,
+      5761
+    ],
+    "reasoning": "The trigger is the participatory song in the class. The specific detail fueling the anger is being made to play a rattle, which the narrator finds undignified."
+  },
+  {
+    "id": 239,
+    "type": "Associative_Trigger",
+    "answer": "Eight years old.",
+    "evidence": [
+      6033,
+      6034
+    ],
+    "reasoning": "The trigger is the dramatic image of the plane crash. The memory is a stark factual statement linking this image to his age (8) and his father's age (32)."
+  },
+  {
+    "id": 240,
+    "type": "Associative_Trigger",
+    "answer": "2049.",
+    "evidence": [
+      6900,
+      6901
+    ],
+    "reasoning": "The trigger is the thought of the child becoming 40. This extends to the thought of himself in 40 years, specifically pinpointing the year 2049."
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "question": "The narrative is set in 1969 as the family moves to a new home in Tromøy. However, the text displaces the narrator's consciousness back to 1964. What specific housing transition anchors this comparison between their current life and the past five years?"
+  },
+  {
+    "id": 2,
+    "question": "In 1969, the narrator outlines the parents' professional roles in Tromøy. What specific educational and occupational struggle anchors the memory of their previous life in Berlunn (Oslo) during the mid-60s?"
+  },
+  {
+    "id": 3,
+    "question": "The narrator is physically in 1969 but mentally reconstructing the parents' wedding in the early 60s. What specific visual detail from the wedding serves as an anchor to reveal the father's social isolation?"
+  },
+  {
+    "id": 4,
+    "question": "The narrator reflects on the parents' generation in 1969. What specific chronological anchor defines them as the 'first post-war generation' and triggers the memory of 1950s societal reconstruction?"
+  },
+  {
+    "id": 5,
+    "question": "The narrator observes the social changes of the late 60s. What specific shift in the educational trajectory of 'working-class children' anchors the narrator's memory of the 'revolution' that occurred in the 1950s and 60s?"
+  },
+  {
+    "id": 6,
+    "question": "The narrator explores the 'spirit of the times' in 1969. What specific 'absurd idea' anchors the mother's rejection of traditional rural life in the 1960s?"
+  },
+  {
+    "id": 7,
+    "question": "Conversely, for the father in 1969, what familial expectation anchors his divergence from the traditional path of marrying a local girl?"
+  },
+  {
+    "id": 8,
+    "question": "Physically, the narrator describes Tromøy Church in 1969. What specific physical artifacts in the landscape anchor the mental jump to the 18th and 19th centuries?"
+  },
+  {
+    "id": 9,
+    "question": "The narrator is looking at a driveway in 1975. What specific sensory detail anchors the memory of the driveway as it appeared in his childhood summers?"
+  },
+  {
+    "id": 10,
+    "question": "While walking on gravel in 1975, the narrator lists car models like the VW Beetle and Ford Taunus. How do these objects function as temporal anchors?"
+  },
+  {
+    "id": 11,
+    "question": "The narrator is swimming with family in 1975. What visual detail about the grandparents anchors the narrator's consciousness to the 1950s?"
+  },
+  {
+    "id": 12,
+    "question": "The narrator is at school in 1975. What specific artifact anchors his admiration for the principal to a historical event in 1768?"
+  },
+  {
+    "id": 13,
+    "question": "The narrator is exploring the attic in 1975. What specific objects anchor his mind to his father's childhood in the 1950s?"
+  },
+  {
+    "id": 14,
+    "question": "In 1975, the grandmother laughs about Henrik Inge's childhood wish. What recursive narrative anchor connects this moment to the father's own childhood wish?"
+  },
+  {
+    "id": 15,
+    "question": "Watching a fire in 1976, the narrator drifts into a philosophical musing. What elemental contrast anchors his realization of the 'modern' 1970s consciousness versus the timelessness of nature?"
+  },
+  {
+    "id": 16,
+    "question": "The narrator reflects on his parents living together in 1976. What specific domestic arrangement anchors the memory of their lives running parallel but separate during the 70s and 80s?"
+  },
+  {
+    "id": 17,
+    "question": "The narrative is in 1978, but the text jumps to a conversation in the early 90s. What specific topic anchors this displacement to the future meeting in Bergen?"
+  },
+  {
+    "id": 18,
+    "question": "In a classroom in 1980, the narrator is startled by a news prediction. What specific temporal anchor makes the future feel 'unreal' yet frighteningly concrete?"
+  },
+  {
+    "id": 19,
+    "question": "At a political meeting in 1985, the narrator feels out of place. What linguistic anchor connects his disappointment with the meeting to a romanticized 1950s ideal?"
+  },
+  {
+    "id": 20,
+    "question": "Listening to his father and Kjartan argue in 1985, what thematic anchor distinguishes the father's world from Kjartan's memory-world?"
+  },
+  {
+    "id": 21,
+    "question": "Sitting in a car in 1998, the narrator looks at CD covers. What specific musical artist anchors him to a memory of his brother's teenage bedroom?"
+  },
+  {
+    "id": 22,
+    "question": "In 1998, the narrator reflects on his relationship with his father. What specific activity anchors the memory of the winter his mother was away in 1982?"
+  },
+  {
+    "id": 23,
+    "question": "The narrator in 1998 recalls a traumatic childhood event. What sensory anchor triggers the memory of his father's harsh punishment after he fell on the stairs?"
+  },
+  {
+    "id": 24,
+    "question": "Driving through the forest in 1998, the narrator recalls a childhood fantasy. What element anchors his memory of 'hypnotic imagination' involving the landscape?"
+  },
+  {
+    "id": 25,
+    "question": "As the car enters the town in 1998, the landscape changes. What specific industrial landmarks anchor the narrator's feeling of driving 'into a memory'?"
+  },
+  {
+    "id": 26,
+    "question": "Driving through Torridalsveien in 1998, what physical location anchors the narrator to his 16-year-old self?"
+  },
+  {
+    "id": 27,
+    "question": "Outside the funeral home in 1998, the narrator spots a man. What physical traits anchor the recognition of his high school teacher?"
+  },
+  {
+    "id": 28,
+    "question": "The narrator is at a funeral in 1998 but recalls a different funeral from his youth. What specific tragedy anchors this memory shift to Magnus Nord?"
+  },
+  {
+    "id": 29,
+    "question": "Watching Henrik Inge park the car in 1998, the narrator is overcome with emotion. What specific action anchors this scene to the father's behavior in the past?"
+  },
+  {
+    "id": 30,
+    "question": "Crossing Lund Bridge in 1998, the narrator recalls a childhood walk. What specific figure anchors this early memory of 1972?"
+  },
+  {
+    "id": 31,
+    "question": "Following the memory of the 'old man' on the bridge, what object in the father's office anchors the child's misunderstanding?"
+  },
+  {
+    "id": 32,
+    "question": "The narrator reflects on his marriage in 1998. What atmospheric detail anchors the memory of his proposal in Mozambique in 1994?"
+  },
+  {
+    "id": 33,
+    "question": "The narrator thinks about his father's death in 1998. What visual image anchors the memory of his father's decline in the 90s?"
+  },
+  {
+    "id": 34,
+    "question": "Walking towards a kiosk in 1998, the narrator recalls a kitchen scene. What specific food item anchors the memory of a conversation about suicide methods?"
+  },
+  {
+    "id": 35,
+    "question": "Standing in the bathroom in 1998, the narrator recalls his grandfather. What spatial anchor connects the current moment to the grandfather's collapse six years prior?"
+  },
+  {
+    "id": 36,
+    "question": "While cleaning the bathroom in 1998, the narrator remembers his childhood fear. What auditory detail anchors this fear of the 'inanimate' room in the 1970s?"
+  },
+  {
+    "id": 37,
+    "question": "The narrator recalls intense laughter with his brother. What linguistic misunderstanding anchors the memory of the camping trip in 1976?"
+  },
+  {
+    "id": 38,
+    "question": "The narrator remembers a swimming pool incident in 1976. What specific object anchors the memory of nearly drowning?"
+  },
+  {
+    "id": 39,
+    "question": "The narrator describes his brother's torment. What specific nightly ritual anchors the complex mix of fear and dependence between the brothers in the 1970s?"
+  },
+  {
+    "id": 40,
+    "question": "The narrator recalls visiting his brother in Bergen in 1984. What specific act anchors his feeling of newfound freedom and adulthood?"
+  },
+  {
+    "id": 41,
+    "question": "Preparing for a night out in 1984 (recalled in 1998), the narrator copies a specific look. What cultural reference anchors his fashion choice?"
+  },
+  {
+    "id": 42,
+    "question": "The narrator recalls an interview with Wall of Voodoo in 1985. What visual detail about the bassist anchors the intimidation the narrator felt?"
+  },
+  {
+    "id": 43,
+    "question": "The narrator remembers planning a band in Bergen in the 80s. What specific venue anchors his dreams of the future?"
+  },
+  {
+    "id": 44,
+    "question": "The narrator thinks about his identity in the 80s. What public display anchors the contrast between his family life and his friend circle?"
+  },
+  {
+    "id": 45,
+    "question": "The narrator recalls his post-high school plans in 1998. What specific ambition anchors his decision to move to Bergen in 1987 instead of traveling Europe?"
+  },
+  {
+    "id": 46,
+    "question": "Living with his brother in Bergen in 1988, the narrator feels inferior. What specific domestic complaint anchors the brother's dominance?"
+  },
+  {
+    "id": 47,
+    "question": "After the brother moves out in 1989, the narrator recalls his loneliness. What social behavior anchors his feeling of being an 'unhappy cartoon character'?"
+  },
+  {
+    "id": 48,
+    "question": "The narrator recalls his time at university in 1992. What specific failure anchors his self-loathing compared to his brother's success?"
+  },
+  {
+    "id": 49,
+    "question": "The narrator describes meeting Ola Ingvar in the 90s. What intellectual interests serve as anchors marking Ola Ingvar as a gateway to a 'higher' literary world?"
+  },
+  {
+    "id": 50,
+    "question": "The narrator reflects on his literary education in the 90s. What specific concept anchors his understanding of modernism's elitism?"
+  },
+  {
+    "id": 51,
+    "question": "The narrator is intellectually engaging with complex theories in 1998. What specific physical interaction with his bookshelf anchors his connection to the 'highest level' of literature from the early 90s, despite his lack of understanding?"
+  },
+  {
+    "id": 52,
+    "question": "The narrator describes a specific sensation while reading Adorno in the 90s. What metaphor serves as the anchor for the feeling of 'richness' and cognitive elevation he sought, distinguishing it from mere academic understanding?"
+  },
+  {
+    "id": 53,
+    "question": "Reflecting on his relationship with his brother in 1998, the narrator identifies a growing intellectual divide. What specific academic discipline anchors Henrik Inge's relativist worldview, contrasting with the narrator's search for 'richness'?"
+  },
+  {
+    "id": 54,
+    "question": "The narrator recalls his time working at a rehab center in the 90s. What specific emotional reaction anchors his complex relationship with his brother's social behavior during this period?"
+  },
+  {
+    "id": 55,
+    "question": "In a flashback to a night at the 'Garage' bar, the narrator stays silent during a discussion about a magazine. What specific non-verbal cue from Henrik Inge anchors the narrator's decision to withhold his own opinion?"
+  },
+  {
+    "id": 56,
+    "question": "The narrator prepares for an interview with Kjartan Fløgstad. What specific literary device anchors Henrik Inge's admiration for this author, contrasting with the narrator's own appreciation?"
+  },
+  {
+    "id": 57,
+    "question": "The narrator recalls an awkward arrival at Olav H. Hauge's house. What specific discrepancy anchors Hauge's initial refusal to let them in?"
+  },
+  {
+    "id": 58,
+    "question": "During the interview with Hauge, the narrator notices a contrast in the poet's demeanor. What specific physical gesture anchors the perception of a 'feminine' softness amidst his masculine stoicism?"
+  },
+  {
+    "id": 59,
+    "question": "As the interview with Hauge falters, the narrator observes the poet's disengagement. What specific visual behavior anchors the narrator's realization that the interview is failing?"
+  },
+  {
+    "id": 60,
+    "question": "The mood of the visit changes abruptly. What specific logistical failure by the TV crew anchors Hauge's shift from hostility to friendliness toward the narrator's group?"
+  },
+  {
+    "id": 61,
+    "question": "Reflecting on Hauge's character after the photo session, the narrator contrasts him with his own relatives. What specific vulnerability anchors the narrator's unease about Hauge's openness?"
+  },
+  {
+    "id": 62,
+    "question": "Before leaving Hauge's house, the narrator performs a specific action. What object serves as the anchor for his interaction with Hauge regarding his mother?"
+  },
+  {
+    "id": 63,
+    "question": "Ola Ingvar asks Hauge to read a poem. What specific subject matter anchors the chosen poem to the immediate setting of the interview?"
+  },
+  {
+    "id": 64,
+    "question": "Listening to Hauge read, the narrator feels overwhelmed. What specific convergence anchors this feeling of 'infinite greatness'?"
+  },
+  {
+    "id": 65,
+    "question": "Driving home after the interview, the narrator observes the landscape. What specific visual detail anchors the timeless quality of small-town life?"
+  },
+  {
+    "id": 66,
+    "question": "The narrator transcribes the interview immediately. What specific fictionalized details anchor his attempt to salvage the lack of substance in the actual conversation?"
+  },
+  {
+    "id": 67,
+    "question": "Preparing for the Fløgstad interview, the narrator is anxious. What specific fear anchors his reluctance to be thoroughly prepared in front of Henrik Inge?"
+  },
+  {
+    "id": 68,
+    "question": "At the cafe with Fløgstad, the brothers make a procedural decision. What specific omission anchors their desire for a 'natural conversation'?"
+  },
+  {
+    "id": 69,
+    "question": "After the Fløgstad interview, the narrator fails to write the summary immediately. What specific distraction anchors this procrastination?"
+  },
+  {
+    "id": 70,
+    "question": "Days later, the narrator calls Fløgstad for follow-up questions. What visual detail describes Henrik Inge's participation during this phone call, anchoring the scene to a spy movie aesthetic?"
+  },
+  {
+    "id": 71,
+    "question": "The narrator constructs the article from fragments. What specific stylistic effort anchors his attempt to make the fabricated quotes sound authentic?"
+  },
+  {
+    "id": 72,
+    "question": "The narrator receives the manuscript back from Fløgstad. What specific visual markers on the paper anchor the magnitude of his failure?"
+  },
+  {
+    "id": 73,
+    "question": "Riding the bus after reading the rejection, the narrator feels intense shame. What specific physical sensation anchors this emotional collapse?"
+  },
+  {
+    "id": 74,
+    "question": "In the aftermath of the failed interview, what specific adjective anchors Fløgstad's criticism of the narrator's own commentary?"
+  },
+  {
+    "id": 75,
+    "question": "Reflecting on Henrik Inge's career trajectory in the 90s, what specific graphic design outputs anchor his professional life in Tønsberg?"
+  },
+  {
+    "id": 76,
+    "question": "Hearing noise from the street in 1998, the narrator recalls a moment of shame from 1988. What specific event anchors this memory of public drunkenness?"
+  },
+  {
+    "id": 77,
+    "question": "The narrator reflects on his youth in 1998. What specific act of destruction anchors his desire to erase the years before he turned twenty-five?"
+  },
+  {
+    "id": 78,
+    "question": "The narrator discusses family sleepwalking habits. What specific bizarre action by Henrik Inge anchors the memory of these nocturnal events in their childhood?"
+  },
+  {
+    "id": 79,
+    "question": "Recalling his own sleepwalking in the 80s, the narrator describes standing naked on a lawn. What object anchors his hallucinated purpose of 'going shopping'?"
+  },
+  {
+    "id": 80,
+    "question": "Cleaning the balcony in 1998, the narrator is transported to the 1970s. What specific product design anchors this olfactory memory?"
+  },
+  {
+    "id": 81,
+    "question": "The narrator lists sensory memories triggered by brand names. What specific taste anchors the memory of football training in the 80s?"
+  },
+  {
+    "id": 82,
+    "question": "The narrator recalls visiting a fish market with his grandmother. What specific visual contrast anchors the difference between the 'magical' market and the 'passionless' dinner at home?"
+  },
+  {
+    "id": 83,
+    "question": "The narrator questions the source of his crab-fishing memories. What specific atmospheric detail anchors the memory of a trip near Torungen lighthouse?"
+  },
+  {
+    "id": 84,
+    "question": "The narrator speaks to Tonje on the phone in 1998. What phrase anchors the contrast between their current relationship and the intense emotions of their past?"
+  },
+  {
+    "id": 85,
+    "question": "The grandmother tells a story from the 1930s about working as a chauffeur. What specific behavior of the employer's pet anchors the memory of the eccentric rich lady?"
+  },
+  {
+    "id": 86,
+    "question": "The grandmother admits to a small crime in the 1930s. What specific justification anchors her memory of stealing money from her employer?"
+  },
+  {
+    "id": 87,
+    "question": "The grandmother recounts the end of the war in 1945. What specific items left behind by the Germans anchor this memory of 'friendship'?"
+  },
+  {
+    "id": 88,
+    "question": "The narrator presses for details about the German gifts. What specific location anchors the grandmother's memory of retrieving these items?"
+  },
+  {
+    "id": 89,
+    "question": "Reflecting on the grandmother's story, the narrator visualizes the scene in 1945. What action anchors the absurdity of the grandparents' behavior in his mind?"
+  },
+  {
+    "id": 90,
+    "question": "Walking in the rain in 1998, the narrator recalls his father in the 70s. What specific mundane object anchors the memory of a walk to the shop with his father?"
+  },
+  {
+    "id": 91,
+    "question": "Looking at his grandmother in 1998, the narrator compares her to her past selves. What specific makeup detail anchors his mental image of her in the 1930s?"
+  },
+  {
+    "id": 92,
+    "question": "The grandmother watches TV in 1998, disconnected from the content. What physical detail on the floor anchors the narrator's realization of her physical decline?"
+  },
+  {
+    "id": 93,
+    "question": "Meeting Geir in 2002, the narrator recalls their first meeting in 1989. What specific personality trait anchors the memory of Geir at a party in Bergen?"
+  },
+  {
+    "id": 94,
+    "question": "In 2002, the narrator thinks of the poet Hölderlin. What family connection anchors his familiarity with this name to his teenage years?"
+  },
+  {
+    "id": 95,
+    "question": "The narrator reflects on his uncle Kjartan's life. What specific occupation anchors Kjartan's daily reality in the 1970s?"
+  },
+  {
+    "id": 96,
+    "question": "The narrator analyzes Kjartan's character. What internal trait anchors the difficulty Kjartan faced in his practical life?"
+  },
+  {
+    "id": 97,
+    "question": "The narrator imagines alternative timelines for Kjartan. What literary trend anchors the hypothetical scenario of Kjartan being a youth in the 1920s?"
+  },
+  {
+    "id": 98,
+    "question": "The narrator explains Kjartan's actual life path. What political act anchors Kjartan's youth to the 1970s 'spirit of the times'?"
+  },
+  {
+    "id": 99,
+    "question": "The narrator describes Kjartan's isolation in the 1980s. What social label anchors his identity in the rural community?"
+  },
+  {
+    "id": 100,
+    "question": "Waiting for Geir in 2002, the narrator recalls a specific interaction from 1990. What label applied by Geir anchors this memory?"
+  },
+  {
+    "id": 101,
+    "question": "The narrator receives an email from Geir in 2002. What specific historical date included in the message anchors Geir's current location to a centuries-old academic tradition?"
+  },
+  {
+    "id": 102,
+    "question": "Meeting Geir in 2002, the narrator mentions an object located at his mother's house. What specific item anchors the narrative to the summer of 1989 and the concept of 'frozen time'?"
+  },
+  {
+    "id": 103,
+    "question": "During a conversation in 2002, Geir recounts an event from his time in Uppsala. What specific historical allusion anchors his act of pinning a thesis to the castle door?"
+  },
+  {
+    "id": 104,
+    "question": "Geir confronts the narrator in 2002 about a story told in 1989. What specific detail about a relationship anchors Geir's memory of the narrator's 'fabricated' past?"
+  },
+  {
+    "id": 105,
+    "question": "Reflecting on his past in 2002, the narrator acknowledges 'black holes' in his memory. What specific scene of waking up in a shelter anchors the chaos of his life in Bergen during the late 80s?"
+  },
+  {
+    "id": 106,
+    "question": "The narrator clarifies a memory to Geir in 2002. What specific numerical correction anchors the reality of his past relationship against the myth he had created?"
+  },
+  {
+    "id": 107,
+    "question": "Lying on a waterbed in 2002, the narrator contemplates a writing project. What specific sensory details anchor the story of a childhood summer night he is trying to write?"
+  },
+  {
+    "id": 108,
+    "question": "Observing Linda in 2002, the narrator contrasts her current demeanor with their first meeting in 1999. What specific metaphorical quality anchors his memory of her past personality?"
+  },
+  {
+    "id": 109,
+    "question": "Dining with Linda in 2002, the narrator references a past event. What specific location anchors his memory of a previous visit with Alve?"
+  },
+  {
+    "id": 110,
+    "question": "The narrator struggles to define a feeling in 2002 regarding an event in 1999. How does he describe the elusive nature of this memory anchor?"
+  },
+  {
+    "id": 111,
+    "question": "In the context of the narrator's reflection on the 1999 event, what limits his ability to mentally relive the past experience?"
+  },
+  {
+    "id": 112,
+    "question": "Writing a letter in a cafe in 2002, the narrator lists specific traits of Linda. What specific linguistic quirks anchor his affection for her?"
+  },
+  {
+    "id": 113,
+    "question": "In the same letter written in 2002, what specific physical detail about Linda's smile anchors the narrator's visual memory of her excitement?"
+  },
+  {
+    "id": 114,
+    "question": "Standing outside 'Vertigo' in 2002, the narrator references a past attempt to talk. What atmospheric condition anchors the current moment to the intensity of the situation?"
+  },
+  {
+    "id": 115,
+    "question": "The narrator prepares to speak to Linda in 2002. What specific expectation about the outcome anchors this attempt to a previous failure?"
+  },
+  {
+    "id": 116,
+    "question": "The narrator tells a story about a childhood errand. What specific destination anchors the memory of the walk where he saw the bird?"
+  },
+  {
+    "id": 117,
+    "question": "Describing the bird seen in his childhood, what geographic comparison anchors the narrator's sense of its exoticism?"
+  },
+  {
+    "id": 118,
+    "question": "The narrator describes his writing process in 2002. What specific setting anchors the story he is struggling to write about?"
+  },
+  {
+    "id": 119,
+    "question": "While writing in 2002, the narrator mentions a specific element that failed to work in the text. What narrative device anchors the 'distance' he felt in the story?"
+  },
+  {
+    "id": 120,
+    "question": "The narrator shares a childhood belief with Linda in 2002. What physical feature of his grandfather anchors the story about the eaglet?"
+  },
+  {
+    "id": 121,
+    "question": "In the story told by the narrator's grandfather, what specific action by the eaglet explains the missing hair?"
+  },
+  {
+    "id": 122,
+    "question": "Linda shares her own childhood memory from 1977. What pet anchors her story of a bird attack?"
+  },
+  {
+    "id": 123,
+    "question": "In Linda's story from 1977, where was the hamster placed when the event occurred? This location anchors the vulnerability of the pet."
+  },
+  {
+    "id": 124,
+    "question": "The narrator discusses his childhood fixations in 2002. What specific type of aircraft anchors his sense of 'magic' and obsession?"
+  },
+  {
+    "id": 125,
+    "question": "Linda lists the narrator's childhood interests. Besides airships and sailboats, what two figures anchor his artistic output as a child?"
+  },
+  {
+    "id": 126,
+    "question": "The narrator in 2002 is obsessed with a specific story idea. What supernatural twist anchors the plot involving a dead seagull?"
+  },
+  {
+    "id": 127,
+    "question": "Reflecting on his writing in 2002, the narrator focuses on a boat trip. What specific contents of a bucket anchor the realism of the scene against the supernatural element?"
+  },
+  {
+    "id": 128,
+    "question": "The narrator describes a failed draft set in the 1940s. What specific condition of the housing anchors the bleak atmosphere awaiting the mother and child?"
+  },
+  {
+    "id": 129,
+    "question": "In another failed story attempt described in 2002, what relationship dynamic anchors the narrative set in a bedroom?"
+  },
+  {
+    "id": 130,
+    "question": "In an office in 2004, the narrator looks at a poster. What specific figure on the poster anchors his mind to the 1920s?"
+  },
+  {
+    "id": 131,
+    "question": "The narrator experiences a sudden memory in 2004. What season and setting anchor the 'atmosphere' he recalls from the 70s?"
+  },
+  {
+    "id": 132,
+    "question": "Reflecting on memory in 2004, the narrator distinguishes between events and surroundings. What specific visual memories anchor his connection to his childhood despite forgetting the events?"
+  },
+  {
+    "id": 133,
+    "question": "The narrator discusses a literary technique in 2004. What specific temporal displacement anchors his strategy for writing about his father?"
+  },
+  {
+    "id": 134,
+    "question": "Visiting a location in Stockholm, the narrator compares it to Norway. What specific century anchors the architectural continuity he observes in Stockholm, which he finds lacking in rural Norway?"
+  },
+  {
+    "id": 135,
+    "question": "The narrator recalls a family story involving Aunt Borghild. What specific timeframe anchors the existence and subsequent demolition of her 16th-century house?"
+  },
+  {
+    "id": 136,
+    "question": "In 2004, while viewing a painting, the narrator is deeply moved. What specific date associated with the artwork anchors the scene depicted to a precise moment in history?"
+  },
+  {
+    "id": 137,
+    "question": "Looking at buildings in 2004, the narrator feels a sense of longing. What specific architectural style anchors his nostalgia for the 1920s?"
+  },
+  {
+    "id": 138,
+    "question": "Reflecting on philosophy in 2004, the narrator recalls his reaction at age nineteen. What specific proposition anchors the intellectual conflict he felt regarding the nature of the world?"
+  },
+  {
+    "id": 139,
+    "question": "In a speech in 2004, the narrator thanks his mother. What specific period of their lives anchors his gratitude for her trust?"
+  },
+  {
+    "id": 140,
+    "question": "The narrator recounts an anecdote about his mother in 2004. What specific event anchors the memory of her getting lost in the car?"
+  },
+  {
+    "id": 141,
+    "question": "Reflecting on his father's death in 2004, the narrator mentions a conversation with a priest. What specific function did the funeral ceremony serve in relation to his father's chaotic life?"
+  },
+  {
+    "id": 142,
+    "question": "The narrator recalls a TV interview from 1998. What specific question posed by the reporter in the car anchors the narrator's identity crisis?"
+  },
+  {
+    "id": 143,
+    "question": "During the 1998 interview recalled in 2004, the reporter contrasts the narrator with other writers. What specific label does he apply to the author Kjartan Fløgstad (referred to as 'the sage' or similar in context)?"
+  },
+  {
+    "id": 144,
+    "question": "The narrator tries to answer the reporter's question in 1998. What specific, mundane phrase anchors his inability to construct a compelling persona?"
+  },
+  {
+    "id": 145,
+    "question": "The narrator describes how the 1998 interview was edited. What specific quote was used at the end to construct a 'character' for him?"
+  },
+  {
+    "id": 146,
+    "question": "Reflecting on his life in 2004, the narrator measures his integration into Stockholm. What specific timeframe anchors the transition from being a stranger to being established?"
+  },
+  {
+    "id": 147,
+    "question": "The narrator looks at his reflection while writing. What specific visual detail of his face anchors the realization of the passage of thirty years?"
+  },
+  {
+    "id": 148,
+    "question": "Linda tells a story about a theatre tour in the 90s. What specific behavior of the actors in a Tokyo restaurant anchors the cultural clash described?"
+  },
+  {
+    "id": 149,
+    "question": "The narrator recalls seeing *Modern Times* in the 1980s. What specific plot point anchors his memory of uncontrollable laughter?"
+  },
+  {
+    "id": 150,
+    "question": "The narrator discovers his plants are missing from the stairwell in 2004. What historical provenance anchors the sentimental value of the lost flower pots?"
+  },
+  {
+    "id": 151,
+    "question": "The narrator in 2004 discusses his writing progress. What specific manuscript details anchor the comparison to his future self's perspective from 2009?"
+  },
+  {
+    "id": 152,
+    "question": "Reflecting on his financial carelessness in 2005, the narrator flashes forward to 2008. What specific event anchors the realization of the consequences of his actions?"
+  },
+  {
+    "id": 153,
+    "question": "The narrator looks at his father's plates in 2005. What financial transaction anchors these objects to the year 1988?"
+  },
+  {
+    "id": 154,
+    "question": "In his mother's house in 2005, the narrator sees a plastic bucket. What specific visual deformation anchors this object to the 1970s?"
+  },
+  {
+    "id": 155,
+    "question": "Contrasting his parents' possessions in 2005, the narrator recalls his father's funeral in 1998. What specific metaphor used by the priest anchors the father's lack of accumulated belongings?"
+  },
+  {
+    "id": 156,
+    "question": "The narrator reconstructs his father's history. What dual identity (sport and profession) anchors the father's 'good times' in Rogaland in 1960?"
+  },
+  {
+    "id": 157,
+    "question": "The narrator describes the parents' move to Oslo in the late 60s. What specific institutional acceptance anchors the widening gap between the mother's success and the father's loss of status?"
+  },
+  {
+    "id": 158,
+    "question": "In 2005, the narrator corrects his daughter's eating habits. What specific trigger anchors this reaction to his own childhood in 1975?"
+  },
+  {
+    "id": 159,
+    "question": "The narrator's mother recounts meeting his father in 1965. What specific auditory error anchors the memory of their first introduction in a beer garden?"
+  },
+  {
+    "id": 160,
+    "question": "In 2005, while visiting the National Library, the narrator connects with the past. What specific architect and decade anchor his appreciation of the building's style?"
+  },
+  {
+    "id": 161,
+    "question": "Shopping for food in 2005, the narrator contrasts his current cart with his 'true' preferences. What specific list of dishes anchors his longing for the 1970s taste palette?"
+  },
+  {
+    "id": 162,
+    "question": "In a bookstore in 2005, Geir reminds the narrator of a past lecture. What specific topic discussed in a taxi anchors the memory to the narrator's arrival in Stockholm in 2002?"
+  },
+  {
+    "id": 163,
+    "question": "Reflecting on modern politics in 2005, the narrator cites a German author. What specific prediction from 1949 anchors the narrator's view on the dissolution of national differences?"
+  },
+  {
+    "id": 164,
+    "question": "The narrator recalls a specific winter from his childhood. What meteorological anomaly anchors the memory to 1976/1977?"
+  },
+  {
+    "id": 165,
+    "question": "In his studio in 2008, the narrator contemplates his father. What specific numerical coincidence anchors his connection to his father in 1976?"
+  },
+  {
+    "id": 166,
+    "question": "The narrator visualizes his father in a spring evening of 1976. What specific physical action anchors the father's presence in the landscape?"
+  },
+  {
+    "id": 167,
+    "question": "The narrator analyzes his memory of the father hammering rock. What two distinct perspectives anchor the duality of this single image?"
+  },
+  {
+    "id": 168,
+    "question": "Walking downhill in 2008, the narrator is seized by a memory. What specific quality of light anchors him to the summer afternoons of the 1970s?"
+  },
+  {
+    "id": 169,
+    "question": "The narrator discusses materialism and cultural change in 2008. What specific surreal image from a 1969 essay anchors the rejection of the 'sublime'?"
+  },
+  {
+    "id": 170,
+    "question": "Observing his daughter in 2008, the narrator notes a specific trait. What behavioral mechanism anchors her shyness to her infancy in 2004?"
+  },
+  {
+    "id": 171,
+    "question": "Walking in the city in 2008, the narrator passes a handbag shop. What specific temporal quality anchors the shop's interior to the mid-20th century?"
+  },
+  {
+    "id": 172,
+    "question": "Standing on a balcony in 2008, the narrator mourns cultural loss. What specific architectural feature anchors the 'pure and gloomy' culture of Gudbrandsdalen in the 1960s?"
+  },
+  {
+    "id": 173,
+    "question": "The narrator longs for the 17th century. What specific paradox anchors the achievements of figures like Newton and Rembrandt to the harsh reality of their time?"
+  },
+  {
+    "id": 174,
+    "question": "The narrator in 2009 looks at a young child. What specific future projection anchors the contrast between the child's current state and his inevitable fate?"
+  },
+  {
+    "id": 175,
+    "question": "The narrator examines a photo of his mother from the 1960s. What specific kitchen object anchors the scene to a photo of his father taken ten years later?"
+  },
+  {
+    "id": 176,
+    "question": "Following the examination of his mother's photo, the narrator looks at a photo of his father from 1979. What detail confirms the continuity between these two separate lives?"
+  },
+  {
+    "id": 177,
+    "question": "The narrator reflects on the housing estate where he grew up. What specific pragmatic question anchors the existence of this 'rootless' place to the 1970s planning mindset?"
+  },
+  {
+    "id": 178,
+    "question": "In the text, the narrator observes firewood stored under a tarp and a boat. Identify the specific object involved in the subsequent memory that the narrator was disappointed by due to a gendered design detail."
+  },
+  {
+    "id": 179,
+    "question": "The narrator's view of a girl triggers a memory of winter play. Which specific items of her clothing are described in the trigger segment that lead to the recollection of sliding down a slope?"
+  },
+  {
+    "id": 180,
+    "question": "The specific elemental phenomenon in the environment that triggered the narrator's philosophical reflection on the contrast between the timelessness of nature and the specific temporality of the 1970s is the presence of a natural disaster, such as a flood or earthquake, which disrupted the normal flow of time and space."
+  },
+  {
+    "id": 181,
+    "question": "What specific auditory signal from the grandfather acted as the trigger for the narrator's reflection on the separation between the 'holiday world' and the 'home world'?"
+  },
+  {
+    "id": 182,
+    "question": "The text transitions from a scene of domestic leisure (playing football, listening to Queen) to a memory of moral anxiety involving a friend. What specific behavior of the father in the living room served as the immediate temporal marker for this transition?"
+  },
+  {
+    "id": 183,
+    "question": "The sensory experience of rain and the news of a specific disaster triggered a memory regarding a future date (2004). What was the name of the oil rig involved in the disaster?"
+  },
+  {
+    "id": 184,
+    "question": "The narrator sees a man on a bus and then a specific individual on a motorcycle. Identify the individual on the motorcycle whose appearance triggered the memory of a 'ten-minute kiss' at the Rock-haug supermarket."
+  },
+  {
+    "id": 185,
+    "question": "What specific song playing in the environment acted as the trigger for the narrator's recollection of the summer he transitioned from childhood to adolescence?"
+  },
+  {
+    "id": 186,
+    "question": "The narrator's enthusiastic exploration of a potential new house triggered a contrasting memory of familial conflict. What specific topic discussed in the trigger segment led to the recollection of the brother's defiance?"
+  },
+  {
+    "id": 187,
+    "question": "What specific background noise in the present environment triggered the narrator's comparison between waking up alone and the mornings of his childhood?"
+  },
+  {
+    "id": 188,
+    "question": "The olfactory detection of 'green soap' and the visual of a clean room triggered a memory concerning the father. What specific deviation from the father's usual domestic habits was highlighted in the memory?"
+  },
+  {
+    "id": 189,
+    "question": "The visual evidence of a party, specifically records by Bach and Vivaldi, triggered a memory of a different type of evening. Describe the scene the narrator recalls regarding his father in the memory segment."
+  },
+  {
+    "id": 190,
+    "question": "The specific activity of the father reading a comic book and the narrator eating a sausage triggered a memory of what specific subsequent event involving the mother?"
+  },
+  {
+    "id": 191,
+    "question": "The sensory richness of a traditional Christmas setting (peeling an orange, lights, fire) triggered thoughts about which family member's absence or resistance to this setting?"
+  },
+  {
+    "id": 192,
+    "question": "The visual of the grandmother waving goodbye as the car departs triggered a train of thought leading to anticipation of what specific social event?"
+  },
+  {
+    "id": 193,
+    "question": "The narrator's internal longing for a girl named Elsa Ingrid to witness his life triggered a broader recollection of which seasonal transition?"
+  },
+  {
+    "id": 194,
+    "question": "The fading auditory landscape of a garden party and the narrator's physical isolation near a birch tree triggered a memory of a specific past summer location. Identify this location."
+  },
+  {
+    "id": 195,
+    "question": "A conversation initiated by a woman named Winnie in a windy garden environment triggered a specific memory regarding a literary interaction. What had Winnie done that she mentioned in the trigger segment?"
+  },
+  {
+    "id": 196,
+    "question": "The sensory experience of the wind and the taste of wine triggered a stream of consciousness regarding the repetitive life routine of which individual?"
+  },
+  {
+    "id": 197,
+    "question": "The context of a family Christmas dinner triggered a memory of an uncle's monologue. Which philosopher was the primary subject of this uncle's obsession?"
+  },
+  {
+    "id": 198,
+    "question": "The narrator's contemplation of the discrepancy between an author's character and their language triggered a memory of a shared experience in which specific region?"
+  },
+  {
+    "id": 199,
+    "question": "The visual survey of a rural landscape and a companion's silence triggered a memory contrasting the father's treatment of the narrator versus his brother. What specific shared activity with the father was recalled as an example of this 'attention'?"
+  },
+  {
+    "id": 200,
+    "question": "The visual recognition of industrial landmarks while driving triggered the sensation of entering a 'memory landscape'. Identify one of the specific industrial landmarks mentioned."
+  },
+  {
+    "id": 201,
+    "question": "The contrast between a pleasant interaction in a pharmacy and the grey city outside triggered a dark memory concerning the father. What specific topic of conversation from the father was recalled?"
+  },
+  {
+    "id": 202,
+    "question": "The post-interview atmosphere of fatigue and silence in the car triggered a recollection of the subsequent process of writing the article. What specific reaction from the interviewee (Hauge) was recalled?"
+  },
+  {
+    "id": 203,
+    "question": "The sensory act of cleaning a dirty basement and hearing street noise triggered a memory of the narrator's past behavior during which specific high school celebration period?"
+  },
+  {
+    "id": 204,
+    "question": "What items did the narrator destroy?"
+  },
+  {
+    "id": 205,
+    "question": "The visual details of a fish market (cod in tanks, crabs) triggered a general childhood memory of the father. What seafood did the father frequently bring home or catch?"
+  },
+  {
+    "id": 206,
+    "question": "The contrast between the grandmother's physical deterioration and her lively storytelling triggered a memory of the family's shared appreciation for what type of humor?"
+  },
+  {
+    "id": 207,
+    "question": "The visual of carbonated drinks in a kitchen setting triggered a reflection on a family history involving a romantic triangle. Who were the two men involved with the grandmother?"
+  },
+  {
+    "id": 208,
+    "question": "The narrator's walk through a gritty urban environment, noting the grey walls and exhaust fumes, triggers a vivid recollection of a winter scene from his childhood. What specific establishment does he recall visiting with his grandmother in that memory?"
+  },
+  {
+    "id": 209,
+    "question": "The visual memory of the pharmacy acts as a catalyst for a subsequent memory involving the narrator's grandfather. What specific activity was the grandfather performing in this triggered memory?"
+  },
+  {
+    "id": 210,
+    "question": "The view of the grassy slope behind the buildings triggers a sensory memory of a blue, cold winter day. What activity was the narrator doing with his grandmother in this specific recollection?"
+  },
+  {
+    "id": 211,
+    "question": "Reflecting on the sledding slope triggers a deeper memory from the early 1970s involving the narrator's father. What specific item were they walking to the kiosk to buy in this memory?"
+  },
+  {
+    "id": 212,
+    "question": "The narrator's arrival at a seminar and the sight of a woman leaning against a wall triggers an immediate sense of attraction. What was the title of the debut poetry collection mentioned in the subsequent memory of their introduction?"
+  },
+  {
+    "id": 213,
+    "question": "A morning walk in the forest and a feeling of mysterious happiness triggers a memory of a conversation about the film *Blade Runner*. What specific moment from the film did the narrator ask his companion if she remembered?"
+  },
+  {
+    "id": 214,
+    "question": "The narrator's memory of seeing a woman in sunglasses and army trousers triggers a recollection of a failed reading. Who was the person who read after the narrator and mesmerized the audience, contrasting with the narrator's failure?"
+  },
+  {
+    "id": 215,
+    "question": "Seeking shelter from the rain in an archway to smoke and look at a book triggers a reflection on the poet Hölderlin. Which family member does the narrator recall introducing him to Hölderlin's name?"
+  },
+  {
+    "id": 216,
+    "question": "The setting of a meeting place with a round railing triggers a memory of a comment made by Karl Larsdahl twelve years prior. What specific philosophical label did Karl apply to the narrator in that memory?"
+  },
+  {
+    "id": 217,
+    "question": "The ambient sounds of the city at night and a couple undressing trigger dark memories of the narrator's past blackouts. What specific criminal accusation (other than theft) does he recall being questioned about during that time?"
+  },
+  {
+    "id": 218,
+    "question": "The fragmented visual experience of the city of Hallvik triggers a memory of seeking connection. Why did the narrator call the specific woman mentioned in the memory upon his arrival?"
+  },
+  {
+    "id": 219,
+    "question": "The presence of circus performers like fire-eaters at the party is linked to a specific theatrical production mentioned in the text. What play was being performed?"
+  },
+  {
+    "id": 220,
+    "question": "The intimacy of a new relationship and a promise that 'it will never happen again' triggers a memory of a breakup. What specific pet does the narrator recall relocating during the split with Tonje?"
+  },
+  {
+    "id": 221,
+    "question": "The oppressive, dirty atmosphere of the canal streets triggers a shift in perspective when the narrator enters a square. What specific environmental change accompanied his realization that Sæterbakken might not have been ironic?"
+  },
+  {
+    "id": 222,
+    "question": "The romantic setting of New Year's Eve in Paris serves as a backdrop for a memory of tension. Where does the narrator recall the tension finally evaporating during their trip?"
+  },
+  {
+    "id": 223,
+    "question": "The narrator's tendency to see shapes in random patterns (pareidolia) triggers a specific childhood memory. What news event involving the sea contained a similar visual shape in the water?"
+  },
+  {
+    "id": 224,
+    "question": "The visual interpretation of a face resembling Christ triggers a reflection on the nature of the narrator's memory. What aspect of the past does the narrator claim to remember vividly, in contrast to specific events?"
+  },
+  {
+    "id": 225,
+    "question": "Browsing a book on Constable triggers an emotional response to a specific sketch of the sky. What meteorological inconsistency was debated regarding this specific sketch?"
+  },
+  {
+    "id": 226,
+    "question": "The view of two towers while smoking by a kindergarten wall triggers a specific sense of nostalgia. To which decade does the narrator attribute the architectural style of these towers?"
+  },
+  {
+    "id": 227,
+    "question": "The contrast between a beautiful landscape and a domestic argument triggers a judgment on the partner. What specific task was the narrator arguing he should be allowed to do?"
+  },
+  {
+    "id": 228,
+    "question": "The sounds of the river and his partner sleeping trigger a self-reflection on how the narrator deals with conflict. What activity does he recall using as a child to escape, which he contrasts with his current behavior?"
+  },
+  {
+    "id": 229,
+    "question": "The transition from sunset to the appearance of stars triggers a philosophical reflection on human existence. How does the narrator describe the human world in relation to the cosmos in this reflection?"
+  },
+  {
+    "id": 230,
+    "question": "The christening ceremony triggers a memory of taking communion. Who were the specific family members whose skeptical gazes the narrator felt during the communion?"
+  },
+  {
+    "id": 231,
+    "question": "The photographer's name is [photographer's name]."
+  },
+  {
+    "id": 232,
+    "question": "An encounter with a hedgehog in the garden triggers a resolve to write about a difficult past event. What specific source material from his youth does the narrator decide to use?"
+  },
+  {
+    "id": 233,
+    "question": "The aggressive sound of a neighbor banging on pipes triggers a memory of a shared moment of laughter. What characteristic of the Christmas tree they bought caused this amusement?"
+  },
+  {
+    "id": 234,
+    "question": "The sight of Ingrid carrying yellow-capped bottles triggers a flashback to a man seen in a café. Which author did this man resemble?"
+  },
+  {
+    "id": 235,
+    "question": "The well-stocked cellar triggers a memory of a logistical disagreement regarding a family event. How many bags of frozen food did Ingrid bring on the flight for the christening?"
+  },
+  {
+    "id": 236,
+    "question": "The boredom of childcare routines triggers a memory of visiting cultural sites to pass time. Which specific museum on Skeppsholmen does the narrator mention visiting?"
+  },
+  {
+    "id": 237,
+    "question": "Observing other fathers in cafes triggers a reflection on changing male aesthetics. What specific hairstyle does the narrator note has become 'almost extinct' among these men?"
+  },
+  {
+    "id": 238,
+    "question": "The sensory experience of a baby music class triggers intense feelings of humiliation. What specific instrument were the parents handed to play, which fueled this feeling?"
+  },
+  {
+    "id": 239,
+    "question": "The visual of a plane exploding in the sky triggers a factual memory about the narrator's past. How old was the narrator when the event associated with this image occurred?"
+  },
+  {
+    "id": 240,
+    "question": "In what year does he imagine himself as a senile old man in a nursing home?"
+  }
+]

@@ -1,0 +1,1303 @@
+[
+  {
+    "id": 1,
+    "answer": "10 seconds (start time 00:42:47, end time 00:42:57)"
+  },
+  {
+    "id": 2,
+    "answer": "45 seconds (start time 01:13:02, end time 01:13:47)"
+  },
+  {
+    "id": 3,
+    "answer": "45 seconds (start time 00:40:02, end time 00:40:47)"
+  },
+  {
+    "id": 4,
+    "answer": "5 seconds (start time 00:42:47, end time 00:42:52)"
+  },
+  {
+    "id": 5,
+    "answer": "20 seconds (start time 04:09:49, end time 04:10:09)"
+  },
+  {
+    "id": 6,
+    "answer": "25 seconds (start time 04:11:19, end time 04:11:44)"
+  },
+  {
+    "id": 7,
+    "answer": "15 seconds (start time 19:59:59, end time 20:00:14)"
+  },
+  {
+    "id": 8,
+    "answer": "10 seconds (start time 10:27:26, end time 10:27:36)"
+  },
+  {
+    "id": 9,
+    "answer": "40 seconds (start time 10:29:26, end time 10:30:06)"
+  },
+  {
+    "id": 10,
+    "answer": "10 seconds (start time 03:40:19, end time 03:40:29)"
+  },
+  {
+    "id": 11,
+    "answer": "5 seconds (start time 03:43:19, end time 03:43:24)"
+  },
+  {
+    "id": 12,
+    "answer": "20 seconds (start time 03:47:19, end time 03:47:39)"
+  },
+  {
+    "id": 13,
+    "answer": "20 seconds (start time 19:17:32, end time 19:17:52)"
+  },
+  {
+    "id": 14,
+    "answer": "40 seconds (start time 19:18:07, end time 19:18:47)"
+  },
+  {
+    "id": 15,
+    "answer": "20 seconds (start time 00:37:17, end time 00:37:37)"
+  },
+  {
+    "id": 16,
+    "answer": "20 seconds (start time 00:38:17, end time 00:38:37)"
+  },
+  {
+    "id": 17,
+    "answer": "5 seconds (start time 00:40:02, end time 00:40:07)"
+  },
+  {
+    "id": 18,
+    "answer": "10 seconds (start time 19:47:15, end time 19:47:25)"
+  },
+  {
+    "id": 19,
+    "answer": "25 seconds (start time 19:57:37, end time 19:58:02)"
+  },
+  {
+    "id": 20,
+    "answer": "25 seconds (start time 06:25:55, end time 06:26:20)"
+  },
+  {
+    "id": 21,
+    "answer": "30 seconds (start time 00:43:32, end time 00:44:02)"
+  },
+  {
+    "id": 22,
+    "answer": "40 seconds (start time 00:45:02, end time 00:45:42)"
+  },
+  {
+    "id": 23,
+    "answer": "15 seconds (start time 00:42:47, end time 00:43:02)"
+  },
+  {
+    "id": 24,
+    "answer": "35 seconds (start time 07:39:26, end time 07:40:01)"
+  },
+  {
+    "id": 25,
+    "answer": "1 minute and 35 seconds (start time 13:18:25, end time 13:20:00)"
+  },
+  {
+    "id": 26,
+    "answer": "8 minutes and 15 seconds (start time 23:09:58, end time 23:18:13)"
+  },
+  {
+    "id": 27,
+    "answer": "1 minute and 35 seconds (start time 01:56:31, end time 01:58:06)"
+  },
+  {
+    "id": 28,
+    "answer": "1 minute and 50 seconds (start time 04:12:16, end time 04:14:06)"
+  },
+  {
+    "id": 29,
+    "answer": "4 minutes and 20 seconds (start time 04:17:31, end time 04:21:51)"
+  },
+  {
+    "id": 30,
+    "answer": "1 minute and 10 seconds (start time 04:21:41, end time 04:22:51)"
+  },
+  {
+    "id": 31,
+    "answer": "3 hours, 54 minutes and 20 seconds (start time 05:53:49, end time 09:48:09)"
+  },
+  {
+    "id": 32,
+    "answer": "1 minute and 5 seconds (start time 10:00:29, end time 10:01:34)"
+  },
+  {
+    "id": 33,
+    "answer": "3 minutes (start time 12:28:39, end time 12:31:39)"
+  },
+  {
+    "id": 34,
+    "answer": "45 seconds (start time 05:56:47, end time 05:57:32)"
+  },
+  {
+    "id": 35,
+    "answer": "1 minute and 5 seconds (start time 11:04:54, end time 11:05:59)"
+  },
+  {
+    "id": 36,
+    "answer": "1 minute and 10 seconds (start time 12:23:59, end time 12:25:09)"
+  },
+  {
+    "id": 37,
+    "answer": "20 seconds (start time 15:00:00, end time 15:00:20)"
+  },
+  {
+    "id": 38,
+    "answer": "1 minute and 5 seconds (start time 02:18:08, end time 02:19:13)"
+  },
+  {
+    "id": 39,
+    "answer": "1 minute and 45 seconds (start time 04:29:40, end time 04:31:25)"
+  },
+  {
+    "id": 40,
+    "answer": "1 minute and 10 seconds (start time 05:46:53, end time 05:48:03)"
+  },
+  {
+    "id": 41,
+    "answer": "1 minute and 5 seconds (start time 07:58:55, end time 08:00:00)"
+  },
+  {
+    "id": 42,
+    "answer": "2 minutes (start time 21:33:30, end time 21:35:30)"
+  },
+  {
+    "id": 43,
+    "answer": "40 seconds (start time 00:27:46, end time 00:28:26)"
+  },
+  {
+    "id": 44,
+    "answer": "1 minute and 35 seconds (start time 01:02:34, end time 01:04:09)"
+  },
+  {
+    "id": 45,
+    "answer": "19 hours, 30 minutes and 10 seconds (start time 01:04:44, end time 20:34:54)"
+  },
+  {
+    "id": 46,
+    "answer": "2 minutes and 5 seconds (start time 05:13:17, end time 05:15:22)"
+  },
+  {
+    "id": 47,
+    "answer": "1 minute and 5 seconds (start time 11:21:54, end time 11:22:59)"
+  },
+  {
+    "id": 48,
+    "answer": "35 seconds (start time 17:09:27, end time 17:10:02)"
+  },
+  {
+    "id": 49,
+    "answer": "1 minute and 30 seconds (start time 08:51:11, end time 08:52:41)"
+  },
+  {
+    "id": 50,
+    "answer": "1 minute and 30 seconds (start time 06:30:00, end time 06:31:30)"
+  },
+  {
+    "id": 51,
+    "answer": "45 seconds (start time 06:31:35, end time 06:32:20)"
+  },
+  {
+    "id": 52,
+    "answer": "40 seconds (start time 06:59:45, end time 07:00:25)"
+  },
+  {
+    "id": 53,
+    "answer": "15 seconds (start time 03:55:11, end time 03:55:26)"
+  },
+  {
+    "id": 54,
+    "answer": "25 seconds (start time 02:45:57, end time 02:46:22)"
+  },
+  {
+    "id": 55,
+    "answer": "12 hours, 15 minutes, and 47 seconds (start time 01:54:32, end time 14:10:19)"
+  },
+  {
+    "id": 56,
+    "answer": "35 seconds (start time 15:10:14, end time 15:10:49)"
+  },
+  {
+    "id": 57,
+    "answer": "30 seconds (start time 15:40:41, end time 15:41:11)"
+  },
+  {
+    "id": 58,
+    "answer": "8 hours, 10 minutes, and 34 seconds (start time 04:55:48, end time 13:06:22)"
+  },
+  {
+    "id": 59,
+    "answer": "55 seconds (start time 09:31:02, end time 09:31:57)"
+  },
+  {
+    "id": 60,
+    "answer": "7 hours, 37 minutes, and 5 seconds (start time 07:00:00, end time 14:37:05)"
+  },
+  {
+    "id": 61,
+    "answer": "8 hours, 7 minutes, and 12 seconds (start time 07:00:00, end time 15:07:12)"
+  },
+  {
+    "id": 62,
+    "answer": "35 seconds (start time 04:25:17, end time 04:25:52)"
+  },
+  {
+    "id": 63,
+    "answer": "9 hours, 18 minutes, and 51 seconds (start time 13:25:04, end time 22:43:55)"
+  },
+  {
+    "id": 64,
+    "answer": "9 hours, 19 minutes, and 27 seconds (start time 21:18:10, end time 06:37:37)"
+  },
+  {
+    "id": 65,
+    "answer": "20 seconds (start time 19:00:00, end time 19:00:20)"
+  },
+  {
+    "id": 66,
+    "answer": "45 seconds (start time 09:50:43, end time 09:51:28)"
+  },
+  {
+    "id": 67,
+    "answer": "50 seconds (start time 13:47:36, end time 13:48:26)"
+  },
+  {
+    "id": 68,
+    "answer": "20 seconds (start time 02:20:03, end time 02:20:23)"
+  },
+  {
+    "id": 69,
+    "answer": "1 minute and 5 seconds (start time 20:00:00, end time 20:01:05)"
+  },
+  {
+    "id": 70,
+    "answer": "1 minute (start time 19:00:00, end time 19:01:00)"
+  },
+  {
+    "id": 71,
+    "answer": "15 hours, 37 minutes, and 19 seconds (start time 07:17:19, end time 22:54:38)"
+  },
+  {
+    "id": 72,
+    "answer": "35 minutes and 40 seconds (start time 18:25:20, end time 19:01:00)"
+  },
+  {
+    "id": 73,
+    "answer": "35 seconds (start time 19:07:16, end time 19:07:51)"
+  },
+  {
+    "id": 74,
+    "answer": "25 seconds (start time 05:18:10, end time 05:18:35)"
+  },
+  {
+    "id": 75,
+    "answer": "30 seconds (start time 10:23:38, end time 10:24:08)"
+  },
+  {
+    "id": 76,
+    "answer": "4 minutes and 15 seconds (start time 05:42:37, end time 05:46:52)"
+  },
+  {
+    "id": 77,
+    "answer": "2 minutes and 5 seconds (start time 11:13:39, end time 11:15:44)"
+  },
+  {
+    "id": 78,
+    "answer": "3 minutes and 45 seconds (start time 14:56:15, end time 15:00:00)"
+  },
+  {
+    "id": 79,
+    "answer": "1 minute (start time 00:41:42, end time 00:42:42)"
+  },
+  {
+    "id": 80,
+    "answer": "1 minute and 45 seconds (start time 01:53:33, end time 01:55:18)"
+  },
+  {
+    "id": 81,
+    "answer": "1 minute and 30 seconds (start time 05:54:12, end time 05:55:42)"
+  },
+  {
+    "id": 82,
+    "answer": "50 seconds (start time 07:59:10, end time 08:00:00)"
+  },
+  {
+    "id": 83,
+    "answer": "5 hours 42 minutes and 57 seconds (start time 08:00:00, end time 13:42:57)"
+  },
+  {
+    "id": 84,
+    "answer": "30 seconds (start time 12:48:56, end time 12:49:26)"
+  },
+  {
+    "id": 85,
+    "answer": "25 seconds (start time 02:07:15, end time 02:07:40)"
+  },
+  {
+    "id": 86,
+    "answer": "1 minute and 20 seconds (start time 23:21:32, end time 23:22:52)"
+  },
+  {
+    "id": 87,
+    "answer": "5 seconds (start time 01:58:44, end time 01:58:49)"
+  },
+  {
+    "id": 88,
+    "answer": "20 seconds (start time 04:48:41, end time 04:49:01)"
+  },
+  {
+    "id": 89,
+    "answer": "4 minutes and 10 seconds (start time 22:38:01, end time 22:42:11)"
+  },
+  {
+    "id": 90,
+    "answer": "1 minute and 55 seconds (start time 11:15:42, end time 11:16:57)"
+  },
+  {
+    "id": 91,
+    "answer": "1 minute and 40 seconds (start time 01:43:27, end time 01:45:07)"
+  },
+  {
+    "id": 92,
+    "answer": "25 seconds (start time 12:28:32, end time 12:28:57)"
+  },
+  {
+    "id": 93,
+    "answer": "2 minutes (start time 20:42:57, end time 20:44:52)"
+  },
+  {
+    "id": 94,
+    "answer": "5 hours 22 minutes and 5 seconds (start time 09:37:55, end time 15:00:00)"
+  },
+  {
+    "id": 95,
+    "answer": "1 minute and 5 seconds (start time 20:43:47, end time 20:44:52)"
+  },
+  {
+    "id": 96,
+    "answer": "2 minutes and 20 seconds (start time 18:01:04, end time 18:03:24)"
+  },
+  {
+    "id": 97,
+    "answer": "1 minute and 15 seconds (start time 03:34:19, end time 03:35:34)"
+  },
+  {
+    "id": 98,
+    "answer": "6 hours 18 minutes and 42 seconds (start time 14:58:25, end time 21:17:07)"
+  },
+  {
+    "id": 99,
+    "answer": "1 minute and 45 seconds (start time 03:19:32, end time 03:21:17)"
+  },
+  {
+    "id": 100,
+    "answer": "5 seconds (start time 17:17:34, end time 17:17:39)"
+  },
+  {
+    "id": 101,
+    "answer": "A -> B -> C",
+    "evidence": [
+      331,
+      1,
+      433
+    ]
+  },
+  {
+    "id": 102,
+    "answer": "A -> B -> C",
+    "evidence": [
+      48,
+      88,
+      145,
+      146
+    ]
+  },
+  {
+    "id": 103,
+    "answer": "A -> B -> C",
+    "evidence": [
+      23,
+      101,
+      120
+    ]
+  },
+  {
+    "id": 104,
+    "answer": "A -> B -> C",
+    "evidence": [
+      176,
+      190,
+      1281
+    ]
+  },
+  {
+    "id": 105,
+    "answer": "A -> B -> C",
+    "evidence": [
+      43,
+      254,
+      967
+    ]
+  },
+  {
+    "id": 106,
+    "answer": "A -> B -> C",
+    "evidence": [
+      297,
+      475,
+      527
+    ]
+  },
+  {
+    "id": 107,
+    "answer": "A -> B -> C",
+    "evidence": [
+      1257,
+      481,
+      551
+    ]
+  },
+  {
+    "id": 108,
+    "answer": "A -> B -> C",
+    "evidence": [
+      569,
+      582,
+      625
+    ]
+  },
+  {
+    "id": 109,
+    "answer": "A -> B -> C",
+    "evidence": [
+      286,
+      664,
+      856
+    ]
+  },
+  {
+    "id": 110,
+    "answer": "A -> B -> C",
+    "evidence": [
+      897,
+      925,
+      1282
+    ]
+  },
+  {
+    "id": 111,
+    "answer": "A -> B -> C",
+    "evidence": [
+      1275,
+      969,
+      1710
+    ]
+  },
+  {
+    "id": 112,
+    "answer": "A -> B -> C",
+    "evidence": [
+      1321,
+      1707,
+      1711
+    ]
+  },
+  {
+    "id": 113,
+    "answer": "A -> B -> C",
+    "evidence": [
+      810,
+      476,
+      1922
+    ]
+  },
+  {
+    "id": 114,
+    "answer": "A -> B -> C",
+    "evidence": [
+      354,
+      598,
+      1184
+    ]
+  },
+  {
+    "id": 115,
+    "answer": "A -> B -> C",
+    "evidence": [
+      31,
+      491,
+      1507
+    ]
+  },
+  {
+    "id": 116,
+    "answer": "A -> B -> C",
+    "evidence": [
+      1657,
+      948,
+      2002
+    ]
+  },
+  {
+    "id": 117,
+    "answer": "A -> B -> C",
+    "evidence": [
+      521,
+      479,
+      1977
+    ]
+  },
+  {
+    "id": 118,
+    "answer": "A -> B -> C",
+    "evidence": [
+      331,
+      964,
+      2033
+    ]
+  },
+  {
+    "id": 119,
+    "answer": "A -> B -> C",
+    "evidence": [
+      39,
+      1972,
+      2049
+    ]
+  },
+  {
+    "id": 120,
+    "answer": "A -> B -> C",
+    "evidence": [
+      728,
+      1718,
+      1927
+    ]
+  },
+  {
+    "id": 121,
+    "answer": "A -> B -> C",
+    "evidence": [
+      1632,
+      481,
+      1958
+    ]
+  },
+  {
+    "id": 122,
+    "answer": "A -> B -> C",
+    "evidence": [
+      401,
+      845,
+      1908
+    ]
+  },
+  {
+    "id": 123,
+    "answer": "A -> B -> C",
+    "evidence": [
+      456,
+      535,
+      2057
+    ]
+  },
+  {
+    "id": 124,
+    "answer": "A -> B -> C",
+    "evidence": [
+      755,
+      511,
+      2057
+    ]
+  },
+  {
+    "id": 125,
+    "answer": "A -> B -> C",
+    "evidence": [
+      329,
+      635,
+      660
+    ]
+  },
+  {
+    "id": 126,
+    "answer": "B -> A -> C",
+    "evidence": [
+      2107,
+      2243,
+      2558
+    ]
+  },
+  {
+    "id": 127,
+    "answer": "B -> A -> C",
+    "evidence": [
+      2604,
+      2607,
+      3759
+    ]
+  },
+  {
+    "id": 128,
+    "answer": "A -> C -> B",
+    "evidence": [
+      2271,
+      2329,
+      2532
+    ]
+  },
+  {
+    "id": 129,
+    "answer": "C -> A -> B",
+    "evidence": [
+      2426,
+      2428,
+      2484
+    ]
+  },
+  {
+    "id": 130,
+    "answer": "B -> A -> C",
+    "evidence": [
+      2811,
+      2940,
+      3280
+    ]
+  },
+  {
+    "id": 131,
+    "answer": "B -> C -> A",
+    "evidence": [
+      3547,
+      3586,
+      3994
+    ]
+  },
+  {
+    "id": 132,
+    "answer": "A -> B -> C",
+    "evidence": [
+      2689,
+      2695,
+      2797
+    ]
+  },
+  {
+    "id": 133,
+    "answer": "A -> B -> C",
+    "evidence": [
+      2347,
+      2385,
+      2441
+    ]
+  },
+  {
+    "id": 134,
+    "answer": "A -> B -> C",
+    "evidence": [
+      2979,
+      2996,
+      3037
+    ]
+  },
+  {
+    "id": 135,
+    "answer": "A -> C -> B",
+    "evidence": [
+      3642,
+      3708,
+      3721
+    ]
+  },
+  {
+    "id": 136,
+    "answer": "C -> A -> B",
+    "evidence": [
+      3647,
+      3659,
+      3969
+    ]
+  },
+  {
+    "id": 137,
+    "answer": "A -> B -> C",
+    "evidence": [
+      2811,
+      2838,
+      3312
+    ]
+  },
+  {
+    "id": 138,
+    "answer": "A -> B -> C",
+    "evidence": [
+      2629,
+      2656,
+      2925
+    ]
+  },
+  {
+    "id": 139,
+    "answer": "A -> B -> C",
+    "evidence": [
+      2950,
+      2981,
+      2982
+    ]
+  },
+  {
+    "id": 140,
+    "answer": "C -> B -> A",
+    "evidence": [
+      3114,
+      3148,
+      3178
+    ]
+  },
+  {
+    "id": 141,
+    "answer": "B -> A -> C",
+    "evidence": [
+      2551,
+      2559,
+      2569
+    ]
+  },
+  {
+    "id": 142,
+    "answer": "A -> B -> C",
+    "evidence": [
+      2938,
+      3288,
+      4030
+    ]
+  },
+  {
+    "id": 143,
+    "answer": "A -> B -> C",
+    "evidence": [
+      2111,
+      2320,
+      2509
+    ]
+  },
+  {
+    "id": 144,
+    "answer": "A -> B -> C",
+    "evidence": [
+      2905,
+      2909,
+      3385
+    ]
+  },
+  {
+    "id": 145,
+    "answer": "C -> B -> A",
+    "evidence": [
+      3547,
+      3549,
+      3593
+    ]
+  },
+  {
+    "id": 146,
+    "answer": "B -> C -> A",
+    "evidence": [
+      4062,
+      4081,
+      4167
+    ]
+  },
+  {
+    "id": 147,
+    "answer": "A -> B -> C",
+    "evidence": [
+      2743,
+      2746,
+      2737
+    ]
+  },
+  {
+    "id": 148,
+    "answer": "A -> C -> B",
+    "evidence": [
+      3804,
+      3811,
+      4182
+    ]
+  },
+  {
+    "id": 149,
+    "answer": "B -> C -> A",
+    "evidence": [
+      3718,
+      3725,
+      3732
+    ]
+  },
+  {
+    "id": 150,
+    "answer": "A -> B -> C",
+    "evidence": [
+      3835,
+      3967,
+      3971
+    ]
+  },
+  {
+    "id": 151,
+    "answer": "B -> C -> A",
+    "evidence": [
+      4381,
+      4213,
+      4386
+    ]
+  },
+  {
+    "id": 152,
+    "answer": "C -> B -> A",
+    "evidence": [
+      4303,
+      5508,
+      5612
+    ]
+  },
+  {
+    "id": 153,
+    "answer": "B -> A -> C",
+    "evidence": [
+      4636,
+      4644,
+      4673
+    ]
+  },
+  {
+    "id": 154,
+    "answer": "A -> C -> B",
+    "evidence": [
+      4742,
+      4849,
+      6021
+    ]
+  },
+  {
+    "id": 155,
+    "answer": "B -> A -> C",
+    "evidence": [
+      4552,
+      5379,
+      6263
+    ]
+  },
+  {
+    "id": 156,
+    "answer": "C -> A -> B",
+    "evidence": [
+      5049,
+      5814,
+      6264
+    ]
+  },
+  {
+    "id": 157,
+    "answer": "C -> B -> A",
+    "evidence": [
+      4968,
+      5808,
+      5866
+    ]
+  },
+  {
+    "id": 158,
+    "answer": "A -> C -> B",
+    "evidence": [
+      6088,
+      6171,
+      6204
+    ]
+  },
+  {
+    "id": 159,
+    "answer": "B -> A -> C",
+    "evidence": [
+      5281,
+      5456,
+      5764
+    ]
+  },
+  {
+    "id": 160,
+    "answer": "B -> C -> A",
+    "evidence": [
+      4546,
+      4742,
+      4906
+    ]
+  },
+  {
+    "id": 161,
+    "answer": "C -> B -> A",
+    "evidence": [
+      5986,
+      5999,
+      6053
+    ]
+  },
+  {
+    "id": 162,
+    "answer": "B -> A -> C",
+    "evidence": [
+      4653,
+      4666,
+      4681
+    ]
+  },
+  {
+    "id": 163,
+    "answer": "A -> B -> C",
+    "evidence": [
+      4382,
+      4386,
+      4552
+    ]
+  },
+  {
+    "id": 164,
+    "answer": "A -> B -> C",
+    "evidence": [
+      4848,
+      5214,
+      5645
+    ]
+  },
+  {
+    "id": 165,
+    "answer": "C -> A -> B",
+    "evidence": [
+      5970,
+      5998,
+      6300
+    ]
+  },
+  {
+    "id": 166,
+    "answer": "B -> C -> A",
+    "evidence": [
+      6084,
+      6108,
+      6122
+    ]
+  },
+  {
+    "id": 167,
+    "answer": "C -> A -> B",
+    "evidence": [
+      4730,
+      4742,
+      5092
+    ]
+  },
+  {
+    "id": 168,
+    "answer": "A -> C -> B",
+    "evidence": [
+      4427,
+      4455,
+      5008
+    ]
+  },
+  {
+    "id": 169,
+    "answer": "C -> A -> B",
+    "evidence": [
+      4644,
+      4673,
+      5198
+    ]
+  },
+  {
+    "id": 170,
+    "answer": "A -> B -> C",
+    "evidence": [
+      5096,
+      5336,
+      5866
+    ]
+  },
+  {
+    "id": 171,
+    "answer": "B -> A -> C",
+    "evidence": [
+      4968,
+      5846,
+      5847
+    ]
+  },
+  {
+    "id": 172,
+    "answer": "C -> A -> B",
+    "evidence": [
+      6058,
+      6204,
+      6248
+    ]
+  },
+  {
+    "id": 173,
+    "answer": "B -> A -> C",
+    "evidence": [
+      4216,
+      4389,
+      6288
+    ]
+  },
+  {
+    "id": 174,
+    "answer": "C -> A -> B",
+    "evidence": [
+      4777,
+      4939,
+      5473
+    ]
+  },
+  {
+    "id": 175,
+    "answer": "C -> B -> A",
+    "evidence": [
+      4303,
+      4868,
+      6075
+    ]
+  },
+  {
+    "id": 176,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6358,
+      6329,
+      6339
+    ]
+  },
+  {
+    "id": 177,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6691,
+      6408,
+      6470
+    ]
+  },
+  {
+    "id": 178,
+    "answer": "B -> A -> C",
+    "evidence": [
+      7015,
+      6751,
+      6834
+    ]
+  },
+  {
+    "id": 179,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6623,
+      6417,
+      6472
+    ]
+  },
+  {
+    "id": 180,
+    "answer": "B -> A -> C",
+    "evidence": [
+      6658,
+      6391,
+      7104
+    ]
+  },
+  {
+    "id": 181,
+    "answer": "A -> B -> C",
+    "evidence": [
+      7052,
+      6783,
+      7161
+    ]
+  },
+  {
+    "id": 182,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6356,
+      6334,
+      7191
+    ]
+  },
+  {
+    "id": 183,
+    "answer": "B -> A -> C",
+    "evidence": [
+      7237,
+      7220,
+      8423
+    ]
+  },
+  {
+    "id": 184,
+    "answer": "A -> C -> B",
+    "evidence": [
+      8036,
+      7202,
+      7246
+    ]
+  },
+  {
+    "id": 185,
+    "answer": "A -> B -> C",
+    "evidence": [
+      7321,
+      8007,
+      8342
+    ]
+  },
+  {
+    "id": 186,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6810,
+      6862,
+      8381
+    ]
+  },
+  {
+    "id": 187,
+    "answer": "A -> C -> B",
+    "evidence": [
+      6865,
+      8345,
+      8404
+    ]
+  },
+  {
+    "id": 188,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6691,
+      7269,
+      7914
+    ]
+  },
+  {
+    "id": 189,
+    "answer": "A -> B -> C",
+    "evidence": [
+      7132,
+      7260,
+      7487
+    ]
+  },
+  {
+    "id": 190,
+    "answer": "A -> B -> C",
+    "evidence": [
+      7353,
+      7343,
+      8419
+    ]
+  },
+  {
+    "id": 191,
+    "answer": "B -> A -> C",
+    "evidence": [
+      6848,
+      7649,
+      8332
+    ]
+  },
+  {
+    "id": 192,
+    "answer": "A -> B -> C",
+    "evidence": [
+      8118,
+      7019,
+      8331
+    ]
+  },
+  {
+    "id": 193,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6988,
+      6334,
+      7675
+    ]
+  },
+  {
+    "id": 194,
+    "answer": "C -> A -> B",
+    "evidence": [
+      6322,
+      6385,
+      6751
+    ]
+  },
+  {
+    "id": 195,
+    "answer": "A -> B -> C",
+    "evidence": [
+      8246,
+      6330,
+      7218
+    ]
+  },
+  {
+    "id": 196,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6961,
+      7191,
+      8381
+    ]
+  },
+  {
+    "id": 197,
+    "answer": "C -> B -> A",
+    "evidence": [
+      8018,
+      8332,
+      6537
+    ]
+  },
+  {
+    "id": 198,
+    "answer": "A -> B -> C",
+    "evidence": [
+      6416,
+      6539,
+      8423
+    ]
+  },
+  {
+    "id": 199,
+    "answer": "A -> C -> B",
+    "evidence": [
+      6684,
+      6794,
+      8399
+    ]
+  },
+  {
+    "id": 200,
+    "answer": "B -> A -> C",
+    "evidence": [
+      6413,
+      6453,
+      8346
+    ]
+  }
+]

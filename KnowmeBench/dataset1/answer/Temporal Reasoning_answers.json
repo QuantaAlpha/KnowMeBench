@@ -1,0 +1,1385 @@
+[
+  {
+    "id": 1,
+    "type": "duration calculation",
+    "answer": "8 minutes 40 seconds",
+    "evidence": [
+      5,
+      35
+    ],
+    "reasoning": "Start time 14:01:20 (id 5), end time 14:10:00 (id 35), difference is 8 minutes 40 seconds."
+  },
+  {
+    "id": 2,
+    "type": "duration calculation",
+    "answer": "2 minutes 10 seconds",
+    "evidence": [
+      183,
+      189
+    ],
+    "reasoning": "Start time 15:30:00 (id 183), end time 15:32:10 (id 189), difference is 2 minutes 10 seconds."
+  },
+  {
+    "id": 3,
+    "type": "duration calculation",
+    "answer": "12 minutes 10 seconds",
+    "evidence": [
+      250,
+      273
+    ],
+    "reasoning": "Start time 02:10:00 (id 250), end time 02:22:10 (id 273), difference is 12 minutes 10 seconds."
+  },
+  {
+    "id": 4,
+    "type": "duration calculation",
+    "answer": "1 hour 30 minutes",
+    "evidence": [
+      335,
+      346
+    ],
+    "reasoning": "Start time: 14:10:00 (id 335), End time: 15:40:00 (id 346), Difference: 1 hour 30 minutes."
+  },
+  {
+    "id": 5,
+    "type": "duration calculation",
+    "answer": "20 minutes",
+    "evidence": [
+      436,
+      440
+    ],
+    "reasoning": "Start time 20:15:00 (id 436), end time 20:35:00 (id 440), difference is 20 minutes."
+  },
+  {
+    "id": 6,
+    "type": "duration calculation",
+    "answer": "1 hour 10 minutes",
+    "evidence": [
+      480,
+      485
+    ],
+    "reasoning": "Start time: 10:00:00 (id 480), End time: 11:10:00 (id 485), Difference: 1 hour 10 minutes."
+  },
+  {
+    "id": 7,
+    "type": "duration calculation",
+    "answer": "1 hour",
+    "evidence": [
+      501,
+      506
+    ],
+    "reasoning": "Start time 13:30:00 (id 501), end time 14:30:00 (id 506), difference is 1 hour."
+  },
+  {
+    "id": 8,
+    "type": "duration calculation",
+    "answer": "10 minutes",
+    "evidence": [
+      590,
+      593
+    ],
+    "reasoning": "Start time 15:30:00 (id 590), end time 15:40:00 (id 593), difference is 10 minutes."
+  },
+  {
+    "id": 9,
+    "type": "duration calculation",
+    "answer": "2 hours",
+    "evidence": [
+      624,
+      662
+    ],
+    "reasoning": "Start time 18:50:00 (id 624), end time 20:50:00 (id 662), difference is 2 hours."
+  },
+  {
+    "id": 10,
+    "type": "duration calculation",
+    "answer": "1 hour 10 minutes",
+    "evidence": [
+      675,
+      739
+    ],
+    "reasoning": "Start time 09:30:00 (id 675), end time 10:40:00 (id 739), difference is 1 hour 10 minutes."
+  },
+  {
+    "id": 11,
+    "type": "duration calculation",
+    "answer": "1 hour 20 minutes",
+    "evidence": [
+      780,
+      810
+    ],
+    "reasoning": "Start time 15:20:00 (id 780), end time 16:40:00 (id 810), difference is 1 hour 20 minutes."
+  },
+  {
+    "id": 12,
+    "type": "duration calculation",
+    "answer": "2 hours 15 minutes",
+    "evidence": [
+      833,
+      852
+    ],
+    "reasoning": "Start time 08:15:00 (id 833), end time 10:30:00 (id 852), difference is 2 hours 15 minutes."
+  },
+  {
+    "id": 13,
+    "type": "duration calculation",
+    "answer": "25 minutes",
+    "evidence": [
+      1093,
+      1112
+    ],
+    "reasoning": "Start time 15:20:00 (id 1093), end time 15:45:00 (id 1112), difference is 25 minutes."
+  },
+  {
+    "id": 14,
+    "type": "duration calculation",
+    "answer": "20 minutes",
+    "evidence": [
+      1673,
+      1677
+    ],
+    "reasoning": "Start time: 20:00:00 (id 1673), End time: 20:20:00 (id 1677), Difference: 20 minutes."
+  },
+  {
+    "id": 15,
+    "type": "duration calculation",
+    "answer": "30 minutes",
+    "evidence": [
+      1993,
+      1999
+    ],
+    "reasoning": "Start time 21:25:00 (id 1993), end time 21:55:00 (id 1999), difference is 30 minutes."
+  },
+  {
+    "id": 16,
+    "type": "duration calculation",
+    "answer": "1 hour 10 minutes",
+    "evidence": [
+      2000,
+      2011
+    ],
+    "reasoning": "Start time: 22:00:00 (id 2000), End time: 23:10:00 (id 2011), Difference: 1 hour 10 minutes."
+  },
+  {
+    "id": 17,
+    "type": "duration calculation",
+    "answer": "1 hour 55 minutes",
+    "evidence": [
+      2019,
+      2029
+    ],
+    "reasoning": "Start time 14:05:00 (id 2019), end time 16:00:00 (id 2029), difference is 1 hour 55 minutes."
+  },
+  {
+    "id": 18,
+    "type": "duration calculation",
+    "answer": "45 minutes",
+    "evidence": [
+      2172,
+      2178
+    ],
+    "reasoning": "Start time 19:30:00 (id 2172), end time 20:15:00 (id 2178), difference is 45 minutes."
+  },
+  {
+    "id": 19,
+    "type": "duration calculation",
+    "answer": "15 minutes",
+    "evidence": [
+      2216,
+      2218
+    ],
+    "reasoning": "Start time 20:28:00 (id 2216), end time 20:43:00 (id 2218), difference is 15 minutes."
+  },
+  {
+    "id": 20,
+    "type": "duration calculation",
+    "answer": "8 minutes",
+    "evidence": [
+      2445,
+      2469
+    ],
+    "reasoning": "Start time 19:38:00 (id 2445), end time 19:46:00 (id 2469), difference is 8 minutes."
+  },
+  {
+    "id": 21,
+    "type": "duration calculation",
+    "answer": "5 minutes 40 seconds",
+    "evidence": [
+      2488,
+      2511
+    ],
+    "reasoning": "Start time 14:45:00 (id 2488), end time 14:50:40 (id 2511), difference is 5 minutes 40 seconds."
+  },
+  {
+    "id": 22,
+    "type": "duration calculation",
+    "answer": "45 minutes",
+    "evidence": [
+      2512,
+      2538
+    ],
+    "reasoning": "Start time: 19:30:00 (id 2512), End time: 20:15:00 (id 2538), Difference: 45 minutes."
+  },
+  {
+    "id": 23,
+    "type": "duration calculation",
+    "answer": "21 minutes 10 seconds",
+    "evidence": [
+      2607,
+      2614
+    ],
+    "reasoning": "Start time 19:15:00 (id 2607), end time 19:36:10 (id 2614), difference is 21 minutes 10 seconds."
+  },
+  {
+    "id": 24,
+    "type": "duration calculation",
+    "answer": "2 hours 56 minutes",
+    "evidence": [
+      2653,
+      2773
+    ],
+    "reasoning": "Start time 19:45:00 (id 2653), end time 22:41:00 (id 2773), difference is 2 hours 56 minutes."
+  },
+  {
+    "id": 25,
+    "type": "duration calculation",
+    "answer": "49 minutes",
+    "evidence": [
+      2773,
+      2792
+    ],
+    "reasoning": "Start time 22:41:00 (id 2773), end time 23:30:00 (id 2792), difference is 49 minutes."
+  },
+  {
+    "id": 26,
+    "type": "duration calculation",
+    "answer": "2 hours 35 minutes",
+    "evidence": [
+      2795,
+      2812
+    ],
+    "reasoning": "Start time 23:45:00 (id 2795), end time 02:20:00 (id 2812), difference is 2 hours 35 minutes."
+  },
+  {
+    "id": 27,
+    "type": "duration calculation",
+    "answer": "35 minutes",
+    "evidence": [
+      3028,
+      3048
+    ],
+    "reasoning": "Start time: 14:00:00 (id 3028), End time: 14:35:00 (id 3048), Difference: 35 minutes."
+  },
+  {
+    "id": 28,
+    "type": "duration calculation",
+    "answer": "39 minutes",
+    "evidence": [
+      3051,
+      3058
+    ],
+    "reasoning": "Start time 15:36:00 (id 3051), end time 16:15:00 (id 3058), difference is 39 minutes."
+  },
+  {
+    "id": 29,
+    "type": "duration calculation",
+    "answer": "1 hour 25 minutes",
+    "evidence": [
+      3142,
+      3170
+    ],
+    "reasoning": "Start time: 12:20:00 (id 3142), End time: 13:45:00 (id 3170), Difference: 1 hour 25 minutes."
+  },
+  {
+    "id": 30,
+    "type": "duration calculation",
+    "answer": "5 minutes 50 seconds",
+    "evidence": [
+      4737,
+      4756
+    ],
+    "reasoning": "Start time 23:25:10 (id 4737), end time 23:31:00 (id 4756), difference is 5 minutes 50 seconds."
+  },
+  {
+    "id": 31,
+    "type": "duration calculation",
+    "answer": "15 minutes",
+    "evidence": [
+      2216,
+      2218
+    ],
+    "reasoning": "Start time 20:28:00 (id 2216), end time 20:43:00 (id 2218), difference is 15 minutes."
+  },
+  {
+    "id": 32,
+    "type": "duration calculation",
+    "answer": "8 minutes",
+    "evidence": [
+      2445,
+      2469
+    ],
+    "reasoning": "Start time 19:38:00 (id 2445), end time 19:46:00 (id 2469), difference is 8 minutes."
+  },
+  {
+    "id": 33,
+    "type": "duration calculation",
+    "answer": "5 minutes 40 seconds",
+    "evidence": [
+      2488,
+      2511
+    ],
+    "reasoning": "Start time 14:45:00 (id 2488), end time 14:50:40 (id 2511), difference is 5 minutes 40 seconds."
+  },
+  {
+    "id": 34,
+    "type": "duration calculation",
+    "answer": "45 minutes",
+    "evidence": [
+      2512,
+      2538
+    ],
+    "reasoning": "Start time: 19:30:00 (id 2512), End time: 20:15:00 (id 2538), Difference: 45 minutes."
+  },
+  {
+    "id": 35,
+    "type": "duration calculation",
+    "answer": "21 minutes 10 seconds",
+    "evidence": [
+      2607,
+      2614
+    ],
+    "reasoning": "Start time 19:15:00 (id 2607), end time 19:36:10 (id 2614), difference is 21 minutes 10 seconds."
+  },
+  {
+    "id": 36,
+    "type": "duration calculation",
+    "answer": "6 minutes 10 seconds",
+    "evidence": [
+      2614,
+      2651
+    ],
+    "reasoning": "Start time 19:36:10 (id 2614), end time 19:42:20 (id 2651), difference is 6 minutes 10 seconds."
+  },
+  {
+    "id": 37,
+    "type": "duration calculation",
+    "answer": "2 hours 56 minutes",
+    "evidence": [
+      2653,
+      2773
+    ],
+    "reasoning": "Start time 19:45:00 (id 2653), end time 22:41:00 (id 2773), difference is 2 hours 56 minutes."
+  },
+  {
+    "id": 38,
+    "type": "duration calculation",
+    "answer": "49 minutes",
+    "evidence": [
+      2773,
+      2792
+    ],
+    "reasoning": "Start time 22:41:00 (id 2773), end time 23:30:00 (id 2792), difference is 49 minutes."
+  },
+  {
+    "id": 39,
+    "type": "duration calculation",
+    "answer": "2 hours 35 minutes",
+    "evidence": [
+      2795,
+      2812
+    ],
+    "reasoning": "Start time 23:45:00 (id 2795), end time 02:20:00 (id 2812), difference is 2 hours 35 minutes."
+  },
+  {
+    "id": 40,
+    "type": "duration calculation",
+    "answer": "35 minutes",
+    "evidence": [
+      3028,
+      3048
+    ],
+    "reasoning": "Start time: 14:00:00 (id 3028), End time: 14:35:00 (id 3048), Difference: 35 minutes."
+  },
+  {
+    "id": 41,
+    "type": "duration calculation",
+    "answer": "39 minutes",
+    "evidence": [
+      3051,
+      3058
+    ],
+    "reasoning": "Start time 15:36:00 (id 3051), end time 16:15:00 (id 3058), difference is 39 minutes."
+  },
+  {
+    "id": 42,
+    "type": "duration calculation",
+    "answer": "15 minutes",
+    "evidence": [
+      3132,
+      3139
+    ],
+    "reasoning": "Start time 11:50:00 (id 3132), end time 12:05:00 (id 3139), difference is 15 minutes."
+  },
+  {
+    "id": 43,
+    "type": "duration calculation",
+    "answer": "35 minutes",
+    "evidence": [
+      3187,
+      3189
+    ],
+    "reasoning": "Start time 15:40:00 (id 3187), end time 16:15:00 (id 3189), difference is 35 minutes."
+  },
+  {
+    "id": 44,
+    "type": "duration calculation",
+    "answer": "1 hour 30 minutes",
+    "evidence": [
+      3227,
+      3230
+    ],
+    "reasoning": "Start time: 18:30:00 (id 3227), End time: 20:00:00 (id 3230), Difference: 1 hour 30 minutes."
+  },
+  {
+    "id": 45,
+    "type": "duration calculation",
+    "answer": "2 hours 1 minute",
+    "evidence": [
+      3379,
+      3431
+    ],
+    "reasoning": "Start time 21:55:00 (id 3379), end time 23:56:00 (id 3431), difference is 2 hours 1 minute."
+  },
+  {
+    "id": 46,
+    "type": "duration calculation",
+    "answer": "46 minutes",
+    "evidence": [
+      3671,
+      3686
+    ],
+    "reasoning": "Start time: 17:00:00 (id 3671), End time: 17:46:00 (id 3686), Difference: 46 minutes."
+  },
+  {
+    "id": 47,
+    "type": "duration calculation",
+    "answer": "5 minutes",
+    "evidence": [
+      3774,
+      3775
+    ],
+    "reasoning": "Start time 21:05:00 (id 3774), end time 21:10:00 (id 3775), difference is 5 minutes."
+  },
+  {
+    "id": 48,
+    "type": "duration calculation",
+    "answer": "3 hours",
+    "evidence": [
+      3899,
+      3905
+    ],
+    "reasoning": "Start time: 20:00:00 (id 3899), End time: 23:00:00 (id 3905), Difference: 3 hours."
+  },
+  {
+    "id": 49,
+    "type": "duration calculation",
+    "answer": "10 minutes",
+    "evidence": [
+      3993,
+      3995
+    ],
+    "reasoning": "Start time 00:10:00 (id 3993), end time 00:20:00 (id 3995), difference is 10 minutes."
+  },
+  {
+    "id": 50,
+    "type": "duration calculation",
+    "answer": "1 hour 20 minutes",
+    "evidence": [
+      4136,
+      4141
+    ],
+    "reasoning": "Start time 19:10:00 (id 4136), end time 20:30:00 (id 4141), difference is 1 hour 20 minutes."
+  },
+  {
+    "id": 51,
+    "type": "duration calculation",
+    "answer": "5 hours",
+    "evidence": [
+      4646,
+      4707
+    ],
+    "reasoning": "Start time: 12:10:00 (id 4646), End time: 17:10:00 (id 4707), Difference: 5 hours."
+  },
+  {
+    "id": 52,
+    "type": "duration calculation",
+    "answer": "6 hours 21 minutes",
+    "evidence": [
+      4707,
+      4756
+    ],
+    "reasoning": "Start time 17:10:00 (id 4707), end time 23:31:00 (id 4756), difference is 6 hours 21 minutes."
+  },
+  {
+    "id": 53,
+    "type": "duration calculation",
+    "answer": "1 hour 19 minutes",
+    "evidence": [
+      4756,
+      4783
+    ],
+    "reasoning": "Start time 23:31:00 (id 4756), End time 00:50:00 (id 4783), Difference is 1 hour 19 minutes."
+  },
+  {
+    "id": 54,
+    "type": "duration calculation",
+    "answer": "35 minutes",
+    "evidence": [
+      5415,
+      5437
+    ],
+    "reasoning": "Start time: 19:00:00 (id 5415), End time: 19:35:00 (id 5437), Difference: 35 minutes."
+  },
+  {
+    "id": 55,
+    "type": "duration calculation",
+    "answer": "3 hours",
+    "evidence": [
+      5469,
+      5475
+    ],
+    "reasoning": "Start time: 12:00:00 (id 5469), End time: 15:00:00 (id 5475), Difference: 3 hours."
+  },
+  {
+    "id": 56,
+    "type": "duration calculation",
+    "answer": "35 minutes",
+    "evidence": [
+      5571,
+      5582
+    ],
+    "reasoning": "Start time: 21:10:00 (id 5571), End time: 21:45:00 (id 5582), Difference: 35 minutes."
+  },
+  {
+    "id": 57,
+    "type": "duration calculation",
+    "answer": "15 minutes",
+    "evidence": [
+      5675,
+      5690
+    ],
+    "reasoning": "Start time 12:45:00 (id 5675), end time 13:00:00 (id 5690), difference is 15 minutes."
+  },
+  {
+    "id": 58,
+    "type": "duration calculation",
+    "answer": "31 minutes",
+    "evidence": [
+      6193,
+      6260
+    ],
+    "reasoning": "Start time: 15:25:00 (id 6193), End time: 15:56:00 (id 6260), Difference: 31 minutes."
+  },
+  {
+    "id": 59,
+    "type": "duration calculation",
+    "answer": "4 hours",
+    "evidence": [
+      6338,
+      6766
+    ],
+    "reasoning": "Start time: 12:37:00 (id 6338), End time: 16:37:00 (id 6766), Difference: 4 hours."
+  },
+  {
+    "id": 60,
+    "type": "duration calculation",
+    "answer": "23 minutes",
+    "evidence": [
+      6766,
+      6831
+    ],
+    "reasoning": "Start time 16:37:00 (id 6766), end time 17:00:00 (id 6831), difference is 23 minutes."
+  },
+  {
+    "id": 61,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      18,
+      143,
+      345
+    ],
+    "reasoning": "Event C occurred in 1969 (moving into the new home); Event B occurred in July 1975 (father teaching swimming); Event A occurred in August 1975 (making a fire in the woods with Karl Larsdal)."
+  },
+  {
+    "id": 62,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      1904,
+      2216,
+      2662
+    ],
+    "reasoning": "Event A occurred in August 1977 (the election for the new academic year); Event B occurred in June 1981 (with Kaisa in the woods); Event C occurred on December 31, 1984 (New Year's Eve)."
+  },
+  {
+    "id": 63,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      3028,
+      3671,
+      6186
+    ],
+    "reasoning": "Event A occurred in July 1998 (father's death); Event B occurred in March 2002 (moving to Harvik); Event C occurred in July 2008 (taking the child to the playground)."
+  },
+  {
+    "id": 64,
+    "type": "chronological_ordering",
+    "answer": "B -> A -> C",
+    "evidence": [
+      3015,
+      3379,
+      6900
+    ],
+    "reasoning": "Event B occurred in July 1985 (extracted from memory, as my father was still alive); Event A occurred in July 1998 (during the cleanup period following my father's death); Event C occurred in September 2009 (the current narrative time)."
+  },
+  {
+    "id": 65,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      3522,
+      3780,
+      4756
+    ],
+    "reasoning": "Event A occurred in July 1999 (this is the recollection); Event B occurred in April 2002 (after moving to Harvik); Event C occurred in January 2004."
+  },
+  {
+    "id": 66,
+    "type": "chronological_ordering",
+    "answer": "A -> C -> B",
+    "evidence": [
+      739,
+      2051,
+      3216
+    ],
+    "reasoning": "Event A occurred in September 1975 (childhood climbing onto a roof); Event C occurred on December 31, 1977 (New Year's Eve); Event B occurred in July 1998 (cleaning up the grandmother’s house after the father’s death)."
+  },
+  {
+    "id": 67,
+    "type": "chronological_ordering",
+    "answer": "B -> C -> A",
+    "evidence": [
+      4149,
+      4936,
+      5468
+    ],
+    "reasoning": "Event B occurred in December 2002; Event C occurred in May 2004; Event A occurred in February 2005."
+  },
+  {
+    "id": 68,
+    "type": "chronological_ordering",
+    "answer": "B -> A -> C",
+    "evidence": [
+      3132,
+      3229,
+      4936
+    ],
+    "reasoning": "Event B occurred on the morning of July 18, 1998; Event A occurred on the evening of July 18, 1998; Event C occurred in May 2004 (the narrator had already been living in Harvik and met Thor at the metro station)."
+  },
+  {
+    "id": 69,
+    "type": "chronological_ordering",
+    "answer": "C -> A -> B",
+    "evidence": [
+      1764,
+      1904,
+      2216
+    ],
+    "reasoning": "Event C occurred in July 1976 (during a vacation in South Bawog); Event A occurred in August 1977; Event B occurred in June 1981."
+  },
+  {
+    "id": 70,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      3549,
+      4995,
+      5278
+    ],
+    "reasoning": "Event A occurred in July 1999 (in Bishop's—Arne's recollections); Event B occurred in May 2004; Event C occurred in July 2004 (in the office, writing frantically)."
+  },
+  {
+    "id": 71,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      3317,
+      3320,
+      3471
+    ],
+    "reasoning": "Event A occurred on the morning of July 19, 1998; Event B occurred later that morning, around 19:00 on July 19, 1998; Event C occurred in the evening of July 20, 1998."
+  },
+  {
+    "id": 72,
+    "type": "chronological_ordering",
+    "answer": "B -> C -> A",
+    "evidence": [
+      1861,
+      1920,
+      2132
+    ],
+    "reasoning": "Event B occurred in March 1977; Event C occurred in September 1977; Event A occurred in May 1980 (National Day parade). The narrator recalls previous performance experiences, or directly corresponds to the 1980 parade mentioned in ID 2132. Wait, let's re-verify ID 2132 vs 1696. ID 1696 is 1976-06-25 (Narrator plays lead role). ID 1861 is 1977-03-14. ID 1920 is 1977-09-25. So correct order is A -> B -> C based on ID 1696. Let's adjust."
+  },
+  {
+    "id": 73,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      1696,
+      1861,
+      1920
+    ],
+    "reasoning": "Event A occurred in June 1976; Event B occurred in March 1977; Event C occurred in September 1977."
+  },
+  {
+    "id": 74,
+    "type": "chronological_ordering",
+    "answer": "B -> C -> A",
+    "evidence": [
+      2033,
+      2015,
+      2252
+    ],
+    "reasoning": "Event B occurred on December 6, 1977 (around the birthday); Event C occurred on November 16, 1977. Wait, 1977-11 is before 1977-12. Let's re-check the IDs. ID 2015 is 1977-11-16 (Socks). ID 2033 is 1977-12-06 (Jersey). ID 2252 is 1981-06-29 (Fire on island). Correct order: C -> B -> A."
+  },
+  {
+    "id": 75,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      4271,
+      4936,
+      5231
+    ],
+    "reasoning": "Event A occurred on December 31, 2003; Event B occurred on May 31, 2004; Event C occurred on June 13, 2004."
+  },
+  {
+    "id": 76,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      2474,
+      2494,
+      2613
+    ],
+    "reasoning": "Event A occurred on December 2, 1984 (moving into grandmother's house); Event B occurred on December 5, 1984 (father came to grandmother's house to cook); Event C occurred on December 31, 1984 (New Year's Eve)."
+  },
+  {
+    "id": 77,
+    "type": "chronological_ordering",
+    "answer": "A -> C -> B",
+    "evidence": [
+      4151,
+      4807,
+      6511
+    ],
+    "reasoning": "Event A occurred on December 31, 2002; Event C occurred in March 2004 (writing a novel about angels); Event B occurred in July 2008 (disciplining Stella in the park)."
+  },
+  {
+    "id": 78,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      1328,
+      1383,
+      2127
+    ],
+    "reasoning": "Event A occurred on January 15, 1976; Event B occurred on April 15, 1976; Event C occurred on March 27, 1980."
+  },
+  {
+    "id": 79,
+    "type": "chronological_ordering",
+    "answer": "B -> A -> C",
+    "evidence": [
+      3549,
+      3593,
+      5829
+    ],
+    "reasoning": "Event B occurred on July 4, 1999; Event A occurred on March 16, 2002; Event C occurred on May 26, 2005."
+  },
+  {
+    "id": 80,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      3175,
+      3459,
+      5594
+    ],
+    "reasoning": "Event A occurred on July 18, 1998; Event B occurred on July 20, 1998; Event C occurred on February 15, 2005."
+  },
+  {
+    "id": 81,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      4854,
+      6186,
+      6900
+    ],
+    "reasoning": "Event A occurred on May 28, 2004; Event B occurred on July 13, 2008; Event C occurred on September 1, 2009."
+  },
+  {
+    "id": 82,
+    "type": "chronological_ordering",
+    "answer": "B -> C -> A",
+    "evidence": [
+      342,
+      1144,
+      2134
+    ],
+    "reasoning": "Event B occurred on August 18, 1975; Event C occurred on September 6, 1975; Event A occurred on May 17, 1980."
+  },
+  {
+    "id": 83,
+    "type": "chronological_ordering",
+    "answer": "C -> A -> B",
+    "evidence": [
+      486,
+      496,
+      1320
+    ],
+    "reasoning": "Event C occurred on the morning of September 6, 1975; Event A occurred at noon on September 6, 1975; Event B occurred on November 15, 1975."
+  },
+  {
+    "id": 84,
+    "type": "chronological_ordering",
+    "answer": "C -> A -> B",
+    "evidence": [
+      4995,
+      5307,
+      5278
+    ],
+    "reasoning": "Event C (Pelican bar talk): 2004-05-31.  \nEvent B (Writing mania): 2004-07-02.  \nEvent A (Fight with neighbor/Nils Nils): 2004-11-16.  \nCorrect Order: C -> B -> A."
+  },
+  {
+    "id": 85,
+    "type": "chronological_ordering",
+    "answer": "B -> C -> A",
+    "evidence": [
+      5307,
+      4995,
+      5278
+    ],
+    "reasoning": "Event B occurred on May 31, 2004; Event C occurred on July 2, 2004; Event A occurred on November 16, 2004."
+  },
+  {
+    "id": 86,
+    "type": "chronological_ordering",
+    "answer": "A -> C -> B",
+    "evidence": [
+      3278,
+      4339,
+      4936
+    ],
+    "reasoning": "Event A occurred on July 18, 1998; Event C occurred on January 8, 2004; Event B occurred on May 31, 2004."
+  },
+  {
+    "id": 87,
+    "type": "chronological_ordering",
+    "answer": "A -> C -> B",
+    "evidence": [
+      2019,
+      2122,
+      4692
+    ],
+    "reasoning": "Event A occurred on December 3, 1977; Event C occurred on March 27, 1980; Event B occurred on January 30, 2004."
+  },
+  {
+    "id": 88,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      1885,
+      3167,
+      5075
+    ],
+    "reasoning": "Event C occurred on August 15, 1977; Event B occurred on July 18, 1998; Event A occurred on June 1, 2004."
+  },
+  {
+    "id": 89,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      1904,
+      3317,
+      4756
+    ],
+    "reasoning": "Event A occurred on August 16, 1977; Event B occurred on July 19, 1998; Event C occurred on January 31, 2004."
+  },
+  {
+    "id": 90,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      2214,
+      3278,
+      6322
+    ],
+    "reasoning": "Event A occurred on June 25, 1981; Event B occurred on July 18, 1998; Event C occurred on July 29, 2008."
+  },
+  {
+    "id": 91,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      2306,
+      3379,
+      5150
+    ],
+    "reasoning": "Event A occurred on February 10, 1982; Event B occurred on July 19, 1998; Event C occurred on June 2, 2004."
+  },
+  {
+    "id": 92,
+    "type": "chronological_ordering",
+    "answer": "C -> A -> B",
+    "evidence": [
+      188,
+      189,
+      344,
+      345,
+      1370
+    ],
+    "reasoning": "Event C occurred on July 24, 1975 (the narrator attempted to turn on the TV for his grandparents, but the TV broke); Event A occurred on August 18, 1975 (the narrator and Karl Larsdal lit a fire in the woods); Event B occurred on April 15, 1976 (the narrator saw a face in the sea while watching news about a shipwreck)."
+  },
+  {
+    "id": 93,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      2472,
+      2662,
+      2843
+    ],
+    "reasoning": "Event A occurred on December 2, 1984 (the narrator moved into their grandparents' apartment); Event B occurred on December 31, 1984 (the narrator and a friend tried to attend a party on New Year's Eve); Event C occurred on January 2, 1985 (the narrator and their father had dinner at their grandmother's house)."
+  },
+  {
+    "id": 94,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      3510,
+      4807,
+      6900
+    ],
+    "reasoning": "Event A occurred in July 1999 (the narrator met Nils Nils in a seminar); Event B occurred in March 2004 (the narrator was writing a novel in an office); Event C occurred in September 2009 (the current narrative time point)."
+  },
+  {
+    "id": 95,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      143,
+      2271,
+      3167
+    ],
+    "reasoning": "Event A occurred on July 15, 1975; Event B occurred on August 15, 1981; Event C occurred on July 18, 1998 (after the father's death)."
+  },
+  {
+    "id": 96,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      2216,
+      2418,
+      3549
+    ],
+    "reasoning": "Event A occurred on June 25, 1981 (with Kaisa in the woods); Event B occurred on November 18, 1983 (with Susana in the bedroom); Event C occurred on July 4, 1999 (in Bishop's—Arne's hotel room)."
+  },
+  {
+    "id": 97,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      3317,
+      3319,
+      3379
+    ],
+    "reasoning": "Event A occurred around 09:15 on July 19, 1998; Event B occurred around 10:00 a.m. on the same day; Event C occurred around 21:35 p.m. on the same day."
+  },
+  {
+    "id": 98,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      18,
+      79,
+      324
+    ],
+    "reasoning": "Event A occurred on August 15, 1969; Event B occurred on May 15, 1974; Event C occurred on August 18, 1975."
+  },
+  {
+    "id": 99,
+    "type": "chronological_ordering",
+    "answer": "A -> C -> B",
+    "evidence": [
+      3028,
+      3227,
+      3500
+    ],
+    "reasoning": "Event A occurred on July 17, 1998; Event C occurred on the evening of July 18, 1998; Event B occurred on the afternoon of July 21, 1998."
+  },
+  {
+    "id": 100,
+    "type": "chronological_ordering",
+    "answer": "B -> C -> A",
+    "evidence": [
+      2189,
+      4756,
+      4936
+    ],
+    "reasoning": "Event B occurred on June 23, 1981 (the narrator encountered Thor when calling Kaisa); Event C occurred on May 31, 2004 (a phone was knocked off by a person in a subway station); Event A occurred on January 30, 2004."
+  },
+  {
+    "id": 101,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      2445,
+      3015,
+      3167
+    ],
+    "reasoning": "Event A (Party crying): 1985-07-26.  \nEvent B (Father in barn): 1984-12-02.  \nEvent C (Cleaning after death): 1998-07-18."
+  },
+  {
+    "id": 102,
+    "type": "chronological_ordering",
+    "answer": "C -> A -> B",
+    "evidence": [
+      1973,
+      2252,
+      2276
+    ],
+    "reasoning": "Event C occurred in the summer of 1981 (the narrator and Karl Larsdal are on a small island); Event A occurred in November 1977 (the narrator participated in swimming practice and lost his socks); Event B occurred in August 1981 (the narrator and his family went to Torungen to fish for crabs). In fact, according to the timeline provided in the text: Event A (1977) -> Event C (June 1981) -> Event B (August 1981). The order of the options has been shuffled to avoid ABC: the correct sequence is A -> C -> B."
+  },
+  {
+    "id": 103,
+    "type": "chronological_ordering",
+    "answer": "B -> C -> A",
+    "evidence": [
+      3593,
+      3595,
+      3671
+    ],
+    "reasoning": "Event B occurred around 1989/1990 (during the narrator's time in Baysang); Event C occurred before 2002 (after the narrator received the book and was influenced by it); Event A occurred in March 2002 (the day the narrator moved to Harvik)."
+  },
+  {
+    "id": 104,
+    "type": "chronological_ordering",
+    "answer": "B -> C -> A",
+    "evidence": [
+      2439,
+      3167,
+      3432
+    ],
+    "reasoning": "Event B occurred in 1984 (the narrator's high school years); Event C occurred on July 20, 1998 (visiting the remains at the chapel; actually, the clothing cleaning took place before the visit—please verify the text carefully: the cleaning occurred on the 18th, and the visit itself was on the 20th). And so forth. According to the text, the clothing cleaning (ID 3167, 1998-07-18) occurred before the first visit to the remains (ID 3432, 1998-07-20). Logical correction: B (1984) -> A (1998-07-18) -> C (1998-07-20)."
+  },
+  {
+    "id": 105,
+    "type": "chronological_ordering",
+    "answer": "C -> A -> B",
+    "evidence": [
+      3522,
+      4809,
+      6797
+    ],
+    "reasoning": "Event C occurred in the summer of 1999; Event A occurred around 2004/2005 (the narrator is writing a book about his father); Event B occurred in 2008 (at the current narrative time point in the text, Wannyia was about four years old)."
+  },
+  {
+    "id": 106,
+    "type": "chronological_ordering",
+    "answer": "C -> A -> B",
+    "evidence": [
+      2015,
+      2051,
+      2795
+    ],
+    "reasoning": "Event C occurred in November 1977; Event A occurred on December 31, 1977 (New Year's Eve); Event B occurred on December 31, 1984."
+  },
+  {
+    "id": 107,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      3619,
+      3650,
+      3815
+    ],
+    "reasoning": "Event C occurred on the afternoon of March 16, 2002 (just arrived in Harvik); Event B occurred later that same afternoon (while waiting for Karl Larsdal); Event A occurred several weeks later, in April 2002."
+  },
+  {
+    "id": 108,
+    "type": "chronological_ordering",
+    "answer": "B -> C -> A",
+    "evidence": [
+      3326,
+      3171,
+      3381
+    ],
+    "reasoning": "Event B occurred on the morning of July 19, 1998 (the discovery of money); Event C occurred later that same morning (cleaning up garbage); Event A occurred on the evening of the same day (three people drinking together)."
+  },
+  {
+    "id": 109,
+    "type": "chronological_ordering",
+    "answer": "A -> B -> C",
+    "evidence": [
+      1557,
+      2216,
+      2872
+    ],
+    "reasoning": "Event A occurred in 1976 (the narrator's childhood); Event B occurred in June 1981; Event C occurred in January 1985 (a gathering at Vallund's sister's house)."
+  },
+  {
+    "id": 110,
+    "type": "chronological_ordering",
+    "answer": "C -> A -> B",
+    "evidence": [
+      1904,
+      2141,
+      5474
+    ],
+    "reasoning": "Event C occurred in August 1977 (just after starting fourth grade); Event A occurred in September 1980 (after the father moved back home); Event B occurred in February 2005 (during the time of living in Harvik)."
+  },
+  {
+    "id": 111,
+    "type": "chronological_ordering",
+    "answer": "B -> C -> A",
+    "evidence": [
+      3028,
+      4151,
+      4756
+    ],
+    "reasoning": "Event B occurred in July 1998; Event C occurred on December 31, 2002; Event A occurred on January 30, 2004."
+  },
+  {
+    "id": 112,
+    "type": "chronological_ordering",
+    "answer": "C -> A -> B",
+    "evidence": [
+      3063,
+      3203,
+      3227
+    ],
+    "reasoning": "Event C occurred on July 17, 1998 (departing for the funeral); Event A occurred on the afternoon of July 18, 1998 (the day after arrival); Event B occurred on the evening of July 18, 1998 (after returning from shopping)."
+  },
+  {
+    "id": 113,
+    "type": "chronological_ordering",
+    "answer": "B -> C -> A",
+    "evidence": [
+      4244,
+      5283,
+      5421
+    ],
+    "reasoning": "Event B occurred in August 2003 (when writing began at Ochshof); Event C occurred in August 2004 (during the press conference after completion of writing); Event A occurred on December 31, 2004."
+  },
+  {
+    "id": 114,
+    "type": "chronological_ordering",
+    "answer": "B -> A -> C",
+    "evidence": [
+      3321,
+      3335,
+      3362
+    ],
+    "reasoning": "Event B occurred on the morning of July 19, 1998 (when Marivik came to help); Event A occurred at noon on July 19, 1998 (after moving the furniture, the letter was discovered); Event C occurred on the evening of July 19, 1998 (after the cleaning work was completed)."
+  },
+  {
+    "id": 115,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      3442,
+      5772,
+      6288
+    ],
+    "reasoning": "Event C occurred on July 20, 1998 (before the father's funeral); Event B occurred on May 26, 2005 (during the time of living in Harvik); Event A occurred in July 2008 (when the whole family went to the amusement park)."
+  },
+  {
+    "id": 116,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      3188,
+      3255,
+      4936
+    ],
+    "reasoning": "Event C occurred in the 1990s (during Baysang's lifetime); Event B occurred on July 18, 1998 (after his father's death); Event A occurred on May 31, 2004 (during his time living in Harvik)."
+  },
+  {
+    "id": 117,
+    "type": "chronological_ordering",
+    "answer": "B -> A -> C",
+    "evidence": [
+      2253,
+      2369,
+      4760
+    ],
+    "reasoning": "Event B occurred in the summer of 1981 (with Karl Larsdal); Event A occurred in June 1982 (fighting with Shestil); Event C occurred in January 2004 (Vannyia's birth)."
+  },
+  {
+    "id": 118,
+    "type": "chronological_ordering",
+    "answer": "A -> C -> B",
+    "evidence": [
+      2069,
+      3280,
+      3802
+    ],
+    "reasoning": "Event A occurred in January 1978 (the narrator's childhood); Event C occurred on July 18, 1998 (after the father's death); Event B occurred in April 2002 (in the early stages of moving to Harvik)."
+  },
+  {
+    "id": 119,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      3201,
+      4254,
+      4867
+    ],
+    "reasoning": "Event C occurred on July 18, 1998; Event B occurred in December 2003; Event A occurred in May 2004."
+  },
+  {
+    "id": 120,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      2543,
+      3549,
+      4211
+    ],
+    "reasoning": "Event C occurred in December 1984 (during adolescence); Event B occurred in July 1999 (during the Bishopss—Arne seminar); Event A occurred in May 2003 (after Nils Nils returned from Leivik)."
+  },
+  {
+    "id": 121,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      3255,
+      3480,
+      5713
+    ],
+    "reasoning": "Event C occurred in the 1990s (during the Baysang period); Event B occurred on July 20, 1998 (after the father's death); Event A occurred in May 2005 (during the time when the child was with the parent)."
+  },
+  {
+    "id": 122,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      2916,
+      3294,
+      5410
+    ],
+    "reasoning": "Event C occurred in January 1985 (pursuing Elsa Ingrid); Event B occurred in July 1998 (planning a funeral gathering; actually, the gathering took place after the funeral); Event A occurred in November 2004 (before the child's birth)."
+  },
+  {
+    "id": 123,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      2104,
+      3187,
+      5127
+    ],
+    "reasoning": "Event C occurred in March 1979; Event B occurred on July 18, 1998; Event A occurred in June 2004."
+  },
+  {
+    "id": 124,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      1370,
+      3360,
+      5073
+    ],
+    "reasoning": "Event C occurred in April 1976 (during childhood); Event B occurred on July 19, 1998 (after the father's death); Event A occurred in June 2004 (as the father)."
+  },
+  {
+    "id": 125,
+    "type": "chronological_ordering",
+    "answer": "A -> C -> B",
+    "evidence": [
+      1906,
+      3379,
+      4958
+    ],
+    "reasoning": "Event A occurred in August 1977; Event C occurred on July 19, 1998; Event B occurred on May 31, 2004."
+  },
+  {
+    "id": 126,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      1663,
+      3209,
+      5307
+    ],
+    "reasoning": "Event C occurred in June 1976 (the soccer training uniform incident); Event B occurred on July 18, 1998; and Event A occurred in November 2004 (the conflict with the Russian neighbor)."
+  },
+  {
+    "id": 127,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      1969,
+      3174,
+      4693
+    ],
+    "reasoning": "Event C occurred in November 1977 (as a child); Event B occurred on July 19, 1998 (after the father's death); Event A occurred on January 30, 2004."
+  },
+  {
+    "id": 128,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      2338,
+      3317,
+      5712
+    ],
+    "reasoning": "Event C occurred in May 1982 (the Lena incident); Event B occurred on July 19, 1998; Event A occurred in May 2005."
+  },
+  {
+    "id": 129,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      1981,
+      3188,
+      5421
+    ],
+    "reasoning": "Event C occurred in November 1977 (after swimming class); Event B occurred on July 18, 1998; Event A occurred on December 31, 2004."
+  },
+  {
+    "id": 130,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      2542,
+      3279,
+      5632
+    ],
+    "reasoning": "Event C occurred in December 1984 (father not yet dead); Event B occurred on July 18, 1998 (father just died); Event A occurred in February 2005 (Arne, in Harvik)."
+  },
+  {
+    "id": 131,
+    "type": "chronological_ordering",
+    "answer": "C -> B -> A",
+    "evidence": [
+      1696,
+      3153,
+      4760
+    ],
+    "reasoning": "Event C occurred in June 1976 (at the time of elementary school graduation); Event B occurred on July 18, 1998; Event A occurred on January 31, 2004 (when Vanya was born)."
+  }
+]

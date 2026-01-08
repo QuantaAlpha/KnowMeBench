@@ -1,0 +1,2004 @@
+[
+  {
+    "id": 1,
+    "answer": "5 minutes (start time 10:00:00, end time 10:05:00)",
+    "evidence_ids": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": 2,
+    "answer": "15 minutes (start time 09:10:00, end time 09:25:00)",
+    "evidence_ids": [
+      7,
+      10
+    ]
+  },
+  {
+    "id": 3,
+    "answer": "1 hour and 30 minutes (start time 09:00:00, end time 10:30:00)",
+    "evidence_ids": [
+      22,
+      24
+    ]
+  },
+  {
+    "id": 4,
+    "answer": "40 minutes (start time 16:00:00, end time 16:40:00)",
+    "evidence_ids": [
+      32,
+      41
+    ]
+  },
+  {
+    "id": 5,
+    "answer": "12 minutes (start time 18:00:00, end time 18:12:00)",
+    "evidence_ids": [
+      43,
+      50
+    ]
+  },
+  {
+    "id": 6,
+    "answer": "45 seconds (start time 18:43:55, end time 18:44:40)",
+    "evidence_ids": [
+      213,
+      222
+    ]
+  },
+  {
+    "id": 7,
+    "answer": "3 hours (start time 09:00:00, end time 12:00:00)",
+    "evidence_ids": [
+      413,
+      427
+    ]
+  },
+  {
+    "id": 8,
+    "answer": "15 minutes (start time 23:45:00, end time 00:00:00)",
+    "evidence_ids": [
+      591,
+      610
+    ]
+  },
+  {
+    "id": 9,
+    "answer": "6 minutes (start time 14:40:00, end time 14:46:00)",
+    "evidence_ids": [
+      731,
+      747
+    ]
+  },
+  {
+    "id": 10,
+    "answer": "2 hours and 30 minutes (start time 20:00:00, end time 22:30:00)",
+    "evidence_ids": [
+      816,
+      832
+    ]
+  },
+  {
+    "id": 11,
+    "answer": "16 minutes (start time 18:00:00, end time 18:16:00)",
+    "evidence_ids": [
+      1203,
+      1215
+    ]
+  },
+  {
+    "id": 12,
+    "answer": "15 minutes (start time 16:00:00, end time 16:15:00)",
+    "evidence_ids": [
+      1230,
+      1236
+    ]
+  },
+  {
+    "id": 13,
+    "answer": "17 minutes (start time 15:19:00, end time 15:36:00)",
+    "evidence_ids": [
+      1256,
+      1268
+    ]
+  },
+  {
+    "id": 14,
+    "answer": "1 hour and 26 minutes (start time 11:00:00, end time 12:26:00)",
+    "evidence_ids": [
+      1272,
+      1282
+    ]
+  },
+  {
+    "id": 15,
+    "answer": "2 hours and 1 minute (start time 09:00:00, end time 11:01:00)",
+    "evidence_ids": [
+      1283,
+      1285
+    ]
+  },
+  {
+    "id": 16,
+    "answer": "1 hour (start time 18:00:00, end time 19:00:00)",
+    "evidence_ids": [
+      1297,
+      1299
+    ]
+  },
+  {
+    "id": 17,
+    "answer": "39 minutes (start time 20:35:00, end time 21:14:00)",
+    "evidence_ids": [
+      1313,
+      1334
+    ]
+  },
+  {
+    "id": 18,
+    "answer": "18 minutes (start time 19:15:00, end time 19:33:00)",
+    "evidence_ids": [
+      1670,
+      1680
+    ]
+  },
+  {
+    "id": 19,
+    "answer": "35 minutes (start time 10:00:00, end time 10:35:00)",
+    "evidence_ids": [
+      1756,
+      1773
+    ]
+  },
+  {
+    "id": 20,
+    "answer": "1 hour and 34 minutes (start time 09:10:00, end time 10:44:00)",
+    "evidence_ids": [
+      1837,
+      1893
+    ]
+  },
+  {
+    "id": 21,
+    "answer": "1 hour and 40 minutes (start time 15:20:00, end time 17:00:00)",
+    "evidence_ids": [
+      2401,
+      2414
+    ]
+  },
+  {
+    "id": 22,
+    "answer": "1 hour (start time 15:00:00, end time 16:00:00)",
+    "evidence_ids": [
+      2422,
+      2454
+    ]
+  },
+  {
+    "id": 23,
+    "answer": "19 minutes and 50 seconds (start time 00:01:00, end time 00:20:50)",
+    "evidence_ids": [
+      2594,
+      2686
+    ]
+  },
+  {
+    "id": 24,
+    "answer": "52 minutes (start time 08:38:00, end time 09:30:00)",
+    "evidence_ids": [
+      2729,
+      2761
+    ]
+  },
+  {
+    "id": 25,
+    "answer": "10 hours (start time 09:00:00, end time 19:00:00)",
+    "evidence_ids": [
+      2914,
+      2942
+    ]
+  },
+  {
+    "id": 26,
+    "answer": "2 hours, 30 minutes and 10 seconds (start time 16:30:00, end time 19:00:10)",
+    "evidence_ids": [
+      3000,
+      3067
+    ]
+  },
+  {
+    "id": 27,
+    "answer": "2 hours and 10 minutes (start time 14:00:00, end time 16:10:00)",
+    "evidence_ids": [
+      3158,
+      3202
+    ]
+  },
+  {
+    "id": 28,
+    "answer": "12 hours and 15 minutes (start time 09:00:00, end time 21:15:00)",
+    "evidence_ids": [
+      3326,
+      3398
+    ]
+  },
+  {
+    "id": 29,
+    "answer": "7 hours and 5 minutes (start time 10:00:00, end time 17:05:00)",
+    "evidence_ids": [
+      3424,
+      3473
+    ]
+  },
+  {
+    "id": 30,
+    "answer": "6 hours and 15 minutes (start time 09:00:00, end time 15:15:00)",
+    "evidence_ids": [
+      3541,
+      3600
+    ]
+  },
+  {
+    "id": 31,
+    "answer": "1 hour and 10 minutes (start time 15:20:00, end time 16:30:00)",
+    "evidence_ids": [
+      3601,
+      3606
+    ]
+  },
+  {
+    "id": 32,
+    "answer": "25 minutes (start time 18:00:00, end time 18:25:00)",
+    "evidence_ids": [
+      3620,
+      3624
+    ]
+  },
+  {
+    "id": 33,
+    "answer": "2 hours (start time 21:00:00, end time 23:00:00)",
+    "evidence_ids": [
+      3638,
+      3641
+    ]
+  },
+  {
+    "id": 34,
+    "answer": "1 hour and 45 minutes (start time 07:30:00, end time 09:15:00)",
+    "evidence_ids": [
+      3688,
+      3697
+    ]
+  },
+  {
+    "id": 35,
+    "answer": "55 minutes (start time 10:00:00, end time 10:55:00)",
+    "evidence_ids": [
+      3732,
+      3753
+    ]
+  },
+  {
+    "id": 36,
+    "answer": "6 hours (start time 09:00:00, end time 15:00:00)",
+    "evidence_ids": [
+      3820,
+      3822
+    ]
+  },
+  {
+    "id": 37,
+    "answer": "1 hour and 5 minutes (start time 20:30:00, end time 21:35:20)",
+    "evidence_ids": [
+      3847,
+      3864
+    ]
+  },
+  {
+    "id": 38,
+    "answer": "1 hour and 41 minutes (start time 10:00:00, end time 11:41:00)",
+    "evidence_ids": [
+      3921,
+      3943
+    ]
+  },
+  {
+    "id": 39,
+    "answer": "1 hour and 10 minutes (start time 15:20:00, end time 16:30:00)",
+    "evidence_ids": [
+      3975,
+      3980
+    ]
+  },
+  {
+    "id": 40,
+    "answer": "9 hours (start time 21:00:00, end time 06:00:00)",
+    "evidence_ids": [
+      4416,
+      4455
+    ]
+  },
+  {
+    "id": 41,
+    "answer": "2 minutes (start time 11:00:20, end time 11:02:20)",
+    "evidence_ids": [
+      4801,
+      4813
+    ]
+  },
+  {
+    "id": 42,
+    "answer": "15 minutes (start time 09:00:00, end time 09:15:00)",
+    "evidence_ids": [
+      4824,
+      4827
+    ]
+  },
+  {
+    "id": 43,
+    "answer": "10 minutes (start time 13:00:00, end time 13:10:00)",
+    "evidence_ids": [
+      4828,
+      4830
+    ]
+  },
+  {
+    "id": 44,
+    "answer": "35 minutes (start time 13:30:00, end time 14:05:00)",
+    "evidence_ids": [
+      4833,
+      4853
+    ]
+  },
+  {
+    "id": 45,
+    "answer": "35 minutes (start time 15:30:00, end time 16:05:00)",
+    "evidence_ids": [
+      4858,
+      4864
+    ]
+  },
+  {
+    "id": 46,
+    "answer": "3 hours (start time 20:00:00, end time 23:00:00)",
+    "evidence_ids": [
+      4865,
+      4871
+    ]
+  },
+  {
+    "id": 47,
+    "answer": "15 minutes (start time 10:00:00, end time 10:15:00)",
+    "evidence_ids": [
+      4944,
+      4968
+    ]
+  },
+  {
+    "id": 48,
+    "answer": "1 hour and 20 minutes (start time 16:10:00, end time 17:30:00)",
+    "evidence_ids": [
+      5124,
+      5128
+    ]
+  },
+  {
+    "id": 49,
+    "answer": "10 minutes (start time 18:20:00, end time 18:30:00)",
+    "evidence_ids": [
+      5145,
+      5157
+    ]
+  },
+  {
+    "id": 50,
+    "answer": "5 minutes and 20 seconds (start time 12:00:00, end time 12:05:20)",
+    "evidence_ids": [
+      5698,
+      5730
+    ]
+  },
+  {
+    "id": 51,
+    "answer": "11 minutes and 30 seconds (start time 08:23:30, end time 08:35:00)",
+    "evidence_ids": [
+      6005,
+      6015
+    ]
+  },
+  {
+    "id": 52,
+    "answer": "1 hour (start time 09:00:00, end time 10:00:00)",
+    "evidence_ids": [
+      6025,
+      6034
+    ]
+  },
+  {
+    "id": 53,
+    "answer": "50 minutes (start time 10:30:00, end time 11:20:00)",
+    "evidence_ids": [
+      6036,
+      6063
+    ]
+  },
+  {
+    "id": 54,
+    "answer": "25 minutes and 20 seconds (start time 11:40:00, end time 12:05:20)",
+    "evidence_ids": [
+      6069,
+      6092
+    ]
+  },
+  {
+    "id": 55,
+    "answer": "24 minutes and 40 seconds (start time 12:05:20, end time 12:30:00)",
+    "evidence_ids": [
+      6092,
+      6120
+    ]
+  },
+  {
+    "id": 56,
+    "answer": "30 minutes (start time 12:30:00, end time 13:00:00)",
+    "evidence_ids": [
+      6120,
+      6150
+    ]
+  },
+  {
+    "id": 57,
+    "answer": "1 hour and 10 minutes (start time 13:20:00, end time 14:30:00)",
+    "evidence_ids": [
+      6165,
+      6264
+    ]
+  },
+  {
+    "id": 58,
+    "answer": "1 minute and 40 seconds (start time 10:27:00, end time 10:28:40)",
+    "evidence_ids": [
+      6365,
+      6385
+    ]
+  },
+  {
+    "id": 59,
+    "answer": "2 hours and 15 minutes (start time 15:15:00, end time 17:30:00)",
+    "evidence_ids": [
+      6845,
+      6866
+    ]
+  },
+  {
+    "id": 60,
+    "answer": "2 hours and 20 minutes (start time 14:40:00, end time 17:00:00)",
+    "evidence_ids": [
+      6965,
+      6990
+    ]
+  },
+  {
+    "id": 61,
+    "answer": "15 minutes (start time 11:00:00, end time 11:15:00)",
+    "evidence_ids": [
+      7206,
+      7209
+    ]
+  },
+  {
+    "id": 62,
+    "answer": "30 minutes (start time 15:00:00, end time 15:30:00)",
+    "evidence_ids": [
+      7220,
+      7226
+    ]
+  },
+  {
+    "id": 63,
+    "answer": "2 hours and 5 minutes (start time 16:00:00, end time 18:05:00)",
+    "evidence_ids": [
+      7251,
+      7271
+    ]
+  },
+  {
+    "id": 64,
+    "answer": "1 hour and 40 minutes (start time 19:00:00, end time 20:40:00)",
+    "evidence_ids": [
+      7286,
+      7306
+    ]
+  },
+  {
+    "id": 65,
+    "answer": "35 minutes (start time 11:50:00, end time 12:25:00)",
+    "evidence_ids": [
+      7418,
+      7425
+    ]
+  },
+  {
+    "id": 66,
+    "answer": "2 hours (start time 12:30:00, end time 14:30:00)",
+    "evidence_ids": [
+      7426,
+      7450
+    ]
+  },
+  {
+    "id": 67,
+    "answer": "3 hours and 30 minutes (start time 10:15:00, end time 13:45:00)",
+    "evidence_ids": [
+      7500,
+      7515
+    ]
+  },
+  {
+    "id": 68,
+    "answer": "21 minutes (start time 06:40:00, end time 07:01:00)",
+    "evidence_ids": [
+      7919,
+      7959
+    ]
+  },
+  {
+    "id": 69,
+    "answer": "33 minutes (start time 13:07:00, end time 13:40:00)",
+    "evidence_ids": [
+      8097,
+      8165
+    ]
+  },
+  {
+    "id": 70,
+    "answer": "41 minutes (start time 11:00:00, end time 11:41:00)",
+    "evidence_ids": [
+      8334,
+      8361
+    ]
+  },
+  {
+    "id": 71,
+    "answer": "8 minutes and 30 seconds (start time 10:35:30, end time 10:44:00)",
+    "evidence_ids": [
+      8400,
+      8409
+    ]
+  },
+  {
+    "id": 72,
+    "answer": "10 minutes (start time 11:30:00, end time 11:40:00)",
+    "evidence_ids": [
+      8451,
+      8453
+    ]
+  },
+  {
+    "id": 73,
+    "answer": "2 hours (start time 18:05:00, end time 20:05:00)",
+    "evidence_ids": [
+      8569,
+      8593
+    ]
+  },
+  {
+    "id": 74,
+    "answer": "3 minutes and 30 seconds (start time 19:19:00, end time 19:22:30)",
+    "evidence_ids": [
+      8632,
+      8639
+    ]
+  },
+  {
+    "id": 75,
+    "answer": "16 minutes (start time 19:46:30, end time 20:02:30)",
+    "evidence_ids": [
+      8698,
+      8730
+    ]
+  },
+  {
+    "id": 76,
+    "answer": "2 hours (start time 20:00:00, end time 22:00:00)",
+    "evidence_ids": [
+      8853,
+      8859
+    ]
+  },
+  {
+    "id": 77,
+    "answer": "20 minutes (start time 09:00:00, end time 09:20:00)",
+    "evidence_ids": [
+      8924,
+      8943
+    ]
+  },
+  {
+    "id": 78,
+    "answer": "10 minutes (start time 17:00:00, end time 17:10:00)",
+    "evidence_ids": [
+      9103,
+      9108
+    ]
+  },
+  {
+    "id": 79,
+    "answer": "30 minutes (start time 15:00:00, end time 15:30:00)",
+    "evidence_ids": [
+      9357,
+      9358
+    ]
+  },
+  {
+    "id": 80,
+    "answer": "3 hours and 10 minutes (start time 16:30:00, end time 19:40:00)",
+    "evidence_ids": [
+      9364,
+      9408
+    ]
+  },
+  {
+    "id": 81,
+    "answer": "9 hours (start time 02:00:00, end time 11:00:00)",
+    "evidence_ids": [
+      9598,
+      9601
+    ]
+  },
+  {
+    "id": 82,
+    "answer": "1 hour (start time 16:00:00, end time 17:00:00)",
+    "evidence_ids": [
+      9618,
+      9626
+    ]
+  },
+  {
+    "id": 83,
+    "answer": "30 minutes (start time 20:00:00, end time 20:30:00)",
+    "evidence_ids": [
+      9653,
+      9662
+    ]
+  },
+  {
+    "id": 84,
+    "answer": "1 hour and 30 minutes (start time 10:00:00, end time 11:30:00)",
+    "evidence_ids": [
+      9786,
+      9790
+    ]
+  },
+  {
+    "id": 85,
+    "answer": "7 minutes (start time 12:05:00, end time 12:12:00)",
+    "evidence_ids": [
+      9813,
+      9816
+    ]
+  },
+  {
+    "id": 86,
+    "answer": "7 hours (start time 09:00:00, end time 16:00:00)",
+    "evidence_ids": [
+      9920,
+      9940
+    ]
+  },
+  {
+    "id": 87,
+    "answer": "27 minutes (start time 15:00:00, end time 15:27:00)",
+    "evidence_ids": [
+      9969,
+      9984
+    ]
+  },
+  {
+    "id": 88,
+    "answer": "9 hours (start time 19:00:00, end time 04:00:00)",
+    "evidence_ids": [
+      10308,
+      10346
+    ]
+  },
+  {
+    "id": 89,
+    "answer": "57 minutes (start time 20:10:00, end time 21:07:00)",
+    "evidence_ids": [
+      10635,
+      10681
+    ]
+  },
+  {
+    "id": 90,
+    "answer": "1 hour and 1 minute (start time 23:04:00, end time 00:05:00)",
+    "evidence_ids": [
+      10730,
+      10793
+    ]
+  },
+  {
+    "id": 91,
+    "answer": "8 minutes (start time 00:13:00, end time 00:21:00)",
+    "evidence_ids": [
+      10797,
+      10805
+    ]
+  },
+  {
+    "id": 92,
+    "answer": "45 minutes (start time 01:00:00, end time 01:45:00)",
+    "evidence_ids": [
+      10806,
+      10826
+    ]
+  },
+  {
+    "id": 93,
+    "answer": "1 hour and 30 minutes (start time 09:30:00, end time 11:00:00)",
+    "evidence_ids": [
+      10834,
+      10889
+    ]
+  },
+  {
+    "id": 94,
+    "answer": "34 minutes (start time 18:00:00, end time 18:34:00)",
+    "evidence_ids": [
+      10909,
+      10915
+    ]
+  },
+  {
+    "id": 95,
+    "answer": "15 minutes (start time 10:15:00, end time 10:30:00)",
+    "evidence_ids": [
+      10936,
+      10938
+    ]
+  },
+  {
+    "id": 96,
+    "answer": "8 minutes (start time 10:15:00, end time 10:23:00)",
+    "evidence_ids": [
+      10942,
+      10974
+    ]
+  },
+  {
+    "id": 97,
+    "answer": "3 hours (start time 13:00:00, end time 16:00:00)",
+    "evidence_ids": [
+      11025,
+      11094
+    ]
+  },
+  {
+    "id": 98,
+    "answer": "2 hours and 15 minutes (start time 19:15:00, end time 21:30:00)",
+    "evidence_ids": [
+      11108,
+      11170
+    ]
+  },
+  {
+    "id": 99,
+    "answer": "31 minutes (start time 10:25:00, end time 10:56:00)",
+    "evidence_ids": [
+      11818,
+      11844
+    ]
+  },
+  {
+    "id": 100,
+    "answer": "2 minutes and 20 seconds (start time 09:00:00, end time 09:02:20)",
+    "evidence_ids": [
+      11963,
+      11980
+    ]
+  },
+  {
+    "id": 101,
+    "answer": "B -> C -> A (Event B is memory content from years prior, mentioned in ID 3653; Event C occurs on July 27th at 16:00 in ID 3603; Event A occurs on July 28th at 08:30 in ID 3694).",
+    "evidence_ids": [
+      3603,
+      3653,
+      3694
+    ]
+  },
+  {
+    "id": 102,
+    "answer": "A -> B -> C (Event A occurs on September 14th in ID 4574; Event B occurs on October 10th in ID 4696; Event C occurs on October 15th in ID 4726).",
+    "evidence_ids": [
+      4574,
+      4696,
+      4726
+    ]
+  },
+  {
+    "id": 103,
+    "answer": "C -> B -> A (Event C occurs on August 8th at 17:35 in ID 4272; Event B occurs on August 11th at 06:00 in ID 4455; Event A occurs on August 30th in ID 4470).",
+    "evidence_ids": [
+      4272,
+      4455,
+      4470
+    ]
+  },
+  {
+    "id": 104,
+    "answer": "A -> C -> B (Event A is a childhood memory described in ID 4654; Event C occurs on August 9th at 18:30 in ID 4351; Event B occurs on September 14th in ID 4572).",
+    "evidence_ids": [
+      4351,
+      4572,
+      4654
+    ]
+  },
+  {
+    "id": 105,
+    "answer": "A -> B -> C (Event A occurs in the early hours of July 28th at 02:00 in ID 3644; Event B occurs later that same morning at 09:15 in ID 3698; Event C occurs on the night of July 29th at 21:35 in ID 3762).",
+    "evidence_ids": [
+      3644,
+      3698,
+      3762
+    ]
+  },
+  {
+    "id": 106,
+    "answer": "B -> C -> A (Event B occurs at midnight, the start of August 10th in ID 4380; Event C occurs late on August 10th at 21:03 in ID 4443; Event A occurs in the early hours of August 11th at 05:30 in ID 4451).",
+    "evidence_ids": [
+      4380,
+      4443,
+      4451
+    ]
+  },
+  {
+    "id": 107,
+    "answer": "C -> B -> A (Event C occurs on July 28th at 20:30 in ID 3728; Event B occurs on August 8th at 15:55 in ID 4253; Event A occurs on October 18th in ID 4756).",
+    "evidence_ids": [
+      3728,
+      4253,
+      4756
+    ]
+  },
+  {
+    "id": 108,
+    "answer": "A -> B -> C (Event A is a memory mentioned in ID 4200; Event B occurs on August 8th at 09:00 in ID 4181; Event C occurs on August 9th at 12:30 in ID 4320).",
+    "evidence_ids": [
+      4181,
+      4200,
+      4320
+    ]
+  },
+  {
+    "id": 109,
+    "answer": "C -> A -> B (Event C occurs on September 1st in ID 4471; Event A occurs on September 5th in ID 4528; Event B occurs on October 5th in ID 4692).",
+    "evidence_ids": [
+      4471,
+      4528,
+      4692
+    ]
+  },
+  {
+    "id": 110,
+    "answer": "C -> B -> A (Event C occurs on July 28th at 08:00 in ID 3691; Event B occurs in late September or early October in ID 4780; Event A occurs on October 26th in ID 4800).",
+    "evidence_ids": [
+      3691,
+      4780,
+      4800
+    ]
+  },
+  {
+    "id": 111,
+    "answer": "B -> C -> D -> A. Event B refers to a background rumor from 1948 (ID 1). Event C occurs in 1953/1954 when they lose their dolls (ID 39). Event D happens in 1960 when the Solara brothers display the photo (ID 1353). Event A occurs during the summer vacation in Ischia in July 1963 (ID 2999).",
+    "evidence_ids": [
+      1,
+      39,
+      1353,
+      2999
+    ]
+  },
+  {
+    "id": 112,
+    "answer": "C -> A -> B -> D. Event C occurs in October 1950 (ID 3). Event A happens in July 1954 (ID 525). Event B occurs in December 1960 (ID 1380). Event D takes place in July 1963 (ID 2946/2998).",
+    "evidence_ids": [
+      3,
+      525,
+      1380,
+      2998
+    ]
+  },
+  {
+    "id": 113,
+    "answer": "C -> A -> D -> B. Event C occurs in 1950 (ID 2). Event A happens in June 1954 (ID 450). Event D takes place in September 1960 (ID 1341). Event B occurs in July 1963 (ID 2989).",
+    "evidence_ids": [
+      2,
+      450,
+      1341,
+      2989
+    ]
+  },
+  {
+    "id": 114,
+    "answer": "B -> D -> A -> C. Event B happens in February 1951 (ID 141). Event D occurs in August 1962 (ID 2057). Event A takes place in June 1962 (technically before D in narrative flow, but ID 2057 is timestamped Aug 1962 while party is June 1962... Wait, let's check timestamps. Party is ID 1727 (1962-06-05). Solara/Bracelet is ID 2057 (1962-08-12). So A -> D is correct chronology based on timestamps provided. Let me re-verify. ID 1727 is 1962-06-05. ID 2057 is 1962-08-12. Correct order is B -> A -> D -> C. Event C is in July 1963 (ID 2987).",
+    "evidence_ids": [
+      141,
+      1727,
+      2057,
+      2987
+    ]
+  },
+  {
+    "id": 115,
+    "answer": "B -> A -> D -> C. Event B occurs in October 1950 (ID 4). Event A happens on New Year's Eve 1958 (ID 591). Event D occurs around April 1961 (ID 1413). Event C happens in July 1963 (ID 2959).",
+    "evidence_ids": [
+      4,
+      591,
+      1413,
+      2959
+    ]
+  },
+  {
+    "id": 116,
+    "answer": "B -> D -> A -> C. Event B occurs in May 1953/1954 (ID 336). Event D happens in January 1960 (ID 766). Event A occurs in August 1962 (ID 1849). Event C takes place in July 1963 (ID 2986).",
+    "evidence_ids": [
+      336,
+      766,
+      1849,
+      2986
+    ]
+  },
+  {
+    "id": 117,
+    "answer": "C -> A -> B -> D. Event C occurs in November 1952 (ID 19). Event A happens in March 1954 (ID 52). Event B takes place in June 1961 (ID 1521). Event D occurs in June 1962 (ID 1749).",
+    "evidence_ids": [
+      19,
+      52,
+      1521,
+      1749
+    ]
+  },
+  {
+    "id": 118,
+    "answer": "C -> D -> A -> B. Event C happens in April 1953 (ID 36). Event D occurs in October 1960 (ID 1357). Event A is described in March 1960/1961 (ID 931). *Correction: ID 1357 is Oct 1960. ID 931 is March 1960. Correct order: C -> A -> D -> B.* Event B happens in July 1963 (ID 2990).",
+    "evidence_ids": [
+      36,
+      931,
+      1357,
+      2990
+    ]
+  },
+  {
+    "id": 119,
+    "answer": "B -> C -> D -> A. Event B occurs in February 1951 (ID 6). Event C happens in August 1960 (ID 1188). Event D takes place in June 1962 (ID 1704). Event A occurs in July 1963 (ID 2937).",
+    "evidence_ids": [
+      6,
+      1188,
+      1704,
+      2937
+    ]
+  },
+  {
+    "id": 120,
+    "answer": "B -> C -> A -> D. Event B occurs in April 1953 (ID 34). Event C happens in December 1960 (ID 1383). Event A takes place in June 1962 (ID 1777). Event D occurs in July 1963 (ID 2927).",
+    "evidence_ids": [
+      34,
+      1383,
+      1777,
+      2927
+    ]
+  },
+  {
+    "id": 121,
+    "answer": "B -> D -> A -> C. Event B occurs in April 1953 (ID 39). Event D occurs in August 1960 (ID 1188). Event A takes place in June 1962 (ID 1777). Event C occurs in July 1963 (ID 2937).",
+    "evidence_ids": [
+      39,
+      1188,
+      1777,
+      2937
+    ]
+  },
+  {
+    "id": 122,
+    "answer": "D -> A -> C -> B. Event D occurs in August 1954 (ID 542). Event A happens in July 1960 (ID 1051). Event C occurs in June 1962 (ID 1770). Event B takes place in August 1962 (ID 1843).",
+    "evidence_ids": [
+      542,
+      1051,
+      1770,
+      1843
+    ]
+  },
+  {
+    "id": 123,
+    "answer": "B -> C -> D -> A. Event B happens in January 1960 (ID 693). Event C occurs in August 1962 (ID 2107). Event D takes place in September 1962 (ID 2222). Event A occurs on New Year's Eve, January 1, 1963 (ID 2617).",
+    "evidence_ids": [
+      693,
+      2107,
+      2222,
+      2617
+    ]
+  },
+  {
+    "id": 124,
+    "answer": "B -> A -> C -> D. Event B happens in September 1960 (ID 1317). Event A occurs in May 1962 (ID 1652). Event C takes place in November 1962 (ID 2318). Event D happens shortly after in November 1962 (ID 2323).",
+    "evidence_ids": [
+      1317,
+      1652,
+      2318,
+      2323
+    ]
+  },
+  {
+    "id": 125,
+    "answer": "B -> D -> C -> A. Event B occurs in February 1961 (ID 1393). Event D takes place in May 1962 (ID 1616). Event C happens in August 1962 (ID 2156). Event A occurs in July 1963 (ID 2937).",
+    "evidence_ids": [
+      1393,
+      1616,
+      2156,
+      2937
+    ]
+  },
+  {
+    "id": 126,
+    "answer": "C -> A -> D -> B. Event C occurs in November 1952 (ID 19). Event A happens in August 1960 (ID 1144). Event D takes place in August 1962 (ID 1891). Event B occurs in August 1962 (ID 2057).",
+    "evidence_ids": [
+      19,
+      1144,
+      1891,
+      2057
+    ]
+  },
+  {
+    "id": 127,
+    "answer": "C -> B -> A -> D. Event C occurs in May 1960 (ID 951). Event B takes place in July 1960 (ID 1064). Event A happens in June 1962 (ID 1749). Event D occurs in September 1962 (ID 2241).",
+    "evidence_ids": [
+      951,
+      1064,
+      1749,
+      2241
+    ]
+  },
+  {
+    "id": 128,
+    "answer": "B -> A -> C -> D. Event B occurs in October 1960 (ID 1357). Event A takes place in September 1961 (ID 1600). Event C happens in August 1962 (ID 1843). Event D occurs in July 1963 (ID 2990).",
+    "evidence_ids": [
+      1357,
+      1600,
+      1843,
+      2990
+    ]
+  },
+  {
+    "id": 129,
+    "answer": "B -> D -> A -> C. Event B occurs in May 1953 (ID 47). Event D takes place in September 1960 (ID 1297). Event A happens in August 1962 (ID 2107). Event C occurs in September 1962 (ID 2189).",
+    "evidence_ids": [
+      47,
+      1297,
+      2107,
+      2189
+    ]
+  },
+  {
+    "id": 130,
+    "answer": "A -> D -> B -> C. Event A occurs in June 1954 (ID 450). Event D happens in September 1959 (ID 681). Event B takes place in June 1962 (ID 1692). Event C occurs in August 1962 (ID 1962).",
+    "evidence_ids": [
+      450,
+      681,
+      1692,
+      1962
+    ]
+  },
+  {
+    "id": 131,
+    "answer": "D -> B -> A -> C. Event D occurs in June 1960 (ID 1009). Event B takes place in June 1962 (ID 1770). Event A happens in August 1962 (ID 2038). Event C occurs on New Year's Day 1963 (ID 2573).",
+    "evidence_ids": [
+      1009,
+      1770,
+      2038,
+      2573
+    ]
+  },
+  {
+    "id": 132,
+    "answer": "A -> B -> D -> C. Event A occurs in January 1960 (ID 795). Event B happens in March 1960 (ID 931). Event D takes place in August 1962 (ID 2171). Event C occurs in July 1963 (ID 2914).",
+    "evidence_ids": [
+      795,
+      931,
+      2171,
+      2914
+    ]
+  },
+  {
+    "id": 133,
+    "answer": "A -> C -> D -> B. Event A occurs in June 1960 (ID 1017). Event C happens in May 1962 (ID 1652). Event D takes place in December 1962 (ID 2341). Event B occurs in January 1963 (ID 2726).",
+    "evidence_ids": [
+      1017,
+      1652,
+      2341,
+      2726
+    ]
+  },
+  {
+    "id": 134,
+    "answer": "A -> D -> C -> B. Event A occurs in May 1959 (ID 630). Event D happens in August 1962 (ID 2057). Event C takes place in September 1962 (ID 2222). Event B occurs in December 1962 (ID 2426).",
+    "evidence_ids": [
+      630,
+      2057,
+      2222,
+      2426
+    ]
+  },
+  {
+    "id": 135,
+    "answer": "C -> A -> D -> B. Event C occurs in June 1960 (ID 1020). Event A takes place in August 1960 (ID 1073). Event D happens in August 1960 (ID 1185). Event B occurs in August 1962 (ID 2156).",
+    "evidence_ids": [
+      1020,
+      1073,
+      1185,
+      2156
+    ]
+  },
+  {
+    "id": 136,
+    "answer": "C -> A -> B -> D. Event C occurs in January 1960 (ID 750). Event A happens in July 1962 (ID 1794). Event B takes place in August 1962 (ID 2061). Event D occurs in November 1962 (ID 2318).",
+    "evidence_ids": [
+      750,
+      1794,
+      2061,
+      2318
+    ]
+  },
+  {
+    "id": 137,
+    "answer": "A -> D -> C -> B. Event A occurs in September 1960 (ID 1297). Event D takes place in August 1962 (ID 1843). Event C happens in January 1963 (ID 2636). Event B occurs in July 1963 (ID 2914).",
+    "evidence_ids": [
+      1297,
+      1843,
+      2636,
+      2914
+    ]
+  },
+  {
+    "id": 138,
+    "answer": "B -> C -> A -> D. Event B occurs in June 1960 (ID 1008). Event C happens in September 1960 (ID 1318). Event A takes place in May 1962 (ID 1616). Event D occurs in June 1962 (ID 1777).",
+    "evidence_ids": [
+      1008,
+      1318,
+      1616,
+      1777
+    ]
+  },
+  {
+    "id": 139,
+    "answer": "B -> D -> A -> C. Event B occurs in January 1960 (ID 886). Event D takes place in July 1962 (ID 1785). Event A happens in August 1962 (ID 2107). Event C occurs in July 1963 (ID 2919).",
+    "evidence_ids": [
+      886,
+      1785,
+      2107,
+      2919
+    ]
+  },
+  {
+    "id": 140,
+    "answer": "D -> B -> A -> C. Event D occurs in August 1960 (ID 1144). Event B takes place in October 1960 (ID 1357). Event A happens in June 1962 (ID 1702). Event C occurs in December 1962 (ID 2445).",
+    "evidence_ids": [
+      1144,
+      1357,
+      1702,
+      2445
+    ]
+  },
+  {
+    "id": 141,
+    "answer": "B -> C -> A (Event B occurs in August 1963 during the Ischia vacation; Event C happens in November 1963 after school starts; Event A takes place in late August/September 1964 when Elena leaves for college.)",
+    "evidence_ids": [
+      4350,
+      4946,
+      5667
+    ]
+  },
+  {
+    "id": 142,
+    "answer": "C -> B -> A (Event C occurs in November 1963 before she leaves him; Event B happens in August 1964 when Elena visits the store; Event A takes place in March 1965 on the day of her wedding.)",
+    "evidence_ids": [
+      4846,
+      5639,
+      5985
+    ]
+  },
+  {
+    "id": 143,
+    "answer": "B -> A -> C (Event B is in July 1963; Event A occurs in June 1964; Event C happens in August 1964.)",
+    "evidence_ids": [
+      3688,
+      5517,
+      5594
+    ]
+  },
+  {
+    "id": 144,
+    "answer": "B -> A -> C (Event B is in August 1963; Event A is in November 1963; Event C occurs in July 1964.)",
+    "evidence_ids": [
+      4224,
+      5063,
+      5557
+    ]
+  },
+  {
+    "id": 145,
+    "answer": "C -> B -> A (Event C happens in January 1965? No, wait. Let's re-check. Rino's rejection is Jan 1965 (ID 5901). Solara beating discussion is Jan 1964 (ID 5312). Antonio threatens Nino is Sept 1964 (ID 5724).)\n\nCorrect Order: B -> A -> C",
+    "evidence_ids": [
+      5312,
+      5724,
+      5903
+    ]
+  },
+  {
+    "id": 146,
+    "answer": "B -> A -> C (Event B occurs around December 1963/January 1964; Event A is in April 1964; Event C is in October 1964.)",
+    "evidence_ids": [
+      5199,
+      5503,
+      5821
+    ]
+  },
+  {
+    "id": 147,
+    "answer": "B -> A -> C (Event B is July 1963; Event A is November 1963; Event C is November 1963 but *before* he leaves for Flegrey? No, check timestamps. Corridor scene (ID 4956) is Nov 15, 1963. Nino leaving Flegrey (ID 5002) is Nov 23, 1963. So the order is correct.)",
+    "evidence_ids": [
+      3575,
+      5003,
+      4956
+    ]
+  },
+  {
+    "id": 148,
+    "answer": "B -> C -> A (Event B is in September 1963; Event C is in June/July 1964; Event A is in August 1964.)",
+    "evidence_ids": [
+      4471,
+      5549,
+      5626
+    ]
+  },
+  {
+    "id": 149,
+    "answer": "B -> C -> A (Event B is July 1963; Event C is December 1963; Event A is February 1965.)",
+    "evidence_ids": [
+      3864,
+      5100,
+      5917
+    ]
+  },
+  {
+    "id": 150,
+    "answer": "A -> C -> B (Wait, checking dates. Event A is Nov 1963. Event C is July/Aug 1963 or Aug 1964? ID 4314 is Aug 1963. ID 5757 is Oct 1964 for the new house visit. So C is first.)\n\nCorrection: C -> A -> B (Event C is Aug 1963; Event A is Nov 1963; Event B is Oct 1964.)",
+    "evidence_ids": [
+      4314,
+      4858,
+      5758
+    ]
+  },
+  {
+    "id": 151,
+    "answer": "B -> C -> A (Event B occurs in July 1963; Event C takes place in December 1963; Event A happens in April 1964.)",
+    "evidence_ids": [
+      3864,
+      5100,
+      5503
+    ]
+  },
+  {
+    "id": 152,
+    "answer": "B -> A -> C (Event B is in August 1963; Event A is in November 1963; Event C is in August 1964.)",
+    "evidence_ids": [
+      4390,
+      4858,
+      5639
+    ]
+  },
+  {
+    "id": 153,
+    "answer": "A -> B -> C (Event A is in September 1963; Event B is in November 1963; Event C is in July 1964.)",
+    "evidence_ids": [
+      4498,
+      5003,
+      5556
+    ]
+  },
+  {
+    "id": 154,
+    "answer": "B -> A -> C (Event B occurs in November 1963; Event A occurs in September 1964; Event C takes place in February 1965.)",
+    "evidence_ids": [
+      5020,
+      5667,
+      5917
+    ]
+  },
+  {
+    "id": 155,
+    "answer": "A -> C -> B (Event A is in July 1963; Event C starts around November 1963; Event B is mentioned in January 1964.)",
+    "evidence_ids": [
+      3688,
+      4917,
+      5320
+    ]
+  },
+  {
+    "id": 156,
+    "answer": "B -> C -> A (Event B is in November 1963; Event C is in August 1964; Event A is in March 1965.)",
+    "evidence_ids": [
+      5063,
+      5594,
+      5942
+    ]
+  },
+  {
+    "id": 157,
+    "answer": "B -> A -> C (Event B is in July 1963; Event A is discussed in January 1964; Event C is in March 1965.)",
+    "evidence_ids": [
+      3000,
+      5312,
+      5981
+    ]
+  },
+  {
+    "id": 158,
+    "answer": "B -> A -> C (Event B is in August 1963; Event A is in August 1964; Event C is in January 1965.)",
+    "evidence_ids": [
+      4220,
+      5651,
+      5901
+    ]
+  },
+  {
+    "id": 159,
+    "answer": "C -> A -> B (Event C is in August 1963; Event A is in November 1963; Event B is in October 1964.)",
+    "evidence_ids": [
+      4390,
+      4946,
+      5758
+    ]
+  },
+  {
+    "id": 160,
+    "answer": "B -> C -> A (Event B is in July 1963; Event C is in November 1963; Event A is in September 1964.)",
+    "evidence_ids": [
+      3123,
+      5082,
+      5724
+    ]
+  },
+  {
+    "id": 161,
+    "answer": "B -> C -> A (Event B is in August 1963; Event C is in April 1964; Event A is in August 1964.)",
+    "evidence_ids": [
+      4350,
+      5503,
+      5633
+    ]
+  },
+  {
+    "id": 162,
+    "answer": "C -> B -> A (Event C is in August 1963; Event B is in November 1963; Event A is in September 1964.)",
+    "evidence_ids": [
+      4255,
+      4846,
+      5668
+    ]
+  },
+  {
+    "id": 163,
+    "answer": "C -> A -> B (Event C is in August 1963; Event A is in January 1964; Event B is in April 1964.)",
+    "evidence_ids": [
+      4314,
+      5384,
+      5508
+    ]
+  },
+  {
+    "id": 164,
+    "answer": "B -> C -> A (Event B is in August 1963; Event C is in July 1964; Event A is in March 1965.)",
+    "evidence_ids": [
+      4224,
+      5557,
+      5985
+    ]
+  },
+  {
+    "id": 165,
+    "answer": "B -> A -> C (Event B is in July 1963; Event A is in February 1964; Event C is in June 1964.)",
+    "evidence_ids": [
+      3744,
+      5419,
+      5517
+    ]
+  },
+  {
+    "id": 166,
+    "answer": "B -> A -> C (Event B is in November 1963; Event A is in August 1964; Event C is in March 1965.)",
+    "evidence_ids": [
+      4858,
+      5594,
+      5981
+    ]
+  },
+  {
+    "id": 167,
+    "answer": "B -> A -> C (Event B is in August 1963; Event A is in December 1963; Event C is in August 1964.)",
+    "evidence_ids": [
+      4155,
+      5173,
+      5620
+    ]
+  },
+  {
+    "id": 168,
+    "answer": "B -> C -> A (Event B is in July 1963; Event C is in November 1963; Event A is in November 1964.)",
+    "evidence_ids": [
+      3688,
+      5078,
+      5850
+    ]
+  },
+  {
+    "id": 169,
+    "answer": "C -> B -> A (Event C is in July 1963; Event B is in November 1963; Event A is in July 1964.)",
+    "evidence_ids": [
+      3130,
+      4924,
+      5549
+    ]
+  },
+  {
+    "id": 170,
+    "answer": "B -> C -> A (Event B is in July 1963; Event C is in September 1964; Event A is in October 1964.)",
+    "evidence_ids": [
+      3559,
+      5667,
+      5807
+    ]
+  },
+  {
+    "id": 171,
+    "answer": "B -> C -> A",
+    "evidence_ids": [
+      6008,
+      6015,
+      6172,
+      6287,
+      6288
+    ]
+  },
+  {
+    "id": 172,
+    "answer": "B -> C -> A",
+    "evidence_ids": [
+      6301,
+      6382,
+      6477
+    ]
+  },
+  {
+    "id": 173,
+    "answer": "C -> B -> A",
+    "evidence_ids": [
+      6453,
+      6475,
+      6522
+    ]
+  },
+  {
+    "id": 174,
+    "answer": "B -> C -> A",
+    "evidence_ids": [
+      6551,
+      6585,
+      6981
+    ]
+  },
+  {
+    "id": 175,
+    "answer": "B -> A -> C",
+    "evidence_ids": [
+      7164,
+      7248,
+      7298
+    ]
+  },
+  {
+    "id": 176,
+    "answer": "B -> C -> A",
+    "evidence_ids": [
+      7367,
+      7394,
+      7421
+    ]
+  },
+  {
+    "id": 177,
+    "answer": "C -> A -> B",
+    "evidence_ids": [
+      7948,
+      8064,
+      8168
+    ]
+  },
+  {
+    "id": 178,
+    "answer": "C -> A -> B",
+    "evidence_ids": [
+      8334,
+      8388,
+      8453
+    ]
+  },
+  {
+    "id": 179,
+    "answer": "A -> C -> B",
+    "evidence_ids": [
+      8597,
+      8707,
+      8847
+    ]
+  },
+  {
+    "id": 180,
+    "answer": "A -> C -> B",
+    "evidence_ids": [
+      8887,
+      8927,
+      8959
+    ]
+  },
+  {
+    "id": 181,
+    "answer": "B -> A -> C (Event B occurs on April 18, 1969; Event A occurs on May 2, 1969; Event C occurs on May 5, 1969)",
+    "evidence_ids": [
+      9012,
+      9103,
+      9180
+    ]
+  },
+  {
+    "id": 182,
+    "answer": "B -> A -> C (Event B occurs around 22:05 on May 5, 1969; Event A occurs around 23:00 on May 5, 1969; Event C occurs around 23:36 on May 5, 1969)",
+    "evidence_ids": [
+      9194,
+      9220,
+      9261
+    ]
+  },
+  {
+    "id": 183,
+    "answer": "A -> C -> B (Event A occurs on May 13, 1969; Event C occurs on May 17, 1969; Event B occurs early morning on May 18, 1969)",
+    "evidence_ids": [
+      9391,
+      9439,
+      9468
+    ]
+  },
+  {
+    "id": 184,
+    "answer": "A -> C -> B (Event A occurs on the morning of July 30, 1973; Event C occurs on the evening of July 30, 1973; Event B occurs on September 15, 1973)",
+    "evidence_ids": [
+      9931,
+      9942,
+      9989
+    ]
+  },
+  {
+    "id": 185,
+    "answer": "A -> C -> B (Event A occurs in May 1974; Event C occurs in June 1974; Event B occurs on September 7, 1974)",
+    "evidence_ids": [
+      10198,
+      10308,
+      10427
+    ]
+  },
+  {
+    "id": 186,
+    "answer": "B -> C -> A (Event B occurs on March 9, 1976; Event C occurs on April 28, 1976; Event A occurs on May 17, 1976)",
+    "evidence_ids": [
+      11032,
+      11218,
+      11465
+    ]
+  },
+  {
+    "id": 187,
+    "answer": "C -> B -> A (Event C occurs on October 6, 1976; Event B occurs on October 7, 1976; Event A occurs on October 19, 1976)",
+    "evidence_ids": [
+      11728,
+      11747,
+      11851
+    ]
+  },
+  {
+    "id": 188,
+    "answer": "B -> C -> A (Event B occurs in December 2005; Event C occurs on November 1, 2010; Event A occurs on November 15, 2010)",
+    "evidence_ids": [
+      11877,
+      11963,
+      11983
+    ]
+  },
+  {
+    "id": 189,
+    "answer": "B -> C -> A (Event B occurs on April 15, 1974; Event C occurs on May 2, 1974; Event A occurs on May 3, 1974)",
+    "evidence_ids": [
+      10148,
+      10211,
+      10219
+    ]
+  },
+  {
+    "id": 190,
+    "answer": "B -> A -> C (Event B occurs on November 10, 1974; Event A occurs on November 11, 1974, early evening; Event C occurs on November 11, 1974, later evening)",
+    "evidence_ids": [
+      10546,
+      10602,
+      10652
+    ]
+  },
+  {
+    "id": 191,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      6172,
+      6200,
+      6277
+    ]
+  },
+  {
+    "id": 192,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      6382,
+      6523,
+      6799
+    ]
+  },
+  {
+    "id": 193,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      6598,
+      6979,
+      7594
+    ]
+  },
+  {
+    "id": 194,
+    "answer": "B -> A -> C",
+    "evidence_ids": [
+      6877,
+      6894,
+      6926
+    ]
+  },
+  {
+    "id": 195,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      7130,
+      7298,
+      8787
+    ]
+  },
+  {
+    "id": 196,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      7532,
+      7642,
+      7693
+    ]
+  },
+  {
+    "id": 197,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      7948,
+      7996,
+      8165
+    ]
+  },
+  {
+    "id": 198,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      8388,
+      8453,
+      8484
+    ]
+  },
+  {
+    "id": 199,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      8597,
+      8699,
+      8851
+    ]
+  },
+  {
+    "id": 200,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      8887,
+      8927,
+      8986
+    ]
+  },
+  {
+    "id": 201,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      8011,
+      8297,
+      8376
+    ]
+  },
+  {
+    "id": 202,
+    "answer": "A -> C -> B",
+    "evidence_ids": [
+      8362,
+      8380,
+      8371
+    ]
+  },
+  {
+    "id": 203,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      6990,
+      8503,
+      8513
+    ]
+  },
+  {
+    "id": 204,
+    "answer": "A -> C -> B",
+    "evidence_ids": [
+      6686,
+      6930,
+      7038
+    ]
+  },
+  {
+    "id": 205,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      6467,
+      8102,
+      8441
+    ]
+  },
+  {
+    "id": 206,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      7126,
+      7131,
+      7175
+    ]
+  },
+  {
+    "id": 207,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      7298,
+      7440,
+      8936
+    ]
+  },
+  {
+    "id": 208,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      6646,
+      6799,
+      8536
+    ]
+  },
+  {
+    "id": 209,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      7368,
+      7925,
+      8169
+    ]
+  },
+  {
+    "id": 210,
+    "answer": "A -> B -> C",
+    "evidence_ids": [
+      6523,
+      6534,
+      7764
+    ]
+  },
+  {
+    "id": 211,
+    "answer": "A -> C -> B (Event A occurs on November 11, 1974; Event C occurs on the morning of November 12, 1974; Event B occurs on March 9, 1976)",
+    "evidence_ids": [
+      10786,
+      10840,
+      11032
+    ]
+  },
+  {
+    "id": 212,
+    "answer": "A -> B -> C (Event A occurs on May 15, 1972; Event B occurs on July 30, 1973; Event C occurs on August 20, 1973)",
+    "evidence_ids": [
+      9791,
+      9942,
+      9951
+    ]
+  },
+  {
+    "id": 213,
+    "answer": "A -> B -> C (Event A occurs on April 15, 1974; Event B occurs on June 15, 1974; Event C occurs on June 22, 1974)",
+    "evidence_ids": [
+      10148,
+      10279,
+      10308
+    ]
+  },
+  {
+    "id": 214,
+    "answer": "A -> B -> C (Event A occurs on the morning of October 6, 1976; Event B occurs on the evening of October 6, 1976; Event C occurs on the morning of October 7, 1976)",
+    "evidence_ids": [
+      11689,
+      11728,
+      11747
+    ]
+  },
+  {
+    "id": 215,
+    "answer": "A -> B -> C (Event A occurs on December 15, 2005; Event B occurs on November 1, 2010; Event C occurs on November 16, 2010)",
+    "evidence_ids": [
+      11877,
+      11963,
+      11995
+    ]
+  },
+  {
+    "id": 216,
+    "answer": "A -> B -> C (Event A occurs in May 1976, specifically May 5-17; Event B occurs on August 15, 1976; Event C occurs on October 20, 1976)",
+    "evidence_ids": [
+      11294,
+      11609,
+      11851
+    ]
+  },
+  {
+    "id": 217,
+    "answer": "A -> B -> C (Event A occurs on May 2, 1974; Event B occurs on September 7, 1974; Event C occurs on October 25, 1974, referencing the events in Chile in late 1973/early 1974 context but text timestamp says Oct 1973 for Chilean coup context, however ID 10036 is timestamped 1973. Wait, let's re-verify ID 10036. ID 10036 is 1973-10-25. The other events are 1974. So C is earliest.)",
+    "evidence_ids": [
+      10036,
+      10211,
+      10427
+    ]
+  },
+  {
+    "id": 218,
+    "answer": "A -> B -> C (Event A occurs on April 28, 1976; Event B occurs on May 6, 1976; Event C occurs on May 16, 1976)",
+    "evidence_ids": [
+      11217,
+      11309,
+      11395
+    ]
+  },
+  {
+    "id": 219,
+    "answer": "B -> C -> A (Event B occurs on July 25, 1970; Event C occurs on May 20, 1972; Event A occurs on January 15, 1974)",
+    "evidence_ids": [
+      9628,
+      9802,
+      10072
+    ]
+  },
+  {
+    "id": 220,
+    "answer": "A -> C -> B (Event A occurs on May 13, 1969; Event C occurs on November 12, 1974; Event B occurs on November 11, 1974. Wait, B is Nov 11, C is Nov 12. So A -> B -> C)",
+    "evidence_ids": [
+      9391,
+      10650,
+      10911
+    ]
+  },
+  {
+    "id": 221,
+    "answer": "B -> A -> C (Event B occurs on November 10, 1974; Event A occurs on August 1, 1974. Wait, August 1974 is before November 1974. Let's re-check. ID 10402 is Aug 1974. ID 10538 is Nov 1974. ID 11032 is Mar 1976. So A -> B -> C)",
+    "evidence_ids": [
+      10402,
+      10538,
+      11032
+    ]
+  },
+  {
+    "id": 222,
+    "answer": "A -> C -> B (Event A occurs on April 18, 1969; Event C occurs on May 5, 1969; Event B occurs late night May 5, 1969. Wait, Tarantano dinner is 21:00, Juan is 23:00. So A -> C -> B)",
+    "evidence_ids": [
+      9012,
+      9189,
+      9220
+    ]
+  },
+  {
+    "id": 223,
+    "answer": "A -> C -> B (Event A occurs on February 12, 1970; Event C occurs on July 30, 1973; Event B implies the writing phase in 2010? No, ID 11958 mentions writing in 2010. But she also wrote about computers/Lina earlier? ID 9884 is Oct 1972, writing about Don Achille. ID 11958 is May 2010. Let's look for a specific computer book. Actually, she writes the story of 'our friendship' in 2010 (ID 11995). Let's stick to the births. A is 1970, C is 1973. If B refers to the final writing in 2010, then A->C->B)",
+    "evidence_ids": [
+      9538,
+      9942,
+      11995
+    ]
+  },
+  {
+    "id": 224,
+    "answer": "C -> B -> A (Event C occurs on August 20, 1973; Event B occurs on December 15, 2005; Event A occurs on November 15, 2010)",
+    "evidence_ids": [
+      9951,
+      11877,
+      11987
+    ]
+  },
+  {
+    "id": 225,
+    "answer": "A -> C -> B (Event A occurs on May 2, 1974; Event C occurs on May 20, 1976; Event B occurs on September 23, 1974. Wait, C is 1976 (ID 11579). B is 1974 (ID 10451). So A -> B -> C)",
+    "evidence_ids": [
+      10211,
+      10451,
+      11579
+    ]
+  },
+  {
+    "id": 226,
+    "answer": "A -> C -> B (Event A occurs on November 11, 1974; Event C occurs on December 20, 1974; Event B occurs on October 6, 1976)",
+    "evidence_ids": [
+      10602,
+      10937,
+      11700
+    ]
+  },
+  {
+    "id": 227,
+    "answer": "A -> C -> B (Event A occurs in June 1969 (ID 9472 reference); Event C occurs on June 15, 1972; Event B occurs on August 20, 1973. Wait, A refers to the first pregnancy (1969). C is second pregnancy (1972). B is firing Clelia (1973). So A -> C -> B)",
+    "evidence_ids": [
+      9472,
+      9807,
+      9960
+    ]
+  },
+  {
+    "id": 228,
+    "answer": "A -> B -> C (Event A occurs on November 12, 1974; Event B occurs on December 21, 1974; Event C occurs on March 9, 1976)",
+    "evidence_ids": [
+      10830,
+      10963,
+      11032
+    ]
+  },
+  {
+    "id": 229,
+    "answer": "C -> B -> A (Event C occurs on October 19, 1976; Event B occurs in 2005 (ID 11929) or Nov 1974 (ID 10842)? Wait, ID 11929 is a memory from 2005 reflecting on the past or a conversation in 2005? ID 11929 timestamp is 2005. Rino's call is 2010. Leaving husband is 1976. So C -> B -> A)",
+    "evidence_ids": [
+      11846,
+      11929,
+      11963
+    ]
+  },
+  {
+    "id": 230,
+    "answer": "A -> C -> B (Event A occurs on November 11, 1974; Event C occurs on October 8, 1976; Event B occurs on October 19, 1976)",
+    "evidence_ids": [
+      10652,
+      11760,
+      11847
+    ]
+  }
+]
