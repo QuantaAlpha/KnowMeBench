@@ -1,3 +1,6 @@
+<img width="1169" height="662" alt="image" src="https://github.com/user-attachments/assets/a46af087-fcc4-42b2-b498-6265d8b558e7" />
+
+
 # KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
