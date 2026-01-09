@@ -1,4 +1,4 @@
-<img width="1169" height="662" alt="image" src="https://github.com/user-attachments/assets/a46af087-fcc4-42b2-b498-6265d8b558e7" />
+<img width="1169" height="662" alt="image" src="difference5.png" />
 
 
 # KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions
