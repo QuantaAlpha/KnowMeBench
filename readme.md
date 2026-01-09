@@ -1,7 +1,7 @@
 # KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2601.04745))
+[![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2601.04745)
 
 **KnowMe-Bench** is a benchmark designed to evaluate **person understanding** in lifelong digital companions. Unlike existing benchmarks that rely on sparse dialogue logs, KnowMe-Bench is built from long-form autobiographical narratives (4.7M tokens), preserving the "micro-texture" of human experience—actions, inner thoughts, and environmental context.
 
