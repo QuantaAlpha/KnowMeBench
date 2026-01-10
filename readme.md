@@ -1,10 +1,18 @@
-<img width="1169" height="662" alt="image" src="images/difference5.png" />
+<div align="center">
 
+<img src="images/difference5.png" alt="KnowMe-Bench" width="800"/>
 
 # KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions
 
-[![arXiv](https://img.shields.io/badge/arXiv-2601.04745-B31B1B.svg?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.04745)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p style="margin: 20px 0;">
+  <a href="https://arxiv.org/abs/2601.04745"><img src="https://img.shields.io/badge/arXiv-2601.04745-B31B1B.svg?style=flat-square&logo=arxiv&logoColor=white" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-00A98F.svg?style=flat-square&logo=opensourceinitiative&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/QuantaAlpha/KnowMeBench?style=flat-square&logo=github&color=FFD700" /></a>
+</p>
+
+</div>
+
+---
 
 **KnowMe-Bench** is a benchmark designed to evaluate **person understanding** in lifelong digital companions. Unlike existing benchmarks that rely on sparse dialogue logs, KnowMe-Bench is built from long-form autobiographical narratives (4.7M tokens), preserving the "micro-texture" of human experience—actions, inner thoughts, and environmental context.
 
@@ -78,14 +86,6 @@ pip install -r requirements.txt
 ## 🏆 Baselines & Results
 
 We evaluated several systems including Naive RAG, Mem0, and MemOS. Our findings show that while retrieval systems improve factual accuracy, they struggle with temporal logic and deep insight.
-
-| Model | System | T1 (Detail) | T3 (Time) | T6 (Insight) |
-| --- | --- | --- | --- | --- |
-| **Qwen3-32B** | Base | 59.9 | 44.4 | 14.3 |
-|  | + MemOS | **70.6** | **52.7** | **18.2** |
-| **GPT-5-mini** | Base | 65.4 | 54.1 | 18.6 |
-|  | + MemOS | **76.1** | **63.1** | **22.5** |
-
 
 <div align="center">
 <img src="images/result_table1.png" alt="Experimental Results Table 1" width="800"/>
