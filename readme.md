@@ -49,7 +49,6 @@ KnowMe-Bench evaluates models across three cognitive levels:
 **T3: Temporal Reasoning**: Duration calculation and timeline reconstruction.
 
 
-
 ### Level II: Narrative Logic & Causality (The "Reasoning" Layer)
 
 
