@@ -1,10 +1,10 @@
-<img width="1169" height="662" alt="image" src="difference5.png" />
+<img width="1169" height="662" alt="image" src="images/difference5.png" />
 
 
 # KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions
 
+[![arXiv](https://img.shields.io/badge/arXiv-2601.04745-B31B1B.svg?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.04745)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2601.04745)
 
 **KnowMe-Bench** is a benchmark designed to evaluate **person understanding** in lifelong digital companions. Unlike existing benchmarks that rely on sparse dialogue logs, KnowMe-Bench is built from long-form autobiographical narratives (4.7M tokens), preserving the "micro-texture" of human experience—actions, inner thoughts, and environmental context.
 
@@ -69,7 +69,7 @@ KnowMe-Bench evaluates models across three cognitive levels:
 ### 1. Installation
 
 ```bash
-git clone [https://github.com/QuantaAlpha/KnowMeBench.git](https://github.com/QuantaAlpha/KnowMeBench.git)
+git clone https://github.com/QuantaAlpha/KnowMeBench.git
 cd KnowMeBench
 pip install -r requirements.txt
 
@@ -85,6 +85,17 @@ We evaluated several systems including Naive RAG, Mem0, and MemOS. Our findings 
 |  | + MemOS | **70.6** | **52.7** | **18.2** |
 | **GPT-5-mini** | Base | 65.4 | 54.1 | 18.6 |
 |  | + MemOS | **76.1** | **63.1** | **22.5** |
+
+
+<div align="center">
+<img src="images/result_table1.png" alt="Experimental Results Table 1" width="800"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="images/result_table2.png" alt="Experimental Results Table 2" width="800"/>
+</div>
 
 See the paper for full results.
 
