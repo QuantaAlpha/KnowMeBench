@@ -78,8 +78,68 @@ KnowMe-Bench evaluates models across three cognitive levels:
 ```bash
 git clone https://github.com/QuantaAlpha/KnowMeBench.git
 cd KnowMeBench
-pip install -r requirements.txt
 
+```
+Setup Environment Variables: As described in Section 4.4 of our paper, KnowMe-Bench utilizes an LLM-as-a-Judge protocol (defaulting to GPT-4o) to evaluate person understanding capabilities. You must export your OpenAI API key:
+
+```bash
+export OPENAI_API_KEY="sk-..."
+
+```
+
+### 2. Evaluation
+We provide an automated evaluation script evaluate/run_eval.py that implements the three-tier evaluation suite (Level I, II, III). The script automatically selects the appropriate judging criteria based on the task type.
+
+#### Step 1: Prepare Input Data
+Prepare a JSON file (e.g., model_outputs.json) containing your model's generated answers merged with the reference ground truth. The format must include the task_type to trigger the correct scoring rubric:
+```json
+[
+  {
+    "id": 101,
+    "task_type": "Adversarial Abstention",
+    "question": "Did Elena meet fabrics in 1990?",
+    "reference_answer": "The text does not mention this event.",
+    "model_answer": "The text does not mention / I don't know."
+  },
+  {
+    "id": 102,
+    "task_type": "Logical Event Ordering",
+    "question": "Order the events based on danger escalation...",
+    "reference_answer": "1. Noise -> 2. Shadow -> 3. Attack",
+    "model_answer": "1. Noise -> 2. Attack -> 3. Shadow"
+  }
+]
+```
+
+  > **Note:** The task_type must match the headers defined in evaluate/evaluate prompt.md (e.g., Logical Event Ordering, Mnestic Trigger Analysis, Expert-Annotated Psychoanalysis).
+
+#### Step 2: Run the Judge
+Run the evaluation script. This will use GPT-4o to score the responses on a 0-5 scale based on the specific rubric for each cognitive level (Precision, Logic, or Insight).
+```bash
+cd evaluate
+
+# Run evaluation
+python run_eval.py \
+  --input_file model_outputs.json \
+  --output_file results.json \
+  --judge_model gpt-4o
+```
+
+#### Step 3: Analyze Results
+The script generates a summary and a detailed JSON report (results.json) containing the score and reasoning for every query:
+```json
+{
+  "meta": {
+    "average_score": 4.8
+  },
+  "details": [
+    {
+      "id": 101,
+      "score": 5,
+      "reasoning": "Step 1: Check mechanism. The model correctly abstained from answering the hallucinated premise..."
+    }
+  ]
+}
 ```
 
 ## 🏆 Baselines & Results
