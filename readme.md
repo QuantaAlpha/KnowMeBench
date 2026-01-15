@@ -6,8 +6,9 @@
 
 <p style="margin: 20px 0;">
   <a href="https://arxiv.org/abs/2601.04745"><img src="https://img.shields.io/badge/arXiv-2601.04745-B31B1B.svg?style=flat-square&logo=arxiv&logoColor=white" /></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-00A98F.svg?style=flat-square&logo=opensourceinitiative&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/github/stars/QuantaAlpha/KnowMeBench?style=flat-square&logo=github&color=FFD700" /></a>
+<a href="https://huggingface.co/datasets/realty2333/knowMe-Bench"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-FFD21E.svg?style=flat-square" /></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-00A98F.svg?style=flat-square&logo=opensourceinitiative&logoColor=white" /></a>
+<a href="https://github.com/QuantaAlpha/KnowMeBench"><img src="https://img.shields.io/github/stars/QuantaAlpha/KnowMeBench?style=flat-square&logo=github&color=FFD700" /></a>
 </p>
 
 </div>
