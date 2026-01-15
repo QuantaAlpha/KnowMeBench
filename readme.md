@@ -180,6 +180,8 @@ If you use KnowMe-Bench in your research, please cite our paper:
 
 For questions, please contact:
 
+* Tingyu Wu: `wutingyu25s@ict.ac.cn`
+* Zhisheng Chen: `chenzhisheng25@mails.ucas.ac.cn`
 * Qizhen Lan: `Qizhen.Lan@uth.tmc.edu`
 * Ronghao Chen: `chenronghao@alumni.pku.edu.cn`
 * Huacan Wang: `wanghuacan17@mails.ucas.ac.cn`
